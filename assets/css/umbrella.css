@@ -313,11 +313,43 @@ body.bl-umbrella .info-col ol li { margin:8px 0; }
 
 /* Tiles */
 .bl-tiles { padding:30px 0; }
-.tile-grid-3 { display:grid; grid-template-columns:repeat(auto-fit,minmax(220px,1fr)); gap:14px; }
-.contact-tile { display:block; padding:22px; background:#2a2a2a; border:1px solid #3a3a3a; border-radius:10px; text-decoration:none !important; color:#eee !important; text-align:center; }
-.contact-tile:hover { border-color:#00b4d8; }
-.contact-tile .icon { font-size:30px; display:block; margin-bottom:8px; }
-.contact-tile h3 { margin:4px 0; color:#fff; }
+.tile-grid-3 { display:grid; grid-template-columns:repeat(auto-fit,minmax(240px,1fr)); gap:16px; }
+
+/* Override PowerGo legacy .contact-tile (white) to match the #mainnav band */
+body.bl-umbrella a.contact-tile {
+  background:#e6e5e5 !important;
+  border:1px solid #d1d0d0 !important;
+  padding:42px 26px 34px !important;
+  border-radius:10px;
+  box-shadow:none !important;
+  transition:transform .2s ease, border-color .2s ease, background .2s ease !important;
+}
+body.bl-umbrella a.contact-tile:hover {
+  background:#ededec !important;
+  border-color:#088fc2 !important;
+  transform:translateY(-3px);
+  box-shadow:0 6px 20px rgba(0,0,0,0.25) !important;
+}
+body.bl-umbrella a.contact-tile .icon {
+  font-size:56px !important;
+  line-height:1 !important;
+  display:block;
+  margin:0 auto 18px;
+  color:#088fc2;
+}
+body.bl-umbrella a.contact-tile h3 {
+  margin:8px 0 4px !important;
+  color:#161b22 !important;
+  font-size:22px !important;
+  font-weight:700 !important;
+  letter-spacing:0.01em !important;
+  text-transform:none !important;
+}
+body.bl-umbrella a.contact-tile p {
+  margin:4px 0 0 !important;
+  color:#555 !important;
+  font-size:14px !important;
+}
 
 /* Vehicle detail */
 .bl-vehicle-detail { padding:20px 0 50px; }
