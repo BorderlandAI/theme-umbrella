@@ -305,7 +305,7 @@ $page_lede  = $store
   .bl-inventory-page .inv-card:hover .inv-btn-details { background:#000; }
 
   /* store chip row (unified mode) */
-  .bl-inventory-page .store-chips { padding:0 0 16px; justify-content:flex-start; }
+  .bl-inventory-page .store-chips { padding:0 0 16px; justify-content:center; }
 
   /* PAGINATION */
   #invPagination { display:none; align-items:center; justify-content:center; gap:16px; margin:4px 0 20px; }
