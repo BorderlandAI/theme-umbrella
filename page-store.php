@@ -52,24 +52,32 @@ $store_inv = bl_featured_inventory($store['slug'], 6);
   <?php endif; ?>
 
   <section class="bl-store-info">
-    <div class="inner two-col">
-      <div>
-        <h2>Hours</h2>
-        <p><?php echo esc_html(bl_hours_display($store)); ?></p>
-        <h2>Brands</h2>
-        <ul class="brand-pills">
-          <?php foreach ($store['brands'] as $b): ?><li><?php echo esc_html($b); ?></li><?php endforeach; ?>
-        </ul>
-      </div>
-      <div>
-        <h2>Quick Links</h2>
-        <ul class="quick-links">
-          <li><a href="<?php echo esc_url(home_url('/stores/' . $store['slug'] . '/inventory/')); ?>">Inventory</a></li>
-          <li><a href="<?php echo esc_url(home_url('/stores/' . $store['slug'] . '/service/')); ?>">Service</a></li>
-          <li><a href="<?php echo esc_url(home_url('/stores/' . $store['slug'] . '/parts/')); ?>">Parts</a></li>
-          <li><a href="<?php echo esc_url(home_url('/stores/' . $store['slug'] . '/contact/')); ?>">Contact</a></li>
-          <li><a href="<?php echo esc_url(home_url('/financing/')); ?>">Financing</a></li>
-        </ul>
+    <div class="inner">
+      <div class="store-info-grid">
+
+        <div class="store-info-col">
+          <span class="store-info-label">Hours</span>
+          <p class="store-info-hours"><?php echo esc_html(bl_hours_display($store)); ?></p>
+        </div>
+
+        <div class="store-info-col">
+          <span class="store-info-label">Brands</span>
+          <ul class="brand-pills">
+            <?php foreach ($store['brands'] as $b): ?><li><?php echo esc_html($b); ?></li><?php endforeach; ?>
+          </ul>
+        </div>
+
+        <div class="store-info-col">
+          <span class="store-info-label">Quick Links</span>
+          <ul class="quick-links">
+            <li><a href="<?php echo esc_url(home_url('/stores/' . $store['slug'] . '/inventory/')); ?>">Inventory</a></li>
+            <li><a href="<?php echo esc_url(home_url('/stores/' . $store['slug'] . '/service/')); ?>">Service</a></li>
+            <li><a href="<?php echo esc_url(home_url('/stores/' . $store['slug'] . '/parts/')); ?>">Parts</a></li>
+            <li><a href="<?php echo esc_url(home_url('/stores/' . $store['slug'] . '/contact/')); ?>">Contact</a></li>
+            <li><a href="<?php echo esc_url(home_url('/financing/')); ?>">Financing</a></li>
+          </ul>
+        </div>
+
       </div>
     </div>
   </section>
