@@ -26,15 +26,12 @@ $units = bl_get_inventory($store['slug'] ?? null, $args);
 $units = array_values($units);
 $total = count($units);
 
-// Collect unique makes / years for filter
+// Collect unique makes for filter
 $makes = [];
-$years = [];
 foreach ($units as $u) {
     if (!empty($u['make'])) $makes[$u['make']] = true;
-    if (!empty($u['year'])) $years[(int)$u['year']] = true;
 }
 ksort($makes);
-krsort($years);
 
 $all_categories = [
     'atv'        => 'ATVs',
@@ -115,19 +112,8 @@ $page_lede  = $store
               </select>
             </div>
           <?php endif; ?>
-          <?php if (!empty($years)): ?>
-            <div class="cf-field">
-              <select id="invYear">
-                <option value="">By year</option>
-                <?php foreach ($years as $yr => $_): ?>
-                  <option value="<?php echo esc_attr($yr); ?>"><?php echo esc_html($yr); ?></option>
-                <?php endforeach; ?>
-              </select>
-            </div>
-          <?php endif; ?>
           <div class="cf-field">
             <select id="invSort">
-              <option value="year-desc">Year: New &rarr; Old</option>
               <option value="price-asc">Price: Low to High</option>
               <option value="price-desc">Price: High to Low</option>
               <option value="name-asc">Name A&ndash;Z</option>
@@ -354,7 +340,6 @@ $page_lede  = $store
   var stateFilt  = document.getElementById('invState');
   var makeFilter = document.getElementById('invMake');
   var catFilter  = document.getElementById('invCategory');
-  var yearFilter = document.getElementById('invYear');
   var sort       = document.getElementById('invSort');
   var grid       = document.getElementById('invGrid');
   var countVis   = document.getElementById('invCountVisible');
@@ -376,9 +361,6 @@ $page_lede  = $store
         case 'name-asc':   return a.getAttribute('data-name').localeCompare(b.getAttribute('data-name'));
         case 'price-asc':  return (parseFloat(a.getAttribute('data-price')) || 999999) - (parseFloat(b.getAttribute('data-price')) || 999999);
         case 'price-desc': return (parseFloat(b.getAttribute('data-price')) || 0) - (parseFloat(a.getAttribute('data-price')) || 0);
-        case 'year-desc':
-          var yd = parseInt(b.getAttribute('data-year')) - parseInt(a.getAttribute('data-year'));
-          return yd !== 0 ? yd : a.getAttribute('data-name').localeCompare(b.getAttribute('data-name'));
         default: return 0;
       }
     });
@@ -430,15 +412,13 @@ $page_lede  = $store
     var st = stateFilt  ? stateFilt.value  : '';
     var m  = makeFilter ? makeFilter.value : '';
     var c  = catFilter  ? catFilter.value  : '';
-    var y  = yearFilter ? yearFilter.value : '';
     cards.forEach(function(card) {
       var nameMatch = !q || card.getAttribute('data-name').indexOf(q) !== -1
                         || (card.getAttribute('data-stock') || '').indexOf(q) !== -1;
       card._match = nameMatch
                  && (!st || card.getAttribute('data-state') === st)
                  && (!m  || card.getAttribute('data-make')  === m)
-                 && (!c  || card.getAttribute('data-category') === c)
-                 && (!y  || card.getAttribute('data-year')  === y);
+                 && (!c  || card.getAttribute('data-category') === c);
     });
     currentPage = 1;
     renderPage();
@@ -456,7 +436,6 @@ $page_lede  = $store
   if (stateFilt)  stateFilt.addEventListener('change', filterAndRender);
   if (makeFilter) makeFilter.addEventListener('change', filterAndRender);
   if (catFilter)  catFilter.addEventListener('change', filterAndRender);
-  if (yearFilter) yearFilter.addEventListener('change', filterAndRender);
   sort.addEventListener('change', function() { applySort(); currentPage = 1; renderPage(); });
 
   applySort();
