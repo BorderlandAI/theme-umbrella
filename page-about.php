@@ -8,16 +8,19 @@ get_header();
   <section class="bl-hero small">
     <div class="inner">
       <h1>About Borderland Powersports</h1>
-      <p class="lede">A family-operated powersports group serving Manitoba from Brandon to Thompson.</p>
+      <p class="lede">A family-run dealership and one of the fastest-growing powersports businesses in Manitoba.</p>
     </div>
   </section>
 
   <section class="bl-prose">
     <div class="inner">
-      <p>Borderland Powersports is Manitoba's multi-location powersports and marine group. We carry Kawasaki, Polaris, Yamaha, Suzuki, CFMOTO, Mercury, Lund, Equinox, Abitibi &amp; Co, ARGO, and more across 4 full-service dealerships.</p>
-      <p>Each of our locations — Brandon, Morden, Portage la Prairie, and Thompson — is staffed with factory-trained technicians, knowledgeable sales advisors, and experienced parts specialists. We don't just sell powersports and marine; we live the lifestyle, and we back it up with service that lasts well past the sale.</p>
-      <p>Whether you're looking for your first ATV, a new side-by-side for the crew, a fishing boat for the lake, or a dependable snowmobile for the Manitoba winter — we've got a location nearby ready to help.</p>
-      <p><a class="btn primary" href="<?php echo esc_url(home_url('/stores/')); ?>">Find Your Location</a></p>
+      <p>Borderland Powersports is a family-run dealership and one of the fastest-growing powersports businesses in Manitoba. What started small has grown into four full-service locations across the province — Morden, Brandon, Portage la Prairie, and Thompson — so no matter where you ride, work, or play in Manitoba, there's a Borderland close by.</p>
+
+      <p>We carry the brands Manitobans trust, including <strong>Polaris</strong> ATVs, UTVs, and snowmobiles, <strong>Kawasaki</strong> and <strong>Suzuki</strong> motorcycles, <strong>Yamaha</strong> watercraft and outboards, <strong>Lund</strong> and <strong>Marlon</strong> boats, and <strong>Mercury</strong> marine engines. From weekend riders to hard-working farmers, hunters, and the lake crowd, our team helps you find the right ride and keeps it running with a full parts and accessories department, factory-trained service techs, a solid lineup of pre-owned units, and flexible financing options.</p>
+
+      <p>Whether you're sledding up north, tearing up trails in the south, pulling skiers on the lake, or working the back forty, Borderland Powersports is your Manitoba home for ATVs, snowmobiles, motorcycles, boats, and side-by-sides. Drop by any of our four locations — Morden, Brandon, Portage la Prairie, or Thompson — or browse our full inventory online. We'd love to help you find your next ride.</p>
+
+      <p><a class="btn primary" href="<?php echo esc_url(home_url('/stores/')); ?>">Find Your Location</a> <a class="btn secondary" href="<?php echo esc_url(home_url('/inventory/')); ?>">Browse Inventory</a></p>
     </div>
   </section>
 </main>

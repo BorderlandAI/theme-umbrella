@@ -96,7 +96,7 @@ function bl_stores() {
                 'Mo' => '09:00-17:30', 'Tu' => '09:00-17:30', 'We' => '09:00-17:30',
                 'Th' => '09:00-17:30', 'Fr' => '09:00-17:30', 'Sa' => 'closed', 'Su' => 'closed',
             ],
-            'brands'         => ['Polaris', 'Yamaha', 'Mercury', 'Lund', 'Equinox', 'Abitibi & Co', 'ARGO', 'Swamp Rider'],
+            'brands'         => ['Polaris', 'Yamaha', 'Mercury', 'Lund', 'Marlon', 'Equinox', 'Abitibi & Co', 'ARGO', 'Swamp Rider'],
             'chat_slug'      => 'thompson',
             'domain'         => 'https://www.borderlandthompson.com',
             'fb_page_id'     => '',
