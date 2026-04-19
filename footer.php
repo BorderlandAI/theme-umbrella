@@ -48,7 +48,6 @@ $bl_map   = $bl_store && $bl_store['address']
               <li class="menu-item"><a href="<?php echo esc_url(home_url('/brands/')); ?>">Brands</a></li>
               <li class="menu-item"><a href="<?php echo esc_url(home_url('/financing/')); ?>">Financing</a></li>
               <li class="menu-item"><a href="<?php echo esc_url(home_url('/news/')); ?>">News</a></li>
-              <li class="menu-item"><a href="https://shopborderland.ca" target="_blank" rel="noopener">Shop ↗</a></li>
             </ul>
           </div>
 
@@ -56,7 +55,6 @@ $bl_map   = $bl_store && $bl_store['address']
             <h2><a href="<?php echo esc_url(home_url('/about/')); ?>">About</a></h2>
             <ul>
               <li class="menu-item"><a href="<?php echo esc_url(home_url('/about/')); ?>">About Us</a></li>
-              <li class="menu-item"><a href="<?php echo esc_url(home_url('/stores/')); ?>">Locations</a></li>
               <li class="menu-item"><a href="<?php echo esc_url(home_url('/contact/')); ?>">Contact</a></li>
               <li class="menu-item"><a href="<?php echo esc_url(home_url('/faq/')); ?>">FAQ</a></li>
             </ul>

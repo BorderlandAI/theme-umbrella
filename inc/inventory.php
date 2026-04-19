@@ -126,33 +126,65 @@ function bl_has_real_photo($vehicle) {
 }
 
 /**
- * Featured picker: round-robin across makes so a store that carries four
- * brands doesn't end up with a Kawasaki-only shelf. Within each make we
- * still prefer units with real dealership photos over OEM stock shots.
- * Units without any image are dropped (they'd render as empty cards).
+ * Return the unit's discount from MSRP as a dollar amount. 0 if no discount.
+ */
+function bl_unit_discount($v) {
+    $base = (float) ($v['basePrice']  ?? 0);
+    $sale = (float) ($v['salePrice'] ?? 0);
+    if ($base <= 0 || $sale <= 0) return 0.0;
+    $diff = $base - $sale;
+    return $diff > 0 ? $diff : 0.0;
+}
+
+/**
+ * Featured picker: prefer new units with the largest discount from MSRP.
+ * Falls back to a round-robin mix across makes when no discounted units
+ * exist (so the section never renders empty at a store without sale
+ * pricing).
  */
 function bl_featured_inventory($store = null, $limit = 8) {
-    $pool = bl_get_inventory($store, ['state' => 'new', 'limit' => 120]);
+    $pool = bl_get_inventory($store, ['state' => 'new', 'limit' => 200]);
 
-    // Drop units with no usable image at all
+    // Drop units with no usable image
     $pool = array_values(array_filter($pool, fn($v) => !empty($v['images'])));
 
-    // Group by make
-    $by_make = [];
+    // Split into discounted vs full-price
+    $discounted = [];
+    $full       = [];
     foreach ($pool as $v) {
+        $d = bl_unit_discount($v);
+        if ($d > 0) {
+            $v['_discount'] = $d;
+            $discounted[] = $v;
+        } else {
+            $full[] = $v;
+        }
+    }
+
+    // Sort discounted by largest discount first
+    usort($discounted, fn($a, $b) => ($b['_discount'] <=> $a['_discount']));
+
+    // If we have enough discounted units, return top N
+    if (count($discounted) >= $limit) {
+        return array_slice($discounted, 0, $limit);
+    }
+
+    // Not enough discounts — take all we have, then backfill via round-robin
+    $picked = $discounted;
+    $need   = $limit - count($picked);
+
+    // Round-robin across makes for the backfill, preferring real photos
+    $by_make = [];
+    foreach ($full as $v) {
         $make = $v['make'] ?: 'Other';
         $by_make[$make][] = $v;
     }
-
-    // Within each make, bubble units with real dealership photos to the front
     foreach ($by_make as &$units) {
         usort($units, fn($a, $b) => (int) bl_has_real_photo($b) - (int) bl_has_real_photo($a));
     }
     unset($units);
 
-    // Round-robin pick
-    $picked = [];
-    while (count($picked) < $limit) {
+    while (count($picked) - count($discounted) < $need) {
         $took = 0;
         foreach ($by_make as $make => $units) {
             if (!$units) { unset($by_make[$make]); continue; }
@@ -163,7 +195,7 @@ function bl_featured_inventory($store = null, $limit = 8) {
         if ($took === 0) break;
     }
 
-    return $picked;
+    return array_slice($picked, 0, $limit);
 }
 
 /**

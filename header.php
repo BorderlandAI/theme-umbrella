@@ -121,10 +121,8 @@ $bl_logo   = $bl_store
               </li>
               <li class="menu-item"><a href="<?php echo esc_url(home_url($store_prefix . '/parts/')); ?>"><span>Parts</span></a></li>
               <li class="menu-item"><a href="<?php echo esc_url(home_url('/financing/')); ?>"><span>Financing</span></a></li>
-              <li class="menu-item"><a href="<?php echo esc_url(home_url('/stores/')); ?>"><span>Locations</span></a></li>
               <li class="menu-item"><a href="<?php echo esc_url(home_url('/about/')); ?>"><span>About</span></a></li>
               <li class="contact menu-item"><a href="<?php echo esc_url(home_url($store_prefix . '/contact/')); ?>"><span>Contact</span></a></li>
-              <li class="menu-item shop"><a href="https://shopborderland.ca" target="_blank" rel="noopener"><span>Shop ↗</span></a></li>
             </ul>
             <?php
         }

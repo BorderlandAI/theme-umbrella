@@ -9,6 +9,9 @@ if (!$store) {
     exit;
 }
 $store_inv = bl_featured_inventory($store['slug'], 6);
+
+$dir_query = trim(($store['address'] ? $store['address'] . ', ' : '') . $store['city'] . ', ' . $store['region']);
+$dir_url   = 'https://www.google.com/maps/dir/?api=1&destination=' . urlencode($dir_query);
 ?>
 
 <main id="content" class="bl-page bl-store">
@@ -22,6 +25,7 @@ $store_inv = bl_featured_inventory($store['slug'], 6);
       <div class="cta-row">
         <a class="btn primary" href="tel:<?php echo esc_attr($store['phone_tel']); ?>">Call <?php echo esc_html($store['phone']); ?></a>
         <a class="btn secondary" href="<?php echo esc_url(home_url('/stores/' . $store['slug'] . '/inventory/')); ?>">Browse Inventory</a>
+        <a class="btn secondary" href="<?php echo esc_url($dir_url); ?>" target="_blank" rel="noopener">Directions</a>
       </div>
     </div>
   </section>
@@ -36,12 +40,26 @@ $store_inv = bl_featured_inventory($store['slug'], 6);
           $title = trim(($v['year'] ?? '') . ' ' . ($v['make'] ?? '') . ' ' . ($v['submodel'] ?? $v['model'] ?? ''));
           $price = !empty($v['salePrice']) ? $v['salePrice'] : ($v['basePrice'] ?? null);
           $stock = $v['stockNumber'] ?? $v['id'];
+          $discount = bl_unit_discount($v);
         ?>
           <a class="inv-card" href="<?php echo esc_url(home_url('/stores/' . $store['slug'] . '/inventory/' . rawurlencode($stock))); ?>">
-            <?php if ($img): ?><div class="img" style="background-image:url('<?php echo esc_url($img); ?>')"></div><?php endif; ?>
+            <?php if ($img): ?>
+              <div class="img" style="background-image:url('<?php echo esc_url($img); ?>')">
+                <?php if ($discount > 0): ?>
+                  <span class="save-badge">Save $<?php echo esc_html(number_format($discount, 0)); ?></span>
+                <?php endif; ?>
+              </div>
+            <?php endif; ?>
             <div class="body">
               <h3><?php echo esc_html($title); ?></h3>
-              <?php if ($price): ?><p class="price">$<?php echo esc_html(number_format((float) $price, 0)); ?></p><?php endif; ?>
+              <?php if ($discount > 0 && !empty($v['basePrice'])): ?>
+                <p class="price">
+                  <span class="sale">$<?php echo esc_html(number_format((float) $price, 0)); ?></span>
+                  <span class="msrp">MSRP $<?php echo esc_html(number_format((float) $v['basePrice'], 0)); ?></span>
+                </p>
+              <?php elseif ($price): ?>
+                <p class="price">$<?php echo esc_html(number_format((float) $price, 0)); ?></p>
+              <?php endif; ?>
             </div>
           </a>
         <?php endforeach; ?>
