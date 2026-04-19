@@ -35,6 +35,7 @@ function bl_stores() {
             'domain'         => 'https://www.borderlandmorden.com',
             'fb_page_id'     => '',
             'embed_map_url'  => 'https://www.google.com/maps/embed/v1/place?key=&q=167+Loren+Drive,+Morden,+MB',
+            'photo'          => 'storefront-morden.webp',
         ],
         'thompson' => [
             'slug'           => 'thompson',
@@ -59,6 +60,7 @@ function bl_stores() {
             'domain'         => 'https://www.borderlandthompson.com',
             'fb_page_id'     => '',
             'embed_map_url'  => 'https://www.google.com/maps/embed/v1/place?key=&q=3+Nelson+Road,+Thompson,+MB',
+            'photo'          => 'storefront-thompson.webp',
         ],
         'brandon' => [
             'slug'           => 'brandon',
@@ -83,6 +85,7 @@ function bl_stores() {
             'domain'         => 'https://www.borderlandbrandon.com',
             'fb_page_id'     => '',
             'embed_map_url'  => 'https://www.google.com/maps/embed/v1/place?key=&q=206+16th+Street+North,+Brandon,+MB',
+            'photo'          => 'storefront-brandon.webp',
         ],
         'portage' => [
             'slug'           => 'portage',
@@ -107,6 +110,7 @@ function bl_stores() {
             'domain'         => 'https://www.borderlandportage.com',
             'fb_page_id'     => '',
             'embed_map_url'  => 'https://www.google.com/maps/embed/v1/place?key=&q=2533+Saskatchewan+Ave+W,+Portage+la+Prairie,+MB',
+            'photo'          => 'storefront-portage.webp',
         ],
     ];
     return $stores;

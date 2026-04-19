@@ -143,7 +143,51 @@ body.bl-umbrella .bl-store-page h3 {
 }
 .bl-store-mast__rail span:first-child { color: var(--accent); }
 .bl-store-mast__inner {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: clamp(24px, 4vw, 56px);
+  align-items: center;
+}
+.bl-store-mast__inner.has-photo {
+  grid-template-columns: minmax(0, 1fr) minmax(320px, 42%);
+}
+@media (max-width: 900px) {
+  .bl-store-mast__inner.has-photo { grid-template-columns: 1fr; }
+}
+.bl-store-mast__photo {
+  position: relative;
+  overflow: hidden;
+  border: 1px solid var(--rule);
+  background: var(--paper-2);
+  aspect-ratio: 4 / 3;
+}
+.bl-store-mast__photo img {
+  width: 100%; height: 100%;
+  object-fit: cover; object-position: center;
   display: block;
+  transition: transform .6s cubic-bezier(.22,1,.36,1);
+}
+.bl-store-mast__photo:hover img { transform: scale(1.02); }
+.bl-store-mast__photo::after {
+  content: '';
+  position: absolute;
+  left: 0; right: 0; bottom: 0;
+  height: 40%;
+  background: linear-gradient(to top, rgba(11,14,19,0.6), rgba(11,14,19,0));
+  pointer-events: none;
+}
+.bl-store-mast__photo .tag {
+  position: absolute;
+  left: 16px; bottom: 16px;
+  font-family: var(--mono);
+  font-size: 10px;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  color: var(--ink);
+  background: rgba(0,0,0,0.5);
+  backdrop-filter: blur(6px);
+  padding: 6px 10px;
+  border: 1px solid var(--rule-2);
 }
 .bl-store-mast__headline {
   font-family: var(--display);
@@ -661,7 +705,13 @@ body.bl-umbrella .bl-store-page h3 {
         <?php if ($coords_label): ?><span><?php echo esc_html($coords_label); ?></span><?php endif; ?>
       </div>
 
-      <div class="bl-store-mast__inner">
+      <?php
+      $photo_file = !empty($store['photo']) ? $store['photo'] : '';
+      $photo_path = $photo_file ? get_template_directory() . '/assets/images/stores/' . $photo_file : '';
+      $photo_url  = $photo_file ? get_template_directory_uri() . '/assets/images/stores/' . $photo_file : '';
+      $has_photo  = $photo_path && file_exists($photo_path);
+      ?>
+      <div class="bl-store-mast__inner <?php echo $has_photo ? 'has-photo' : ''; ?>">
         <div>
           <h1 class="bl-store-mast__headline reveal reveal--2">
             <span class="full">Borderland Powersports</span>
@@ -707,7 +757,12 @@ body.bl-umbrella .bl-store-page h3 {
           </div>
         </div>
 
-        <div class="bl-store-mast__numplate reveal reveal--4" aria-hidden="true"><?php printf('%02d', $store_num); ?></div>
+        <?php if ($has_photo): ?>
+          <div class="bl-store-mast__photo reveal reveal--4">
+            <img src="<?php echo esc_url($photo_url); ?>" alt="<?php echo esc_attr($store['full_name']); ?> storefront" loading="lazy" />
+            <span class="tag"><?php echo esc_html($store['city']); ?>, <?php echo esc_html($store['region']); ?></span>
+          </div>
+        <?php endif; ?>
       </div>
     </div>
   </section>

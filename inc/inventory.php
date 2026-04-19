@@ -126,21 +126,43 @@ function bl_has_real_photo($vehicle) {
 }
 
 /**
- * Featured picker: prefer units with real dealership photos, backfill with OEM-photo units.
+ * Featured picker: round-robin across makes so a store that carries four
+ * brands doesn't end up with a Kawasaki-only shelf. Within each make we
+ * still prefer units with real dealership photos over OEM stock shots.
+ * Units without any image are dropped (they'd render as empty cards).
  */
 function bl_featured_inventory($store = null, $limit = 8) {
-    $pool = bl_get_inventory($store, ['state' => 'new', 'limit' => 60]);
-    $real = [];
-    $stock = [];
+    $pool = bl_get_inventory($store, ['state' => 'new', 'limit' => 120]);
+
+    // Drop units with no usable image at all
+    $pool = array_values(array_filter($pool, fn($v) => !empty($v['images'])));
+
+    // Group by make
+    $by_make = [];
     foreach ($pool as $v) {
-        if (empty($v['images'])) continue;
-        if (bl_has_real_photo($v)) $real[] = $v;
-        else $stock[] = $v;
+        $make = $v['make'] ?: 'Other';
+        $by_make[$make][] = $v;
     }
-    $picked = array_slice($real, 0, $limit);
-    if (count($picked) < $limit) {
-        $picked = array_merge($picked, array_slice($stock, 0, $limit - count($picked)));
+
+    // Within each make, bubble units with real dealership photos to the front
+    foreach ($by_make as &$units) {
+        usort($units, fn($a, $b) => (int) bl_has_real_photo($b) - (int) bl_has_real_photo($a));
     }
+    unset($units);
+
+    // Round-robin pick
+    $picked = [];
+    while (count($picked) < $limit) {
+        $took = 0;
+        foreach ($by_make as $make => $units) {
+            if (!$units) { unset($by_make[$make]); continue; }
+            $picked[] = array_shift($by_make[$make]);
+            $took++;
+            if (count($picked) >= $limit) break 2;
+        }
+        if ($took === 0) break;
+    }
+
     return $picked;
 }
 
