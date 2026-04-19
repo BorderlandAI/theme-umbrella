@@ -1,0 +1,3607 @@
+{
+  "atv": [
+    {
+      "slug": "2026-kingquad-400",
+      "name": "KingQuad 400",
+      "year": 2026,
+      "category": "atv",
+      "subcategory": "",
+      "family": "kingquad",
+      "msrp": 9929.0,
+      "msrp_text": "Starting from $9,929",
+      "trim": null,
+      "engine_displacement": "376cc",
+      "engine_type": "376cc (22.94 cubic in.), 4-stroke, air-cooled with SCAS, OHC single cylinder",
+      "weight": "F400F: 279 kg (615 lbs)  A400F: 285 kg (628 lbs)",
+      "description": "The KingQuad 400 from Suzuki Canada gives you power for work and play. Learn more.",
+      "source_url": "https://www.suzuki.ca/product/2026-kingquad-400/",
+      "hero_image_url": "https://www.suzuki.ca/wp-content/uploads/LT-F400F_M6_QTM_Right.png",
+      "image_urls": [
+        "https://www.suzuki.ca/wp-content/uploads/LT-F400F_M6_QTM_Right.png"
+      ]
+    },
+    {
+      "slug": "2025-kingquad-500x",
+      "name": "KingQuad 500X",
+      "year": 2025,
+      "category": "atv",
+      "subcategory": "",
+      "family": "kingquad",
+      "msrp": 11449.0,
+      "msrp_text": "Starting from $11,449",
+      "trim": null,
+      "engine_displacement": "493cc (30.1 cu. in)",
+      "engine_type": "493cc (30.1 cubic in.), 4-stroke, liquid-cooled, 4-valve, OHC single cylinder",
+      "weight": "315KG (695 LB)",
+      "description": "The KingQuad 500X from Suzuki Canada continues the legacy of an icon. Learn more.",
+      "source_url": "https://www.suzuki.ca/product/2025-kingquad-500x/",
+      "hero_image_url": "https://www.suzuki.ca/wp-content/uploads/LT-A500XM4_YLG_Diagonal.png",
+      "image_urls": [
+        "https://www.suzuki.ca/wp-content/uploads/LT-A500XM4_YLG_Diagonal.png",
+        "https://www.suzuki.ca/wp-content/uploads/LT-A500XM4_YLG_Right.png"
+      ]
+    },
+    {
+      "slug": "2026-kingquad-750x",
+      "name": "KingQuad 750X",
+      "year": 2026,
+      "category": "atv",
+      "subcategory": "",
+      "family": "kingquad",
+      "msrp": 12099.0,
+      "msrp_text": "Starting from $12,099",
+      "trim": null,
+      "engine_displacement": "722cc (44.1 cu. in)",
+      "engine_type": "4-stroke, liquid-cooled, 4-valve, DOHC single cylinder",
+      "weight": "320KG (706 LB)",
+      "description": "The KingQuad 750X from Suzuki Canada continues the legacy of an icon. Learn more.",
+      "source_url": "https://www.suzuki.ca/product/2026-kingquad-750x/",
+      "hero_image_url": "https://www.suzuki.ca/wp-content/uploads/LT-A750XM4_YLG_Diagonal.png",
+      "image_urls": [
+        "https://www.suzuki.ca/wp-content/uploads/LT-A750XM4_YLG_Diagonal.png",
+        "https://www.suzuki.ca/wp-content/uploads/LT-A500XM4_YLG_Right.png"
+      ]
+    },
+    {
+      "slug": "2026-kingquad-500xp",
+      "name": "KingQuad 500XP",
+      "year": 2026,
+      "category": "atv",
+      "subcategory": "",
+      "family": "kingquad",
+      "msrp": 12899.0,
+      "msrp_text": "Starting from $12,899",
+      "trim": null,
+      "engine_displacement": "493cc (30.1 cu. in)",
+      "engine_type": "4-stroke, liquid-cooled, 4-valve, OHC single cylinder",
+      "weight": "324KG (714 LB)",
+      "description": "The KingQuad 500XP from Suzuki Canada continues the legacy of an icon. Learn more.",
+      "source_url": "https://www.suzuki.ca/product/2026-kingquad-500xp/",
+      "hero_image_url": "https://www.suzuki.ca/wp-content/uploads/LT-F500XPC_M6_Q1L_Right.png",
+      "image_urls": [
+        "https://www.suzuki.ca/wp-content/uploads/LT-F500XPC_M6_Q1L_Right.png",
+        "https://www.suzuki.ca/wp-content/uploads/LT-F500XPC_M6_Q1L_Diagonal.png",
+        "https://www.suzuki.ca/wp-content/uploads/LT-A750XPM4_YT9_Right.png",
+        "https://www.suzuki.ca/wp-content/uploads/LT-A750XPM4_YLG_Right.png",
+        "https://www.suzuki.ca/wp-content/uploads/LT-F500XPC_M6_QTM_Right.png"
+      ]
+    },
+    {
+      "slug": "2026-kingquad-500xpz",
+      "name": "KingQuad 500XPZ",
+      "year": 2026,
+      "category": "atv",
+      "subcategory": "",
+      "family": "kingquad",
+      "msrp": 13699.0,
+      "msrp_text": "Starting from $13,699",
+      "trim": null,
+      "engine_displacement": "493cc (30.1 cu. in)",
+      "engine_type": "4-stroke, liquid-cooled, 4-valve, OHC single cylinder",
+      "weight": "324KG (714 LB)",
+      "description": "The KingQuad 500XPZ from Suzuki Canada continues the legacy of an icon. Learn more.",
+      "source_url": "https://www.suzuki.ca/product/2026-kingquad-500xpz/",
+      "hero_image_url": "https://www.suzuki.ca/wp-content/uploads/LT-A500XPZM4_Q1L_Diagonal-1.png",
+      "image_urls": [
+        "https://www.suzuki.ca/wp-content/uploads/LT-A500XPZM4_Q1L_Diagonal-1.png",
+        "https://www.suzuki.ca/wp-content/uploads/LT-A500XPZM4_QTM_Right.png",
+        "https://www.suzuki.ca/wp-content/uploads/LT-A500XPZM5_QZ8_Right.png"
+      ]
+    },
+    {
+      "slug": "2026-kingquad-750xp",
+      "name": "KingQuad 750XP",
+      "year": 2026,
+      "category": "atv",
+      "subcategory": "",
+      "family": "kingquad",
+      "msrp": 13799.0,
+      "msrp_text": "Starting from $13,799",
+      "trim": null,
+      "engine_displacement": "722cc (44.1 cu. in)",
+      "engine_type": "4-stroke, liquid-cooled, 4-valve, DOHC single cylinder",
+      "weight": "329KG (725 LB)",
+      "description": "The KingQuad 750XP from Suzuki Canada continues the legacy of an icon. Learn more.",
+      "source_url": "https://www.suzuki.ca/product/2026-kingquad-750xp/",
+      "hero_image_url": "https://www.suzuki.ca/wp-content/uploads/LT-A500XPM4_YT9_Right-scaled.jpg",
+      "image_urls": [
+        "https://www.suzuki.ca/wp-content/uploads/LT-A500XPM4_YT9_Right-scaled.jpg",
+        "https://www.suzuki.ca/wp-content/uploads/LT-A750XPM4_YLG_Right.png",
+        "https://www.suzuki.ca/wp-content/uploads/LT-F500XPC_M6_QTM_Right.png",
+        "https://www.suzuki.ca/wp-content/uploads/LT-A750XPS_M6_QZ8_Right.png"
+      ]
+    },
+    {
+      "slug": "2026-kingquad-750xpz",
+      "name": "KingQuad 750XPZ",
+      "year": 2026,
+      "category": "atv",
+      "subcategory": "",
+      "family": "kingquad",
+      "msrp": 14499.0,
+      "msrp_text": "Starting from $14,499",
+      "trim": null,
+      "engine_displacement": "722cc (44.1 cu. in)",
+      "engine_type": "4-stroke, liquid-cooled, 4-valve, DOHC single cylinder",
+      "weight": "329KG (725 LB)",
+      "description": "The KingQuad 750XPZ from Suzuki Canada continues the legacy of an icon. Learn more.",
+      "source_url": "https://www.suzuki.ca/product/2026-kingquad-750xpz/",
+      "hero_image_url": "https://www.suzuki.ca/wp-content/uploads/LT-A750XPZM4_Q1L_Diagonal.png",
+      "image_urls": [
+        "https://www.suzuki.ca/wp-content/uploads/LT-A750XPZM4_Q1L_Diagonal.png",
+        "https://www.suzuki.ca/wp-content/uploads/LT-A750XPZM4_QTM_Right.png",
+        "https://www.suzuki.ca/wp-content/uploads/LT-A750XPZM4_QZ8_Right.png"
+      ]
+    },
+    {
+      "slug": "2026-quadsport-z50",
+      "name": "Quadsport Z50",
+      "year": 2026,
+      "category": "atv",
+      "subcategory": "",
+      "family": "quadsport",
+      "msrp": 3149.0,
+      "msrp_text": "Starting from $3,149",
+      "trim": null,
+      "engine_displacement": "49cc",
+      "engine_type": "4-stroke, air-cooled",
+      "weight": "78 kg (171 lbs)",
+      "description": "\u2026 keep reading >",
+      "source_url": "https://www.suzuki.ca/product/2026-quadsport-z50/",
+      "hero_image_url": "https://www.suzuki.ca/wp-content/uploads/LT-Z50M6_YU1_Diagonal-scaled.jpg",
+      "image_urls": [
+        "https://www.suzuki.ca/wp-content/uploads/LT-Z50M6_YU1_Diagonal-scaled.jpg",
+        "https://www.suzuki.ca/wp-content/uploads/LT-Z50M6_YU1_Right.png"
+      ]
+    },
+    {
+      "slug": "2026-quadsport-z90",
+      "name": "Quadsport Z90",
+      "year": 2026,
+      "category": "atv",
+      "subcategory": "",
+      "family": "quadsport",
+      "msrp": 4129.0,
+      "msrp_text": "Starting from $4,129",
+      "trim": null,
+      "engine_displacement": "90cc",
+      "engine_type": "4-stroke, air-cooled",
+      "weight": "127 kg (280 lb.)",
+      "description": "\u2026 keep reading >",
+      "source_url": "https://www.suzuki.ca/product/2026-quadsport-z90/",
+      "hero_image_url": "https://www.suzuki.ca/wp-content/uploads/LT-Z90M6_YU1_Diagonal-scaled.jpg",
+      "image_urls": [
+        "https://www.suzuki.ca/wp-content/uploads/LT-Z90M6_YU1_Diagonal-scaled.jpg",
+        "https://www.suzuki.ca/wp-content/uploads/LT-Z50M6_YU1_Right.png"
+      ]
+    }
+  ],
+  "motorcycle": [
+    {
+      "slug": "2025-boulevard-c50",
+      "name": "Boulevard C50",
+      "year": 2025,
+      "category": "motorcycle",
+      "subcategory": "cruiser",
+      "family": "boulevard",
+      "msrp": 11549.0,
+      "msrp_text": "Starting from $11,549",
+      "trim": null,
+      "engine_displacement": "805 cc (49.1 cu. in)",
+      "engine_type": "4-stroke, Liquid-cooled, OHC, 45-degree V-twin",
+      "weight": "277 kg (611 lbs)",
+      "description": "\u00a0  \u00a0",
+      "source_url": "https://www.suzuki.ca/product/2025-boulevard-c50/",
+      "hero_image_url": "https://www.suzuki.ca/wp-content/uploads/VL800_BOU_M3_YUD_Right-scaled.jpg",
+      "image_urls": [
+        "https://www.suzuki.ca/wp-content/uploads/VL800_BOU_M3_YUD_Right-scaled.jpg",
+        "https://www.suzuki.ca/wp-content/uploads/VL800_BOU_M3_YUD_Diagonal-scaled.jpg"
+      ],
+      "colors": [
+        {
+          "name": "Suzuki Composite Electrochemical Material (SCEM) is Suzuki\u2019s own nickel-silicon-carbide coating technique derived from racetrack experience. SCEM cylinders allow faster heat transfer and tighter piston-to-cylinder clearance, for superb durability and resistance to scuffing.",
+          "code": "SCEM",
+          "image_url": "https://www.suzuki.ca/wp-content/uploads/suzuki-composite-electrochemical-material-icon-1.png"
+        },
+        {
+          "name": "Suzuki Dual Throttle Valve (SDTV) digital fuel-injection system. In SDTV induction system, each throttle body barrel has two butterfly valves, a primary valve controlled by the twist grip and a secondary valve controlled by the ECM based on engine rpm, gear selection and the position of the primary valve. The secondary butterfly valve opens and closes to maintain ideal intake air velocity, improving high combustion efficiency, thus resulting in a linear throttle response, increased low-to-mid range torque.",
+          "code": "SDTV",
+          "image_url": "https://www.suzuki.ca/wp-content/uploads/suzuki-dual-throttle-valve-system-icon-1.png"
+        },
+        {
+          "name": "Suzuki Composite Electrochemical Material (SCEM) is Suzuki\u2019s own nickel-silicon-carbide coating technique derived from racetrack experience. SCEM cylinders allow faster heat transfer and tighter piston-to-cylinder clearance, for superb durability and resistance to scuffing.",
+          "code": "SCEM",
+          "image_url": "https://www.suzuki.ca/wp-content/uploads/suzuki-composite-electrochemical-material-icon-1.png"
+        },
+        {
+          "name": "Suzuki Dual Throttle Valve (SDTV) digital fuel-injection system. In SDTV induction system, each throttle body barrel has two butterfly valves, a primary valve controlled by the twist grip and a secondary valve controlled by the ECM based on engine rpm, gear selection and the position of the primary valve. The secondary butterfly valve opens and closes to maintain ideal intake air velocity, improving high combustion efficiency, thus resulting in a linear throttle response, increased low-to-mid range torque.",
+          "code": "SDTV",
+          "image_url": "https://www.suzuki.ca/wp-content/uploads/suzuki-dual-throttle-valve-system-icon-1.png"
+        },
+        {
+          "name": "Suzuki Composite Electrochemical Material (SCEM) is Suzuki\u2019s own nickel-silicon-carbide coating technique derived from racetrack experience. SCEM cylinders allow faster heat transfer and tighter piston-to-cylinder clearance, for superb durability and resistance to scuffing.",
+          "code": "SCEM",
+          "image_url": "https://www.suzuki.ca/wp-content/uploads/suzuki-composite-electrochemical-material-icon-1.png"
+        }
+      ]
+    },
+    {
+      "slug": "2025-boulevard-c50t",
+      "name": "Boulevard C50T",
+      "year": 2025,
+      "category": "motorcycle",
+      "subcategory": "cruiser",
+      "family": "boulevard",
+      "msrp": 12199.0,
+      "msrp_text": "Starting from $12,199",
+      "trim": null,
+      "engine_displacement": "805 cc (49.1 cu. in)",
+      "engine_type": "4-stroke, Liquid-cooled, OHC, 45-degree V-twin",
+      "weight": "295 kg (651lbs)",
+      "description": "\u00a0  \u00a0",
+      "source_url": "https://www.suzuki.ca/product/2025-boulevard-c50t/",
+      "hero_image_url": "https://www.suzuki.ca/wp-content/uploads/VL800T_BOUL_M3_YUH_Right-MODIFIED-scaled.jpg",
+      "image_urls": [
+        "https://www.suzuki.ca/wp-content/uploads/VL800T_BOUL_M3_YUH_Right-MODIFIED-scaled.jpg"
+      ],
+      "colors": [
+        {
+          "name": "Suzuki Composite Electrochemical Material (SCEM) is Suzuki\u2019s own nickel-silicon-carbide coating technique derived from racetrack experience. SCEM cylinders allow faster heat transfer and tighter piston-to-cylinder clearance, for superb durability and resistance to scuffing.",
+          "code": "SCEM",
+          "image_url": "https://www.suzuki.ca/wp-content/uploads/suzuki-composite-electrochemical-material-icon-1.png"
+        },
+        {
+          "name": "Suzuki Dual Throttle Valve (SDTV) digital fuel-injection system. In SDTV induction system, each throttle body barrel has two butterfly valves, a primary valve controlled by the twist grip and a secondary valve controlled by the ECM based on engine rpm, gear selection and the position of the primary valve. The secondary butterfly valve opens and closes to maintain ideal intake air velocity, improving high combustion efficiency, thus resulting in a linear throttle response, increased low-to-mid range torque.",
+          "code": "SDTV",
+          "image_url": "https://www.suzuki.ca/wp-content/uploads/suzuki-dual-throttle-valve-system-icon-1.png"
+        },
+        {
+          "name": "Suzuki Composite Electrochemical Material (SCEM) is Suzuki\u2019s own nickel-silicon-carbide coating technique derived from racetrack experience. SCEM cylinders allow faster heat transfer and tighter piston-to-cylinder clearance, for superb durability and resistance to scuffing.",
+          "code": "SCEM",
+          "image_url": "https://www.suzuki.ca/wp-content/uploads/suzuki-composite-electrochemical-material-icon-1.png"
+        },
+        {
+          "name": "Suzuki Dual Throttle Valve (SDTV) digital fuel-injection system. In SDTV induction system, each throttle body barrel has two butterfly valves, a primary valve controlled by the twist grip and a secondary valve controlled by the ECM based on engine rpm, gear selection and the position of the primary valve. The secondary butterfly valve opens and closes to maintain ideal intake air velocity, improving high combustion efficiency, thus resulting in a linear throttle response, increased low-to-mid range torque.",
+          "code": "SDTV",
+          "image_url": "https://www.suzuki.ca/wp-content/uploads/suzuki-dual-throttle-valve-system-icon-1.png"
+        },
+        {
+          "name": "Suzuki Composite Electrochemical Material (SCEM) is Suzuki\u2019s own nickel-silicon-carbide coating technique derived from racetrack experience. SCEM cylinders allow faster heat transfer and tighter piston-to-cylinder clearance, for superb durability and resistance to scuffing.",
+          "code": "SCEM",
+          "image_url": "https://www.suzuki.ca/wp-content/uploads/suzuki-composite-electrochemical-material-icon-1.png"
+        }
+      ]
+    },
+    {
+      "slug": "2025-boulevard-m109r",
+      "name": "Boulevard M109R",
+      "year": 2025,
+      "category": "motorcycle",
+      "subcategory": "cruiser",
+      "family": "boulevard",
+      "msrp": 17699.0,
+      "msrp_text": "Starting from $17,699",
+      "trim": null,
+      "engine_displacement": "1783 cc",
+      "engine_type": "4-stroke, 2-cylinder, liquid-cooled, DOHC, 54-degree V-Twin",
+      "weight": "347 kg (764 lbs)",
+      "description": "\u00a0  \u00a0",
+      "source_url": "https://www.suzuki.ca/product/2025-boulevard-m109r/",
+      "hero_image_url": "https://www.suzuki.ca/wp-content/uploads/VZR1800BZM3_AV4_Right-scaled.jpg",
+      "image_urls": [
+        "https://www.suzuki.ca/wp-content/uploads/VZR1800BZM3_AV4_Right-scaled.jpg",
+        "https://www.suzuki.ca/wp-content/uploads/VZR1800_YVB_Diagonal-2.jpg",
+        "https://www.suzuki.ca/wp-content/uploads/VZR1800_YVB_Right-2.jpg"
+      ],
+      "colors": [
+        {
+          "name": "Suzuki Exhaust Tuning (SET) system, which uses a servo-controlled butterfly valve to modify back pressure and tune the pipe to match engine rpm. At lower rpm, the valve closes, increasing\u00a0back pressure and improving low-end torque. The valve progressively opens as engine speed increases, reducing back pressure and increasing mid-range and high-rpm power.",
+          "code": "SET",
+          "image_url": "https://www.suzuki.ca/wp-content/uploads/suzuki-exhaust-tuning-icon-1.png"
+        },
+        {
+          "name": "Suzuki Dual Throttle Valve (SDTV) digital fuel-injection system. In SDTV induction system, each throttle body barrel has two butterfly valves, a primary valve controlled by the twist grip and a secondary valve controlled by the ECM based on engine rpm, gear selection and the position of the primary valve. The secondary butterfly valve opens and closes to maintain ideal intake air velocity, improving high combustion efficiency, thus resulting in a linear throttle response, increased low-to-mid range torque.",
+          "code": "SDTV",
+          "image_url": "https://www.suzuki.ca/wp-content/uploads/suzuki-dual-throttle-valve-system-icon-1.png"
+        },
+        {
+          "name": "Suzuki Composite Electrochemical Material (SCEM) is Suzuki\u2019s own nickel-silicon-carbide coating technique derived from racetrack experience. SCEM cylinders allow faster heat transfer and tighter piston-to-cylinder clearance, for superb durability and resistance to scuffing.",
+          "code": "SCEM",
+          "image_url": "https://www.suzuki.ca/wp-content/uploads/suzuki-composite-electrochemical-material-icon-1.png"
+        },
+        {
+          "name": "Suzuki Clutch Assist System (SCAS) - a back-torque-limiting clutch helps make downshifts smoother, assists the rider in taking control in deceleration. Ramped engagement cams built into the clutch hub decrease force on the clutch plates under deceleration by pushing up against the pressure plate, allowing the plates to slip at a controlled rate.",
+          "code": "SCAS",
+          "image_url": "https://www.suzuki.ca/wp-content/uploads/suzuki-clutch-assist-system-icon-1.png"
+        },
+        {
+          "name": "Suzuki Exhaust Tuning (SET) system, which uses a servo-controlled butterfly valve to modify back pressure and tune the pipe to match engine rpm. At lower rpm, the valve closes, increasing\u00a0back pressure and improving low-end torque. The valve progressively opens as engine speed increases, reducing back pressure and increasing mid-range and high-rpm power.",
+          "code": "SET",
+          "image_url": "https://www.suzuki.ca/wp-content/uploads/suzuki-exhaust-tuning-icon-1.png"
+        },
+        {
+          "name": "Suzuki Dual Throttle Valve (SDTV) digital fuel-injection system. In SDTV induction system, each throttle body barrel has two butterfly valves, a primary valve controlled by the twist grip and a secondary valve controlled by the ECM based on engine rpm, gear selection and the position of the primary valve. The secondary butterfly valve opens and closes to maintain ideal intake air velocity, improving high combustion efficiency, thus resulting in a linear throttle response, increased low-to-mid range torque.",
+          "code": "SDTV",
+          "image_url": "https://www.suzuki.ca/wp-content/uploads/suzuki-dual-throttle-valve-system-icon-1.png"
+        },
+        {
+          "name": "Suzuki Composite Electrochemical Material (SCEM) is Suzuki\u2019s own nickel-silicon-carbide coating technique derived from racetrack experience. SCEM cylinders allow faster heat transfer and tighter piston-to-cylinder clearance, for superb durability and resistance to scuffing.",
+          "code": "SCEM",
+          "image_url": "https://www.suzuki.ca/wp-content/uploads/suzuki-composite-electrochemical-material-icon-1.png"
+        },
+        {
+          "name": "Suzuki Clutch Assist System (SCAS) - a back-torque-limiting clutch helps make downshifts smoother, assists the rider in taking control in deceleration. Ramped engagement cams built into the clutch hub decrease force on the clutch plates under deceleration by pushing up against the pressure plate, allowing the plates to slip at a controlled rate.",
+          "code": "SCAS",
+          "image_url": "https://www.suzuki.ca/wp-content/uploads/suzuki-clutch-assist-system-icon-1.png"
+        },
+        {
+          "name": "Suzuki Exhaust Tuning (SET) system, which uses a servo-controlled butterfly valve to modify back pressure and tune the pipe to match engine rpm. At lower rpm, the valve closes, increasing\u00a0back pressure and improving low-end torque. The valve progressively opens as engine speed increases, reducing back pressure and increasing mid-range and high-rpm power.",
+          "code": "SET",
+          "image_url": "https://www.suzuki.ca/wp-content/uploads/suzuki-exhaust-tuning-icon-1.png"
+        }
+      ]
+    },
+    {
+      "slug": "2026-burgman-400",
+      "name": "Burgman 400",
+      "year": 2026,
+      "category": "motorcycle",
+      "subcategory": "scooter",
+      "family": "burgman",
+      "msrp": 10595.0,
+      "msrp_text": "Starting from $10,595",
+      "trim": null,
+      "engine_displacement": "400 cc",
+      "engine_type": "4-stroke, liquid-cooled, single-cylinder, DOHC",
+      "weight": "215 kg (474 lbs.)",
+      "description": "\u2026 keep reading >",
+      "source_url": "https://www.suzuki.ca/product/2026-burgman-400/",
+      "hero_image_url": "https://www.suzuki.ca/wp-content/uploads/AN400AM6_YKV_Right-scaled.jpg",
+      "image_urls": [
+        "https://www.suzuki.ca/wp-content/uploads/AN400AM6_YKV_Right-scaled.jpg"
+      ],
+      "colors": [
+        {
+          "name": "Suzuki Dual Throttle Valve (SDTV) digital fuel-injection system. In SDTV induction system, each throttle body barrel has two butterfly valves, a primary valve controlled by the twist grip and a secondary valve controlled by the ECM based on engine rpm, gear selection and the position of the primary valve. The secondary butterfly valve opens and closes to maintain ideal intake air velocity, improving high combustion efficiency, thus resulting in a linear throttle response, increased low-to-mid range torque.",
+          "code": "SDTV",
+          "image_url": "https://www.suzuki.ca/wp-content/uploads/suzuki-dual-throttle-valve-system-icon-1.png"
+        },
+        {
+          "name": "Suzuki Composite Electrochemical Material (SCEM) is Suzuki\u2019s own nickel-silicon-carbide coating technique derived from racetrack experience. SCEM cylinders allow faster heat transfer and tighter piston-to-cylinder clearance, for superb durability and resistance to scuffing.",
+          "code": "SCEM",
+          "image_url": "https://www.suzuki.ca/wp-content/uploads/suzuki-composite-electrochemical-material-icon-1.png"
+        },
+        {
+          "name": "An electrically controlled Antilock Brake System (ABS) that produces stable braking force under various road surface conditions. The system helps avoid wheel locking when there is a sudden change in road surface during braking or when an excessive braking force is applied. The system monitors wheel speed 50 times per wheel rotation and matches stopping power to available traction.\n\n* Depending on road surface conditions, such as wet, loose, or uneven roads, braking distance for an ABS equipped\u00a0vehicle may be longer than for a vehicle not equipped with ABS. ABS cannot prevent wheel skidding caused by braking while cornering. Please drive carefully and do not overly rely on ABS.",
+          "code": "ABS",
+          "image_url": "https://www.suzuki.ca/wp-content/uploads/antilock-brake-system-icon-1.png"
+        },
+        {
+          "name": "Suzuki Dual Throttle Valve (SDTV) digital fuel-injection system. In SDTV induction system, each throttle body barrel has two butterfly valves, a primary valve controlled by the twist grip and a secondary valve controlled by the ECM based on engine rpm, gear selection and the position of the primary valve. The secondary butterfly valve opens and closes to maintain ideal intake air velocity, improving high combustion efficiency, thus resulting in a linear throttle response, increased low-to-mid range torque.",
+          "code": "SDTV",
+          "image_url": "https://www.suzuki.ca/wp-content/uploads/suzuki-dual-throttle-valve-system-icon-1.png"
+        },
+        {
+          "name": "Suzuki Composite Electrochemical Material (SCEM) is Suzuki\u2019s own nickel-silicon-carbide coating technique derived from racetrack experience. SCEM cylinders allow faster heat transfer and tighter piston-to-cylinder clearance, for superb durability and resistance to scuffing.",
+          "code": "SCEM",
+          "image_url": "https://www.suzuki.ca/wp-content/uploads/suzuki-composite-electrochemical-material-icon-1.png"
+        },
+        {
+          "name": "An electrically controlled Antilock Brake System (ABS) that produces stable braking force under various road surface conditions. The system helps avoid wheel locking when there is a sudden change in road surface during braking or when an excessive braking force is applied. The system monitors wheel speed 50 times per wheel rotation and matches stopping power to available traction.\n\n* Depending on road surface conditions, such as wet, loose, or uneven roads, braking distance for an ABS equipped\u00a0vehicle may be longer than for a vehicle not equipped with ABS. ABS cannot prevent wheel skidding caused by braking while cornering. Please drive carefully and do not overly rely on ABS.",
+          "code": "ABS",
+          "image_url": "https://www.suzuki.ca/wp-content/uploads/antilock-brake-system-icon-1.png"
+        }
+      ]
+    },
+    {
+      "slug": "2026-dr650se",
+      "name": "DR650SE",
+      "year": 2026,
+      "category": "motorcycle",
+      "subcategory": "dual-purpose",
+      "family": "dr",
+      "msrp": 7795.0,
+      "msrp_text": "Starting from $7,795",
+      "trim": null,
+      "engine_displacement": "644cc",
+      "engine_type": "4-stroke, air-cooled, single cylinder, OHC",
+      "weight": "166 kg (366 lbs)",
+      "description": "\u2026 keep reading >",
+      "source_url": "https://www.suzuki.ca/product/2026-dr650se/",
+      "hero_image_url": null,
+      "image_urls": [],
+      "colors": [
+        {
+          "name": "Suzuki Composite Electrochemical Material (SCEM) is Suzuki\u2019s own nickel-silicon-carbide coating technique derived from racetrack experience. SCEM cylinders allow faster heat transfer and tighter piston-to-cylinder clearance, for superb durability and resistance to scuffing.",
+          "code": "SCEM",
+          "image_url": "https://www.suzuki.ca/wp-content/uploads/suzuki-composite-electrochemical-material-icon-1.png"
+        }
+      ]
+    },
+    {
+      "slug": "2025-dr-z50",
+      "name": "DR-Z50",
+      "year": 2025,
+      "category": "motorcycle",
+      "subcategory": "",
+      "family": "dr-z",
+      "msrp": 3099.0,
+      "msrp_text": "Starting from $3,099",
+      "trim": null,
+      "engine_displacement": "49 cc",
+      "engine_type": "4-stroke, air-cooled, single cylinder, OHC",
+      "weight": "54 kg (121 lbs)",
+      "description": "\u2026 keep reading >",
+      "source_url": "https://www.suzuki.ca/product/2025-dr-z50/",
+      "hero_image_url": "https://www.suzuki.ca/wp-content/uploads/DR-Z50M3_YU1_Diagonal-1.jpg",
+      "image_urls": [
+        "https://www.suzuki.ca/wp-content/uploads/DR-Z50M3_YU1_Diagonal-1.jpg",
+        "https://www.suzuki.ca/wp-content/uploads/DR-Z50M3_YU1_Right-1.jpg"
+      ]
+    },
+    {
+      "slug": "2026-dr-z125",
+      "name": "DR-Z125",
+      "year": 2026,
+      "category": "motorcycle",
+      "subcategory": "",
+      "family": "dr-z",
+      "msrp": 4195.0,
+      "msrp_text": "Starting from $4,195",
+      "trim": null,
+      "engine_displacement": "124 cc",
+      "engine_type": "4-stroke, air-cooled, OHC",
+      "weight": "88 kg (194 lbs)",
+      "description": "\u2026 keep reading >",
+      "source_url": "https://www.suzuki.ca/product/2026-dr-z125/",
+      "hero_image_url": "https://www.suzuki.ca/wp-content/uploads/DR-Z125M3_YU1_Right.jpg",
+      "image_urls": [
+        "https://www.suzuki.ca/wp-content/uploads/DR-Z125M3_YU1_Right.jpg",
+        "https://www.suzuki.ca/wp-content/uploads/DR-Z125M3_YU1_Diagonal.jpg"
+      ]
+    },
+    {
+      "slug": "2026-dr-z125l",
+      "name": "DR-Z125L",
+      "year": 2026,
+      "category": "motorcycle",
+      "subcategory": "",
+      "family": "dr-z",
+      "msrp": 4495.0,
+      "msrp_text": "Starting from $4,495",
+      "trim": null,
+      "engine_displacement": "124 cc",
+      "engine_type": "4-stroke, air-cooled, OHC",
+      "weight": "89 kg (196 lbs)",
+      "description": "\u2026 keep reading >",
+      "source_url": "https://www.suzuki.ca/product/2026-dr-z125l/",
+      "hero_image_url": null,
+      "image_urls": []
+    },
+    {
+      "slug": "2024-dr-z400s",
+      "name": "DR-Z400S",
+      "year": 2024,
+      "category": "motorcycle",
+      "subcategory": "dual-purpose",
+      "family": "dr-z",
+      "msrp": 8599.0,
+      "msrp_text": "Starting from $8,599",
+      "trim": null,
+      "engine_displacement": "398cc",
+      "engine_type": "4-stroke, liquid-cooled, single cylinder, DOHC",
+      "weight": "144 kg (317 lbs)",
+      "description": "\u00a0  \u00a0  \u00a0",
+      "source_url": "https://www.suzuki.ca/product/2024-dr-z400s/",
+      "hero_image_url": "https://www.suzuki.ca/wp-content/uploads/DR-Z400SM4-019_Right-1-scaled.jpg",
+      "image_urls": [
+        "https://www.suzuki.ca/wp-content/uploads/DR-Z400SM4-019_Right-1-scaled.jpg"
+      ],
+      "colors": [
+        {
+          "name": "Suzuki Composite Electrochemical Material (SCEM) is Suzuki\u2019s own nickel-silicon-carbide coating technique derived from racetrack experience. SCEM cylinders allow faster heat transfer and tighter piston-to-cylinder clearance, for superb durability and resistance to scuffing.",
+          "code": "SCEM",
+          "image_url": "https://www.suzuki.ca/wp-content/uploads/suzuki-composite-electrochemical-material-icon-1.png"
+        }
+      ]
+    },
+    {
+      "slug": "2024-dr-z400sm",
+      "name": "DR-Z400SM",
+      "year": 2024,
+      "category": "motorcycle",
+      "subcategory": "",
+      "family": "dr-z",
+      "msrp": 8999.0,
+      "msrp_text": "Starting from $8,999",
+      "trim": null,
+      "engine_displacement": "398cc",
+      "engine_type": "4-stroke, liquid-cooled, single cylinder, DOHC",
+      "weight": "146 kg (321 lbs)",
+      "description": "\u00a0  \u00a0  \u00a0",
+      "source_url": "https://www.suzuki.ca/product/2024-dr-z400sm/",
+      "hero_image_url": "https://www.suzuki.ca/wp-content/uploads/DR-Z400SMM4-CKS_Diagonal-scaled.jpg",
+      "image_urls": [
+        "https://www.suzuki.ca/wp-content/uploads/DR-Z400SMM4-CKS_Diagonal-scaled.jpg",
+        "https://www.suzuki.ca/wp-content/uploads/DR-Z400SMM4-CKS_Right-scaled.jpg",
+        "https://www.suzuki.ca/wp-content/uploads/DR-Z400SMM4-30H_Right-scaled.jpg",
+        "https://www.suzuki.ca/wp-content/uploads/DR-Z400SMM4-019_Right-scaled.jpg"
+      ],
+      "colors": [
+        {
+          "name": "Suzuki Composite Electrochemical Material (SCEM) is Suzuki\u2019s own nickel-silicon-carbide coating technique derived from racetrack experience. SCEM cylinders allow faster heat transfer and tighter piston-to-cylinder clearance, for superb durability and resistance to scuffing.",
+          "code": "SCEM",
+          "image_url": "https://www.suzuki.ca/wp-content/uploads/suzuki-composite-electrochemical-material-icon-1.png"
+        }
+      ]
+    },
+    {
+      "slug": "2026-dr-z4s",
+      "name": "DR-Z4S",
+      "year": 2026,
+      "category": "motorcycle",
+      "subcategory": "dual-purpose",
+      "family": "dr-z",
+      "msrp": 11495.0,
+      "msrp_text": "Starting from $11,495",
+      "trim": null,
+      "engine_displacement": "398 cm3 (24.3 cu. in.)",
+      "engine_type": "4-stroke, single-cylinder, liquid-cooled, DOHC",
+      "weight": "151kg (333 lbs)",
+      "description": "\u2026 keep reading >",
+      "source_url": "https://www.suzuki.ca/product/2026-dr-z4s/",
+      "hero_image_url": "https://www.suzuki.ca/wp-content/uploads/DR-Z400SRJM5_C1C_diagonal.png",
+      "image_urls": [
+        "https://www.suzuki.ca/wp-content/uploads/DR-Z400SRJM5_C1C_diagonal.png",
+        "https://www.suzuki.ca/wp-content/uploads/DR-Z400SRJM5_YUD_diagonal.png"
+      ],
+      "colors": [
+        {
+          "name": "Suzuki Clutch Assist System (SCAS) - a back-torque-limiting clutch helps make downshifts smoother, assists the rider in taking control in deceleration. Ramped engagement cams built into the clutch hub decrease force on the clutch plates under deceleration by pushing up against the pressure plate, allowing the plates to slip at a controlled rate.",
+          "code": "SCAS",
+          "image_url": "https://www.suzuki.ca/wp-content/uploads/suzuki-clutch-assist-system-icon-1.png"
+        },
+        {
+          "name": "An electrically controlled Antilock Brake System (ABS) that produces stable braking force under various road surface conditions. The system helps avoid wheel locking when there is a sudden change in road surface during braking or when an excessive braking force is applied. The system monitors wheel speed 50 times per wheel rotation and matches stopping power to available traction.\n\n* Depending on road surface conditions, such as wet, loose, or uneven roads, braking distance for an ABS equipped\u00a0vehicle may be longer than for a vehicle not equipped with ABS. ABS cannot prevent wheel skidding caused by braking while cornering. Please drive carefully and do not overly rely on ABS.",
+          "code": "ABS",
+          "image_url": "https://www.suzuki.ca/wp-content/uploads/antilock-brake-system-icon-1.png"
+        },
+        {
+          "name": "Suzuki Clutch Assist System (SCAS) - a back-torque-limiting clutch helps make downshifts smoother, assists the rider in taking control in deceleration. Ramped engagement cams built into the clutch hub decrease force on the clutch plates under deceleration by pushing up against the pressure plate, allowing the plates to slip at a controlled rate.",
+          "code": "SCAS",
+          "image_url": "https://www.suzuki.ca/wp-content/uploads/suzuki-clutch-assist-system-icon-1.png"
+        },
+        {
+          "name": "An electrically controlled Antilock Brake System (ABS) that produces stable braking force under various road surface conditions. The system helps avoid wheel locking when there is a sudden change in road surface during braking or when an excessive braking force is applied. The system monitors wheel speed 50 times per wheel rotation and matches stopping power to available traction.\n\n* Depending on road surface conditions, such as wet, loose, or uneven roads, braking distance for an ABS equipped\u00a0vehicle may be longer than for a vehicle not equipped with ABS. ABS cannot prevent wheel skidding caused by braking while cornering. Please drive carefully and do not overly rely on ABS.",
+          "code": "ABS",
+          "image_url": "https://www.suzuki.ca/wp-content/uploads/antilock-brake-system-icon-1.png"
+        }
+      ]
+    },
+    {
+      "slug": "2026-dr-z4sm",
+      "name": "DR-Z4SM",
+      "year": 2026,
+      "category": "motorcycle",
+      "subcategory": "",
+      "family": "dr-z",
+      "msrp": 11495.0,
+      "msrp_text": "Starting from $11,495",
+      "trim": null,
+      "engine_displacement": "398 cm3 (24.3 cu. in.)",
+      "engine_type": "4-stroke, single-cylinder, liquid-cooled, DOHC",
+      "weight": "154kg (340 lbs)",
+      "description": "\u2026 keep reading >",
+      "source_url": "https://www.suzuki.ca/product/2026-dr-z4sm/",
+      "hero_image_url": "https://www.suzuki.ca/wp-content/uploads/DR-Z400SMRLM5_Q1T_diagonal-1.jpg",
+      "image_urls": [
+        "https://www.suzuki.ca/wp-content/uploads/DR-Z400SMRLM5_Q1T_diagonal-1.jpg",
+        "https://www.suzuki.ca/wp-content/uploads/DR-Z400SMRLM5_30H_diagonal.jpg"
+      ],
+      "colors": [
+        {
+          "name": "Suzuki Clutch Assist System (SCAS) - a back-torque-limiting clutch helps make downshifts smoother, assists the rider in taking control in deceleration. Ramped engagement cams built into the clutch hub decrease force on the clutch plates under deceleration by pushing up against the pressure plate, allowing the plates to slip at a controlled rate.",
+          "code": "SCAS",
+          "image_url": "https://www.suzuki.ca/wp-content/uploads/suzuki-clutch-assist-system-icon-1.png"
+        },
+        {
+          "name": "An electrically controlled Antilock Brake System (ABS) that produces stable braking force under various road surface conditions. The system helps avoid wheel locking when there is a sudden change in road surface during braking or when an excessive braking force is applied. The system monitors wheel speed 50 times per wheel rotation and matches stopping power to available traction.\n\n* Depending on road surface conditions, such as wet, loose, or uneven roads, braking distance for an ABS equipped\u00a0vehicle may be longer than for a vehicle not equipped with ABS. ABS cannot prevent wheel skidding caused by braking while cornering. Please drive carefully and do not overly rely on ABS.",
+          "code": "ABS",
+          "image_url": "https://www.suzuki.ca/wp-content/uploads/antilock-brake-system-icon-1.png"
+        },
+        {
+          "name": "Suzuki Clutch Assist System (SCAS) - a back-torque-limiting clutch helps make downshifts smoother, assists the rider in taking control in deceleration. Ramped engagement cams built into the clutch hub decrease force on the clutch plates under deceleration by pushing up against the pressure plate, allowing the plates to slip at a controlled rate.",
+          "code": "SCAS",
+          "image_url": "https://www.suzuki.ca/wp-content/uploads/suzuki-clutch-assist-system-icon-1.png"
+        },
+        {
+          "name": "An electrically controlled Antilock Brake System (ABS) that produces stable braking force under various road surface conditions. The system helps avoid wheel locking when there is a sudden change in road surface during braking or when an excessive braking force is applied. The system monitors wheel speed 50 times per wheel rotation and matches stopping power to available traction.\n\n* Depending on road surface conditions, such as wet, loose, or uneven roads, braking distance for an ABS equipped\u00a0vehicle may be longer than for a vehicle not equipped with ABS. ABS cannot prevent wheel skidding caused by braking while cornering. Please drive carefully and do not overly rely on ABS.",
+          "code": "ABS",
+          "image_url": "https://www.suzuki.ca/wp-content/uploads/antilock-brake-system-icon-1.png"
+        }
+      ]
+    },
+    {
+      "slug": "2026-gsx-8s",
+      "name": "GSX-8S",
+      "year": 2026,
+      "category": "motorcycle",
+      "subcategory": "",
+      "family": "gsx-8",
+      "msrp": 10895.0,
+      "msrp_text": "Starting from $10,895",
+      "trim": null,
+      "engine_displacement": "776 cm3 (47.4 cu. in.)",
+      "engine_type": "4-stroke, 2-cylinder, liquid-cooled, DOHC",
+      "weight": "202 kg (445 lbs.)",
+      "description": "GSX-8S is a fresh, naked street fighter destined to set a new bar for rideability and performance. It offers endless possibilities - winning performance, confidence-inspiring controllability, and optimal comfort - to all riders.",
+      "source_url": "https://www.suzuki.ca/product/2026-gsx-8s/",
+      "hero_image_url": "https://www.suzuki.ca/wp-content/uploads/GSX800RQM6_KGL_right.png",
+      "image_urls": [
+        "https://www.suzuki.ca/wp-content/uploads/GSX800RQM6_KGL_right.png",
+        "https://www.suzuki.ca/wp-content/uploads/GSX800RQM6_BNR_right.png"
+      ]
+    },
+    {
+      "slug": "2026-gsx-8r",
+      "name": "GSX-8R",
+      "year": 2026,
+      "category": "motorcycle",
+      "subcategory": "",
+      "family": "gsx-8",
+      "msrp": 11995.0,
+      "msrp_text": "Starting from $11,995",
+      "trim": null,
+      "engine_displacement": "776 cm3  (47.4 cu. in.)",
+      "engine_type": "4-stroke, 2-cylinder, liquid-cooled, DOHC",
+      "weight": "205 kg (452 lbs.)",
+      "description": "\u2026 keep reading >",
+      "source_url": "https://www.suzuki.ca/product/2026-gsx-8r/",
+      "hero_image_url": "https://www.suzuki.ca/wp-content/uploads/GSX800FRQM6_YKV_right.jpg",
+      "image_urls": [
+        "https://www.suzuki.ca/wp-content/uploads/GSX800FRQM6_YKV_right.jpg",
+        "https://www.suzuki.ca/wp-content/uploads/GSX800FRQM6_QRE_right.jpg",
+        "https://www.suzuki.ca/wp-content/uploads/GSX800FRQM6_QRE_diagonal.png",
+        "https://www.suzuki.ca/wp-content/uploads/GSX800FRQM6_QU2_right.jpg",
+        "https://www.suzuki.ca/wp-content/uploads/GSX800FRQM6_QU2_diagonal.png"
+      ]
+    },
+    {
+      "slug": "2026-gsx-8t",
+      "name": "GSX-8T",
+      "year": 2026,
+      "category": "motorcycle",
+      "subcategory": "",
+      "family": "gsx-8",
+      "msrp": 12895.0,
+      "msrp_text": "Starting from $12,895",
+      "trim": null,
+      "engine_displacement": "776 cm3 (47.4 cu. in.)",
+      "engine_type": "4-stroke, 2-cylinder, liquid-cooled, DOHC",
+      "weight": "201 kg (443 lbs.)",
+      "description": "\u2026 keep reading >",
+      "source_url": "https://www.suzuki.ca/product/2026-gsx-8t/",
+      "hero_image_url": null,
+      "image_urls": [],
+      "colors": [
+        {
+          "name": "Suzuki Composite Electrochemical Material (SCEM) is Suzuki\u2019s own nickel-silicon-carbide coating technique derived from racetrack experience. SCEM cylinders allow faster heat transfer and tighter piston-to-cylinder clearance, for superb durability and resistance to scuffing.",
+          "code": "SCEM",
+          "image_url": "https://www.suzuki.ca/wp-content/uploads/suzuki-composite-electrochemical-material-icon-1.png"
+        },
+        {
+          "name": "Suzuki Clutch Assist System (SCAS) - a back-torque-limiting clutch helps make downshifts smoother, assists the rider in taking control in deceleration. Ramped engagement cams built into the clutch hub decrease force on the clutch plates under deceleration by pushing up against the pressure plate, allowing the plates to slip at a controlled rate.",
+          "code": "SCAS",
+          "image_url": "https://www.suzuki.ca/wp-content/uploads/suzuki-clutch-assist-system-icon-1.png"
+        },
+        {
+          "name": "An electrically controlled Antilock Brake System (ABS) that produces stable braking force under various road surface conditions. The system helps avoid wheel locking when there is a sudden change in road surface during braking or when an excessive braking force is applied. The system monitors wheel speed 50 times per wheel rotation and matches stopping power to available traction.\n\n* Depending on road surface conditions, such as wet, loose, or uneven roads, braking distance for an ABS equipped\u00a0vehicle may be longer than for a vehicle not equipped with ABS. ABS cannot prevent wheel skidding caused by braking while cornering. Please drive carefully and do not overly rely on ABS.",
+          "code": "ABS",
+          "image_url": "https://www.suzuki.ca/wp-content/uploads/antilock-brake-system-icon-1.png"
+        },
+        {
+          "name": "Suzuki Composite Electrochemical Material (SCEM) is Suzuki\u2019s own nickel-silicon-carbide coating technique derived from racetrack experience. SCEM cylinders allow faster heat transfer and tighter piston-to-cylinder clearance, for superb durability and resistance to scuffing.",
+          "code": "SCEM",
+          "image_url": "https://www.suzuki.ca/wp-content/uploads/suzuki-composite-electrochemical-material-icon-1.png"
+        },
+        {
+          "name": "Suzuki Clutch Assist System (SCAS) - a back-torque-limiting clutch helps make downshifts smoother, assists the rider in taking control in deceleration. Ramped engagement cams built into the clutch hub decrease force on the clutch plates under deceleration by pushing up against the pressure plate, allowing the plates to slip at a controlled rate.",
+          "code": "SCAS",
+          "image_url": "https://www.suzuki.ca/wp-content/uploads/suzuki-clutch-assist-system-icon-1.png"
+        },
+        {
+          "name": "An electrically controlled Antilock Brake System (ABS) that produces stable braking force under various road surface conditions. The system helps avoid wheel locking when there is a sudden change in road surface during braking or when an excessive braking force is applied. The system monitors wheel speed 50 times per wheel rotation and matches stopping power to available traction.\n\n* Depending on road surface conditions, such as wet, loose, or uneven roads, braking distance for an ABS equipped\u00a0vehicle may be longer than for a vehicle not equipped with ABS. ABS cannot prevent wheel skidding caused by braking while cornering. Please drive carefully and do not overly rely on ABS.",
+          "code": "ABS",
+          "image_url": "https://www.suzuki.ca/wp-content/uploads/antilock-brake-system-icon-1.png"
+        }
+      ]
+    },
+    {
+      "slug": "2026-gsx-8tt",
+      "name": "GSX-8TT",
+      "year": 2026,
+      "category": "motorcycle",
+      "subcategory": "",
+      "family": "gsx-8",
+      "msrp": 13695.0,
+      "msrp_text": "Starting from $13,695",
+      "trim": null,
+      "engine_displacement": "776 cm3 (47.4 cu. in.)",
+      "engine_type": "4-stroke, 2-cylinder, liquid-cooled, DOHC",
+      "weight": "201 kg (443 lbs.)",
+      "description": "\u2026 keep reading >",
+      "source_url": "https://www.suzuki.ca/product/2026-gsx-8tt/",
+      "hero_image_url": null,
+      "image_urls": [],
+      "colors": [
+        {
+          "name": "Suzuki Composite Electrochemical Material (SCEM) is Suzuki\u2019s own nickel-silicon-carbide coating technique derived from racetrack experience. SCEM cylinders allow faster heat transfer and tighter piston-to-cylinder clearance, for superb durability and resistance to scuffing.",
+          "code": "SCEM",
+          "image_url": "https://www.suzuki.ca/wp-content/uploads/suzuki-composite-electrochemical-material-icon-1.png"
+        },
+        {
+          "name": "Suzuki Clutch Assist System (SCAS) - a back-torque-limiting clutch helps make downshifts smoother, assists the rider in taking control in deceleration. Ramped engagement cams built into the clutch hub decrease force on the clutch plates under deceleration by pushing up against the pressure plate, allowing the plates to slip at a controlled rate.",
+          "code": "SCAS",
+          "image_url": "https://www.suzuki.ca/wp-content/uploads/suzuki-clutch-assist-system-icon-1.png"
+        },
+        {
+          "name": "An electrically controlled Antilock Brake System (ABS) that produces stable braking force under various road surface conditions. The system helps avoid wheel locking when there is a sudden change in road surface during braking or when an excessive braking force is applied. The system monitors wheel speed 50 times per wheel rotation and matches stopping power to available traction.\n\n* Depending on road surface conditions, such as wet, loose, or uneven roads, braking distance for an ABS equipped\u00a0vehicle may be longer than for a vehicle not equipped with ABS. ABS cannot prevent wheel skidding caused by braking while cornering. Please drive carefully and do not overly rely on ABS.",
+          "code": "ABS",
+          "image_url": "https://www.suzuki.ca/wp-content/uploads/antilock-brake-system-icon-1.png"
+        },
+        {
+          "name": "Suzuki Composite Electrochemical Material (SCEM) is Suzuki\u2019s own nickel-silicon-carbide coating technique derived from racetrack experience. SCEM cylinders allow faster heat transfer and tighter piston-to-cylinder clearance, for superb durability and resistance to scuffing.",
+          "code": "SCEM",
+          "image_url": "https://www.suzuki.ca/wp-content/uploads/suzuki-composite-electrochemical-material-icon-1.png"
+        },
+        {
+          "name": "Suzuki Clutch Assist System (SCAS) - a back-torque-limiting clutch helps make downshifts smoother, assists the rider in taking control in deceleration. Ramped engagement cams built into the clutch hub decrease force on the clutch plates under deceleration by pushing up against the pressure plate, allowing the plates to slip at a controlled rate.",
+          "code": "SCAS",
+          "image_url": "https://www.suzuki.ca/wp-content/uploads/suzuki-clutch-assist-system-icon-1.png"
+        },
+        {
+          "name": "An electrically controlled Antilock Brake System (ABS) that produces stable braking force under various road surface conditions. The system helps avoid wheel locking when there is a sudden change in road surface during braking or when an excessive braking force is applied. The system monitors wheel speed 50 times per wheel rotation and matches stopping power to available traction.\n\n* Depending on road surface conditions, such as wet, loose, or uneven roads, braking distance for an ABS equipped\u00a0vehicle may be longer than for a vehicle not equipped with ABS. ABS cannot prevent wheel skidding caused by braking while cornering. Please drive carefully and do not overly rely on ABS.",
+          "code": "ABS",
+          "image_url": "https://www.suzuki.ca/wp-content/uploads/antilock-brake-system-icon-1.png"
+        }
+      ]
+    },
+    {
+      "slug": "2027-gsx-r1000r",
+      "name": "GSX-R1000R",
+      "year": 2027,
+      "category": "motorcycle",
+      "subcategory": "sport",
+      "family": "gsx-r",
+      "msrp": null,
+      "msrp_text": "",
+      "trim": null,
+      "engine_displacement": "999.8cc",
+      "engine_type": "4-stroke, liquid-cooled, 4-cylinder, DOHC",
+      "weight": "203 kg (448 lbs.)",
+      "description": "\u2026 keep reading >",
+      "source_url": "https://www.suzuki.ca/product/2027-gsx-r1000r/",
+      "hero_image_url": "https://www.suzuki.ca/wp-content/uploads/GSX-R1000R_C6F_right-sans_winglet.jpg.png",
+      "image_urls": [
+        "https://www.suzuki.ca/wp-content/uploads/GSX-R1000R_C6F_right-sans_winglet.jpg.png",
+        "https://www.suzuki.ca/wp-content/uploads/GSX-R1000R_C6F_diagonal-scaled.jpg"
+      ],
+      "colors": [
+        {
+          "name": "Suzuki Composite Electrochemical Material (SCEM) is Suzuki\u2019s own nickel-silicon-carbide coating technique derived from racetrack experience. SCEM cylinders allow faster heat transfer and tighter piston-to-cylinder clearance, for superb durability and resistance to scuffing.",
+          "code": "SCEM",
+          "image_url": "https://www.suzuki.ca/wp-content/uploads/suzuki-composite-electrochemical-material-icon-1.png"
+        },
+        {
+          "name": "The Suzuki Ram Air-Direct (SRAD) air intakes are positioned close to the centreline of the fairing nose \u2013 the position offering optimum intake efficiency. This results in better intake efficiency, increasing engine power in high speed.\n\n* The technology is used in GSX-R1000, 750, 600 and Hayabusa.",
+          "code": "SRAD",
+          "image_url": "https://www.suzuki.ca/wp-content/uploads/suzuki-ram-air-system-icon-1.png"
+        },
+        {
+          "name": "Suzuki Clutch Assist System (SCAS) - a back-torque-limiting clutch helps make downshifts smoother, assists the rider in taking control in deceleration. Ramped engagement cams built into the clutch hub decrease force on the clutch plates under deceleration by pushing up against the pressure plate, allowing the plates to slip at a controlled rate.",
+          "code": "SCAS",
+          "image_url": "https://www.suzuki.ca/wp-content/uploads/suzuki-clutch-assist-system-icon-1.png"
+        },
+        {
+          "name": "Suzuki Exhaust Tuning (SET) system, which uses a servo-controlled butterfly valve to modify back pressure and tune the pipe to match engine rpm. At lower rpm, the valve closes, increasing\u00a0back pressure and improving low-end torque. The valve progressively opens as engine speed increases, reducing back pressure and increasing mid-range and high-rpm power.",
+          "code": "SET",
+          "image_url": "https://www.suzuki.ca/wp-content/uploads/suzuki-exhaust-tuning-icon-1.png"
+        },
+        {
+          "name": "An electrically controlled Antilock Brake System (ABS) that produces stable braking force under various road surface conditions. The system helps avoid wheel locking when there is a sudden change in road surface during braking or when an excessive braking force is applied. The system monitors wheel speed 50 times per wheel rotation and matches stopping power to available traction.\n\n* Depending on road surface conditions, such as wet, loose, or uneven roads, braking distance for an ABS equipped\u00a0vehicle may be longer than for a vehicle not equipped with ABS. ABS cannot prevent wheel skidding caused by braking while cornering. Please drive carefully and do not overly rely on ABS.",
+          "code": "ABS",
+          "image_url": "https://www.suzuki.ca/wp-content/uploads/antilock-brake-system-icon-1.png"
+        },
+        {
+          "name": "Suzuki Composite Electrochemical Material (SCEM) is Suzuki\u2019s own nickel-silicon-carbide coating technique derived from racetrack experience. SCEM cylinders allow faster heat transfer and tighter piston-to-cylinder clearance, for superb durability and resistance to scuffing.",
+          "code": "SCEM",
+          "image_url": "https://www.suzuki.ca/wp-content/uploads/suzuki-composite-electrochemical-material-icon-1.png"
+        },
+        {
+          "name": "The Suzuki Ram Air-Direct (SRAD) air intakes are positioned close to the centreline of the fairing nose \u2013 the position offering optimum intake efficiency. This results in better intake efficiency, increasing engine power in high speed.\n\n* The technology is used in GSX-R1000, 750, 600 and Hayabusa.",
+          "code": "SRAD",
+          "image_url": "https://www.suzuki.ca/wp-content/uploads/suzuki-ram-air-system-icon-1.png"
+        },
+        {
+          "name": "Suzuki Clutch Assist System (SCAS) - a back-torque-limiting clutch helps make downshifts smoother, assists the rider in taking control in deceleration. Ramped engagement cams built into the clutch hub decrease force on the clutch plates under deceleration by pushing up against the pressure plate, allowing the plates to slip at a controlled rate.",
+          "code": "SCAS",
+          "image_url": "https://www.suzuki.ca/wp-content/uploads/suzuki-clutch-assist-system-icon-1.png"
+        },
+        {
+          "name": "Suzuki Exhaust Tuning (SET) system, which uses a servo-controlled butterfly valve to modify back pressure and tune the pipe to match engine rpm. At lower rpm, the valve closes, increasing\u00a0back pressure and improving low-end torque. The valve progressively opens as engine speed increases, reducing back pressure and increasing mid-range and high-rpm power.",
+          "code": "SET",
+          "image_url": "https://www.suzuki.ca/wp-content/uploads/suzuki-exhaust-tuning-icon-1.png"
+        },
+        {
+          "name": "An electrically controlled Antilock Brake System (ABS) that produces stable braking force under various road surface conditions. The system helps avoid wheel locking when there is a sudden change in road surface during braking or when an excessive braking force is applied. The system monitors wheel speed 50 times per wheel rotation and matches stopping power to available traction.\n\n* Depending on road surface conditions, such as wet, loose, or uneven roads, braking distance for an ABS equipped\u00a0vehicle may be longer than for a vehicle not equipped with ABS. ABS cannot prevent wheel skidding caused by braking while cornering. Please drive carefully and do not overly rely on ABS.",
+          "code": "ABS",
+          "image_url": "https://www.suzuki.ca/wp-content/uploads/antilock-brake-system-icon-1.png"
+        }
+      ]
+    },
+    {
+      "slug": "2026-gsx-r600",
+      "name": "GSX-R600",
+      "year": 2026,
+      "category": "motorcycle",
+      "subcategory": "sport",
+      "family": "gsx-r",
+      "msrp": 13795.0,
+      "msrp_text": "Starting from $13,795",
+      "trim": null,
+      "engine_displacement": "599cc",
+      "engine_type": "4-stroke, 4-cylinder, liquid-cooled, DOHC",
+      "weight": "187 kg (412 lbs )",
+      "description": "\u2026 keep reading >",
+      "source_url": "https://www.suzuki.ca/product/2026-gsx-r600/",
+      "hero_image_url": "https://www.suzuki.ca/wp-content/uploads/GSX-R750M6_CFR_Diagonal.png",
+      "image_urls": [
+        "https://www.suzuki.ca/wp-content/uploads/GSX-R750M6_CFR_Diagonal.png",
+        "https://www.suzuki.ca/wp-content/uploads/GSX-R600M6_BNR_Right-1.png",
+        "https://www.suzuki.ca/wp-content/uploads/GSX-R750M6_BNR_Diagonal.png",
+        "https://www.suzuki.ca/wp-content/uploads/GSX-R600ZM6_C6F_Right.png",
+        "https://www.suzuki.ca/wp-content/uploads/GSX-R600ZM6_C6F_Right-2.png"
+      ],
+      "colors": [
+        {
+          "name": "Suzuki Exhaust Tuning (SET) system, which uses a servo-controlled butterfly valve to modify back pressure and tune the pipe to match engine rpm. At lower rpm, the valve closes, increasing\u00a0back pressure and improving low-end torque. The valve progressively opens as engine speed increases, reducing back pressure and increasing mid-range and high-rpm power.",
+          "code": "SET",
+          "image_url": "https://www.suzuki.ca/wp-content/uploads/suzuki-exhaust-tuning-icon-1.png"
+        },
+        {
+          "name": "Suzuki Dual Throttle Valve (SDTV) digital fuel-injection system. In SDTV induction system, each throttle body barrel has two butterfly valves, a primary valve controlled by the twist grip and a secondary valve controlled by the ECM based on engine rpm, gear selection and the position of the primary valve. The secondary butterfly valve opens and closes to maintain ideal intake air velocity, improving high combustion efficiency, thus resulting in a linear throttle response, increased low-to-mid range torque.",
+          "code": "SDTV",
+          "image_url": "https://www.suzuki.ca/wp-content/uploads/suzuki-dual-throttle-valve-system-icon-1.png"
+        },
+        {
+          "name": "Suzuki Composite Electrochemical Material (SCEM) is Suzuki\u2019s own nickel-silicon-carbide coating technique derived from racetrack experience. SCEM cylinders allow faster heat transfer and tighter piston-to-cylinder clearance, for superb durability and resistance to scuffing.",
+          "code": "SCEM",
+          "image_url": "https://www.suzuki.ca/wp-content/uploads/suzuki-composite-electrochemical-material-icon-1.png"
+        },
+        {
+          "name": "The Suzuki Ram Air-Direct (SRAD) air intakes are positioned close to the centreline of the fairing nose \u2013 the position offering optimum intake efficiency. This results in better intake efficiency, increasing engine power in high speed.\n\n* The technology is used in GSX-R1000, 750, 600 and Hayabusa.",
+          "code": "SRAD",
+          "image_url": "https://www.suzuki.ca/wp-content/uploads/suzuki-ram-air-system-icon-1.png"
+        },
+        {
+          "name": "Suzuki Clutch Assist System (SCAS) - a back-torque-limiting clutch helps make downshifts smoother, assists the rider in taking control in deceleration. Ramped engagement cams built into the clutch hub decrease force on the clutch plates under deceleration by pushing up against the pressure plate, allowing the plates to slip at a controlled rate.",
+          "code": "SCAS",
+          "image_url": "https://www.suzuki.ca/wp-content/uploads/suzuki-clutch-assist-system-icon-1.png"
+        },
+        {
+          "name": "Suzuki Exhaust Tuning (SET) system, which uses a servo-controlled butterfly valve to modify back pressure and tune the pipe to match engine rpm. At lower rpm, the valve closes, increasing\u00a0back pressure and improving low-end torque. The valve progressively opens as engine speed increases, reducing back pressure and increasing mid-range and high-rpm power.",
+          "code": "SET",
+          "image_url": "https://www.suzuki.ca/wp-content/uploads/suzuki-exhaust-tuning-icon-1.png"
+        },
+        {
+          "name": "Suzuki Dual Throttle Valve (SDTV) digital fuel-injection system. In SDTV induction system, each throttle body barrel has two butterfly valves, a primary valve controlled by the twist grip and a secondary valve controlled by the ECM based on engine rpm, gear selection and the position of the primary valve. The secondary butterfly valve opens and closes to maintain ideal intake air velocity, improving high combustion efficiency, thus resulting in a linear throttle response, increased low-to-mid range torque.",
+          "code": "SDTV",
+          "image_url": "https://www.suzuki.ca/wp-content/uploads/suzuki-dual-throttle-valve-system-icon-1.png"
+        },
+        {
+          "name": "Suzuki Composite Electrochemical Material (SCEM) is Suzuki\u2019s own nickel-silicon-carbide coating technique derived from racetrack experience. SCEM cylinders allow faster heat transfer and tighter piston-to-cylinder clearance, for superb durability and resistance to scuffing.",
+          "code": "SCEM",
+          "image_url": "https://www.suzuki.ca/wp-content/uploads/suzuki-composite-electrochemical-material-icon-1.png"
+        },
+        {
+          "name": "The Suzuki Ram Air-Direct (SRAD) air intakes are positioned close to the centreline of the fairing nose \u2013 the position offering optimum intake efficiency. This results in better intake efficiency, increasing engine power in high speed.\n\n* The technology is used in GSX-R1000, 750, 600 and Hayabusa.",
+          "code": "SRAD",
+          "image_url": "https://www.suzuki.ca/wp-content/uploads/suzuki-ram-air-system-icon-1.png"
+        },
+        {
+          "name": "Suzuki Clutch Assist System (SCAS) - a back-torque-limiting clutch helps make downshifts smoother, assists the rider in taking control in deceleration. Ramped engagement cams built into the clutch hub decrease force on the clutch plates under deceleration by pushing up against the pressure plate, allowing the plates to slip at a controlled rate.",
+          "code": "SCAS",
+          "image_url": "https://www.suzuki.ca/wp-content/uploads/suzuki-clutch-assist-system-icon-1.png"
+        },
+        {
+          "name": "Suzuki Exhaust Tuning (SET) system, which uses a servo-controlled butterfly valve to modify back pressure and tune the pipe to match engine rpm. At lower rpm, the valve closes, increasing\u00a0back pressure and improving low-end torque. The valve progressively opens as engine speed increases, reducing back pressure and increasing mid-range and high-rpm power.",
+          "code": "SET",
+          "image_url": "https://www.suzuki.ca/wp-content/uploads/suzuki-exhaust-tuning-icon-1.png"
+        }
+      ]
+    },
+    {
+      "slug": "2026-gsx-r750",
+      "name": "GSX-R750",
+      "year": 2026,
+      "category": "motorcycle",
+      "subcategory": "sport",
+      "family": "gsx-r",
+      "msrp": 14795.0,
+      "msrp_text": "Starting from $14,795",
+      "trim": null,
+      "engine_displacement": "750cc",
+      "engine_type": "4-stroke, 4-cylinder, liquid-cooled, DOHC",
+      "weight": "190 kg (419 lbs )",
+      "description": "\u2026 keep reading >",
+      "source_url": "https://www.suzuki.ca/product/2026-gsx-r750/",
+      "hero_image_url": "https://www.suzuki.ca/wp-content/uploads/GSX-R750M6_BNR_Diagonal.png",
+      "image_urls": [
+        "https://www.suzuki.ca/wp-content/uploads/GSX-R750M6_BNR_Diagonal.png",
+        "https://www.suzuki.ca/wp-content/uploads/GSX-R750M6_CFR_Right-1.png",
+        "https://www.suzuki.ca/wp-content/uploads/GSX-R750M6_CFR_Diagonal.png",
+        "https://www.suzuki.ca/wp-content/uploads/GSX-R750ZM6_C6F_Right.png",
+        "https://www.suzuki.ca/wp-content/uploads/GSX-R750ZM6_C6F_Right-2.png"
+      ],
+      "colors": [
+        {
+          "name": "Suzuki Exhaust Tuning (SET) system, which uses a servo-controlled butterfly valve to modify back pressure and tune the pipe to match engine rpm. At lower rpm, the valve closes, increasing\u00a0back pressure and improving low-end torque. The valve progressively opens as engine speed increases, reducing back pressure and increasing mid-range and high-rpm power.",
+          "code": "SET",
+          "image_url": "https://www.suzuki.ca/wp-content/uploads/suzuki-exhaust-tuning-icon-1.png"
+        },
+        {
+          "name": "Suzuki Dual Throttle Valve (SDTV) digital fuel-injection system. In SDTV induction system, each throttle body barrel has two butterfly valves, a primary valve controlled by the twist grip and a secondary valve controlled by the ECM based on engine rpm, gear selection and the position of the primary valve. The secondary butterfly valve opens and closes to maintain ideal intake air velocity, improving high combustion efficiency, thus resulting in a linear throttle response, increased low-to-mid range torque.",
+          "code": "SDTV",
+          "image_url": "https://www.suzuki.ca/wp-content/uploads/suzuki-dual-throttle-valve-system-icon-1.png"
+        },
+        {
+          "name": "Suzuki Composite Electrochemical Material (SCEM) is Suzuki\u2019s own nickel-silicon-carbide coating technique derived from racetrack experience. SCEM cylinders allow faster heat transfer and tighter piston-to-cylinder clearance, for superb durability and resistance to scuffing.",
+          "code": "SCEM",
+          "image_url": "https://www.suzuki.ca/wp-content/uploads/suzuki-composite-electrochemical-material-icon-1.png"
+        },
+        {
+          "name": "The Suzuki Ram Air-Direct (SRAD) air intakes are positioned close to the centreline of the fairing nose \u2013 the position offering optimum intake efficiency. This results in better intake efficiency, increasing engine power in high speed.\n\n* The technology is used in GSX-R1000, 750, 600 and Hayabusa.",
+          "code": "SRAD",
+          "image_url": "https://www.suzuki.ca/wp-content/uploads/suzuki-ram-air-system-icon-1.png"
+        },
+        {
+          "name": "Suzuki Clutch Assist System (SCAS) - a back-torque-limiting clutch helps make downshifts smoother, assists the rider in taking control in deceleration. Ramped engagement cams built into the clutch hub decrease force on the clutch plates under deceleration by pushing up against the pressure plate, allowing the plates to slip at a controlled rate.",
+          "code": "SCAS",
+          "image_url": "https://www.suzuki.ca/wp-content/uploads/suzuki-clutch-assist-system-icon-1.png"
+        },
+        {
+          "name": "Suzuki Exhaust Tuning (SET) system, which uses a servo-controlled butterfly valve to modify back pressure and tune the pipe to match engine rpm. At lower rpm, the valve closes, increasing\u00a0back pressure and improving low-end torque. The valve progressively opens as engine speed increases, reducing back pressure and increasing mid-range and high-rpm power.",
+          "code": "SET",
+          "image_url": "https://www.suzuki.ca/wp-content/uploads/suzuki-exhaust-tuning-icon-1.png"
+        },
+        {
+          "name": "Suzuki Dual Throttle Valve (SDTV) digital fuel-injection system. In SDTV induction system, each throttle body barrel has two butterfly valves, a primary valve controlled by the twist grip and a secondary valve controlled by the ECM based on engine rpm, gear selection and the position of the primary valve. The secondary butterfly valve opens and closes to maintain ideal intake air velocity, improving high combustion efficiency, thus resulting in a linear throttle response, increased low-to-mid range torque.",
+          "code": "SDTV",
+          "image_url": "https://www.suzuki.ca/wp-content/uploads/suzuki-dual-throttle-valve-system-icon-1.png"
+        },
+        {
+          "name": "Suzuki Composite Electrochemical Material (SCEM) is Suzuki\u2019s own nickel-silicon-carbide coating technique derived from racetrack experience. SCEM cylinders allow faster heat transfer and tighter piston-to-cylinder clearance, for superb durability and resistance to scuffing.",
+          "code": "SCEM",
+          "image_url": "https://www.suzuki.ca/wp-content/uploads/suzuki-composite-electrochemical-material-icon-1.png"
+        },
+        {
+          "name": "The Suzuki Ram Air-Direct (SRAD) air intakes are positioned close to the centreline of the fairing nose \u2013 the position offering optimum intake efficiency. This results in better intake efficiency, increasing engine power in high speed.\n\n* The technology is used in GSX-R1000, 750, 600 and Hayabusa.",
+          "code": "SRAD",
+          "image_url": "https://www.suzuki.ca/wp-content/uploads/suzuki-ram-air-system-icon-1.png"
+        },
+        {
+          "name": "Suzuki Clutch Assist System (SCAS) - a back-torque-limiting clutch helps make downshifts smoother, assists the rider in taking control in deceleration. Ramped engagement cams built into the clutch hub decrease force on the clutch plates under deceleration by pushing up against the pressure plate, allowing the plates to slip at a controlled rate.",
+          "code": "SCAS",
+          "image_url": "https://www.suzuki.ca/wp-content/uploads/suzuki-clutch-assist-system-icon-1.png"
+        },
+        {
+          "name": "Suzuki Exhaust Tuning (SET) system, which uses a servo-controlled butterfly valve to modify back pressure and tune the pipe to match engine rpm. At lower rpm, the valve closes, increasing\u00a0back pressure and improving low-end torque. The valve progressively opens as engine speed increases, reducing back pressure and increasing mid-range and high-rpm power.",
+          "code": "SET",
+          "image_url": "https://www.suzuki.ca/wp-content/uploads/suzuki-exhaust-tuning-icon-1.png"
+        }
+      ]
+    },
+    {
+      "slug": "2025-gsx-r1000a",
+      "name": "GSX-R1000A",
+      "year": 2025,
+      "category": "motorcycle",
+      "subcategory": "sport",
+      "family": "gsx-r",
+      "msrp": 21449.0,
+      "msrp_text": "Starting from $21,449",
+      "trim": null,
+      "engine_displacement": "999.8cc",
+      "engine_type": "4-stroke, liquid-cooled, 4-cylinder, DOHC",
+      "weight": "202 kg (445.33 lbs.)",
+      "description": "\u00a0  \u00a0",
+      "source_url": "https://www.suzuki.ca/product/2025-gsx-r1000a/",
+      "hero_image_url": "https://www.suzuki.ca/wp-content/uploads/GSX-R1000AM5_QKA_Right.jpg.png",
+      "image_urls": [
+        "https://www.suzuki.ca/wp-content/uploads/GSX-R1000AM5_QKA_Right.jpg.png"
+      ],
+      "colors": [
+        {
+          "name": "Suzuki Dual Throttle Valve (SDTV) digital fuel-injection system. In SDTV induction system, each throttle body barrel has two butterfly valves, a primary valve controlled by the twist grip and a secondary valve controlled by the ECM based on engine rpm, gear selection and the position of the primary valve. The secondary butterfly valve opens and closes to maintain ideal intake air velocity, improving high combustion efficiency, thus resulting in a linear throttle response, increased low-to-mid range torque.",
+          "code": "SDTV",
+          "image_url": "https://www.suzuki.ca/wp-content/uploads/suzuki-dual-throttle-valve-system-icon-1.png"
+        },
+        {
+          "name": "Suzuki Composite Electrochemical Material (SCEM) is Suzuki\u2019s own nickel-silicon-carbide coating technique derived from racetrack experience. SCEM cylinders allow faster heat transfer and tighter piston-to-cylinder clearance, for superb durability and resistance to scuffing.",
+          "code": "SCEM",
+          "image_url": "https://www.suzuki.ca/wp-content/uploads/suzuki-composite-electrochemical-material-icon-1.png"
+        },
+        {
+          "name": "The Suzuki Ram Air-Direct (SRAD) air intakes are positioned close to the centreline of the fairing nose \u2013 the position offering optimum intake efficiency. This results in better intake efficiency, increasing engine power in high speed.\n\n* The technology is used in GSX-R1000, 750, 600 and Hayabusa.",
+          "code": "SRAD",
+          "image_url": "https://www.suzuki.ca/wp-content/uploads/suzuki-ram-air-system-icon-1.png"
+        },
+        {
+          "name": "Suzuki Clutch Assist System (SCAS) - a back-torque-limiting clutch helps make downshifts smoother, assists the rider in taking control in deceleration. Ramped engagement cams built into the clutch hub decrease force on the clutch plates under deceleration by pushing up against the pressure plate, allowing the plates to slip at a controlled rate.",
+          "code": "SCAS",
+          "image_url": "https://www.suzuki.ca/wp-content/uploads/suzuki-clutch-assist-system-icon-1.png"
+        },
+        {
+          "name": "Suzuki Exhaust Tuning (SET) system, which uses a servo-controlled butterfly valve to modify back pressure and tune the pipe to match engine rpm. At lower rpm, the valve closes, increasing\u00a0back pressure and improving low-end torque. The valve progressively opens as engine speed increases, reducing back pressure and increasing mid-range and high-rpm power.",
+          "code": "SET",
+          "image_url": "https://www.suzuki.ca/wp-content/uploads/suzuki-exhaust-tuning-icon-1.png"
+        },
+        {
+          "name": "An electrically controlled Antilock Brake System (ABS) that produces stable braking force under various road surface conditions. The system helps avoid wheel locking when there is a sudden change in road surface during braking or when an excessive braking force is applied. The system monitors wheel speed 50 times per wheel rotation and matches stopping power to available traction.\n\n* Depending on road surface conditions, such as wet, loose, or uneven roads, braking distance for an ABS equipped\u00a0vehicle may be longer than for a vehicle not equipped with ABS. ABS cannot prevent wheel skidding caused by braking while cornering. Please drive carefully and do not overly rely on ABS.",
+          "code": "ABS",
+          "image_url": "https://www.suzuki.ca/wp-content/uploads/antilock-brake-system-icon-1.png"
+        },
+        {
+          "name": "Suzuki Dual Throttle Valve (SDTV) digital fuel-injection system. In SDTV induction system, each throttle body barrel has two butterfly valves, a primary valve controlled by the twist grip and a secondary valve controlled by the ECM based on engine rpm, gear selection and the position of the primary valve. The secondary butterfly valve opens and closes to maintain ideal intake air velocity, improving high combustion efficiency, thus resulting in a linear throttle response, increased low-to-mid range torque.",
+          "code": "SDTV",
+          "image_url": "https://www.suzuki.ca/wp-content/uploads/suzuki-dual-throttle-valve-system-icon-1.png"
+        },
+        {
+          "name": "Suzuki Composite Electrochemical Material (SCEM) is Suzuki\u2019s own nickel-silicon-carbide coating technique derived from racetrack experience. SCEM cylinders allow faster heat transfer and tighter piston-to-cylinder clearance, for superb durability and resistance to scuffing.",
+          "code": "SCEM",
+          "image_url": "https://www.suzuki.ca/wp-content/uploads/suzuki-composite-electrochemical-material-icon-1.png"
+        },
+        {
+          "name": "The Suzuki Ram Air-Direct (SRAD) air intakes are positioned close to the centreline of the fairing nose \u2013 the position offering optimum intake efficiency. This results in better intake efficiency, increasing engine power in high speed.\n\n* The technology is used in GSX-R1000, 750, 600 and Hayabusa.",
+          "code": "SRAD",
+          "image_url": "https://www.suzuki.ca/wp-content/uploads/suzuki-ram-air-system-icon-1.png"
+        },
+        {
+          "name": "Suzuki Clutch Assist System (SCAS) - a back-torque-limiting clutch helps make downshifts smoother, assists the rider in taking control in deceleration. Ramped engagement cams built into the clutch hub decrease force on the clutch plates under deceleration by pushing up against the pressure plate, allowing the plates to slip at a controlled rate.",
+          "code": "SCAS",
+          "image_url": "https://www.suzuki.ca/wp-content/uploads/suzuki-clutch-assist-system-icon-1.png"
+        },
+        {
+          "name": "Suzuki Exhaust Tuning (SET) system, which uses a servo-controlled butterfly valve to modify back pressure and tune the pipe to match engine rpm. At lower rpm, the valve closes, increasing\u00a0back pressure and improving low-end torque. The valve progressively opens as engine speed increases, reducing back pressure and increasing mid-range and high-rpm power.",
+          "code": "SET",
+          "image_url": "https://www.suzuki.ca/wp-content/uploads/suzuki-exhaust-tuning-icon-1.png"
+        },
+        {
+          "name": "An electrically controlled Antilock Brake System (ABS) that produces stable braking force under various road surface conditions. The system helps avoid wheel locking when there is a sudden change in road surface during braking or when an excessive braking force is applied. The system monitors wheel speed 50 times per wheel rotation and matches stopping power to available traction.\n\n* Depending on road surface conditions, such as wet, loose, or uneven roads, braking distance for an ABS equipped\u00a0vehicle may be longer than for a vehicle not equipped with ABS. ABS cannot prevent wheel skidding caused by braking while cornering. Please drive carefully and do not overly rely on ABS.",
+          "code": "ABS",
+          "image_url": "https://www.suzuki.ca/wp-content/uploads/antilock-brake-system-icon-1.png"
+        }
+      ]
+    },
+    {
+      "slug": "2026-gsx-s1000a",
+      "name": "GSX-S1000A",
+      "year": 2026,
+      "category": "motorcycle",
+      "subcategory": "",
+      "family": "gsx-s",
+      "msrp": 15395.0,
+      "msrp_text": "Starting from $15,395",
+      "trim": null,
+      "engine_displacement": "999cc",
+      "engine_type": "4-stroke, liquid-cooled, DOHC, inline-four",
+      "weight": "209 kg (461 lb)",
+      "description": "\u2026 keep reading >",
+      "source_url": "https://www.suzuki.ca/product/2026-gsx-s1000a/",
+      "hero_image_url": "https://www.suzuki.ca/wp-content/uploads/GSX-S1000M6_YSF_Right-scaled.jpg",
+      "image_urls": [
+        "https://www.suzuki.ca/wp-content/uploads/GSX-S1000M6_YSF_Right-scaled.jpg",
+        "https://www.suzuki.ca/wp-content/uploads/GSX-S1000M6_YSF_Diagonal-scaled.jpg",
+        "https://www.suzuki.ca/wp-content/uploads/GSX-S1000M6_YVB_Right-scaled.jpg"
+      ],
+      "colors": [
+        {
+          "name": "Suzuki Dual Throttle Valve (SDTV) digital fuel-injection system. In SDTV induction system, each throttle body barrel has two butterfly valves, a primary valve controlled by the twist grip and a secondary valve controlled by the ECM based on engine rpm, gear selection and the position of the primary valve. The secondary butterfly valve opens and closes to maintain ideal intake air velocity, improving high combustion efficiency, thus resulting in a linear throttle response, increased low-to-mid range torque.",
+          "code": "SDTV",
+          "image_url": "https://www.suzuki.ca/wp-content/uploads/suzuki-dual-throttle-valve-system-icon-1.png"
+        },
+        {
+          "name": "Suzuki Composite Electrochemical Material (SCEM) is Suzuki\u2019s own nickel-silicon-carbide coating technique derived from racetrack experience. SCEM cylinders allow faster heat transfer and tighter piston-to-cylinder clearance, for superb durability and resistance to scuffing.",
+          "code": "SCEM",
+          "image_url": "https://www.suzuki.ca/wp-content/uploads/suzuki-composite-electrochemical-material-icon-1.png"
+        },
+        {
+          "name": "The Suzuki Ram Air-Direct (SRAD) air intakes are positioned close to the centreline of the fairing nose \u2013 the position offering optimum intake efficiency. This results in better intake efficiency, increasing engine power in high speed.\n\n* The technology is used in GSX-R1000, 750, 600 and Hayabusa.",
+          "code": "SRAD",
+          "image_url": "https://www.suzuki.ca/wp-content/uploads/suzuki-ram-air-system-icon-1.png"
+        },
+        {
+          "name": "Suzuki Exhaust Tuning (SET) system, which uses a servo-controlled butterfly valve to modify back pressure and tune the pipe to match engine rpm. At lower rpm, the valve closes, increasing\u00a0back pressure and improving low-end torque. The valve progressively opens as engine speed increases, reducing back pressure and increasing mid-range and high-rpm power.",
+          "code": "SET",
+          "image_url": "https://www.suzuki.ca/wp-content/uploads/suzuki-exhaust-tuning-icon-1.png"
+        },
+        {
+          "name": "An electrically controlled Antilock Brake System (ABS) that produces stable braking force under various road surface conditions. The system helps avoid wheel locking when there is a sudden change in road surface during braking or when an excessive braking force is applied. The system monitors wheel speed 50 times per wheel rotation and matches stopping power to available traction.\n\n* Depending on road surface conditions, such as wet, loose, or uneven roads, braking distance for an ABS equipped\u00a0vehicle may be longer than for a vehicle not equipped with ABS. ABS cannot prevent wheel skidding caused by braking while cornering. Please drive carefully and do not overly rely on ABS.",
+          "code": "ABS",
+          "image_url": "https://www.suzuki.ca/wp-content/uploads/antilock-brake-system-icon-1.png"
+        },
+        {
+          "name": "Suzuki Dual Throttle Valve (SDTV) digital fuel-injection system. In SDTV induction system, each throttle body barrel has two butterfly valves, a primary valve controlled by the twist grip and a secondary valve controlled by the ECM based on engine rpm, gear selection and the position of the primary valve. The secondary butterfly valve opens and closes to maintain ideal intake air velocity, improving high combustion efficiency, thus resulting in a linear throttle response, increased low-to-mid range torque.",
+          "code": "SDTV",
+          "image_url": "https://www.suzuki.ca/wp-content/uploads/suzuki-dual-throttle-valve-system-icon-1.png"
+        },
+        {
+          "name": "Suzuki Composite Electrochemical Material (SCEM) is Suzuki\u2019s own nickel-silicon-carbide coating technique derived from racetrack experience. SCEM cylinders allow faster heat transfer and tighter piston-to-cylinder clearance, for superb durability and resistance to scuffing.",
+          "code": "SCEM",
+          "image_url": "https://www.suzuki.ca/wp-content/uploads/suzuki-composite-electrochemical-material-icon-1.png"
+        },
+        {
+          "name": "The Suzuki Ram Air-Direct (SRAD) air intakes are positioned close to the centreline of the fairing nose \u2013 the position offering optimum intake efficiency. This results in better intake efficiency, increasing engine power in high speed.\n\n* The technology is used in GSX-R1000, 750, 600 and Hayabusa.",
+          "code": "SRAD",
+          "image_url": "https://www.suzuki.ca/wp-content/uploads/suzuki-ram-air-system-icon-1.png"
+        },
+        {
+          "name": "Suzuki Exhaust Tuning (SET) system, which uses a servo-controlled butterfly valve to modify back pressure and tune the pipe to match engine rpm. At lower rpm, the valve closes, increasing\u00a0back pressure and improving low-end torque. The valve progressively opens as engine speed increases, reducing back pressure and increasing mid-range and high-rpm power.",
+          "code": "SET",
+          "image_url": "https://www.suzuki.ca/wp-content/uploads/suzuki-exhaust-tuning-icon-1.png"
+        },
+        {
+          "name": "An electrically controlled Antilock Brake System (ABS) that produces stable braking force under various road surface conditions. The system helps avoid wheel locking when there is a sudden change in road surface during braking or when an excessive braking force is applied. The system monitors wheel speed 50 times per wheel rotation and matches stopping power to available traction.\n\n* Depending on road surface conditions, such as wet, loose, or uneven roads, braking distance for an ABS equipped\u00a0vehicle may be longer than for a vehicle not equipped with ABS. ABS cannot prevent wheel skidding caused by braking while cornering. Please drive carefully and do not overly rely on ABS.",
+          "code": "ABS",
+          "image_url": "https://www.suzuki.ca/wp-content/uploads/antilock-brake-system-icon-1.png"
+        }
+      ]
+    },
+    {
+      "slug": "2026-gsx-s1000gt",
+      "name": "GSX-S1000GT",
+      "year": 2026,
+      "category": "motorcycle",
+      "subcategory": "",
+      "family": "gsx-s",
+      "msrp": 16495.0,
+      "msrp_text": "Starting from $16,495",
+      "trim": null,
+      "engine_displacement": "999 cm3 (61.0 cu. in.)",
+      "engine_type": "4-stroke, 4-cylinder, liquid-cooled, DOHC",
+      "weight": "226 kg (498 lbs.)",
+      "description": "\u2026 keep reading >",
+      "source_url": "https://www.suzuki.ca/product/2026-gsx-s1000gt/",
+      "hero_image_url": "https://www.suzuki.ca/wp-content/uploads/GSX-S1000GT_M5_YKY_Right-1-scaled.jpg",
+      "image_urls": [
+        "https://www.suzuki.ca/wp-content/uploads/GSX-S1000GT_M5_YKY_Right-1-scaled.jpg",
+        "https://www.suzuki.ca/wp-content/uploads/GSX-S1000GT_M6_YVB_Right-3.png"
+      ],
+      "colors": [
+        {
+          "name": "Suzuki Clutch Assist System (SCAS) - a back-torque-limiting clutch helps make downshifts smoother, assists the rider in taking control in deceleration. Ramped engagement cams built into the clutch hub decrease force on the clutch plates under deceleration by pushing up against the pressure plate, allowing the plates to slip at a controlled rate.",
+          "code": "SCAS",
+          "image_url": "https://www.suzuki.ca/wp-content/uploads/suzuki-clutch-assist-system-icon-1.png"
+        },
+        {
+          "name": "Suzuki Clutch Assist System (SCAS) - a back-torque-limiting clutch helps make downshifts smoother, assists the rider in taking control in deceleration. Ramped engagement cams built into the clutch hub decrease force on the clutch plates under deceleration by pushing up against the pressure plate, allowing the plates to slip at a controlled rate.",
+          "code": "SCAS",
+          "image_url": "https://www.suzuki.ca/wp-content/uploads/suzuki-clutch-assist-system-icon-1.png"
+        }
+      ]
+    },
+    {
+      "slug": "2026-gsx-s1000gtp",
+      "name": "GSX-S1000GT+",
+      "year": 2026,
+      "category": "motorcycle",
+      "subcategory": "",
+      "family": "gsx-s",
+      "msrp": 17795.0,
+      "msrp_text": "Starting from $17,795",
+      "trim": null,
+      "engine_displacement": "999 cm3 (61.0 cu. in.)",
+      "engine_type": "4-stroke, 4-cylinder, liquid-cooled, DOHC",
+      "weight": "226 kg (498 lbs.)",
+      "description": "\u2026 keep reading >",
+      "source_url": "https://www.suzuki.ca/product/2026-gsx-s1000gtp/",
+      "hero_image_url": "https://www.suzuki.ca/wp-content/uploads/GSX-S1000GT_M6_YKY_Right.jpg",
+      "image_urls": [
+        "https://www.suzuki.ca/wp-content/uploads/GSX-S1000GT_M6_YKY_Right.jpg",
+        "https://www.suzuki.ca/wp-content/uploads/GSX-S1000GT_M6_YVB_Right-1.png"
+      ],
+      "colors": [
+        {
+          "name": "Suzuki Clutch Assist System (SCAS) - a back-torque-limiting clutch helps make downshifts smoother, assists the rider in taking control in deceleration. Ramped engagement cams built into the clutch hub decrease force on the clutch plates under deceleration by pushing up against the pressure plate, allowing the plates to slip at a controlled rate.",
+          "code": "SCAS",
+          "image_url": "https://www.suzuki.ca/wp-content/uploads/suzuki-clutch-assist-system-icon-1.png"
+        },
+        {
+          "name": "Suzuki Clutch Assist System (SCAS) - a back-torque-limiting clutch helps make downshifts smoother, assists the rider in taking control in deceleration. Ramped engagement cams built into the clutch hub decrease force on the clutch plates under deceleration by pushing up against the pressure plate, allowing the plates to slip at a controlled rate.",
+          "code": "SCAS",
+          "image_url": "https://www.suzuki.ca/wp-content/uploads/suzuki-clutch-assist-system-icon-1.png"
+        }
+      ]
+    },
+    {
+      "slug": "2026-gsx-s1000gx",
+      "name": "GSX-S1000GX",
+      "year": 2026,
+      "category": "motorcycle",
+      "subcategory": "",
+      "family": "gsx-s",
+      "msrp": 20895.0,
+      "msrp_text": "Starting from $20,895",
+      "trim": null,
+      "engine_displacement": "999 cm3 (61.0 cu. in.)",
+      "engine_type": "4-stroke, 4-cylinder, liquid-cooled, DOHC",
+      "weight": "232 kg (511 lbs.)",
+      "description": "\u2026 keep reading >",
+      "source_url": "https://www.suzuki.ca/product/2026-gsx-s1000gx/",
+      "hero_image_url": "https://www.suzuki.ca/wp-content/uploads/GSX-S1000GX_M6_YVB_Right.png",
+      "image_urls": [
+        "https://www.suzuki.ca/wp-content/uploads/GSX-S1000GX_M6_YVB_Right.png"
+      ],
+      "colors": [
+        {
+          "name": "Suzuki Clutch Assist System (SCAS) - a back-torque-limiting clutch helps make downshifts smoother, assists the rider in taking control in deceleration. Ramped engagement cams built into the clutch hub decrease force on the clutch plates under deceleration by pushing up against the pressure plate, allowing the plates to slip at a controlled rate.",
+          "code": "SCAS",
+          "image_url": "https://www.suzuki.ca/wp-content/uploads/suzuki-clutch-assist-system-icon-1.png"
+        },
+        {
+          "name": "Suzuki Clutch Assist System (SCAS) - a back-torque-limiting clutch helps make downshifts smoother, assists the rider in taking control in deceleration. Ramped engagement cams built into the clutch hub decrease force on the clutch plates under deceleration by pushing up against the pressure plate, allowing the plates to slip at a controlled rate.",
+          "code": "SCAS",
+          "image_url": "https://www.suzuki.ca/wp-content/uploads/suzuki-clutch-assist-system-icon-1.png"
+        }
+      ]
+    },
+    {
+      "slug": "2026-gsx-s1000gxp",
+      "name": "GSX-S1000GX+",
+      "year": 2026,
+      "category": "motorcycle",
+      "subcategory": "",
+      "family": "gsx-s",
+      "msrp": 22195.0,
+      "msrp_text": "Starting from $22,195",
+      "trim": null,
+      "engine_displacement": "999 cm3 (61.0 cu. in.)",
+      "engine_type": "4-stroke, 4-cylinder, liquid-cooled, DOHC",
+      "weight": "232 kg (511 lbs.)",
+      "description": "\u2026 keep reading >",
+      "source_url": "https://www.suzuki.ca/product/2026-gsx-s1000gxp/",
+      "hero_image_url": "https://www.suzuki.ca/wp-content/uploads/GSX-S1000GX_M6_YKY_Right.png",
+      "image_urls": [
+        "https://www.suzuki.ca/wp-content/uploads/GSX-S1000GX_M6_YKY_Right.png"
+      ],
+      "colors": [
+        {
+          "name": "Suzuki Clutch Assist System (SCAS) - a back-torque-limiting clutch helps make downshifts smoother, assists the rider in taking control in deceleration. Ramped engagement cams built into the clutch hub decrease force on the clutch plates under deceleration by pushing up against the pressure plate, allowing the plates to slip at a controlled rate.",
+          "code": "SCAS",
+          "image_url": "https://www.suzuki.ca/wp-content/uploads/suzuki-clutch-assist-system-icon-1.png"
+        },
+        {
+          "name": "Suzuki Clutch Assist System (SCAS) - a back-torque-limiting clutch helps make downshifts smoother, assists the rider in taking control in deceleration. Ramped engagement cams built into the clutch hub decrease force on the clutch plates under deceleration by pushing up against the pressure plate, allowing the plates to slip at a controlled rate.",
+          "code": "SCAS",
+          "image_url": "https://www.suzuki.ca/wp-content/uploads/suzuki-clutch-assist-system-icon-1.png"
+        }
+      ]
+    },
+    {
+      "slug": "2026-hayabusa",
+      "name": "Hayabusa",
+      "year": 2026,
+      "category": "motorcycle",
+      "subcategory": "sport",
+      "family": "hayabusa",
+      "msrp": 24295.0,
+      "msrp_text": "Starting from $24,295",
+      "trim": null,
+      "engine_displacement": "1,340 cm3 (81.8 cu. in.)",
+      "engine_type": "Four-stroke, liquid-cooled, DOHC, in-line four",
+      "weight": "264 kg (582 lbs.)",
+      "description": "\u2026 keep reading >",
+      "source_url": "https://www.suzuki.ca/product/2026-hayabusa/",
+      "hero_image_url": "https://www.suzuki.ca/wp-content/uploads/GSX1300RRQZM6_YKY_diagonal.png",
+      "image_urls": [
+        "https://www.suzuki.ca/wp-content/uploads/GSX1300RRQZM6_YKY_diagonal.png"
+      ],
+      "colors": [
+        {
+          "name": "An electrically controlled Antilock Brake System (ABS) that produces stable braking force under various road surface conditions. The system helps avoid wheel locking when there is a sudden change in road surface during braking or when an excessive braking force is applied. The system monitors wheel speed 50 times per wheel rotation and matches stopping power to available traction.\n\n* Depending on road surface conditions, such as wet, loose, or uneven roads, braking distance for an ABS equipped\u00a0vehicle may be longer than for a vehicle not equipped with ABS. ABS cannot prevent wheel skidding caused by braking while cornering. Please drive carefully and do not overly rely on ABS.",
+          "code": "ABS",
+          "image_url": "https://www.suzuki.ca/wp-content/uploads/antilock-brake-system-icon-1.png"
+        },
+        {
+          "name": "The Suzuki Ram Air-Direct (SRAD) air intakes are positioned close to the centreline of the fairing nose \u2013 the position offering optimum intake efficiency. This results in better intake efficiency, increasing engine power in high speed.\n\n* The technology is used in GSX-R1000, 750, 600 and Hayabusa.",
+          "code": "SRAD",
+          "image_url": "https://www.suzuki.ca/wp-content/uploads/suzuki-ram-air-system-icon-1.png"
+        },
+        {
+          "name": "Suzuki Clutch Assist System (SCAS) - a back-torque-limiting clutch helps make downshifts smoother, assists the rider in taking control in deceleration. Ramped engagement cams built into the clutch hub decrease force on the clutch plates under deceleration by pushing up against the pressure plate, allowing the plates to slip at a controlled rate.",
+          "code": "SCAS",
+          "image_url": "https://www.suzuki.ca/wp-content/uploads/suzuki-clutch-assist-system-icon-1.png"
+        },
+        {
+          "name": "Suzuki Exhaust Tuning (SET) system, which uses a servo-controlled butterfly valve to modify back pressure and tune the pipe to match engine rpm. At lower rpm, the valve closes, increasing\u00a0back pressure and improving low-end torque. The valve progressively opens as engine speed increases, reducing back pressure and increasing mid-range and high-rpm power.",
+          "code": "SET",
+          "image_url": "https://www.suzuki.ca/wp-content/uploads/suzuki-exhaust-tuning-icon-1.png"
+        },
+        {
+          "name": "An electrically controlled Antilock Brake System (ABS) that produces stable braking force under various road surface conditions. The system helps avoid wheel locking when there is a sudden change in road surface during braking or when an excessive braking force is applied. The system monitors wheel speed 50 times per wheel rotation and matches stopping power to available traction.\n\n* Depending on road surface conditions, such as wet, loose, or uneven roads, braking distance for an ABS equipped\u00a0vehicle may be longer than for a vehicle not equipped with ABS. ABS cannot prevent wheel skidding caused by braking while cornering. Please drive carefully and do not overly rely on ABS.",
+          "code": "ABS",
+          "image_url": "https://www.suzuki.ca/wp-content/uploads/antilock-brake-system-icon-1.png"
+        },
+        {
+          "name": "The Suzuki Ram Air-Direct (SRAD) air intakes are positioned close to the centreline of the fairing nose \u2013 the position offering optimum intake efficiency. This results in better intake efficiency, increasing engine power in high speed.\n\n* The technology is used in GSX-R1000, 750, 600 and Hayabusa.",
+          "code": "SRAD",
+          "image_url": "https://www.suzuki.ca/wp-content/uploads/suzuki-ram-air-system-icon-1.png"
+        },
+        {
+          "name": "Suzuki Clutch Assist System (SCAS) - a back-torque-limiting clutch helps make downshifts smoother, assists the rider in taking control in deceleration. Ramped engagement cams built into the clutch hub decrease force on the clutch plates under deceleration by pushing up against the pressure plate, allowing the plates to slip at a controlled rate.",
+          "code": "SCAS",
+          "image_url": "https://www.suzuki.ca/wp-content/uploads/suzuki-clutch-assist-system-icon-1.png"
+        },
+        {
+          "name": "Suzuki Exhaust Tuning (SET) system, which uses a servo-controlled butterfly valve to modify back pressure and tune the pipe to match engine rpm. At lower rpm, the valve closes, increasing\u00a0back pressure and improving low-end torque. The valve progressively opens as engine speed increases, reducing back pressure and increasing mid-range and high-rpm power.",
+          "code": "SET",
+          "image_url": "https://www.suzuki.ca/wp-content/uploads/suzuki-exhaust-tuning-icon-1.png"
+        },
+        {
+          "name": "An electrically controlled Antilock Brake System (ABS) that produces stable braking force under various road surface conditions. The system helps avoid wheel locking when there is a sudden change in road surface during braking or when an excessive braking force is applied. The system monitors wheel speed 50 times per wheel rotation and matches stopping power to available traction.\n\n* Depending on road surface conditions, such as wet, loose, or uneven roads, braking distance for an ABS equipped\u00a0vehicle may be longer than for a vehicle not equipped with ABS. ABS cannot prevent wheel skidding caused by braking while cornering. Please drive carefully and do not overly rely on ABS.",
+          "code": "ABS",
+          "image_url": "https://www.suzuki.ca/wp-content/uploads/antilock-brake-system-icon-1.png"
+        }
+      ]
+    },
+    {
+      "slug": "2026-rm-z250",
+      "name": "RM-Z250",
+      "year": 2026,
+      "category": "motorcycle",
+      "subcategory": "",
+      "family": "rm-z",
+      "msrp": 11295.0,
+      "msrp_text": "Starting from $11,295",
+      "trim": null,
+      "engine_displacement": "249cc",
+      "engine_type": "4-stroke, liquid-cooled, single cylinder, DOHC",
+      "weight": "106 kg (234 lbs.)",
+      "description": "\u2026 keep reading >",
+      "source_url": "https://www.suzuki.ca/product/2026-rm-z250/",
+      "hero_image_url": "https://www.suzuki.ca/wp-content/uploads/RM-Z250M6_YU1_Diagonal.png",
+      "image_urls": [
+        "https://www.suzuki.ca/wp-content/uploads/RM-Z250M6_YU1_Diagonal.png",
+        "https://www.suzuki.ca/wp-content/uploads/RM-Z250M6_YU1_Right.png"
+      ]
+    },
+    {
+      "slug": "2026-rm-z450",
+      "name": "RM-Z450",
+      "year": 2026,
+      "category": "motorcycle",
+      "subcategory": "",
+      "family": "rm-z",
+      "msrp": 12295.0,
+      "msrp_text": "Starting from $12,295",
+      "trim": null,
+      "engine_displacement": "449cc",
+      "engine_type": "4-stroke, liquid-cooled, single cylinder, DOHC",
+      "weight": "112 kg (247 lbs.)",
+      "description": "\u2026 keep reading >",
+      "source_url": "https://www.suzuki.ca/product/2026-rm-z450/",
+      "hero_image_url": "https://www.suzuki.ca/wp-content/uploads/RM-Z450M6_YU1_Diagonal.png",
+      "image_urls": [
+        "https://www.suzuki.ca/wp-content/uploads/RM-Z450M6_YU1_Diagonal.png",
+        "https://www.suzuki.ca/wp-content/uploads/RM-Z450M6_YU1_Right.png"
+      ]
+    },
+    {
+      "slug": "2026-sv650a",
+      "name": "SV650A",
+      "year": 2026,
+      "category": "motorcycle",
+      "subcategory": "",
+      "family": "sv",
+      "msrp": 9195.0,
+      "msrp_text": "Starting from $9,195",
+      "trim": null,
+      "engine_displacement": "646 cc",
+      "engine_type": "4-stroke, 2-cylinder, liquid-cooled, DOHC, 90-degree V-Twin",
+      "weight": "199 kg (437 lbs.)",
+      "description": "\u2026 keep reading >",
+      "source_url": "https://www.suzuki.ca/product/2026-sv650a/",
+      "hero_image_url": "https://www.suzuki.ca/wp-content/uploads/SV650AM5_CGJ_Right-scaled.jpg",
+      "image_urls": [
+        "https://www.suzuki.ca/wp-content/uploads/SV650AM5_CGJ_Right-scaled.jpg",
+        "https://www.suzuki.ca/wp-content/uploads/SV650AM5_C2L_Right.jpg.png",
+        "https://www.suzuki.ca/wp-content/uploads/SV650AM5_CGJ_Diagonal-scaled.jpg"
+      ],
+      "colors": [
+        {
+          "name": "Suzuki Dual Throttle Valve (SDTV) digital fuel-injection system. In SDTV induction system, each throttle body barrel has two butterfly valves, a primary valve controlled by the twist grip and a secondary valve controlled by the ECM based on engine rpm, gear selection and the position of the primary valve. The secondary butterfly valve opens and closes to maintain ideal intake air velocity, improving high combustion efficiency, thus resulting in a linear throttle response, increased low-to-mid range torque.",
+          "code": "SDTV",
+          "image_url": "https://www.suzuki.ca/wp-content/uploads/suzuki-dual-throttle-valve-system-icon-1.png"
+        },
+        {
+          "name": "Suzuki Composite Electrochemical Material (SCEM) is Suzuki\u2019s own nickel-silicon-carbide coating technique derived from racetrack experience. SCEM cylinders allow faster heat transfer and tighter piston-to-cylinder clearance, for superb durability and resistance to scuffing.",
+          "code": "SCEM",
+          "image_url": "https://www.suzuki.ca/wp-content/uploads/suzuki-composite-electrochemical-material-icon-1.png"
+        },
+        {
+          "name": "An electrically controlled Antilock Brake System (ABS) that produces stable braking force under various road surface conditions. The system helps avoid wheel locking when there is a sudden change in road surface during braking or when an excessive braking force is applied. The system monitors wheel speed 50 times per wheel rotation and matches stopping power to available traction.\n\n* Depending on road surface conditions, such as wet, loose, or uneven roads, braking distance for an ABS equipped\u00a0vehicle may be longer than for a vehicle not equipped with ABS. ABS cannot prevent wheel skidding caused by braking while cornering. Please drive carefully and do not overly rely on ABS.",
+          "code": "ABS",
+          "image_url": "https://www.suzuki.ca/wp-content/uploads/antilock-brake-system-icon-1.png"
+        },
+        {
+          "name": "Suzuki Dual Throttle Valve (SDTV) digital fuel-injection system. In SDTV induction system, each throttle body barrel has two butterfly valves, a primary valve controlled by the twist grip and a secondary valve controlled by the ECM based on engine rpm, gear selection and the position of the primary valve. The secondary butterfly valve opens and closes to maintain ideal intake air velocity, improving high combustion efficiency, thus resulting in a linear throttle response, increased low-to-mid range torque.",
+          "code": "SDTV",
+          "image_url": "https://www.suzuki.ca/wp-content/uploads/suzuki-dual-throttle-valve-system-icon-1.png"
+        },
+        {
+          "name": "Suzuki Composite Electrochemical Material (SCEM) is Suzuki\u2019s own nickel-silicon-carbide coating technique derived from racetrack experience. SCEM cylinders allow faster heat transfer and tighter piston-to-cylinder clearance, for superb durability and resistance to scuffing.",
+          "code": "SCEM",
+          "image_url": "https://www.suzuki.ca/wp-content/uploads/suzuki-composite-electrochemical-material-icon-1.png"
+        },
+        {
+          "name": "An electrically controlled Antilock Brake System (ABS) that produces stable braking force under various road surface conditions. The system helps avoid wheel locking when there is a sudden change in road surface during braking or when an excessive braking force is applied. The system monitors wheel speed 50 times per wheel rotation and matches stopping power to available traction.\n\n* Depending on road surface conditions, such as wet, loose, or uneven roads, braking distance for an ABS equipped\u00a0vehicle may be longer than for a vehicle not equipped with ABS. ABS cannot prevent wheel skidding caused by braking while cornering. Please drive carefully and do not overly rely on ABS.",
+          "code": "ABS",
+          "image_url": "https://www.suzuki.ca/wp-content/uploads/antilock-brake-system-icon-1.png"
+        }
+      ]
+    },
+    {
+      "slug": "2026-sv650xa",
+      "name": "SV650XA",
+      "year": 2026,
+      "category": "motorcycle",
+      "subcategory": "",
+      "family": "sv",
+      "msrp": 9495.0,
+      "msrp_text": "Starting from $9,495",
+      "trim": null,
+      "engine_displacement": "645 cm3 (39.4 cu. in)",
+      "engine_type": "4-stroke, 2-cylinder, liquid-cooled, DOHC, 90\u00b0 V-twin",
+      "weight": "198 kg (437 lbs)",
+      "description": "\u2026 keep reading >",
+      "source_url": "https://www.suzuki.ca/product/2026-sv650xa/",
+      "hero_image_url": "https://www.suzuki.ca/wp-content/uploads/SV650XAM5_QU2_Diagonal.jpg.png",
+      "image_urls": [
+        "https://www.suzuki.ca/wp-content/uploads/SV650XAM5_QU2_Diagonal.jpg.png",
+        "https://www.suzuki.ca/wp-content/uploads/SV650XAM5_QU2_Right.jpg.png"
+      ],
+      "colors": [
+        {
+          "name": "Suzuki Dual Throttle Valve (SDTV) digital fuel-injection system. In SDTV induction system, each throttle body barrel has two butterfly valves, a primary valve controlled by the twist grip and a secondary valve controlled by the ECM based on engine rpm, gear selection and the position of the primary valve. The secondary butterfly valve opens and closes to maintain ideal intake air velocity, improving high combustion efficiency, thus resulting in a linear throttle response, increased low-to-mid range torque.",
+          "code": "SDTV",
+          "image_url": "https://www.suzuki.ca/wp-content/uploads/suzuki-dual-throttle-valve-system-icon-1.png"
+        },
+        {
+          "name": "Suzuki Composite Electrochemical Material (SCEM) is Suzuki\u2019s own nickel-silicon-carbide coating technique derived from racetrack experience. SCEM cylinders allow faster heat transfer and tighter piston-to-cylinder clearance, for superb durability and resistance to scuffing.",
+          "code": "SCEM",
+          "image_url": "https://www.suzuki.ca/wp-content/uploads/suzuki-composite-electrochemical-material-icon-1.png"
+        },
+        {
+          "name": "An electrically controlled Antilock Brake System (ABS) that produces stable braking force under various road surface conditions. The system helps avoid wheel locking when there is a sudden change in road surface during braking or when an excessive braking force is applied. The system monitors wheel speed 50 times per wheel rotation and matches stopping power to available traction.\n\n* Depending on road surface conditions, such as wet, loose, or uneven roads, braking distance for an ABS equipped\u00a0vehicle may be longer than for a vehicle not equipped with ABS. ABS cannot prevent wheel skidding caused by braking while cornering. Please drive carefully and do not overly rely on ABS.",
+          "code": "ABS",
+          "image_url": "https://www.suzuki.ca/wp-content/uploads/antilock-brake-system-icon-1.png"
+        },
+        {
+          "name": "Suzuki Dual Throttle Valve (SDTV) digital fuel-injection system. In SDTV induction system, each throttle body barrel has two butterfly valves, a primary valve controlled by the twist grip and a secondary valve controlled by the ECM based on engine rpm, gear selection and the position of the primary valve. The secondary butterfly valve opens and closes to maintain ideal intake air velocity, improving high combustion efficiency, thus resulting in a linear throttle response, increased low-to-mid range torque.",
+          "code": "SDTV",
+          "image_url": "https://www.suzuki.ca/wp-content/uploads/suzuki-dual-throttle-valve-system-icon-1.png"
+        },
+        {
+          "name": "Suzuki Composite Electrochemical Material (SCEM) is Suzuki\u2019s own nickel-silicon-carbide coating technique derived from racetrack experience. SCEM cylinders allow faster heat transfer and tighter piston-to-cylinder clearance, for superb durability and resistance to scuffing.",
+          "code": "SCEM",
+          "image_url": "https://www.suzuki.ca/wp-content/uploads/suzuki-composite-electrochemical-material-icon-1.png"
+        },
+        {
+          "name": "An electrically controlled Antilock Brake System (ABS) that produces stable braking force under various road surface conditions. The system helps avoid wheel locking when there is a sudden change in road surface during braking or when an excessive braking force is applied. The system monitors wheel speed 50 times per wheel rotation and matches stopping power to available traction.\n\n* Depending on road surface conditions, such as wet, loose, or uneven roads, braking distance for an ABS equipped\u00a0vehicle may be longer than for a vehicle not equipped with ABS. ABS cannot prevent wheel skidding caused by braking while cornering. Please drive carefully and do not overly rely on ABS.",
+          "code": "ABS",
+          "image_url": "https://www.suzuki.ca/wp-content/uploads/antilock-brake-system-icon-1.png"
+        }
+      ]
+    },
+    {
+      "slug": "2025-v-strom-650",
+      "name": "V-Strom 650",
+      "year": 2025,
+      "category": "motorcycle",
+      "subcategory": "",
+      "family": "v-strom",
+      "msrp": 11049.0,
+      "msrp_text": "Starting from $11,049",
+      "trim": null,
+      "engine_displacement": "645cc",
+      "engine_type": "4-Stroke, liquid -cooled, DOHC, 90 Degree V-Twin",
+      "weight": "213kg (470 lbs)",
+      "description": "\u00a0  \u00a0",
+      "source_url": "https://www.suzuki.ca/product/2025-v-strom-650/",
+      "hero_image_url": "https://www.suzuki.ca/wp-content/uploads/DL650AM4_YVB_Right-scaled.jpg",
+      "image_urls": [
+        "https://www.suzuki.ca/wp-content/uploads/DL650AM4_YVB_Right-scaled.jpg"
+      ],
+      "colors": [
+        {
+          "name": "Suzuki Dual Throttle Valve (SDTV) digital fuel-injection system. In SDTV induction system, each throttle body barrel has two butterfly valves, a primary valve controlled by the twist grip and a secondary valve controlled by the ECM based on engine rpm, gear selection and the position of the primary valve. The secondary butterfly valve opens and closes to maintain ideal intake air velocity, improving high combustion efficiency, thus resulting in a linear throttle response, increased low-to-mid range torque.",
+          "code": "SDTV",
+          "image_url": "https://www.suzuki.ca/wp-content/uploads/suzuki-dual-throttle-valve-system-icon-1.png"
+        },
+        {
+          "name": "Suzuki Composite Electrochemical Material (SCEM) is Suzuki\u2019s own nickel-silicon-carbide coating technique derived from racetrack experience. SCEM cylinders allow faster heat transfer and tighter piston-to-cylinder clearance, for superb durability and resistance to scuffing.",
+          "code": "SCEM",
+          "image_url": "https://www.suzuki.ca/wp-content/uploads/suzuki-composite-electrochemical-material-icon-1.png"
+        },
+        {
+          "name": "Suzuki Exhaust Tuning (SET) system, which uses a servo-controlled butterfly valve to modify back pressure and tune the pipe to match engine rpm. At lower rpm, the valve closes, increasing\u00a0back pressure and improving low-end torque. The valve progressively opens as engine speed increases, reducing back pressure and increasing mid-range and high-rpm power.",
+          "code": "SET",
+          "image_url": "https://www.suzuki.ca/wp-content/uploads/suzuki-exhaust-tuning-icon-1.png"
+        },
+        {
+          "name": "An electrically controlled Antilock Brake System (ABS) that produces stable braking force under various road surface conditions. The system helps avoid wheel locking when there is a sudden change in road surface during braking or when an excessive braking force is applied. The system monitors wheel speed 50 times per wheel rotation and matches stopping power to available traction.\n\n* Depending on road surface conditions, such as wet, loose, or uneven roads, braking distance for an ABS equipped\u00a0vehicle may be longer than for a vehicle not equipped with ABS. ABS cannot prevent wheel skidding caused by braking while cornering. Please drive carefully and do not overly rely on ABS.",
+          "code": "ABS",
+          "image_url": "https://www.suzuki.ca/wp-content/uploads/antilock-brake-system-icon-1.png"
+        },
+        {
+          "name": "Suzuki Dual Throttle Valve (SDTV) digital fuel-injection system. In SDTV induction system, each throttle body barrel has two butterfly valves, a primary valve controlled by the twist grip and a secondary valve controlled by the ECM based on engine rpm, gear selection and the position of the primary valve. The secondary butterfly valve opens and closes to maintain ideal intake air velocity, improving high combustion efficiency, thus resulting in a linear throttle response, increased low-to-mid range torque.",
+          "code": "SDTV",
+          "image_url": "https://www.suzuki.ca/wp-content/uploads/suzuki-dual-throttle-valve-system-icon-1.png"
+        },
+        {
+          "name": "Suzuki Composite Electrochemical Material (SCEM) is Suzuki\u2019s own nickel-silicon-carbide coating technique derived from racetrack experience. SCEM cylinders allow faster heat transfer and tighter piston-to-cylinder clearance, for superb durability and resistance to scuffing.",
+          "code": "SCEM",
+          "image_url": "https://www.suzuki.ca/wp-content/uploads/suzuki-composite-electrochemical-material-icon-1.png"
+        },
+        {
+          "name": "Suzuki Exhaust Tuning (SET) system, which uses a servo-controlled butterfly valve to modify back pressure and tune the pipe to match engine rpm. At lower rpm, the valve closes, increasing\u00a0back pressure and improving low-end torque. The valve progressively opens as engine speed increases, reducing back pressure and increasing mid-range and high-rpm power.",
+          "code": "SET",
+          "image_url": "https://www.suzuki.ca/wp-content/uploads/suzuki-exhaust-tuning-icon-1.png"
+        },
+        {
+          "name": "An electrically controlled Antilock Brake System (ABS) that produces stable braking force under various road surface conditions. The system helps avoid wheel locking when there is a sudden change in road surface during braking or when an excessive braking force is applied. The system monitors wheel speed 50 times per wheel rotation and matches stopping power to available traction.\n\n* Depending on road surface conditions, such as wet, loose, or uneven roads, braking distance for an ABS equipped\u00a0vehicle may be longer than for a vehicle not equipped with ABS. ABS cannot prevent wheel skidding caused by braking while cornering. Please drive carefully and do not overly rely on ABS.",
+          "code": "ABS",
+          "image_url": "https://www.suzuki.ca/wp-content/uploads/antilock-brake-system-icon-1.png"
+        }
+      ]
+    },
+    {
+      "slug": "2025-v-strom-650xt",
+      "name": "V-Strom 650XT",
+      "year": 2025,
+      "category": "motorcycle",
+      "subcategory": "",
+      "family": "v-strom",
+      "msrp": 11899.0,
+      "msrp_text": "Starting from $11,899",
+      "trim": null,
+      "engine_displacement": "645cc",
+      "engine_type": "4-stroke, liquid-cooled, DOHC 90 degree V-Twin",
+      "weight": "216kg (476 lbs)",
+      "description": "\u00a0  \u00a0  \u00a0",
+      "source_url": "https://www.suzuki.ca/product/2025-v-strom-650xt/",
+      "hero_image_url": "https://www.suzuki.ca/wp-content/uploads/DL650XAM4_YVB_Right.jpg",
+      "image_urls": [
+        "https://www.suzuki.ca/wp-content/uploads/DL650XAM4_YVB_Right.jpg",
+        "https://www.suzuki.ca/wp-content/uploads/DL650XAM4_JWN_Right.jpg"
+      ],
+      "colors": [
+        {
+          "name": "Suzuki Dual Throttle Valve (SDTV) digital fuel-injection system. In SDTV induction system, each throttle body barrel has two butterfly valves, a primary valve controlled by the twist grip and a secondary valve controlled by the ECM based on engine rpm, gear selection and the position of the primary valve. The secondary butterfly valve opens and closes to maintain ideal intake air velocity, improving high combustion efficiency, thus resulting in a linear throttle response, increased low-to-mid range torque.",
+          "code": "SDTV",
+          "image_url": "https://www.suzuki.ca/wp-content/uploads/suzuki-dual-throttle-valve-system-icon-1.png"
+        },
+        {
+          "name": "Suzuki Composite Electrochemical Material (SCEM) is Suzuki\u2019s own nickel-silicon-carbide coating technique derived from racetrack experience. SCEM cylinders allow faster heat transfer and tighter piston-to-cylinder clearance, for superb durability and resistance to scuffing.",
+          "code": "SCEM",
+          "image_url": "https://www.suzuki.ca/wp-content/uploads/suzuki-composite-electrochemical-material-icon-1.png"
+        },
+        {
+          "name": "Suzuki Exhaust Tuning (SET) system, which uses a servo-controlled butterfly valve to modify back pressure and tune the pipe to match engine rpm. At lower rpm, the valve closes, increasing\u00a0back pressure and improving low-end torque. The valve progressively opens as engine speed increases, reducing back pressure and increasing mid-range and high-rpm power.",
+          "code": "SET",
+          "image_url": "https://www.suzuki.ca/wp-content/uploads/suzuki-exhaust-tuning-icon-1.png"
+        },
+        {
+          "name": "An electrically controlled Antilock Brake System (ABS) that produces stable braking force under various road surface conditions. The system helps avoid wheel locking when there is a sudden change in road surface during braking or when an excessive braking force is applied. The system monitors wheel speed 50 times per wheel rotation and matches stopping power to available traction.\n\n* Depending on road surface conditions, such as wet, loose, or uneven roads, braking distance for an ABS equipped\u00a0vehicle may be longer than for a vehicle not equipped with ABS. ABS cannot prevent wheel skidding caused by braking while cornering. Please drive carefully and do not overly rely on ABS.",
+          "code": "ABS",
+          "image_url": "https://www.suzuki.ca/wp-content/uploads/antilock-brake-system-icon-1.png"
+        },
+        {
+          "name": "Suzuki Dual Throttle Valve (SDTV) digital fuel-injection system. In SDTV induction system, each throttle body barrel has two butterfly valves, a primary valve controlled by the twist grip and a secondary valve controlled by the ECM based on engine rpm, gear selection and the position of the primary valve. The secondary butterfly valve opens and closes to maintain ideal intake air velocity, improving high combustion efficiency, thus resulting in a linear throttle response, increased low-to-mid range torque.",
+          "code": "SDTV",
+          "image_url": "https://www.suzuki.ca/wp-content/uploads/suzuki-dual-throttle-valve-system-icon-1.png"
+        },
+        {
+          "name": "Suzuki Composite Electrochemical Material (SCEM) is Suzuki\u2019s own nickel-silicon-carbide coating technique derived from racetrack experience. SCEM cylinders allow faster heat transfer and tighter piston-to-cylinder clearance, for superb durability and resistance to scuffing.",
+          "code": "SCEM",
+          "image_url": "https://www.suzuki.ca/wp-content/uploads/suzuki-composite-electrochemical-material-icon-1.png"
+        },
+        {
+          "name": "Suzuki Exhaust Tuning (SET) system, which uses a servo-controlled butterfly valve to modify back pressure and tune the pipe to match engine rpm. At lower rpm, the valve closes, increasing\u00a0back pressure and improving low-end torque. The valve progressively opens as engine speed increases, reducing back pressure and increasing mid-range and high-rpm power.",
+          "code": "SET",
+          "image_url": "https://www.suzuki.ca/wp-content/uploads/suzuki-exhaust-tuning-icon-1.png"
+        },
+        {
+          "name": "An electrically controlled Antilock Brake System (ABS) that produces stable braking force under various road surface conditions. The system helps avoid wheel locking when there is a sudden change in road surface during braking or when an excessive braking force is applied. The system monitors wheel speed 50 times per wheel rotation and matches stopping power to available traction.\n\n* Depending on road surface conditions, such as wet, loose, or uneven roads, braking distance for an ABS equipped\u00a0vehicle may be longer than for a vehicle not equipped with ABS. ABS cannot prevent wheel skidding caused by braking while cornering. Please drive carefully and do not overly rely on ABS.",
+          "code": "ABS",
+          "image_url": "https://www.suzuki.ca/wp-content/uploads/antilock-brake-system-icon-1.png"
+        }
+      ]
+    },
+    {
+      "slug": "2026-v-strom-800",
+      "name": "V-STROM 800",
+      "year": 2026,
+      "category": "motorcycle",
+      "subcategory": "",
+      "family": "v-strom",
+      "msrp": 12795.0,
+      "msrp_text": "Starting from $12,795",
+      "trim": null,
+      "engine_displacement": "776 cm3 (47.4 cu. in.)",
+      "engine_type": "4-stroke, 2-cylinder, liquid-cooled, DOHC",
+      "weight": "223kg (492 lbs.)",
+      "description": "\u2026 keep reading >",
+      "source_url": "https://www.suzuki.ca/product/2026-v-strom-800/",
+      "hero_image_url": "https://www.suzuki.ca/wp-content/uploads/DL800RQM5_YKV_right-scaled.jpg",
+      "image_urls": [
+        "https://www.suzuki.ca/wp-content/uploads/DL800RQM5_YKV_right-scaled.jpg",
+        "https://www.suzuki.ca/wp-content/uploads/DL800RQM5_QEB_right-scaled.jpg",
+        "https://www.suzuki.ca/wp-content/uploads/DL800RQM5_YYG_right-scaled.jpg"
+      ]
+    },
+    {
+      "slug": "2025-v-strom-650xt-adventure",
+      "name": "V-Strom 650XT Adventure",
+      "year": 2025,
+      "category": "motorcycle",
+      "subcategory": "",
+      "family": "v-strom",
+      "msrp": 13649.0,
+      "msrp_text": "Starting from $13,649",
+      "trim": null,
+      "engine_displacement": "645cc",
+      "engine_type": "4-stroke, liquid-cooled, DOHC 90 degree V-Twin",
+      "weight": "216kg (476 lbs)",
+      "description": "\u00a0  \u00a0  \u00a0",
+      "source_url": "https://www.suzuki.ca/product/2025-v-strom-650xt-adventure/",
+      "hero_image_url": "https://www.suzuki.ca/wp-content/uploads/DL650XAAM4_YVB_Right-with-bag.png",
+      "image_urls": [
+        "https://www.suzuki.ca/wp-content/uploads/DL650XAAM4_YVB_Right-with-bag.png",
+        "https://www.suzuki.ca/wp-content/uploads/DL650XAAM4_JWN_Right-with-bag.png"
+      ],
+      "colors": [
+        {
+          "name": "Suzuki Dual Throttle Valve (SDTV) digital fuel-injection system. In SDTV induction system, each throttle body barrel has two butterfly valves, a primary valve controlled by the twist grip and a secondary valve controlled by the ECM based on engine rpm, gear selection and the position of the primary valve. The secondary butterfly valve opens and closes to maintain ideal intake air velocity, improving high combustion efficiency, thus resulting in a linear throttle response, increased low-to-mid range torque.",
+          "code": "SDTV",
+          "image_url": "https://www.suzuki.ca/wp-content/uploads/suzuki-dual-throttle-valve-system-icon-1.png"
+        },
+        {
+          "name": "Suzuki Composite Electrochemical Material (SCEM) is Suzuki\u2019s own nickel-silicon-carbide coating technique derived from racetrack experience. SCEM cylinders allow faster heat transfer and tighter piston-to-cylinder clearance, for superb durability and resistance to scuffing.",
+          "code": "SCEM",
+          "image_url": "https://www.suzuki.ca/wp-content/uploads/suzuki-composite-electrochemical-material-icon-1.png"
+        },
+        {
+          "name": "Suzuki Exhaust Tuning (SET) system, which uses a servo-controlled butterfly valve to modify back pressure and tune the pipe to match engine rpm. At lower rpm, the valve closes, increasing\u00a0back pressure and improving low-end torque. The valve progressively opens as engine speed increases, reducing back pressure and increasing mid-range and high-rpm power.",
+          "code": "SET",
+          "image_url": "https://www.suzuki.ca/wp-content/uploads/suzuki-exhaust-tuning-icon-1.png"
+        },
+        {
+          "name": "An electrically controlled Antilock Brake System (ABS) that produces stable braking force under various road surface conditions. The system helps avoid wheel locking when there is a sudden change in road surface during braking or when an excessive braking force is applied. The system monitors wheel speed 50 times per wheel rotation and matches stopping power to available traction.\n\n* Depending on road surface conditions, such as wet, loose, or uneven roads, braking distance for an ABS equipped\u00a0vehicle may be longer than for a vehicle not equipped with ABS. ABS cannot prevent wheel skidding caused by braking while cornering. Please drive carefully and do not overly rely on ABS.",
+          "code": "ABS",
+          "image_url": "https://www.suzuki.ca/wp-content/uploads/antilock-brake-system-icon-1.png"
+        },
+        {
+          "name": "Suzuki Dual Throttle Valve (SDTV) digital fuel-injection system. In SDTV induction system, each throttle body barrel has two butterfly valves, a primary valve controlled by the twist grip and a secondary valve controlled by the ECM based on engine rpm, gear selection and the position of the primary valve. The secondary butterfly valve opens and closes to maintain ideal intake air velocity, improving high combustion efficiency, thus resulting in a linear throttle response, increased low-to-mid range torque.",
+          "code": "SDTV",
+          "image_url": "https://www.suzuki.ca/wp-content/uploads/suzuki-dual-throttle-valve-system-icon-1.png"
+        },
+        {
+          "name": "Suzuki Composite Electrochemical Material (SCEM) is Suzuki\u2019s own nickel-silicon-carbide coating technique derived from racetrack experience. SCEM cylinders allow faster heat transfer and tighter piston-to-cylinder clearance, for superb durability and resistance to scuffing.",
+          "code": "SCEM",
+          "image_url": "https://www.suzuki.ca/wp-content/uploads/suzuki-composite-electrochemical-material-icon-1.png"
+        },
+        {
+          "name": "Suzuki Exhaust Tuning (SET) system, which uses a servo-controlled butterfly valve to modify back pressure and tune the pipe to match engine rpm. At lower rpm, the valve closes, increasing\u00a0back pressure and improving low-end torque. The valve progressively opens as engine speed increases, reducing back pressure and increasing mid-range and high-rpm power.",
+          "code": "SET",
+          "image_url": "https://www.suzuki.ca/wp-content/uploads/suzuki-exhaust-tuning-icon-1.png"
+        },
+        {
+          "name": "An electrically controlled Antilock Brake System (ABS) that produces stable braking force under various road surface conditions. The system helps avoid wheel locking when there is a sudden change in road surface during braking or when an excessive braking force is applied. The system monitors wheel speed 50 times per wheel rotation and matches stopping power to available traction.\n\n* Depending on road surface conditions, such as wet, loose, or uneven roads, braking distance for an ABS equipped\u00a0vehicle may be longer than for a vehicle not equipped with ABS. ABS cannot prevent wheel skidding caused by braking while cornering. Please drive carefully and do not overly rely on ABS.",
+          "code": "ABS",
+          "image_url": "https://www.suzuki.ca/wp-content/uploads/antilock-brake-system-icon-1.png"
+        }
+      ]
+    },
+    {
+      "slug": "2026-v-strom-800de",
+      "name": "V-Strom 800DE",
+      "year": 2026,
+      "category": "motorcycle",
+      "subcategory": "",
+      "family": "v-strom",
+      "msrp": 14095.0,
+      "msrp_text": "Starting from $14,095",
+      "trim": null,
+      "engine_displacement": "776 cm3 (47.4 cu. in.)",
+      "engine_type": "4-stroke, 2-cylinder, liquid-cooled, DOHC",
+      "weight": "230 kg (507 lbs.)",
+      "description": "The V-STROMDE is packed with distinctive features aimed specifically at enhancing its ability to more confidently negotiate gravel, country roads, green lanes and camp trails.",
+      "source_url": "https://www.suzuki.ca/product/2026-v-strom-800de/",
+      "hero_image_url": "https://www.suzuki.ca/wp-content/uploads/DL800DERCM5_YU1_right-scaled.jpg",
+      "image_urls": [
+        "https://www.suzuki.ca/wp-content/uploads/DL800DERCM5_YU1_right-scaled.jpg",
+        "https://www.suzuki.ca/wp-content/uploads/DL800DERCM5_YU1_diagonal-scaled.jpg",
+        "https://www.suzuki.ca/wp-content/uploads/DL800DERCM5_QU2_right-scaled.jpg",
+        "https://www.suzuki.ca/wp-content/uploads/DL800DERCM5_YVB_right-scaled.jpg"
+      ]
+    },
+    {
+      "slug": "2026-v-strom-800-touring",
+      "name": "V-STROM 800 Touring",
+      "year": 2026,
+      "category": "motorcycle",
+      "subcategory": "",
+      "family": "v-strom",
+      "msrp": 14595.0,
+      "msrp_text": "Starting from $14,595",
+      "trim": null,
+      "engine_displacement": "776 cm3 (47.4 cu. in.)",
+      "engine_type": "4-stroke, 2-cylinder, liquid-cooled, DOHC",
+      "weight": "223kg (492 lbs.)",
+      "description": "\u2026 keep reading >",
+      "source_url": "https://www.suzuki.ca/product/2026-v-strom-800-touring/",
+      "hero_image_url": "https://www.suzuki.ca/wp-content/uploads/DL800RQAM5_QEB_right-with-bags-3.png",
+      "image_urls": [
+        "https://www.suzuki.ca/wp-content/uploads/DL800RQAM5_QEB_right-with-bags-3.png",
+        "https://www.suzuki.ca/wp-content/uploads/DL800RQAM5_QEB_right-with-bags.png",
+        "https://www.suzuki.ca/wp-content/uploads/DL800RQAM5_QEB_right-with-bags-2.png"
+      ],
+      "colors": [
+        {
+          "name": "Plastic Top Case",
+          "code": "35L",
+          "image_url": "https://www.suzuki.ca/wp-content/uploads/93300-25810-1-800x800.jpg"
+        },
+        {
+          "name": "Plastic Top Case",
+          "code": "35L",
+          "image_url": "https://www.suzuki.ca/wp-content/uploads/93100-25860-800x800.jpg"
+        },
+        {
+          "name": "Plastic Top Case",
+          "code": "35L",
+          "image_url": "https://www.suzuki.ca/wp-content/uploads/93100-25810-1-800x800.jpg"
+        },
+        {
+          "name": "Plastic Top Case",
+          "code": "35L",
+          "image_url": "https://www.suzuki.ca/wp-content/uploads/57100-25820-800x800.jpg"
+        },
+        {
+          "name": "Plastic Top Case",
+          "code": "35L",
+          "image_url": "https://www.suzuki.ca/wp-content/uploads/41100-25810-1-800x800.jpg"
+        },
+        {
+          "name": "Plastic Top Case",
+          "code": "35L",
+          "image_url": "https://www.suzuki.ca/wp-content/uploads/93800-25830-800x800.jpg"
+        },
+        {
+          "name": "Plastic Top Case",
+          "code": "35L",
+          "image_url": "https://www.suzuki.ca/wp-content/uploads/990A0-37001-800x800.jpg"
+        },
+        {
+          "name": "Plastic Top Case",
+          "code": "35L",
+          "image_url": "https://www.suzuki.ca/wp-content/uploads/45100-25LD0-CKA-800x800.jpg"
+        },
+        {
+          "name": "Plastic Top Case",
+          "code": "35L",
+          "image_url": "https://www.suzuki.ca/wp-content/uploads/Pitbox-R9000-800x800.jpg"
+        },
+        {
+          "name": "Plastic Top Case",
+          "code": "35L",
+          "image_url": "https://www.suzuki.ca/wp-content/uploads/94600-25850-1-800x800.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "2026-v-strom-800de-adventure",
+      "name": "V-Strom 800DE Adventure",
+      "year": 2026,
+      "category": "motorcycle",
+      "subcategory": "",
+      "family": "v-strom",
+      "msrp": 16095.0,
+      "msrp_text": "Starting from $16,095",
+      "trim": null,
+      "engine_displacement": "776 cm3 (47.4 cu. in.)",
+      "engine_type": "4-stroke, 2-cylinder, liquid-cooled, DOHC",
+      "weight": "230 kg (507 lbs.)",
+      "description": "The V-STROMDE is packed with distinctive features aimed specifically at enhancing its ability to more confidently negotiate gravel, country roads, green lanes and camp trails.",
+      "source_url": "https://www.suzuki.ca/product/2026-v-strom-800de-adventure/",
+      "hero_image_url": "https://www.suzuki.ca/wp-content/uploads/DL800DERCM5_YU1_right-with-accessories-scaled.jpg",
+      "image_urls": [
+        "https://www.suzuki.ca/wp-content/uploads/DL800DERCM5_YU1_right-with-accessories-scaled.jpg",
+        "https://www.suzuki.ca/wp-content/uploads/DL800DERCM5_QU2_right-with-accessories-scaled.jpg",
+        "https://www.suzuki.ca/wp-content/uploads/DL800DERCM5_YVB_right-with-accessories-scaled.jpg"
+      ]
+    },
+    {
+      "slug": "2026-v-strom-1050",
+      "name": "V-Strom 1050",
+      "year": 2026,
+      "category": "motorcycle",
+      "subcategory": "",
+      "family": "v-strom",
+      "msrp": 17895.0,
+      "msrp_text": "Starting from $17,895",
+      "trim": null,
+      "engine_displacement": "1037cc",
+      "engine_type": "4-stroke, liquid-cooled, DOHC, 90-degree V-twin",
+      "weight": "242 kg (534 lbs)",
+      "description": "\u2026 keep reading >",
+      "source_url": "https://www.suzuki.ca/product/2026-v-strom-1050/",
+      "hero_image_url": "https://www.suzuki.ca/wp-content/uploads/DL1050RRM5_CWY_right-scaled.jpg",
+      "image_urls": [
+        "https://www.suzuki.ca/wp-content/uploads/DL1050RRM5_CWY_right-scaled.jpg"
+      ],
+      "colors": [
+        {
+          "name": "Suzuki Dual Throttle Valve (SDTV) digital fuel-injection system. In SDTV induction system, each throttle body barrel has two butterfly valves, a primary valve controlled by the twist grip and a secondary valve controlled by the ECM based on engine rpm, gear selection and the position of the primary valve. The secondary butterfly valve opens and closes to maintain ideal intake air velocity, improving high combustion efficiency, thus resulting in a linear throttle response, increased low-to-mid range torque.",
+          "code": "SDTV",
+          "image_url": "https://www.suzuki.ca/wp-content/uploads/suzuki-dual-throttle-valve-system-icon-1.png"
+        },
+        {
+          "name": "Suzuki Composite Electrochemical Material (SCEM) is Suzuki\u2019s own nickel-silicon-carbide coating technique derived from racetrack experience. SCEM cylinders allow faster heat transfer and tighter piston-to-cylinder clearance, for superb durability and resistance to scuffing.",
+          "code": "SCEM",
+          "image_url": "https://www.suzuki.ca/wp-content/uploads/suzuki-composite-electrochemical-material-icon-1.png"
+        },
+        {
+          "name": "Suzuki Clutch Assist System (SCAS) - a back-torque-limiting clutch helps make downshifts smoother, assists the rider in taking control in deceleration. Ramped engagement cams built into the clutch hub decrease force on the clutch plates under deceleration by pushing up against the pressure plate, allowing the plates to slip at a controlled rate.",
+          "code": "SCAS",
+          "image_url": "https://www.suzuki.ca/wp-content/uploads/suzuki-clutch-assist-system-icon-1.png"
+        },
+        {
+          "name": "Suzuki Exhaust Tuning (SET) system, which uses a servo-controlled butterfly valve to modify back pressure and tune the pipe to match engine rpm. At lower rpm, the valve closes, increasing\u00a0back pressure and improving low-end torque. The valve progressively opens as engine speed increases, reducing back pressure and increasing mid-range and high-rpm power.",
+          "code": "SET",
+          "image_url": "https://www.suzuki.ca/wp-content/uploads/suzuki-exhaust-tuning-icon-1.png"
+        },
+        {
+          "name": "An electrically controlled Antilock Brake System (ABS) that produces stable braking force under various road surface conditions. The system helps avoid wheel locking when there is a sudden change in road surface during braking or when an excessive braking force is applied. The system monitors wheel speed 50 times per wheel rotation and matches stopping power to available traction.\n\n* Depending on road surface conditions, such as wet, loose, or uneven roads, braking distance for an ABS equipped\u00a0vehicle may be longer than for a vehicle not equipped with ABS. ABS cannot prevent wheel skidding caused by braking while cornering. Please drive carefully and do not overly rely on ABS.",
+          "code": "ABS",
+          "image_url": "https://www.suzuki.ca/wp-content/uploads/antilock-brake-system-icon-1.png"
+        },
+        {
+          "name": "Suzuki Dual Throttle Valve (SDTV) digital fuel-injection system. In SDTV induction system, each throttle body barrel has two butterfly valves, a primary valve controlled by the twist grip and a secondary valve controlled by the ECM based on engine rpm, gear selection and the position of the primary valve. The secondary butterfly valve opens and closes to maintain ideal intake air velocity, improving high combustion efficiency, thus resulting in a linear throttle response, increased low-to-mid range torque.",
+          "code": "SDTV",
+          "image_url": "https://www.suzuki.ca/wp-content/uploads/suzuki-dual-throttle-valve-system-icon-1.png"
+        },
+        {
+          "name": "Suzuki Composite Electrochemical Material (SCEM) is Suzuki\u2019s own nickel-silicon-carbide coating technique derived from racetrack experience. SCEM cylinders allow faster heat transfer and tighter piston-to-cylinder clearance, for superb durability and resistance to scuffing.",
+          "code": "SCEM",
+          "image_url": "https://www.suzuki.ca/wp-content/uploads/suzuki-composite-electrochemical-material-icon-1.png"
+        },
+        {
+          "name": "Suzuki Clutch Assist System (SCAS) - a back-torque-limiting clutch helps make downshifts smoother, assists the rider in taking control in deceleration. Ramped engagement cams built into the clutch hub decrease force on the clutch plates under deceleration by pushing up against the pressure plate, allowing the plates to slip at a controlled rate.",
+          "code": "SCAS",
+          "image_url": "https://www.suzuki.ca/wp-content/uploads/suzuki-clutch-assist-system-icon-1.png"
+        },
+        {
+          "name": "Suzuki Exhaust Tuning (SET) system, which uses a servo-controlled butterfly valve to modify back pressure and tune the pipe to match engine rpm. At lower rpm, the valve closes, increasing\u00a0back pressure and improving low-end torque. The valve progressively opens as engine speed increases, reducing back pressure and increasing mid-range and high-rpm power.",
+          "code": "SET",
+          "image_url": "https://www.suzuki.ca/wp-content/uploads/suzuki-exhaust-tuning-icon-1.png"
+        },
+        {
+          "name": "An electrically controlled Antilock Brake System (ABS) that produces stable braking force under various road surface conditions. The system helps avoid wheel locking when there is a sudden change in road surface during braking or when an excessive braking force is applied. The system monitors wheel speed 50 times per wheel rotation and matches stopping power to available traction.\n\n* Depending on road surface conditions, such as wet, loose, or uneven roads, braking distance for an ABS equipped\u00a0vehicle may be longer than for a vehicle not equipped with ABS. ABS cannot prevent wheel skidding caused by braking while cornering. Please drive carefully and do not overly rely on ABS.",
+          "code": "ABS",
+          "image_url": "https://www.suzuki.ca/wp-content/uploads/antilock-brake-system-icon-1.png"
+        }
+      ]
+    },
+    {
+      "slug": "2026-v-strom-1050de",
+      "name": "V-Strom 1050DE",
+      "year": 2026,
+      "category": "motorcycle",
+      "subcategory": "",
+      "family": "v-strom",
+      "msrp": 18995.0,
+      "msrp_text": "Starting from $18,995",
+      "trim": null,
+      "engine_displacement": "1037cc (63.3 cu. In.)",
+      "engine_type": "4-stroke, liquid-cooled, DOHC, 90\u00b0 V-twin",
+      "weight": "252 kg (554 lb.)",
+      "description": "The V-STROMDE is packed with distinctive features aimed specifically at enhancing its ability to more confidently negotiate gravel, country roads, green lanes and camp trails.",
+      "source_url": "https://www.suzuki.ca/product/2026-v-strom-1050de/",
+      "hero_image_url": "https://www.suzuki.ca/wp-content/uploads/DL1050RJM5_C4X_right.png",
+      "image_urls": [
+        "https://www.suzuki.ca/wp-content/uploads/DL1050RJM5_C4X_right.png"
+      ]
+    },
+    {
+      "slug": "2024-v-strom-1050de-adventure",
+      "name": "V-Strom 1050DE Adventure",
+      "year": 2024,
+      "category": "motorcycle",
+      "subcategory": "",
+      "family": "v-strom",
+      "msrp": 20599.0,
+      "msrp_text": "Starting from $20,599",
+      "trim": null,
+      "engine_displacement": "1037cc",
+      "engine_type": "4-stroke, liquid-cooled, DOHC, 90 V-twin",
+      "weight": "252 kg (554 lb.) - Does not include dimension changes with Adventure accessories installed.",
+      "description": "The V-STROMDE is packed with distinctive features aimed specifically at enhancing its ability to more confidently negotiate gravel, country roads, green lanes and camp trails.",
+      "source_url": "https://www.suzuki.ca/product/2024-v-strom-1050de-adventure/",
+      "hero_image_url": "https://www.suzuki.ca/wp-content/uploads/DL1050RJM3_JWN_right-with-bag-1500x1000-1.jpg",
+      "image_urls": [
+        "https://www.suzuki.ca/wp-content/uploads/DL1050RJM3_JWN_right-with-bag-1500x1000-1.jpg",
+        "https://www.suzuki.ca/wp-content/uploads/DL1050RJM3_KGL_right-with-BAG-1500x1000-1.jpg"
+      ],
+      "colors": [
+        {
+          "name": "Plastic Top Case",
+          "code": "35L",
+          "image_url": "https://www.suzuki.ca/wp-content/uploads/93300-25810-1-800x800.jpg"
+        },
+        {
+          "name": "Plastic Top Case",
+          "code": "35L",
+          "image_url": "https://www.suzuki.ca/wp-content/uploads/990D0-ALTC1-038-1-800x800.jpg"
+        },
+        {
+          "name": "Plastic Top Case",
+          "code": "35L",
+          "image_url": "https://www.suzuki.ca/wp-content/uploads/93100-25860-800x800.jpg"
+        },
+        {
+          "name": "Plastic Top Case",
+          "code": "35L",
+          "image_url": "https://www.suzuki.ca/wp-content/uploads/93100-25810-1-800x800.jpg"
+        },
+        {
+          "name": "Plastic Top Case",
+          "code": "35L",
+          "image_url": "https://www.suzuki.ca/wp-content/uploads/990D0-06L01-060-1-800x800.jpg"
+        },
+        {
+          "name": "Plastic Top Case",
+          "code": "35L",
+          "image_url": "https://www.suzuki.ca/wp-content/uploads/990A0-37001-800x800.jpg"
+        },
+        {
+          "name": "Plastic Top Case",
+          "code": "35L",
+          "image_url": "https://www.suzuki.ca/wp-content/uploads/990D0-04300-1-800x800.jpg"
+        },
+        {
+          "name": "Plastic Top Case",
+          "code": "35L",
+          "image_url": "https://www.suzuki.ca/wp-content/uploads/Pitbox-R9000-800x800.jpg"
+        },
+        {
+          "name": "Plastic Top Case",
+          "code": "35L",
+          "image_url": "https://www.suzuki.ca/wp-content/uploads/GSX-8S_0003_44200-25810-800x800.jpg"
+        },
+        {
+          "name": "Plastic Top Case",
+          "code": "35L",
+          "image_url": "https://www.suzuki.ca/wp-content/uploads/Suzuki-R5000-Oil-800x800.jpg"
+        }
+      ]
+    }
+  ],
+  "marine": [
+    {
+      "slug": "df9-9b-stealth",
+      "name": "DF9.9B STEALTH LINE\u2122",
+      "year": null,
+      "category": "marine",
+      "subcategory": "",
+      "family": "df",
+      "msrp": null,
+      "msrp_text": "",
+      "trim": null,
+      "engine_displacement": null,
+      "engine_type": null,
+      "weight": null,
+      "description": "\u00a0  \u00a0",
+      "source_url": "https://www.suzuki.ca/product/df9-9b-stealth/",
+      "hero_image_url": null,
+      "image_urls": []
+    },
+    {
+      "slug": "df25a-stealth",
+      "name": "DF25A STEALTH LINE\u2122",
+      "year": null,
+      "category": "marine",
+      "subcategory": "",
+      "family": "df",
+      "msrp": null,
+      "msrp_text": "",
+      "trim": null,
+      "engine_displacement": null,
+      "engine_type": null,
+      "weight": null,
+      "description": "\u00a0  \u00a0",
+      "source_url": "https://www.suzuki.ca/product/df25a-stealth/",
+      "hero_image_url": null,
+      "image_urls": []
+    },
+    {
+      "slug": "df25a-stealth",
+      "name": "DF25A STEALTH LINE\u2122",
+      "year": null,
+      "category": "marine",
+      "subcategory": "",
+      "family": "df",
+      "msrp": null,
+      "msrp_text": "",
+      "trim": null,
+      "engine_displacement": null,
+      "engine_type": null,
+      "weight": null,
+      "description": "\u00a0  \u00a0",
+      "source_url": "https://www.suzuki.ca/product/df25a-stealth/",
+      "hero_image_url": null,
+      "image_urls": []
+    },
+    {
+      "slug": "df9-9b-stealth",
+      "name": "DF9.9B STEALTH LINE\u2122",
+      "year": null,
+      "category": "marine",
+      "subcategory": "",
+      "family": "df",
+      "msrp": null,
+      "msrp_text": "",
+      "trim": null,
+      "engine_displacement": null,
+      "engine_type": null,
+      "weight": null,
+      "description": "\u00a0  \u00a0",
+      "source_url": "https://www.suzuki.ca/product/df9-9b-stealth/",
+      "hero_image_url": null,
+      "image_urls": []
+    },
+    {
+      "slug": "df6a-30a-fuel-hose-component",
+      "name": "DF6A-30A Fuel-Hose Component",
+      "year": null,
+      "category": "marine",
+      "subcategory": "",
+      "family": "df",
+      "msrp": null,
+      "msrp_text": "",
+      "trim": null,
+      "engine_displacement": null,
+      "engine_type": null,
+      "weight": null,
+      "description": "\u2026 keep reading >",
+      "source_url": "https://www.suzuki.ca/product/df6a-30a-fuel-hose-component/",
+      "hero_image_url": null,
+      "image_urls": []
+    },
+    {
+      "slug": "df6a-30a-fuel-hose-component",
+      "name": "DF6A-30A Fuel-Hose Component",
+      "year": null,
+      "category": "marine",
+      "subcategory": "",
+      "family": "df",
+      "msrp": null,
+      "msrp_text": "",
+      "trim": null,
+      "engine_displacement": null,
+      "engine_type": null,
+      "weight": null,
+      "description": "\u2026 keep reading >",
+      "source_url": "https://www.suzuki.ca/product/df6a-30a-fuel-hose-component/",
+      "hero_image_url": null,
+      "image_urls": []
+    },
+    {
+      "slug": "df40a-60a-fuel-hose-component",
+      "name": "DF40A-60A Fuel-Hose Component",
+      "year": null,
+      "category": "marine",
+      "subcategory": "",
+      "family": "df",
+      "msrp": null,
+      "msrp_text": "",
+      "trim": null,
+      "engine_displacement": null,
+      "engine_type": null,
+      "weight": null,
+      "description": "\u2026 keep reading >",
+      "source_url": "https://www.suzuki.ca/product/df40a-60a-fuel-hose-component/",
+      "hero_image_url": null,
+      "image_urls": []
+    },
+    {
+      "slug": "df40a-60a-fuel-hose-component",
+      "name": "DF40A-60A Fuel-Hose Component",
+      "year": null,
+      "category": "marine",
+      "subcategory": "",
+      "family": "df",
+      "msrp": null,
+      "msrp_text": "",
+      "trim": null,
+      "engine_displacement": null,
+      "engine_type": null,
+      "weight": null,
+      "description": "\u2026 keep reading >",
+      "source_url": "https://www.suzuki.ca/product/df40a-60a-fuel-hose-component/",
+      "hero_image_url": null,
+      "image_urls": []
+    },
+    {
+      "slug": "df2-5",
+      "name": "DF2.5",
+      "year": null,
+      "category": "marine",
+      "subcategory": "",
+      "family": "df",
+      "msrp": 1263.0,
+      "msrp_text": "Starting from $1,263",
+      "trim": null,
+      "engine_displacement": null,
+      "engine_type": null,
+      "weight": null,
+      "description": "\u00a0  \u00a0",
+      "source_url": "https://www.suzuki.ca/product/df2-5/",
+      "hero_image_url": null,
+      "image_urls": []
+    },
+    {
+      "slug": "df2-5",
+      "name": "DF2.5",
+      "year": null,
+      "category": "marine",
+      "subcategory": "",
+      "family": "df",
+      "msrp": 1263.0,
+      "msrp_text": "Starting from $1,263",
+      "trim": null,
+      "engine_displacement": null,
+      "engine_type": null,
+      "weight": null,
+      "description": "\u00a0  \u00a0",
+      "source_url": "https://www.suzuki.ca/product/df2-5/",
+      "hero_image_url": null,
+      "image_urls": []
+    },
+    {
+      "slug": "df4a",
+      "name": "DF4A",
+      "year": null,
+      "category": "marine",
+      "subcategory": "",
+      "family": "df",
+      "msrp": 1948.0,
+      "msrp_text": "Starting from $1,948",
+      "trim": null,
+      "engine_displacement": null,
+      "engine_type": null,
+      "weight": null,
+      "description": "\u00a0  \u00a0",
+      "source_url": "https://www.suzuki.ca/product/df4a/",
+      "hero_image_url": null,
+      "image_urls": []
+    },
+    {
+      "slug": "df4a",
+      "name": "DF4A",
+      "year": null,
+      "category": "marine",
+      "subcategory": "",
+      "family": "df",
+      "msrp": 1948.0,
+      "msrp_text": "Starting from $1,948",
+      "trim": null,
+      "engine_displacement": null,
+      "engine_type": null,
+      "weight": null,
+      "description": "\u00a0  \u00a0",
+      "source_url": "https://www.suzuki.ca/product/df4a/",
+      "hero_image_url": null,
+      "image_urls": []
+    },
+    {
+      "slug": "df6a",
+      "name": "DF6A",
+      "year": null,
+      "category": "marine",
+      "subcategory": "",
+      "family": "df",
+      "msrp": 2194.0,
+      "msrp_text": "Starting from $2,194",
+      "trim": null,
+      "engine_displacement": null,
+      "engine_type": null,
+      "weight": null,
+      "description": "\u00a0  \u00a0",
+      "source_url": "https://www.suzuki.ca/product/df6a/",
+      "hero_image_url": null,
+      "image_urls": []
+    },
+    {
+      "slug": "df6a",
+      "name": "DF6A",
+      "year": null,
+      "category": "marine",
+      "subcategory": "",
+      "family": "df",
+      "msrp": 2194.0,
+      "msrp_text": "Starting from $2,194",
+      "trim": null,
+      "engine_displacement": null,
+      "engine_type": null,
+      "weight": null,
+      "description": "\u00a0  \u00a0",
+      "source_url": "https://www.suzuki.ca/product/df6a/",
+      "hero_image_url": null,
+      "image_urls": []
+    },
+    {
+      "slug": "df9-9b",
+      "name": "DF9.9B",
+      "year": null,
+      "category": "marine",
+      "subcategory": "",
+      "family": "df",
+      "msrp": 3752.0,
+      "msrp_text": "Starting from $3,752",
+      "trim": null,
+      "engine_displacement": null,
+      "engine_type": null,
+      "weight": null,
+      "description": "\u2026 keep reading >",
+      "source_url": "https://www.suzuki.ca/product/df9-9b/",
+      "hero_image_url": null,
+      "image_urls": []
+    },
+    {
+      "slug": "df9-9b",
+      "name": "DF9.9B",
+      "year": null,
+      "category": "marine",
+      "subcategory": "",
+      "family": "df",
+      "msrp": 3752.0,
+      "msrp_text": "Starting from $3,752",
+      "trim": null,
+      "engine_displacement": null,
+      "engine_type": null,
+      "weight": null,
+      "description": "\u2026 keep reading >",
+      "source_url": "https://www.suzuki.ca/product/df9-9b/",
+      "hero_image_url": null,
+      "image_urls": []
+    },
+    {
+      "slug": "df15a",
+      "name": "DF15A",
+      "year": null,
+      "category": "marine",
+      "subcategory": "",
+      "family": "df",
+      "msrp": 3853.0,
+      "msrp_text": "Starting from $3,853",
+      "trim": null,
+      "engine_displacement": null,
+      "engine_type": null,
+      "weight": null,
+      "description": "\u00a0  \u00a0  \u00a0",
+      "source_url": "https://www.suzuki.ca/product/df15a/",
+      "hero_image_url": null,
+      "image_urls": []
+    },
+    {
+      "slug": "df15a",
+      "name": "DF15A",
+      "year": null,
+      "category": "marine",
+      "subcategory": "",
+      "family": "df",
+      "msrp": 3853.0,
+      "msrp_text": "Starting from $3,853",
+      "trim": null,
+      "engine_displacement": null,
+      "engine_type": null,
+      "weight": null,
+      "description": "\u00a0  \u00a0  \u00a0",
+      "source_url": "https://www.suzuki.ca/product/df15a/",
+      "hero_image_url": null,
+      "image_urls": []
+    },
+    {
+      "slug": "df20a",
+      "name": "DF20A",
+      "year": null,
+      "category": "marine",
+      "subcategory": "",
+      "family": "df",
+      "msrp": 4381.0,
+      "msrp_text": "Starting from $4,381",
+      "trim": null,
+      "engine_displacement": null,
+      "engine_type": null,
+      "weight": null,
+      "description": "\u00a0  \u00a0",
+      "source_url": "https://www.suzuki.ca/product/df20a/",
+      "hero_image_url": null,
+      "image_urls": []
+    },
+    {
+      "slug": "df20a",
+      "name": "DF20A",
+      "year": null,
+      "category": "marine",
+      "subcategory": "",
+      "family": "df",
+      "msrp": 4381.0,
+      "msrp_text": "Starting from $4,381",
+      "trim": null,
+      "engine_displacement": null,
+      "engine_type": null,
+      "weight": null,
+      "description": "\u00a0  \u00a0",
+      "source_url": "https://www.suzuki.ca/product/df20a/",
+      "hero_image_url": null,
+      "image_urls": []
+    },
+    {
+      "slug": "df25a",
+      "name": "DF25A",
+      "year": null,
+      "category": "marine",
+      "subcategory": "",
+      "family": "df",
+      "msrp": 5386.0,
+      "msrp_text": "Starting from $5,386",
+      "trim": null,
+      "engine_displacement": null,
+      "engine_type": null,
+      "weight": null,
+      "description": "\u00a0  \u00a0",
+      "source_url": "https://www.suzuki.ca/product/df25a/",
+      "hero_image_url": null,
+      "image_urls": []
+    },
+    {
+      "slug": "df25a",
+      "name": "DF25A",
+      "year": null,
+      "category": "marine",
+      "subcategory": "",
+      "family": "df",
+      "msrp": 5386.0,
+      "msrp_text": "Starting from $5,386",
+      "trim": null,
+      "engine_displacement": null,
+      "engine_type": null,
+      "weight": null,
+      "description": "\u00a0  \u00a0",
+      "source_url": "https://www.suzuki.ca/product/df25a/",
+      "hero_image_url": null,
+      "image_urls": []
+    },
+    {
+      "slug": "df30a",
+      "name": "DF30A",
+      "year": null,
+      "category": "marine",
+      "subcategory": "",
+      "family": "df",
+      "msrp": 7117.0,
+      "msrp_text": "Starting from $7,117",
+      "trim": null,
+      "engine_displacement": null,
+      "engine_type": null,
+      "weight": null,
+      "description": "\u00a0  \u00a0",
+      "source_url": "https://www.suzuki.ca/product/df30a/",
+      "hero_image_url": null,
+      "image_urls": []
+    },
+    {
+      "slug": "df30a",
+      "name": "DF30A",
+      "year": null,
+      "category": "marine",
+      "subcategory": "",
+      "family": "df",
+      "msrp": 7117.0,
+      "msrp_text": "Starting from $7,117",
+      "trim": null,
+      "engine_displacement": null,
+      "engine_type": null,
+      "weight": null,
+      "description": "\u00a0  \u00a0",
+      "source_url": "https://www.suzuki.ca/product/df30a/",
+      "hero_image_url": null,
+      "image_urls": []
+    },
+    {
+      "slug": "df40a",
+      "name": "DF40A",
+      "year": null,
+      "category": "marine",
+      "subcategory": "",
+      "family": "df",
+      "msrp": 9206.0,
+      "msrp_text": "Starting from $9,206",
+      "trim": null,
+      "engine_displacement": null,
+      "engine_type": null,
+      "weight": null,
+      "description": "\u00a0  \u00a0",
+      "source_url": "https://www.suzuki.ca/product/df40a/",
+      "hero_image_url": null,
+      "image_urls": []
+    },
+    {
+      "slug": "df40a",
+      "name": "DF40A",
+      "year": null,
+      "category": "marine",
+      "subcategory": "",
+      "family": "df",
+      "msrp": 9206.0,
+      "msrp_text": "Starting from $9,206",
+      "trim": null,
+      "engine_displacement": null,
+      "engine_type": null,
+      "weight": null,
+      "description": "\u00a0  \u00a0",
+      "source_url": "https://www.suzuki.ca/product/df40a/",
+      "hero_image_url": null,
+      "image_urls": []
+    },
+    {
+      "slug": "df50a",
+      "name": "DF50A",
+      "year": null,
+      "category": "marine",
+      "subcategory": "",
+      "family": "df",
+      "msrp": 10354.0,
+      "msrp_text": "Starting from $10,354",
+      "trim": null,
+      "engine_displacement": null,
+      "engine_type": null,
+      "weight": null,
+      "description": "\u00a0  \u00a0",
+      "source_url": "https://www.suzuki.ca/product/df50a/",
+      "hero_image_url": null,
+      "image_urls": []
+    },
+    {
+      "slug": "df50a",
+      "name": "DF50A",
+      "year": null,
+      "category": "marine",
+      "subcategory": "",
+      "family": "df",
+      "msrp": 10354.0,
+      "msrp_text": "Starting from $10,354",
+      "trim": null,
+      "engine_displacement": null,
+      "engine_type": null,
+      "weight": null,
+      "description": "\u00a0  \u00a0",
+      "source_url": "https://www.suzuki.ca/product/df50a/",
+      "hero_image_url": null,
+      "image_urls": []
+    },
+    {
+      "slug": "df50av",
+      "name": "DF50AV",
+      "year": null,
+      "category": "marine",
+      "subcategory": "",
+      "family": "df",
+      "msrp": 10937.0,
+      "msrp_text": "Starting from $10,937",
+      "trim": null,
+      "engine_displacement": null,
+      "engine_type": null,
+      "weight": null,
+      "description": "\u00a0  \u00a0",
+      "source_url": "https://www.suzuki.ca/product/df50av/",
+      "hero_image_url": null,
+      "image_urls": []
+    },
+    {
+      "slug": "df50av",
+      "name": "DF50AV",
+      "year": null,
+      "category": "marine",
+      "subcategory": "",
+      "family": "df",
+      "msrp": 10937.0,
+      "msrp_text": "Starting from $10,937",
+      "trim": null,
+      "engine_displacement": null,
+      "engine_type": null,
+      "weight": null,
+      "description": "\u00a0  \u00a0",
+      "source_url": "https://www.suzuki.ca/product/df50av/",
+      "hero_image_url": null,
+      "image_urls": []
+    },
+    {
+      "slug": "df60a",
+      "name": "DF60A",
+      "year": null,
+      "category": "marine",
+      "subcategory": "",
+      "family": "df",
+      "msrp": 11653.0,
+      "msrp_text": "Starting from $11,653",
+      "trim": null,
+      "engine_displacement": null,
+      "engine_type": null,
+      "weight": null,
+      "description": "\u00a0  \u00a0",
+      "source_url": "https://www.suzuki.ca/product/df60a/",
+      "hero_image_url": null,
+      "image_urls": []
+    },
+    {
+      "slug": "df60a",
+      "name": "DF60A",
+      "year": null,
+      "category": "marine",
+      "subcategory": "",
+      "family": "df",
+      "msrp": 11653.0,
+      "msrp_text": "Starting from $11,653",
+      "trim": null,
+      "engine_displacement": null,
+      "engine_type": null,
+      "weight": null,
+      "description": "\u00a0  \u00a0",
+      "source_url": "https://www.suzuki.ca/product/df60a/",
+      "hero_image_url": null,
+      "image_urls": []
+    },
+    {
+      "slug": "df60av",
+      "name": "DF60AV",
+      "year": null,
+      "category": "marine",
+      "subcategory": "",
+      "family": "df",
+      "msrp": 11940.0,
+      "msrp_text": "Starting from $11,940",
+      "trim": null,
+      "engine_displacement": null,
+      "engine_type": null,
+      "weight": null,
+      "description": "\u00a0  \u00a0",
+      "source_url": "https://www.suzuki.ca/product/df60av/",
+      "hero_image_url": null,
+      "image_urls": []
+    },
+    {
+      "slug": "df60av",
+      "name": "DF60AV",
+      "year": null,
+      "category": "marine",
+      "subcategory": "",
+      "family": "df",
+      "msrp": 11940.0,
+      "msrp_text": "Starting from $11,940",
+      "trim": null,
+      "engine_displacement": null,
+      "engine_type": null,
+      "weight": null,
+      "description": "\u00a0  \u00a0",
+      "source_url": "https://www.suzuki.ca/product/df60av/",
+      "hero_image_url": null,
+      "image_urls": []
+    },
+    {
+      "slug": "df75a",
+      "name": "DF75A",
+      "year": null,
+      "category": "marine",
+      "subcategory": "",
+      "family": "df",
+      "msrp": 12362.0,
+      "msrp_text": "Starting from $12,362",
+      "trim": null,
+      "engine_displacement": null,
+      "engine_type": null,
+      "weight": null,
+      "description": "\u00a0  \u00a0",
+      "source_url": "https://www.suzuki.ca/product/df75a/",
+      "hero_image_url": null,
+      "image_urls": []
+    },
+    {
+      "slug": "df75a",
+      "name": "DF75A",
+      "year": null,
+      "category": "marine",
+      "subcategory": "",
+      "family": "df",
+      "msrp": 12362.0,
+      "msrp_text": "Starting from $12,362",
+      "trim": null,
+      "engine_displacement": null,
+      "engine_type": null,
+      "weight": null,
+      "description": "\u00a0  \u00a0",
+      "source_url": "https://www.suzuki.ca/product/df75a/",
+      "hero_image_url": null,
+      "image_urls": []
+    },
+    {
+      "slug": "df90a",
+      "name": "DF90A",
+      "year": null,
+      "category": "marine",
+      "subcategory": "",
+      "family": "df",
+      "msrp": 14175.0,
+      "msrp_text": "Starting from $14,175",
+      "trim": null,
+      "engine_displacement": null,
+      "engine_type": null,
+      "weight": null,
+      "description": "\u00a0  \u00a0",
+      "source_url": "https://www.suzuki.ca/product/df90a/",
+      "hero_image_url": null,
+      "image_urls": []
+    },
+    {
+      "slug": "df90a",
+      "name": "DF90A",
+      "year": null,
+      "category": "marine",
+      "subcategory": "",
+      "family": "df",
+      "msrp": 14175.0,
+      "msrp_text": "Starting from $14,175",
+      "trim": null,
+      "engine_displacement": null,
+      "engine_type": null,
+      "weight": null,
+      "description": "\u00a0  \u00a0",
+      "source_url": "https://www.suzuki.ca/product/df90a/",
+      "hero_image_url": null,
+      "image_urls": []
+    },
+    {
+      "slug": "df115b",
+      "name": "DF115B",
+      "year": null,
+      "category": "marine",
+      "subcategory": "",
+      "family": "df",
+      "msrp": 16866.0,
+      "msrp_text": "Starting from $16,866",
+      "trim": null,
+      "engine_displacement": null,
+      "engine_type": null,
+      "weight": null,
+      "description": "\u00a0  \u00a0",
+      "source_url": "https://www.suzuki.ca/product/df115b/",
+      "hero_image_url": null,
+      "image_urls": []
+    },
+    {
+      "slug": "df115b",
+      "name": "DF115B",
+      "year": null,
+      "category": "marine",
+      "subcategory": "",
+      "family": "df",
+      "msrp": 16866.0,
+      "msrp_text": "Starting from $16,866",
+      "trim": null,
+      "engine_displacement": null,
+      "engine_type": null,
+      "weight": null,
+      "description": "\u00a0  \u00a0",
+      "source_url": "https://www.suzuki.ca/product/df115b/",
+      "hero_image_url": null,
+      "image_urls": []
+    },
+    {
+      "slug": "df115bs-stealth",
+      "name": "DF115BS STEALTH LINE\u2122",
+      "year": null,
+      "category": "marine",
+      "subcategory": "",
+      "family": "df",
+      "msrp": 17466.0,
+      "msrp_text": "Starting from $17,466",
+      "trim": null,
+      "engine_displacement": null,
+      "engine_type": null,
+      "weight": null,
+      "description": "\u00a0  \u00a0",
+      "source_url": "https://www.suzuki.ca/product/df115bs-stealth/",
+      "hero_image_url": null,
+      "image_urls": []
+    },
+    {
+      "slug": "df115bs-stealth",
+      "name": "DF115BS STEALTH LINE\u2122",
+      "year": null,
+      "category": "marine",
+      "subcategory": "",
+      "family": "df",
+      "msrp": 17466.0,
+      "msrp_text": "Starting from $17,466",
+      "trim": null,
+      "engine_displacement": null,
+      "engine_type": null,
+      "weight": null,
+      "description": "\u00a0  \u00a0",
+      "source_url": "https://www.suzuki.ca/product/df115bs-stealth/",
+      "hero_image_url": null,
+      "image_urls": []
+    },
+    {
+      "slug": "df140b",
+      "name": "DF140B",
+      "year": null,
+      "category": "marine",
+      "subcategory": "",
+      "family": "df",
+      "msrp": 18406.0,
+      "msrp_text": "Starting from $18,406",
+      "trim": null,
+      "engine_displacement": null,
+      "engine_type": null,
+      "weight": null,
+      "description": "\u00a0  \u00a0",
+      "source_url": "https://www.suzuki.ca/product/df140b/",
+      "hero_image_url": null,
+      "image_urls": []
+    },
+    {
+      "slug": "df140b",
+      "name": "DF140B",
+      "year": null,
+      "category": "marine",
+      "subcategory": "",
+      "family": "df",
+      "msrp": 18406.0,
+      "msrp_text": "Starting from $18,406",
+      "trim": null,
+      "engine_displacement": null,
+      "engine_type": null,
+      "weight": null,
+      "description": "\u00a0  \u00a0",
+      "source_url": "https://www.suzuki.ca/product/df140b/",
+      "hero_image_url": null,
+      "image_urls": []
+    },
+    {
+      "slug": "df140b-stealth",
+      "name": "DF140B STEALTH LINE\u2122",
+      "year": null,
+      "category": "marine",
+      "subcategory": "",
+      "family": "df",
+      "msrp": 19006.0,
+      "msrp_text": "Starting from $19,006",
+      "trim": null,
+      "engine_displacement": null,
+      "engine_type": null,
+      "weight": null,
+      "description": "\u00a0  \u00a0",
+      "source_url": "https://www.suzuki.ca/product/df140b-stealth/",
+      "hero_image_url": null,
+      "image_urls": []
+    },
+    {
+      "slug": "df140b-stealth",
+      "name": "DF140B STEALTH LINE\u2122",
+      "year": null,
+      "category": "marine",
+      "subcategory": "",
+      "family": "df",
+      "msrp": 19006.0,
+      "msrp_text": "Starting from $19,006",
+      "trim": null,
+      "engine_displacement": null,
+      "engine_type": null,
+      "weight": null,
+      "description": "\u00a0  \u00a0",
+      "source_url": "https://www.suzuki.ca/product/df140b-stealth/",
+      "hero_image_url": null,
+      "image_urls": []
+    },
+    {
+      "slug": "df150a",
+      "name": "DF150A",
+      "year": null,
+      "category": "marine",
+      "subcategory": "",
+      "family": "df",
+      "msrp": 21747.0,
+      "msrp_text": "Starting from $21,747",
+      "trim": null,
+      "engine_displacement": null,
+      "engine_type": null,
+      "weight": null,
+      "description": "\u00a0  \u00a0  \u00a0",
+      "source_url": "https://www.suzuki.ca/product/df150a/",
+      "hero_image_url": null,
+      "image_urls": []
+    },
+    {
+      "slug": "df150a",
+      "name": "DF150A",
+      "year": null,
+      "category": "marine",
+      "subcategory": "",
+      "family": "df",
+      "msrp": 21747.0,
+      "msrp_text": "Starting from $21,747",
+      "trim": null,
+      "engine_displacement": null,
+      "engine_type": null,
+      "weight": null,
+      "description": "\u00a0  \u00a0  \u00a0",
+      "source_url": "https://www.suzuki.ca/product/df150a/",
+      "hero_image_url": null,
+      "image_urls": []
+    },
+    {
+      "slug": "df150a-stealth",
+      "name": "DF150A STEALTH LINE\u2122",
+      "year": null,
+      "category": "marine",
+      "subcategory": "",
+      "family": "df",
+      "msrp": 22347.0,
+      "msrp_text": "Starting from $22,347",
+      "trim": null,
+      "engine_displacement": null,
+      "engine_type": null,
+      "weight": null,
+      "description": "\u00a0  \u00a0  \u00a0",
+      "source_url": "https://www.suzuki.ca/product/df150a-stealth/",
+      "hero_image_url": null,
+      "image_urls": []
+    },
+    {
+      "slug": "df150a-stealth",
+      "name": "DF150A STEALTH LINE\u2122",
+      "year": null,
+      "category": "marine",
+      "subcategory": "",
+      "family": "df",
+      "msrp": 22347.0,
+      "msrp_text": "Starting from $22,347",
+      "trim": null,
+      "engine_displacement": null,
+      "engine_type": null,
+      "weight": null,
+      "description": "\u00a0  \u00a0  \u00a0",
+      "source_url": "https://www.suzuki.ca/product/df150a-stealth/",
+      "hero_image_url": null,
+      "image_urls": []
+    },
+    {
+      "slug": "df175a",
+      "name": "DF175A",
+      "year": null,
+      "category": "marine",
+      "subcategory": "",
+      "family": "df",
+      "msrp": 23694.0,
+      "msrp_text": "Starting from $23,694",
+      "trim": null,
+      "engine_displacement": null,
+      "engine_type": null,
+      "weight": null,
+      "description": "\u00a0  \u00a0",
+      "source_url": "https://www.suzuki.ca/product/df175a/",
+      "hero_image_url": null,
+      "image_urls": []
+    },
+    {
+      "slug": "df175a",
+      "name": "DF175A",
+      "year": null,
+      "category": "marine",
+      "subcategory": "",
+      "family": "df",
+      "msrp": 23694.0,
+      "msrp_text": "Starting from $23,694",
+      "trim": null,
+      "engine_displacement": null,
+      "engine_type": null,
+      "weight": null,
+      "description": "\u00a0  \u00a0",
+      "source_url": "https://www.suzuki.ca/product/df175a/",
+      "hero_image_url": null,
+      "image_urls": []
+    },
+    {
+      "slug": "df150ap",
+      "name": "DF150AP",
+      "year": null,
+      "category": "marine",
+      "subcategory": "",
+      "family": "df",
+      "msrp": 25200.0,
+      "msrp_text": "Starting from $25,200",
+      "trim": null,
+      "engine_displacement": null,
+      "engine_type": null,
+      "weight": null,
+      "description": "\u00a0  \u00a0",
+      "source_url": "https://www.suzuki.ca/product/df150ap/",
+      "hero_image_url": null,
+      "image_urls": []
+    },
+    {
+      "slug": "df150ap",
+      "name": "DF150AP",
+      "year": null,
+      "category": "marine",
+      "subcategory": "",
+      "family": "df",
+      "msrp": 25200.0,
+      "msrp_text": "Starting from $25,200",
+      "trim": null,
+      "engine_displacement": null,
+      "engine_type": null,
+      "weight": null,
+      "description": "\u00a0  \u00a0",
+      "source_url": "https://www.suzuki.ca/product/df150ap/",
+      "hero_image_url": null,
+      "image_urls": []
+    },
+    {
+      "slug": "df200at",
+      "name": "DF200AT",
+      "year": null,
+      "category": "marine",
+      "subcategory": "",
+      "family": "df",
+      "msrp": 25584.0,
+      "msrp_text": "Starting from $25,584",
+      "trim": null,
+      "engine_displacement": null,
+      "engine_type": null,
+      "weight": null,
+      "description": "\u00a0  \u00a0  \u00a0",
+      "source_url": "https://www.suzuki.ca/product/df200at/",
+      "hero_image_url": null,
+      "image_urls": []
+    },
+    {
+      "slug": "df200at",
+      "name": "DF200AT",
+      "year": null,
+      "category": "marine",
+      "subcategory": "",
+      "family": "df",
+      "msrp": 25584.0,
+      "msrp_text": "Starting from $25,584",
+      "trim": null,
+      "engine_displacement": null,
+      "engine_type": null,
+      "weight": null,
+      "description": "\u00a0  \u00a0  \u00a0",
+      "source_url": "https://www.suzuki.ca/product/df200at/",
+      "hero_image_url": null,
+      "image_urls": []
+    },
+    {
+      "slug": "df175ap",
+      "name": "DF175AP",
+      "year": null,
+      "category": "marine",
+      "subcategory": "",
+      "family": "df",
+      "msrp": 25596.0,
+      "msrp_text": "Starting from $25,596",
+      "trim": null,
+      "engine_displacement": null,
+      "engine_type": null,
+      "weight": null,
+      "description": "\u00a0  \u00a0",
+      "source_url": "https://www.suzuki.ca/product/df175ap/",
+      "hero_image_url": null,
+      "image_urls": []
+    },
+    {
+      "slug": "df175ap",
+      "name": "DF175AP",
+      "year": null,
+      "category": "marine",
+      "subcategory": "",
+      "family": "df",
+      "msrp": 25596.0,
+      "msrp_text": "Starting from $25,596",
+      "trim": null,
+      "engine_displacement": null,
+      "engine_type": null,
+      "weight": null,
+      "description": "\u00a0  \u00a0",
+      "source_url": "https://www.suzuki.ca/product/df175ap/",
+      "hero_image_url": null,
+      "image_urls": []
+    },
+    {
+      "slug": "df150ap-stealth",
+      "name": "DF150AP STEALTH LINE\u2122",
+      "year": null,
+      "category": "marine",
+      "subcategory": "",
+      "family": "df",
+      "msrp": 25800.0,
+      "msrp_text": "Starting from $25,800",
+      "trim": null,
+      "engine_displacement": null,
+      "engine_type": null,
+      "weight": null,
+      "description": "\u00a0  \u00a0  \u00a0  \u00a0",
+      "source_url": "https://www.suzuki.ca/product/df150ap-stealth/",
+      "hero_image_url": null,
+      "image_urls": []
+    },
+    {
+      "slug": "df150ap-stealth",
+      "name": "DF150AP STEALTH LINE\u2122",
+      "year": null,
+      "category": "marine",
+      "subcategory": "",
+      "family": "df",
+      "msrp": 25800.0,
+      "msrp_text": "Starting from $25,800",
+      "trim": null,
+      "engine_displacement": null,
+      "engine_type": null,
+      "weight": null,
+      "description": "\u00a0  \u00a0  \u00a0  \u00a0",
+      "source_url": "https://www.suzuki.ca/product/df150ap-stealth/",
+      "hero_image_url": null,
+      "image_urls": []
+    },
+    {
+      "slug": "df200at-stealth",
+      "name": "DF200AT STEALTH LINE\u2122",
+      "year": null,
+      "category": "marine",
+      "subcategory": "",
+      "family": "df",
+      "msrp": 26534.0,
+      "msrp_text": "Starting from $26,534",
+      "trim": null,
+      "engine_displacement": null,
+      "engine_type": null,
+      "weight": null,
+      "description": "\u00a0  \u00a0  \u00a0  \u00a0",
+      "source_url": "https://www.suzuki.ca/product/df200at-stealth/",
+      "hero_image_url": null,
+      "image_urls": []
+    },
+    {
+      "slug": "df200at-stealth",
+      "name": "DF200AT STEALTH LINE\u2122",
+      "year": null,
+      "category": "marine",
+      "subcategory": "",
+      "family": "df",
+      "msrp": 26534.0,
+      "msrp_text": "Starting from $26,534",
+      "trim": null,
+      "engine_displacement": null,
+      "engine_type": null,
+      "weight": null,
+      "description": "\u00a0  \u00a0  \u00a0  \u00a0",
+      "source_url": "https://www.suzuki.ca/product/df200at-stealth/",
+      "hero_image_url": null,
+      "image_urls": []
+    },
+    {
+      "slug": "df200ap",
+      "name": "DF200AP",
+      "year": null,
+      "category": "marine",
+      "subcategory": "",
+      "family": "df",
+      "msrp": 26893.0,
+      "msrp_text": "Starting from $26,893",
+      "trim": null,
+      "engine_displacement": null,
+      "engine_type": null,
+      "weight": null,
+      "description": "\u00a0  \u00a0",
+      "source_url": "https://www.suzuki.ca/product/df200ap/",
+      "hero_image_url": null,
+      "image_urls": []
+    },
+    {
+      "slug": "df200ap",
+      "name": "DF200AP",
+      "year": null,
+      "category": "marine",
+      "subcategory": "",
+      "family": "df",
+      "msrp": 26893.0,
+      "msrp_text": "Starting from $26,893",
+      "trim": null,
+      "engine_displacement": null,
+      "engine_type": null,
+      "weight": null,
+      "description": "\u00a0  \u00a0",
+      "source_url": "https://www.suzuki.ca/product/df200ap/",
+      "hero_image_url": null,
+      "image_urls": []
+    },
+    {
+      "slug": "df200ap-stealth",
+      "name": "DF200AP STEALTH LINE\u2122",
+      "year": null,
+      "category": "marine",
+      "subcategory": "",
+      "family": "df",
+      "msrp": 27843.0,
+      "msrp_text": "Starting from $27,843",
+      "trim": null,
+      "engine_displacement": null,
+      "engine_type": null,
+      "weight": null,
+      "description": "\u00a0  \u00a0  \u00a0  \u00a0",
+      "source_url": "https://www.suzuki.ca/product/df200ap-stealth/",
+      "hero_image_url": null,
+      "image_urls": []
+    },
+    {
+      "slug": "df200ap-stealth",
+      "name": "DF200AP STEALTH LINE\u2122",
+      "year": null,
+      "category": "marine",
+      "subcategory": "",
+      "family": "df",
+      "msrp": 27843.0,
+      "msrp_text": "Starting from $27,843",
+      "trim": null,
+      "engine_displacement": null,
+      "engine_type": null,
+      "weight": null,
+      "description": "\u00a0  \u00a0  \u00a0  \u00a0",
+      "source_url": "https://www.suzuki.ca/product/df200ap-stealth/",
+      "hero_image_url": null,
+      "image_urls": []
+    },
+    {
+      "slug": "df200t",
+      "name": "DF200T",
+      "year": null,
+      "category": "marine",
+      "subcategory": "",
+      "family": "df",
+      "msrp": 28194.0,
+      "msrp_text": "Starting from $28,194",
+      "trim": null,
+      "engine_displacement": null,
+      "engine_type": null,
+      "weight": null,
+      "description": "\u00a0  \u00a0",
+      "source_url": "https://www.suzuki.ca/product/df200t/",
+      "hero_image_url": null,
+      "image_urls": []
+    },
+    {
+      "slug": "df200t",
+      "name": "DF200T",
+      "year": null,
+      "category": "marine",
+      "subcategory": "",
+      "family": "df",
+      "msrp": 28194.0,
+      "msrp_text": "Starting from $28,194",
+      "trim": null,
+      "engine_displacement": null,
+      "engine_type": null,
+      "weight": null,
+      "description": "\u00a0  \u00a0",
+      "source_url": "https://www.suzuki.ca/product/df200t/",
+      "hero_image_url": null,
+      "image_urls": []
+    },
+    {
+      "slug": "df225",
+      "name": "DF225",
+      "year": null,
+      "category": "marine",
+      "subcategory": "",
+      "family": "df",
+      "msrp": 31347.0,
+      "msrp_text": "Starting from $31,347",
+      "trim": null,
+      "engine_displacement": null,
+      "engine_type": null,
+      "weight": null,
+      "description": "\u2026 keep reading >",
+      "source_url": "https://www.suzuki.ca/product/df225/",
+      "hero_image_url": null,
+      "image_urls": []
+    },
+    {
+      "slug": "df225",
+      "name": "DF225",
+      "year": null,
+      "category": "marine",
+      "subcategory": "",
+      "family": "df",
+      "msrp": 31347.0,
+      "msrp_text": "Starting from $31,347",
+      "trim": null,
+      "engine_displacement": null,
+      "engine_type": null,
+      "weight": null,
+      "description": "\u2026 keep reading >",
+      "source_url": "https://www.suzuki.ca/product/df225/",
+      "hero_image_url": null,
+      "image_urls": []
+    },
+    {
+      "slug": "df250t-stealth",
+      "name": "DF250T STEALTH LINE\u2122",
+      "year": null,
+      "category": "marine",
+      "subcategory": "",
+      "family": "df",
+      "msrp": 32700.0,
+      "msrp_text": "Starting from $32,700",
+      "trim": null,
+      "engine_displacement": null,
+      "engine_type": null,
+      "weight": null,
+      "description": "\u00a0  \u00a0",
+      "source_url": "https://www.suzuki.ca/product/df250t-stealth/",
+      "hero_image_url": null,
+      "image_urls": []
+    },
+    {
+      "slug": "df250t-stealth",
+      "name": "DF250T STEALTH LINE\u2122",
+      "year": null,
+      "category": "marine",
+      "subcategory": "",
+      "family": "df",
+      "msrp": 32700.0,
+      "msrp_text": "Starting from $32,700",
+      "trim": null,
+      "engine_displacement": null,
+      "engine_type": null,
+      "weight": null,
+      "description": "\u00a0  \u00a0",
+      "source_url": "https://www.suzuki.ca/product/df250t-stealth/",
+      "hero_image_url": null,
+      "image_urls": []
+    },
+    {
+      "slug": "df250",
+      "name": "DF250",
+      "year": null,
+      "category": "marine",
+      "subcategory": "",
+      "family": "df",
+      "msrp": 32804.0,
+      "msrp_text": "Starting from $32,804",
+      "trim": null,
+      "engine_displacement": null,
+      "engine_type": null,
+      "weight": null,
+      "description": "\u00a0  \u00a0",
+      "source_url": "https://www.suzuki.ca/product/df250/",
+      "hero_image_url": null,
+      "image_urls": []
+    },
+    {
+      "slug": "df250",
+      "name": "DF250",
+      "year": null,
+      "category": "marine",
+      "subcategory": "",
+      "family": "df",
+      "msrp": 32804.0,
+      "msrp_text": "Starting from $32,804",
+      "trim": null,
+      "engine_displacement": null,
+      "engine_type": null,
+      "weight": null,
+      "description": "\u00a0  \u00a0",
+      "source_url": "https://www.suzuki.ca/product/df250/",
+      "hero_image_url": null,
+      "image_urls": []
+    },
+    {
+      "slug": "df250a-stealth",
+      "name": "DF250AT STEALTH LINE\u2122",
+      "year": null,
+      "category": "marine",
+      "subcategory": "",
+      "family": "df",
+      "msrp": 33640.0,
+      "msrp_text": "Starting from $33,640",
+      "trim": null,
+      "engine_displacement": null,
+      "engine_type": null,
+      "weight": null,
+      "description": "\u00a0  \u00a0",
+      "source_url": "https://www.suzuki.ca/product/df250a-stealth/",
+      "hero_image_url": null,
+      "image_urls": []
+    },
+    {
+      "slug": "df250a-stealth",
+      "name": "DF250AT STEALTH LINE\u2122",
+      "year": null,
+      "category": "marine",
+      "subcategory": "",
+      "family": "df",
+      "msrp": 33640.0,
+      "msrp_text": "Starting from $33,640",
+      "trim": null,
+      "engine_displacement": null,
+      "engine_type": null,
+      "weight": null,
+      "description": "\u00a0  \u00a0",
+      "source_url": "https://www.suzuki.ca/product/df250a-stealth/",
+      "hero_image_url": null,
+      "image_urls": []
+    },
+    {
+      "slug": "df250ap",
+      "name": "DF250AP",
+      "year": null,
+      "category": "marine",
+      "subcategory": "",
+      "family": "df",
+      "msrp": 34788.0,
+      "msrp_text": "Starting from $34,788",
+      "trim": null,
+      "engine_displacement": null,
+      "engine_type": null,
+      "weight": null,
+      "description": "\u00a0  \u00a0",
+      "source_url": "https://www.suzuki.ca/product/df250ap/",
+      "hero_image_url": null,
+      "image_urls": []
+    },
+    {
+      "slug": "df250ap",
+      "name": "DF250AP",
+      "year": null,
+      "category": "marine",
+      "subcategory": "",
+      "family": "df",
+      "msrp": 34788.0,
+      "msrp_text": "Starting from $34,788",
+      "trim": null,
+      "engine_displacement": null,
+      "engine_type": null,
+      "weight": null,
+      "description": "\u00a0  \u00a0",
+      "source_url": "https://www.suzuki.ca/product/df250ap/",
+      "hero_image_url": null,
+      "image_urls": []
+    },
+    {
+      "slug": "df300ap",
+      "name": "DF300AP",
+      "year": null,
+      "category": "marine",
+      "subcategory": "",
+      "family": "df",
+      "msrp": 35833.0,
+      "msrp_text": "Starting from $35,833",
+      "trim": null,
+      "engine_displacement": null,
+      "engine_type": null,
+      "weight": null,
+      "description": "\u00a0  \u00a0",
+      "source_url": "https://www.suzuki.ca/product/df300ap/",
+      "hero_image_url": null,
+      "image_urls": []
+    },
+    {
+      "slug": "df300ap",
+      "name": "DF300AP",
+      "year": null,
+      "category": "marine",
+      "subcategory": "",
+      "family": "df",
+      "msrp": 35833.0,
+      "msrp_text": "Starting from $35,833",
+      "trim": null,
+      "engine_displacement": null,
+      "engine_type": null,
+      "weight": null,
+      "description": "\u00a0  \u00a0",
+      "source_url": "https://www.suzuki.ca/product/df300ap/",
+      "hero_image_url": null,
+      "image_urls": []
+    },
+    {
+      "slug": "df300ap-stealth",
+      "name": "DF300AP STEALTH LINE\u2122",
+      "year": null,
+      "category": "marine",
+      "subcategory": "",
+      "family": "df",
+      "msrp": 37318.0,
+      "msrp_text": "Starting from $37,318",
+      "trim": null,
+      "engine_displacement": null,
+      "engine_type": null,
+      "weight": null,
+      "description": "\u00a0  \u00a0",
+      "source_url": "https://www.suzuki.ca/product/df300ap-stealth/",
+      "hero_image_url": null,
+      "image_urls": []
+    },
+    {
+      "slug": "df300ap-stealth",
+      "name": "DF300AP STEALTH LINE\u2122",
+      "year": null,
+      "category": "marine",
+      "subcategory": "",
+      "family": "df",
+      "msrp": 37318.0,
+      "msrp_text": "Starting from $37,318",
+      "trim": null,
+      "engine_displacement": null,
+      "engine_type": null,
+      "weight": null,
+      "description": "\u00a0  \u00a0",
+      "source_url": "https://www.suzuki.ca/product/df300ap-stealth/",
+      "hero_image_url": null,
+      "image_urls": []
+    },
+    {
+      "slug": "df300b",
+      "name": "DF300B",
+      "year": null,
+      "category": "marine",
+      "subcategory": "",
+      "family": "df",
+      "msrp": 41335.0,
+      "msrp_text": "Starting from $41,335",
+      "trim": null,
+      "engine_displacement": null,
+      "engine_type": null,
+      "weight": null,
+      "description": "\u00a0  \u00a0",
+      "source_url": "https://www.suzuki.ca/product/df300b/",
+      "hero_image_url": null,
+      "image_urls": []
+    },
+    {
+      "slug": "df300b",
+      "name": "DF300B",
+      "year": null,
+      "category": "marine",
+      "subcategory": "",
+      "family": "df",
+      "msrp": 41335.0,
+      "msrp_text": "Starting from $41,335",
+      "trim": null,
+      "engine_displacement": null,
+      "engine_type": null,
+      "weight": null,
+      "description": "\u00a0  \u00a0",
+      "source_url": "https://www.suzuki.ca/product/df300b/",
+      "hero_image_url": null,
+      "image_urls": []
+    },
+    {
+      "slug": "df350a",
+      "name": "DF350A",
+      "year": null,
+      "category": "marine",
+      "subcategory": "",
+      "family": "df",
+      "msrp": 44112.0,
+      "msrp_text": "Starting from $44,112",
+      "trim": null,
+      "engine_displacement": null,
+      "engine_type": null,
+      "weight": null,
+      "description": "\u00a0  \u00a0",
+      "source_url": "https://www.suzuki.ca/product/df350a/",
+      "hero_image_url": null,
+      "image_urls": []
+    },
+    {
+      "slug": "df350a",
+      "name": "DF350A",
+      "year": null,
+      "category": "marine",
+      "subcategory": "",
+      "family": "df",
+      "msrp": 44112.0,
+      "msrp_text": "Starting from $44,112",
+      "trim": null,
+      "engine_displacement": null,
+      "engine_type": null,
+      "weight": null,
+      "description": "\u00a0  \u00a0",
+      "source_url": "https://www.suzuki.ca/product/df350a/",
+      "hero_image_url": null,
+      "image_urls": []
+    },
+    {
+      "slug": "df350amd-stealth",
+      "name": "DF350AMD STEALTH LINE\u2122",
+      "year": null,
+      "category": "marine",
+      "subcategory": "",
+      "family": "df",
+      "msrp": 45062.0,
+      "msrp_text": "Starting from $45,062",
+      "trim": null,
+      "engine_displacement": null,
+      "engine_type": null,
+      "weight": null,
+      "description": "\u00a0  \u00a0",
+      "source_url": "https://www.suzuki.ca/product/df350amd-stealth/",
+      "hero_image_url": null,
+      "image_urls": []
+    },
+    {
+      "slug": "df350amd-stealth",
+      "name": "DF350AMD STEALTH LINE\u2122",
+      "year": null,
+      "category": "marine",
+      "subcategory": "",
+      "family": "df",
+      "msrp": 45062.0,
+      "msrp_text": "Starting from $45,062",
+      "trim": null,
+      "engine_displacement": null,
+      "engine_type": null,
+      "weight": null,
+      "description": "\u00a0  \u00a0",
+      "source_url": "https://www.suzuki.ca/product/df350amd-stealth/",
+      "hero_image_url": null,
+      "image_urls": []
+    }
+  ]
+}

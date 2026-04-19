@@ -1,0 +1,2100 @@
+{
+  "motorcycle": [
+    {
+      "slug": "tenere-tenere-700-world-raid-2026",
+      "name": "T\u00e9n\u00e9r\u00e9 700 World Raid",
+      "year": 2026,
+      "category": "motorcycle",
+      "subcategory": "adventure",
+      "family": "tenere",
+      "msrp": 17999.0,
+      "msrp_text": "Starting at \n    \n        $17,999.00",
+      "engine_displacement": "689 cc",
+      "source_url": "https://www.yamaha-motor.ca/en/road/motorcycle/adventure/2026-tenere-700-world-raid/2026-XTZ7WRT",
+      "hero_image_url": "//cdn-tp3.mozu.com/27878-44719/cms/files/e4a99850-9e67-4bba-8f17-e0e9ad086597",
+      "image_urls": [
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/e4a99850-9e67-4bba-8f17-e0e9ad086597",
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/614c194a-291a-4c97-ba9e-28f3de00b616",
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/aeaaaddc-0c32-46a9-9314-b10d9dc1c58c",
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/c3a2efb7-d425-44d6-b0b7-375ff35f57ee",
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/543e8ee5-9571-44f1-9964-2831eb7ee6d7"
+      ],
+      "colors": [
+        {
+          "name": "Redline/White",
+          "image_url": "//cdn-tp3.mozu.com/27878-44719/cms/44719/files/71f699c8-764f-4a05-9d43-dae7f8131462"
+        }
+      ]
+    }
+  ],
+  "atv": [
+    {
+      "slug": "fz-yfz50-2026",
+      "name": "YFZ50",
+      "year": 2026,
+      "category": "atv",
+      "subcategory": "beginner-youth",
+      "family": "fz",
+      "msrp": 3899.0,
+      "msrp_text": "Starting at \n    \n        $3,899.00",
+      "engine_displacement": "49.4cc",
+      "source_url": "https://www.yamaha-motor.ca/en/off-road/atv/beginner-youth/2026-yfz50/2026-YFZ05YYXT",
+      "hero_image_url": "//cdn-tp3.mozu.com/27878-44719/cms/files/cf63eb10-8d3a-4c7d-b53b-9d12a83b9c7a",
+      "image_urls": [
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/cf63eb10-8d3a-4c7d-b53b-9d12a83b9c7a",
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/c14a6bc1-5a94-4572-8d1e-d4516cbc7d14",
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/68669c17-efdf-451a-92d3-51d446ecbd07",
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/090179d4-7b8c-44a8-b5c1-9d55ba3d1754",
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/a26fe503-5ed4-4e08-9d8f-c45f43791b75"
+      ],
+      "colors": [
+        {
+          "name": "Acid Green",
+          "image_url": "//cdn-tp3.mozu.com/27878-44719/cms/44719/files/ea6b6bff-08dd-4be5-9de4-bec9ff788bb0"
+        }
+      ]
+    },
+    {
+      "slug": "fz-yfz450r-2026",
+      "name": "YFZ450R",
+      "year": 2026,
+      "category": "atv",
+      "subcategory": "pure-sport",
+      "family": "fz",
+      "msrp": 14074.0,
+      "msrp_text": "Starting at \n    \n        $14,074.00",
+      "engine_displacement": "449cc",
+      "source_url": "https://www.yamaha-motor.ca/en/off-road/atv/pure-sport/2026-yfz450r/2026-YFZ45YSXTL",
+      "hero_image_url": "//cdn-tp3.mozu.com/27878-44719/cms/files/9b8b3295-94a3-46cd-92e0-1e74dce182bf",
+      "image_urls": [
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/9b8b3295-94a3-46cd-92e0-1e74dce182bf",
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/93419026-eac1-4a82-85c2-bd55afe75783",
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/15f25708-4e3c-412f-8c69-5f8dbe27ab92",
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/f6076884-8e87-45d0-9cc5-cdb0bcaf103e",
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/d5428aa6-86f9-41df-8f28-f690b4c361da"
+      ],
+      "colors": [
+        {
+          "name": "Team Yamaha Blue",
+          "image_url": "//cdn-tp3.mozu.com/27878-44719/cms/44719/files/bf0683d2-2e9c-404c-9ce6-97a64a87e79d"
+        }
+      ]
+    },
+    {
+      "slug": "fz-yfz450r-se-2026",
+      "name": "YFZ450R SE",
+      "year": 2026,
+      "category": "atv",
+      "subcategory": "pure-sport",
+      "family": "fz",
+      "msrp": 14274.0,
+      "msrp_text": "Starting at \n    \n        $14,274.00",
+      "engine_displacement": "449cc",
+      "source_url": "https://www.yamaha-motor.ca/en/off-road/atv/pure-sport/2026-yfz450r-se/2026-YFZ45YSSTW",
+      "hero_image_url": "//cdn-tp3.mozu.com/27878-44719/cms/files/74a1e182-2bf0-46c3-a297-241b963bf00a",
+      "image_urls": [
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/74a1e182-2bf0-46c3-a297-241b963bf00a",
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/6f72ec0d-d997-4aa8-af0e-f88905fa2bb6",
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/111cdffd-b475-4683-acba-bd51ad0a4923",
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/8b5ac72c-2ea3-4ba9-9289-280da2938ce1",
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/e18ae2dd-4d1d-4fa4-8896-7858ee61ae83"
+      ],
+      "colors": [
+        {
+          "name": "70th Anniversary",
+          "image_url": "//cdn-tp3.mozu.com/27878-44719/cms/44719/files/9667786a-f597-4ef9-bc8b-1700d5380ffe"
+        }
+      ]
+    },
+    {
+      "slug": "grizzly-grizzly-110-2026",
+      "name": "Grizzly 110",
+      "year": 2026,
+      "category": "atv",
+      "subcategory": "beginner-youth",
+      "family": "grizzly",
+      "msrp": 5199.0,
+      "msrp_text": "Starting at \n    \n        $5,199.00",
+      "engine_displacement": "112cc",
+      "source_url": "https://www.yamaha-motor.ca/en/off-road/atv/beginner-youth/2026-grizzly-110/2026-YFM01GYXT",
+      "hero_image_url": "//cdn-tp3.mozu.com/27878-44719/cms/files/1849e767-86a1-4fcb-99b7-157f23795c30",
+      "image_urls": [
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/1849e767-86a1-4fcb-99b7-157f23795c30",
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/e5c6097b-e43d-42ce-a116-d57e4605bca5",
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/a1363768-29d8-4fb9-81e6-f8b1caf0438a",
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/4fa82a3e-2be4-43f3-819f-853d6f4f142b",
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/08c5c83f-329a-43f5-a02c-5eddb23ba7c8"
+      ],
+      "colors": [
+        {
+          "name": "Armour Grey",
+          "image_url": "//cdn-tp3.mozu.com/27878-44719/cms/44719/files/de555db2-81db-43cf-af5e-7938643c3889"
+        }
+      ]
+    },
+    {
+      "slug": "grizzly-grizzly-eps-2026",
+      "name": "Grizzly EPS",
+      "year": 2026,
+      "category": "atv",
+      "subcategory": "multi-purpose",
+      "family": "grizzly",
+      "msrp": 14774.0,
+      "msrp_text": "Starting at \n    \n        $14,774.00",
+      "engine_displacement": "686cc",
+      "source_url": "https://www.yamaha-motor.ca/en/off-road/atv/multi-purpose/2026-grizzly-eps/2026-YFM70GPATG",
+      "hero_image_url": "//cdn-tp3.mozu.com/27878-44719/cms/files/51d3e97c-5452-4366-b82f-0b82f908591a",
+      "image_urls": [
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/51d3e97c-5452-4366-b82f-0b82f908591a"
+      ],
+      "colors": [
+        {
+          "name": "Tactical Green/Acid Green",
+          "image_url": "//cdn-tp3.mozu.com/27878-44719/cms/44719/files/4bad67c6-2c30-4e3e-bda9-68b8d25c5ff0"
+        }
+      ]
+    },
+    {
+      "slug": "grizzly-grizzly-eps-xt-r-2026",
+      "name": "Grizzly EPS XT-R",
+      "year": 2026,
+      "category": "atv",
+      "subcategory": "multi-purpose",
+      "family": "grizzly",
+      "msrp": 16374.0,
+      "msrp_text": "Starting at \n    \n        $16,374.00",
+      "engine_displacement": "686cc",
+      "source_url": "https://www.yamaha-motor.ca/en/off-road/atv/multi-purpose/2026-grizzly-eps-xt-r/2026-YFM70GPZTM",
+      "hero_image_url": "//cdn-tp3.mozu.com/27878-44719/cms/files/b6952693-c6eb-4fc0-b3aa-9257f8a0bb5f",
+      "image_urls": [
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/b6952693-c6eb-4fc0-b3aa-9257f8a0bb5f",
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/7b6a4159-c0b8-4982-bd79-b0da926cde41",
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/16ee788f-6dae-449a-a05b-f1e95dcab4e3",
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/3c966311-25f2-43b0-9b8e-7eab08847cb9",
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/8953fb1b-716f-49e9-9ef5-283dac5a6dcc"
+      ],
+      "colors": [
+        {
+          "name": "Moss Grey/Tactical Black",
+          "image_url": "//cdn-tp3.mozu.com/27878-44719/cms/44719/files/f4aba4b9-184c-43cb-b3ea-bd24e3787ba2"
+        }
+      ]
+    },
+    {
+      "slug": "grizzly-grizzly-eps-camo-2026",
+      "name": "Grizzly EPS CAMO",
+      "year": 2026,
+      "category": "atv",
+      "subcategory": "multi-purpose",
+      "family": "grizzly",
+      "msrp": 16574.0,
+      "msrp_text": "Starting at \n    \n        $16,574.00",
+      "engine_displacement": "686cc",
+      "source_url": "https://www.yamaha-motor.ca/en/off-road/atv/multi-purpose/2026-grizzly-eps-camo/2026-YFM70GPHTH",
+      "hero_image_url": "//cdn-tp3.mozu.com/27878-44719/cms/files/03d0da51-c8ae-42ca-b5f2-674c9c99f16d",
+      "image_urls": [
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/03d0da51-c8ae-42ca-b5f2-674c9c99f16d"
+      ],
+      "colors": [
+        {
+          "name": "Fall Beige/Realtree Edge",
+          "image_url": "//cdn-tp3.mozu.com/27878-44719/cms/44719/files/b3b71b47-c45f-4db4-a226-ef203a8c9b57"
+        }
+      ]
+    },
+    {
+      "slug": "kodiak-kodiak-450-2026",
+      "name": "Kodiak 450",
+      "year": 2026,
+      "category": "atv",
+      "subcategory": "multi-purpose",
+      "family": "kodiak",
+      "msrp": 10574.0,
+      "msrp_text": "Starting at \n    \n        $10,574.00",
+      "engine_displacement": "421 cc",
+      "source_url": "https://www.yamaha-motor.ca/en/off-road/atv/multi-purpose/2026-kodiak-450/2026-YFM45KDXT",
+      "hero_image_url": "//cdn-tp3.mozu.com/27878-44719/cms/files/32918b18-4d4b-4559-80ed-8c13b088ad1e",
+      "image_urls": [
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/32918b18-4d4b-4559-80ed-8c13b088ad1e"
+      ],
+      "colors": [
+        {
+          "name": "Tactical Green",
+          "image_url": "//cdn-tp3.mozu.com/27878-44719/cms/44719/files/deee3af6-9f71-4c30-b9c2-b5561b9b4b6a"
+        }
+      ]
+    },
+    {
+      "slug": "kodiak-kodiak-450-eps-2026",
+      "name": "Kodiak 450 EPS",
+      "year": 2026,
+      "category": "atv",
+      "subcategory": "multi-purpose",
+      "family": "kodiak",
+      "msrp": 11574.0,
+      "msrp_text": "Starting at \n    \n        $11,574.00",
+      "engine_displacement": "421 cc",
+      "source_url": "https://www.yamaha-motor.ca/en/off-road/atv/multi-purpose/2026-kodiak-450-eps/2026-YFM45KPATG",
+      "hero_image_url": "//cdn-tp3.mozu.com/27878-44719/cms/files/2060bc94-1b6f-437f-a8f3-8b98db87afc1",
+      "image_urls": [
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/2060bc94-1b6f-437f-a8f3-8b98db87afc1"
+      ],
+      "colors": [
+        {
+          "name": "Tactical Green",
+          "image_url": "//cdn-tp3.mozu.com/27878-44719/cms/44719/files/5d27e592-b3e5-4716-9e72-8113fe595ca4"
+        }
+      ]
+    },
+    {
+      "slug": "kodiak-kodiak-450-eps-camo-2026",
+      "name": "Kodiak 450 EPS CAMO",
+      "year": 2026,
+      "category": "atv",
+      "subcategory": "multi-purpose",
+      "family": "kodiak",
+      "msrp": 11774.0,
+      "msrp_text": "Starting at \n    \n        $11,774.00",
+      "engine_displacement": "421 cc",
+      "source_url": "https://www.yamaha-motor.ca/en/off-road/atv/multi-purpose/2026-kodiak-450-eps-camo/2026-YFM45KPHTF",
+      "hero_image_url": "//cdn-tp3.mozu.com/27878-44719/cms/files/753f6236-4c41-4579-8b5f-b3785655e299",
+      "image_urls": [
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/753f6236-4c41-4579-8b5f-b3785655e299"
+      ],
+      "colors": [
+        {
+          "name": "Fall Beige/Realtree Edge",
+          "image_url": "//cdn-tp3.mozu.com/27878-44719/cms/44719/files/e981d66a-bf70-43fd-9de9-eef157b81d6c"
+        }
+      ]
+    },
+    {
+      "slug": "kodiak-kodiak-700-2026",
+      "name": "Kodiak 700",
+      "year": 2026,
+      "category": "atv",
+      "subcategory": "multi-purpose",
+      "family": "kodiak",
+      "msrp": 12074.0,
+      "msrp_text": "Starting at \n    \n        $12,074.00",
+      "engine_displacement": "686 cc",
+      "source_url": "https://www.yamaha-motor.ca/en/off-road/atv/multi-purpose/2026-kodiak-700/2026-YFM70KDXTG",
+      "hero_image_url": "//cdn-tp3.mozu.com/27878-44719/cms/files/56b697e5-ad25-4db5-9b0f-384dbae97240",
+      "image_urls": [
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/56b697e5-ad25-4db5-9b0f-384dbae97240",
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/cbf43338-0a65-4e53-936f-359cfa638ad5"
+      ],
+      "colors": [
+        {
+          "name": "Tactical Green",
+          "image_url": "//cdn-tp3.mozu.com/27878-44719/cms/44719/files/fdf33496-5dbc-4224-956d-b594f81ca769"
+        }
+      ]
+    },
+    {
+      "slug": "kodiak-kodiak-450-eps-xt-r-2026",
+      "name": "Kodiak 450 EPS XT-R",
+      "year": 2026,
+      "category": "atv",
+      "subcategory": "multi-purpose",
+      "family": "kodiak",
+      "msrp": 12174.0,
+      "msrp_text": "Starting at \n    \n        $12,174.00",
+      "engine_displacement": "421 cc",
+      "source_url": "https://www.yamaha-motor.ca/en/off-road/atv/multi-purpose/2026-kodiak-450-eps-xt-r/2026-YFM45KPZTM",
+      "hero_image_url": "//cdn-tp3.mozu.com/27878-44719/cms/files/f831ee8a-ec79-438a-af14-2943a9a1df02",
+      "image_urls": [
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/f831ee8a-ec79-438a-af14-2943a9a1df02",
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/3c8296e7-7007-4e5c-99f6-54595a3c46a2",
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/b8a9f99c-0bc6-469a-8ce0-534822c28011",
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/af666aaa-45fa-4371-81fc-93bab33cc5fb",
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/0bf819db-42cb-41f1-8845-3e695bf7a3cd"
+      ],
+      "colors": [
+        {
+          "name": "Moss Grey/Tactical Black",
+          "image_url": "//cdn-tp3.mozu.com/27878-44719/cms/44719/files/efd9929b-2b10-45c3-9928-ea3f423edfa2"
+        }
+      ]
+    },
+    {
+      "slug": "kodiak-kodiak-700-eps-2026",
+      "name": "Kodiak 700 EPS",
+      "year": 2026,
+      "category": "atv",
+      "subcategory": "multi-purpose",
+      "family": "kodiak",
+      "msrp": 13674.0,
+      "msrp_text": "Starting at \n    \n        $13,674.00",
+      "engine_displacement": "686cc",
+      "source_url": "https://www.yamaha-motor.ca/en/off-road/atv/multi-purpose/2026-kodiak-700-eps/2026-YFM70KPATG",
+      "hero_image_url": "//cdn-tp3.mozu.com/27878-44719/cms/files/2611e897-4f82-45f2-93d2-39453848f9ac",
+      "image_urls": [
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/2611e897-4f82-45f2-93d2-39453848f9ac"
+      ],
+      "colors": [
+        {
+          "name": "Tactical Green",
+          "image_url": "//cdn-tp3.mozu.com/27878-44719/cms/44719/files/1c74e575-4ebf-4e13-a4ab-2d790ec60b1f"
+        }
+      ]
+    },
+    {
+      "slug": "kodiak-kodiak-700-eps-camo-2026",
+      "name": "Kodiak 700 EPS CAMO",
+      "year": 2026,
+      "category": "atv",
+      "subcategory": "multi-purpose",
+      "family": "kodiak",
+      "msrp": 13974.0,
+      "msrp_text": "Starting at \n    \n        $13,974.00",
+      "engine_displacement": "686cc",
+      "source_url": "https://www.yamaha-motor.ca/en/off-road/atv/multi-purpose/2026-kodiak-700-eps-camo/2026-YFM70KPHTF",
+      "hero_image_url": "//cdn-tp3.mozu.com/27878-44719/cms/files/753f6236-4c41-4579-8b5f-b3785655e299",
+      "image_urls": [
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/753f6236-4c41-4579-8b5f-b3785655e299"
+      ],
+      "colors": [
+        {
+          "name": "Fall Beige/Realtree Edge",
+          "image_url": "//cdn-tp3.mozu.com/27878-44719/cms/44719/files/bc5c5e4b-6758-4f21-b8eb-7a013c0677cf"
+        }
+      ]
+    },
+    {
+      "slug": "kodiak-kodiak-700-eps-xt-r-2026",
+      "name": "Kodiak 700 EPS XT-R",
+      "year": 2026,
+      "category": "atv",
+      "subcategory": "multi-purpose",
+      "family": "kodiak",
+      "msrp": 14874.0,
+      "msrp_text": "Starting at \n    \n        $14,874.00",
+      "engine_displacement": "686 cc",
+      "source_url": "https://www.yamaha-motor.ca/en/off-road/atv/multi-purpose/2026-kodiak-700-eps-xt-r/2026-YFM70KPZTM",
+      "hero_image_url": "//cdn-tp3.mozu.com/27878-44719/cms/files/218c396e-c44d-49eb-a8cb-d650b5976c4a",
+      "image_urls": [
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/218c396e-c44d-49eb-a8cb-d650b5976c4a",
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/d47a6244-8b25-45dc-9836-432bb723127f",
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/4e23db68-494e-452d-b4ea-adbff63b9533",
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/af5815a5-878c-49cb-a58e-d037634336c6",
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/3d4b1ba2-cf21-4336-a050-b41d18347df3"
+      ],
+      "colors": [
+        {
+          "name": "Moss Grey/Tactical Black",
+          "image_url": "//cdn-tp3.mozu.com/27878-44719/cms/44719/files/d03b1613-0847-4e5a-b831-cff079c1db4d"
+        }
+      ]
+    },
+    {
+      "slug": "raptor-raptor-110-2026",
+      "name": "Raptor 110",
+      "year": 2026,
+      "category": "atv",
+      "subcategory": "beginner-youth",
+      "family": "raptor",
+      "msrp": 5199.0,
+      "msrp_text": "Starting at \n    \n        $5,199.00",
+      "engine_displacement": "112cc",
+      "source_url": "https://www.yamaha-motor.ca/en/off-road/atv/beginner-youth/2026-raptor-110/2026-YFM01RYXT",
+      "hero_image_url": "//cdn-tp3.mozu.com/27878-44719/cms/files/eea09e24-a7ba-4951-ac9b-8bc5e3083f01",
+      "image_urls": [
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/eea09e24-a7ba-4951-ac9b-8bc5e3083f01",
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/b4ad786c-8c9a-4209-9e4f-520013393255",
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/22aee25c-94ee-4467-b072-dbfa5a7cd860",
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/70ce9e8e-1fd4-46d0-9b3b-27fed5fca4b0",
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/0b94b217-a204-43c1-97b1-09da2521248a"
+      ],
+      "colors": [
+        {
+          "name": "Acid Green",
+          "image_url": "//cdn-tp3.mozu.com/27878-44719/cms/44719/files/13782294-9b6a-4b07-9592-6d7dd22d7076"
+        }
+      ]
+    },
+    {
+      "slug": "raptor-raptor-700r-2026",
+      "name": "Raptor 700R",
+      "year": 2026,
+      "category": "atv",
+      "subcategory": "pure-sport",
+      "family": "raptor",
+      "msrp": 14274.0,
+      "msrp_text": "Starting at \n    \n        $14,274.00",
+      "engine_displacement": "686cc",
+      "source_url": "https://www.yamaha-motor.ca/en/off-road/atv/pure-sport/2026-raptor-700r/2026-YFM70RSCTL",
+      "hero_image_url": "//cdn-tp3.mozu.com/27878-44719/cms/files/f01874d8-5296-45fb-a70b-7018a423e94c",
+      "image_urls": [
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/f01874d8-5296-45fb-a70b-7018a423e94c",
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/8408b181-1222-47df-a6e5-76254d0e1f4b",
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/d5c71d0d-5109-4b55-a390-5b0768831e73",
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/b2af437f-5307-4988-974c-fe072a1ba24f",
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/1d571ca4-cd43-412b-825e-9175708ef809"
+      ],
+      "colors": [
+        {
+          "name": "Team Yamaha Blue",
+          "image_url": "//cdn-tp3.mozu.com/27878-44719/cms/44719/files/060dd9cf-f193-4c9b-a84e-9cede6b2da04"
+        }
+      ]
+    },
+    {
+      "slug": "raptor-raptor-700r-se-2026",
+      "name": "Raptor 700R SE",
+      "year": 2026,
+      "category": "atv",
+      "subcategory": "pure-sport",
+      "family": "raptor",
+      "msrp": 14474.0,
+      "msrp_text": "Starting at \n    \n        $14,474.00",
+      "engine_displacement": "686cc",
+      "source_url": "https://www.yamaha-motor.ca/en/off-road/atv/pure-sport/2026-raptor-700r-se/2026-YFM70RSCTW",
+      "hero_image_url": "//cdn-tp3.mozu.com/27878-44719/cms/files/b905191c-8041-49c6-b24c-3ed015763c81",
+      "image_urls": [
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/b905191c-8041-49c6-b24c-3ed015763c81",
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/f75b8a7e-4f12-4a51-81ba-d8de617f94a3",
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/0e3aa596-79f3-4aec-95ce-c5619e27208b",
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/9e9cc9ba-451e-402a-90b2-e4cc5495fd63",
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/8be5f6a5-8b60-40ee-89cc-b39d6398f652"
+      ],
+      "colors": [
+        {
+          "name": "70th Anniversary",
+          "image_url": "//cdn-tp3.mozu.com/27878-44719/cms/44719/files/59b9116b-d205-46f2-8806-df9b726a1400"
+        }
+      ]
+    }
+  ],
+  "side-by-side": [
+    {
+      "slug": "wolverine-wolverine-x2-850-utility-2026",
+      "name": "WOLVERINE X2 850 UTILITY",
+      "year": 2026,
+      "category": "side-by-side",
+      "subcategory": "multi-purpose",
+      "family": "wolverine",
+      "msrp": 23849.0,
+      "msrp_text": "Starting at \n    \n        $23,849.00",
+      "engine_displacement": null,
+      "source_url": "https://www.yamaha-motor.ca/en/off-road/side-by-side/multi-purpose/2026-wolverine-x2-850-utility/2026-YXE85WPATL",
+      "hero_image_url": "//cdn-tp3.mozu.com/27878-44719/cms/files/1b54a63a-3d0f-418f-863e-6eff2a8a4495",
+      "image_urls": [
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/1b54a63a-3d0f-418f-863e-6eff2a8a4495",
+        "//cdn-tp3.mozu.com/27878-44720/cms/files/a8588033-872f-4da2-8079-98fa01ba376c",
+        "//cdn-tp3.mozu.com/27878-44720/cms/files/54f08f5f-0c7d-432c-acab-b4ca4c6b135a",
+        "//cdn-tp3.mozu.com/27878-44720/cms/files/9356d742-4565-4e77-9cf4-9b6393aeef9f",
+        "//cdn-tp3.mozu.com/27878-44720/cms/files/10695317-816d-47ec-9cd8-c23889405f7c"
+      ],
+      "colors": [
+        {
+          "name": "Steel Blue",
+          "image_url": "//cdn-tp3.mozu.com/27878-44719/cms/44719/files/9bd9353b-e0ac-490b-a07b-3bd4e0969105"
+        }
+      ]
+    }
+  ],
+  "marine": [
+    {
+      "slug": "f115-f115",
+      "name": "F115",
+      "year": null,
+      "category": "marine",
+      "subcategory": "mid-power",
+      "family": "f115",
+      "msrp": 17250.0,
+      "msrp_text": "MSRP \n    \n        $17,250.00\n    \n - \n    \n        $19,205.00",
+      "engine_displacement": "1832cc (111.8ci)",
+      "source_url": "https://www.yamaha-motor.ca/en/water/outboard-motor/mid-power/f115/F115",
+      "hero_image_url": "//cdn-tp3.mozu.com/27878-44719/cms/44719/files/61892113-9ab8-402e-964e-72d0ac6d7512",
+      "image_urls": [
+        "//cdn-tp3.mozu.com/27878-44719/cms/44719/files/61892113-9ab8-402e-964e-72d0ac6d7512",
+        "//cdn-tp3.mozu.com/27878-44719/cms/44719/files/1c3b5248-eed9-4149-986f-a858635ebf2d",
+        "//cdn-tp3.mozu.com/27878-44719/cms/44719/files/af1e2bb3-e2d1-49d6-81a5-e2a98d4fcb9c",
+        "//cdn-tp3.mozu.com/27878-44719/cms/44719/files/2338d894-12fe-4d8e-ab62-536f9bdefecb",
+        "//cdn-tp3.mozu.com/27878-44719/cms/44719/files/feb2ff35-4a2a-42dd-8f23-80daa450785b"
+      ],
+      "colors": [
+        {
+          "name": "Traditional Grey",
+          "image_url": "//cdn-tp3.mozu.com/27878-44719/cms/44719/files/fd6fde52-771a-477e-898b-1759ca631d17"
+        }
+      ]
+    },
+    {
+      "slug": "f130-f130",
+      "name": "F130",
+      "year": null,
+      "category": "marine",
+      "subcategory": "mid-power",
+      "family": "f130",
+      "msrp": 18050.0,
+      "msrp_text": "MSRP \n    \n        $18,050.00\n    \n - \n    \n        $18,920.00",
+      "engine_displacement": "1832cc (111.8ci)",
+      "source_url": "https://www.yamaha-motor.ca/en/water/outboard-motor/mid-power/f130/F130",
+      "hero_image_url": "//cdn-tp3.mozu.com/27878-44719/cms/files/9a1a244c-5bcd-4b7a-9433-40b2efa506d5",
+      "image_urls": [
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/9a1a244c-5bcd-4b7a-9433-40b2efa506d5",
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/b78b9c41-56b0-4838-bd18-1850172ca7eb",
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/806b131a-dd81-45ba-8e6e-621e2e222d99",
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/c19d95ff-2fd8-4a7f-a105-c8b118f422b0",
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/d376e7d7-92a8-4258-a8b4-492a7d143342"
+      ],
+      "colors": [
+        {
+          "name": "Traditional Grey",
+          "image_url": "//cdn-tp3.mozu.com/27878-44719/cms/44719/files/37c95122-4d5b-46b7-b3c3-8d152b6a09ae"
+        }
+      ]
+    },
+    {
+      "slug": "f15-f15-portable",
+      "name": "F15 Portable",
+      "year": null,
+      "category": "marine",
+      "subcategory": "portable",
+      "family": "f15",
+      "msrp": 3885.0,
+      "msrp_text": "MSRP \n    \n        $3,885.00\n    \n - \n    \n        $4,320.00",
+      "engine_displacement": "362cc (22.1ci)",
+      "source_url": "https://www.yamaha-motor.ca/en/water/outboard-motor/portable/f15-portable/F15-Portable",
+      "hero_image_url": "//cdn-tp3.mozu.com/27878-44719/cms/files/3a92a9fc-85c4-4312-88a5-fd11f9ea4a64",
+      "image_urls": [
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/3a92a9fc-85c4-4312-88a5-fd11f9ea4a64",
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/b97d4ea5-360e-4d79-addd-df8b06319869",
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/5654ec48-712e-4912-b2c5-969711a84fdf",
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/ecb23970-a81a-4017-8128-fac9d04d32ee",
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/d4593a48-b05e-4183-b06a-a769d3701cfc"
+      ],
+      "colors": [
+        {
+          "name": "Traditional Grey",
+          "image_url": "//cdn-tp3.mozu.com/27878-44719/cms/44719/files/bd91e6bc-11cc-45c9-8d2a-8125b199e6cc"
+        }
+      ]
+    },
+    {
+      "slug": "f150-f150x",
+      "name": "F150",
+      "year": null,
+      "category": "marine",
+      "subcategory": "high-power",
+      "family": "f150",
+      "msrp": 22987.0,
+      "msrp_text": "MSRP \n    \n        $22,987.00\n    \n - \n    \n        $30,520.00",
+      "engine_displacement": "2670 cc (Mechanical) / 2785 cc (DEC)",
+      "source_url": "https://www.yamaha-motor.ca/en/water/outboard-motor/high-power/f150x/F150X",
+      "hero_image_url": "//cdn-tp3.mozu.com/27878-44719/cms/files/8f129a7a-b43f-4eef-8fd1-e8b2c2aae59a",
+      "image_urls": [
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/8f129a7a-b43f-4eef-8fd1-e8b2c2aae59a",
+        "//cdn-sb.mozu.com/27878-44719/cms/files/a0838ca0-6262-491e-a133-6d4443b8ecec",
+        "//cdn-sb.mozu.com/27878-44719/cms/files/e3b1865d-1a05-41de-a59d-4b53859bf5ae",
+        "//cdn-sb.mozu.com/27878-44719/cms/files/9ecd8a3d-7a13-4b82-9fd5-4937e3ae0cd3",
+        "//cdn-sb.mozu.com/27878-44719/cms/files/6aeb1445-5e01-4a43-94db-355f87810f9c"
+      ],
+      "colors": [
+        {
+          "name": "Grey",
+          "image_url": "//cdn-tp3.mozu.com/27878-44719/cms/44719/files/c139274b-9e80-4f89-b6c1-82ee0914d7af"
+        }
+      ]
+    },
+    {
+      "slug": "f150-f150-tiller",
+      "name": "F150 Tiller",
+      "year": null,
+      "category": "marine",
+      "subcategory": "high-power",
+      "family": "f150",
+      "msrp": 27500.0,
+      "msrp_text": "MSRP \n    \n        $27,500.00",
+      "engine_displacement": "2670 cc (Mechanical) / 2785 cc (DEC)",
+      "source_url": "https://www.yamaha-motor.ca/en/water/outboard-motor/high-power/f150-tiller/F150XHAV",
+      "hero_image_url": "//cdn-tp3.mozu.com/27878-44719/cms/files/4334d68e-6dc8-4320-974d-b46505eb5fde",
+      "image_urls": [
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/4334d68e-6dc8-4320-974d-b46505eb5fde",
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/"
+      ],
+      "colors": [
+        {
+          "name": "Traditional Grey",
+          "image_url": "//cdn-tp3.mozu.com/27878-44719/cms/44719/files/1e33bfe0-7f6f-45a1-b611-3cc49c7beaf9"
+        }
+      ]
+    },
+    {
+      "slug": "f175-f175",
+      "name": "F175",
+      "year": null,
+      "category": "marine",
+      "subcategory": "high-power",
+      "family": "f175",
+      "msrp": 27055.0,
+      "msrp_text": "MSRP \n    \n        $27,055.00",
+      "engine_displacement": "2785cc (170.0 ci)",
+      "source_url": "https://www.yamaha-motor.ca/en/water/outboard-motor/high-power/f175/F175X2023",
+      "hero_image_url": "//cdn-sb.mozu.com/27878-44719/cms/files/0d799c31-64f8-4394-bbf4-71c1659e3b38",
+      "image_urls": [
+        "//cdn-sb.mozu.com/27878-44719/cms/files/0d799c31-64f8-4394-bbf4-71c1659e3b38",
+        "//cdn-sb.mozu.com/27878-44719/cms/files/9e013593-90df-4c2c-8879-0276711a1e64"
+      ],
+      "colors": [
+        {
+          "name": "Grey",
+          "image_url": "//cdn-tp3.mozu.com/27878-44719/cms/44719/files/46f1f20d-0e20-4f9b-8c5b-eac3e2038dfe"
+        }
+      ]
+    },
+    {
+      "slug": "f2.5-f2-5-portable",
+      "name": "F2.5 Portable",
+      "year": null,
+      "category": "marine",
+      "subcategory": "portable",
+      "family": "f2.5",
+      "msrp": 1280.0,
+      "msrp_text": "MSRP \n    \n        $1,280.00\n    \n - \n    \n        $1,310.00",
+      "engine_displacement": "72cc (4.4ci)",
+      "source_url": "https://www.yamaha-motor.ca/en/water/outboard-motor/portable/f2-5-portable/F2-5-Portable",
+      "hero_image_url": "//cdn-tp3.mozu.com/27878-44719/cms/files/65ad92a7-1608-4a85-960c-3554b8572696",
+      "image_urls": [
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/65ad92a7-1608-4a85-960c-3554b8572696",
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/b9fb0dc7-78f7-404a-8c1a-100dfe9262bf",
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/33d164df-83e4-4bd0-9f7e-3ab92054568d",
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/0615593d-2998-4873-a8dc-6db400e43c88",
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/cc804321-e7ef-4064-92bb-f2f41fbcf485"
+      ],
+      "colors": [
+        {
+          "name": "Traditional Grey",
+          "image_url": "//cdn-tp3.mozu.com/27878-44719/cms/44719/files/bb0b91fd-9db7-4ac1-a81c-ccf97188f02d"
+        }
+      ]
+    },
+    {
+      "slug": "f20-f20-portable",
+      "name": "F20 Portable",
+      "year": null,
+      "category": "marine",
+      "subcategory": "portable",
+      "family": "f20",
+      "msrp": 4430.0,
+      "msrp_text": "MSRP \n    \n        $4,430.00\n    \n - \n    \n        $5,560.00",
+      "engine_displacement": "432cc",
+      "source_url": "https://www.yamaha-motor.ca/en/water/outboard-motor/portable/f20-portable/F20-Portable",
+      "hero_image_url": "//cdn-sb.mozu.com/27878-44719/cms/files/e1e7ee6c-6d4e-4d02-909e-1d1fadf9318f",
+      "image_urls": [
+        "//cdn-sb.mozu.com/27878-44719/cms/files/e1e7ee6c-6d4e-4d02-909e-1d1fadf9318f",
+        "//cdn-sb.mozu.com/27878-44719/cms/files/5bb45751-64ed-4232-b828-af08660d6e1e"
+      ],
+      "colors": [
+        {
+          "name": "Traditional Grey",
+          "image_url": "//cdn-tp3.mozu.com/27878-44719/cms/44719/files/5e912f55-4d01-45d2-be55-721b4db78ef9"
+        }
+      ]
+    },
+    {
+      "slug": "f200-f200",
+      "name": "F200",
+      "year": null,
+      "category": "marine",
+      "subcategory": "high-power",
+      "family": "f200",
+      "msrp": 26936.0,
+      "msrp_text": "MSRP \n    \n        $26,936.00\n    \n - \n    \n        $36,155.00",
+      "engine_displacement": "2785cc (170 ci)",
+      "source_url": "https://www.yamaha-motor.ca/en/water/outboard-motor/high-power/f200/F200X2023",
+      "hero_image_url": "//cdn-sb.mozu.com/27878-44719/cms/files/13511a33-3b20-4bc1-880f-9c98d3f7654f",
+      "image_urls": [
+        "//cdn-sb.mozu.com/27878-44719/cms/files/13511a33-3b20-4bc1-880f-9c98d3f7654f",
+        "//cdn-sb.mozu.com/27878-44719/cms/files/c16b76aa-6a55-4383-a9f5-23562e07c8b3",
+        "//cdn-sb.mozu.com/27878-44719/cms/files/6e56d9f7-3396-47a1-8f4e-4dc8153cb441",
+        "//cdn-sb.mozu.com/27878-44719/cms/files/9027fa43-ca79-450c-bb1a-6812abc0afda",
+        "//cdn-sb.mozu.com/27878-44719/cms/files/8ccf55ce-38c8-4ac1-aed1-7ae401b36aac"
+      ],
+      "colors": [
+        {
+          "name": "Grey",
+          "image_url": "//cdn-tp3.mozu.com/27878-44719/cms/44719/files/5977e4ee-491d-42e2-83f7-5e6931c323f7"
+        }
+      ]
+    },
+    {
+      "slug": "f200-f200-tiller",
+      "name": "F200 Tiller",
+      "year": null,
+      "category": "marine",
+      "subcategory": "high-power",
+      "family": "f200",
+      "msrp": 32400.0,
+      "msrp_text": "MSRP \n    \n        $32,400.00",
+      "engine_displacement": "2785cc (170 ci)",
+      "source_url": "https://www.yamaha-motor.ca/en/water/outboard-motor/high-power/f200-tiller/F200XHAV",
+      "hero_image_url": "//cdn-tp3.mozu.com/27878-44719/cms/files/3fd4003e-c67d-4430-88e8-3dad80a5bf1c",
+      "image_urls": [
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/3fd4003e-c67d-4430-88e8-3dad80a5bf1c",
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/"
+      ],
+      "colors": [
+        {
+          "name": "Traditional Grey",
+          "image_url": "//cdn-tp3.mozu.com/27878-44719/cms/44719/files/a8bfeae1-35a2-4f5d-b244-dac0672254bb"
+        }
+      ]
+    },
+    {
+      "slug": "f225-f225",
+      "name": "F225",
+      "year": null,
+      "category": "marine",
+      "subcategory": "high-power",
+      "family": "f225",
+      "msrp": 33861.0,
+      "msrp_text": "MSRP \n    \n        $33,861.00\n    \n - \n    \n        $36,580.00",
+      "engine_displacement": "4,169cc (254.4 ci)",
+      "source_url": "https://www.yamaha-motor.ca/en/water/outboard-motor/high-power/f225/F225X",
+      "hero_image_url": "//cdn-tp3.mozu.com/27878-44719/cms/44719/files/217ae1a1-b980-496d-8b90-8ca6f02db0bc",
+      "image_urls": [
+        "//cdn-tp3.mozu.com/27878-44719/cms/44719/files/217ae1a1-b980-496d-8b90-8ca6f02db0bc",
+        "//cdn-tp3.mozu.com/27878-44719/cms/44719/files/c2893edc-5358-4fc7-aec4-ea0546521352",
+        "//cdn-tp3.mozu.com/27878-44719/cms/44719/files/268bffa0-0fe5-40bf-af84-4f1ba60deec9",
+        "//cdn-tp3.mozu.com/27878-44719/cms/44719/files/fbde1c7b-412a-4ba7-ac7a-bb4dd99eefe8",
+        "//cdn-tp3.mozu.com/27878-44719/cms/44719/files/7056f42f-e7aa-4ba8-b3c3-06994d4e7209"
+      ],
+      "colors": [
+        {
+          "name": "Grey",
+          "image_url": "//cdn-tp3.mozu.com/27878-44719/cms/44719/files/f1baac0e-0490-4d24-b820-c6afe2af86c9"
+        }
+      ]
+    },
+    {
+      "slug": "f25-f25-portable",
+      "name": "F25 Portable",
+      "year": null,
+      "category": "marine",
+      "subcategory": "portable",
+      "family": "f25",
+      "msrp": 5015.0,
+      "msrp_text": "MSRP \n    \n        $5,015.00\n    \n - \n    \n        $6,525.00",
+      "engine_displacement": "432cc / 26.4ci",
+      "source_url": "https://www.yamaha-motor.ca/en/water/outboard-motor/portable/f25-portable/F25-Portable",
+      "hero_image_url": "//cdn-tp3.mozu.com/27878-44719/cms/44719/files/bb26f018-218a-414a-91f6-aa52530f2d42",
+      "image_urls": [
+        "//cdn-tp3.mozu.com/27878-44719/cms/44719/files/bb26f018-218a-414a-91f6-aa52530f2d42",
+        "//cdn-tp3.mozu.com/27878-44719/cms/44719/files/88c2ef3d-3d81-4b3d-8d7a-cb27e042916b",
+        "//cdn-tp3.mozu.com/27878-44719/cms/44719/files/389b4bfb-ebe0-419a-9e93-2acd67d2a085",
+        "//cdn-tp3.mozu.com/27878-44719/cms/44719/files/f276ad7c-9e4a-4e82-8ee1-7607ac38a834",
+        "//cdn-tp3.mozu.com/27878-44719/cms/44719/files/c10668e7-0024-46ee-8861-a73106e59c25"
+      ],
+      "colors": [
+        {
+          "name": "Traditional Grey",
+          "image_url": "//cdn-tp3.mozu.com/27878-44719/cms/44719/files/3156ae20-5e34-4770-a6d8-ad2a400ab5b8"
+        }
+      ]
+    },
+    {
+      "slug": "f250-f250-mechanical",
+      "name": "F250 Mechanical",
+      "year": null,
+      "category": "marine",
+      "subcategory": "high-power",
+      "family": "f250",
+      "msrp": 34480.0,
+      "msrp_text": "MSRP \n    \n        $34,480.00\n    \n - \n    \n        $35,735.00",
+      "engine_displacement": "4,169cc (254.4 ci)",
+      "source_url": "https://www.yamaha-motor.ca/en/water/outboard-motor/high-power/f250-mechanical/F250",
+      "hero_image_url": "//cdn-sb.mozu.com/27878-44719/cms/files/6dd4ec45-17d5-4634-a184-869eee3cc19a",
+      "image_urls": [
+        "//cdn-sb.mozu.com/27878-44719/cms/files/6dd4ec45-17d5-4634-a184-869eee3cc19a",
+        "//cdn-sb.mozu.com/27878-44719/cms/files/604c47cb-24e4-4512-a3b1-eed4853fbc81",
+        "//cdn-sb.mozu.com/27878-44719/cms/files/f596c882-c7e5-437d-a626-93ac60a7ce7d",
+        "//cdn-sb.mozu.com/27878-44719/cms/files/8bf0451e-f447-4a79-b17e-1eef16f6a961",
+        "//cdn-sb.mozu.com/27878-44719/cms/files/7d18b945-e746-4b73-8350-ab2cbc5dcc0f"
+      ],
+      "colors": [
+        {
+          "name": "Carbon",
+          "image_url": "//cdn-tp3.mozu.com/27878-44719/cms/44719/files/52ad943f-d7dc-4723-a734-2f2c65c5252d"
+        }
+      ]
+    },
+    {
+      "slug": "f250-f250",
+      "name": "F250",
+      "year": null,
+      "category": "marine",
+      "subcategory": "high-power",
+      "family": "f250",
+      "msrp": 35404.0,
+      "msrp_text": "MSRP \n    \n        $35,404.00\n    \n - \n    \n        $43,037.00",
+      "engine_displacement": "4,169cc (254.4 ci)",
+      "source_url": "https://www.yamaha-motor.ca/en/water/outboard-motor/high-power/f250/F250X",
+      "hero_image_url": "//cdn-tp3.mozu.com/27878-44719/cms/44719/files/cf85f12e-00c0-453b-b76a-e441714e34f8",
+      "image_urls": [
+        "//cdn-tp3.mozu.com/27878-44719/cms/44719/files/cf85f12e-00c0-453b-b76a-e441714e34f8",
+        "//cdn-tp3.mozu.com/27878-44719/cms/44719/files/0a3d9a0c-420d-4dd1-8792-fd2752697cae",
+        "//cdn-tp3.mozu.com/27878-44719/cms/44719/files/5fc02bea-58f7-4a88-8d23-1a8923f8f14f",
+        "//cdn-tp3.mozu.com/27878-44719/cms/44719/files/9d9fd385-be98-4506-8242-d6fba1f6f558",
+        "//cdn-tp3.mozu.com/27878-44719/cms/44719/files/274d175b-a6db-45d0-af95-71550876d1c5"
+      ],
+      "colors": [
+        {
+          "name": "Grey",
+          "image_url": "//cdn-tp3.mozu.com/27878-44719/cms/44719/files/09b0ae1a-a41b-42b3-a425-54b7ee50abe5"
+        }
+      ]
+    },
+    {
+      "slug": "f30-f30",
+      "name": "F30",
+      "year": null,
+      "category": "marine",
+      "subcategory": "mid-power",
+      "family": "f30",
+      "msrp": 7530.0,
+      "msrp_text": "MSRP \n    \n        $7,530.00\n    \n - \n    \n        $7,800.00",
+      "engine_displacement": "747 cc (45.6 ci)",
+      "source_url": "https://www.yamaha-motor.ca/en/water/outboard-motor/mid-power/f30/F30",
+      "hero_image_url": "//cdn-tp3.mozu.com/27878-44719/cms/files/18001864-a48d-4005-b1a5-bf1c521a1ed0",
+      "image_urls": [
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/18001864-a48d-4005-b1a5-bf1c521a1ed0",
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/ce8fc6a5-04ae-44ee-ad8c-e79f2f3a4b35"
+      ],
+      "colors": [
+        {
+          "name": "Traditional Grey",
+          "image_url": "//cdn-tp3.mozu.com/27878-44719/cms/44719/files/aaa08e53-bd9e-42e9-940a-d83a3502b8f8"
+        }
+      ]
+    },
+    {
+      "slug": "f300-f300-mechanical",
+      "name": "F300 Mechanical",
+      "year": null,
+      "category": "marine",
+      "subcategory": "high-power",
+      "family": "f300",
+      "msrp": 36430.0,
+      "msrp_text": "MSRP \n    \n        $36,430.00\n    \n - \n    \n        $37,465.00",
+      "engine_displacement": null,
+      "source_url": "https://www.yamaha-motor.ca/en/water/outboard-motor/high-power/f300-mechanical/F300",
+      "hero_image_url": "//cdn-tp3.mozu.com/27878-44719/cms/files/276ebecd-3e01-434a-87cc-e1ad40f6ff15",
+      "image_urls": [
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/276ebecd-3e01-434a-87cc-e1ad40f6ff15",
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/1ab43a20-2303-4ab8-9f90-0ed11a77beca",
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/ecc9a508-52a1-4831-bc12-a129590b9f1e",
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/9b376146-c02b-4925-9698-c62327de5207",
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/809e7604-0db9-42f8-bc5d-e6b67925114c"
+      ],
+      "colors": [
+        {
+          "name": "Carbon",
+          "image_url": "//cdn-tp3.mozu.com/27878-44719/cms/44719/files/cc2e4066-4dac-4e70-a8fb-4c1d72a879df"
+        }
+      ]
+    },
+    {
+      "slug": "f300-f300",
+      "name": "F300",
+      "year": null,
+      "category": "marine",
+      "subcategory": "high-power",
+      "family": "f300",
+      "msrp": 37160.0,
+      "msrp_text": "MSRP \n    \n        $37,160.00\n    \n - \n    \n        $45,143.00",
+      "engine_displacement": "4,169cc (254.4 ci)",
+      "source_url": "https://www.yamaha-motor.ca/en/water/outboard-motor/high-power/f300/F300X",
+      "hero_image_url": "//cdn-tp3.mozu.com/27878-44719/cms/44719/files/0a9913c6-6445-4ba4-b74d-262fa414167f",
+      "image_urls": [
+        "//cdn-tp3.mozu.com/27878-44719/cms/44719/files/0a9913c6-6445-4ba4-b74d-262fa414167f",
+        "//cdn-tp3.mozu.com/27878-44719/cms/44719/files/108184b7-e68a-40d6-a802-dc2b2fd7b2eb",
+        "//cdn-tp3.mozu.com/27878-44719/cms/44719/files/595add0c-2764-425f-8e7e-0e09e916fccd",
+        "//cdn-tp3.mozu.com/27878-44719/cms/44719/files/a5cb60e2-9dc1-4bef-a9e4-767e3859976b",
+        "//cdn-tp3.mozu.com/27878-44719/cms/44719/files/b58508ff-6cee-4daf-95af-9db526a6414e"
+      ],
+      "colors": [
+        {
+          "name": "Grey",
+          "image_url": "//cdn-tp3.mozu.com/27878-44719/cms/44719/files/df258285-5a4f-4d50-b74b-cf31a307438d"
+        }
+      ]
+    },
+    {
+      "slug": "f350-f350",
+      "name": "F350",
+      "year": null,
+      "category": "marine",
+      "subcategory": "high-power",
+      "family": "f350",
+      "msrp": 48912.0,
+      "msrp_text": "MSRP \n    \n        $48,912.00\n    \n - \n    \n        $52,020.00",
+      "engine_displacement": "4256 cm3",
+      "source_url": "https://www.yamaha-motor.ca/en/water/outboard-motor/high-power/f350/F350_2",
+      "hero_image_url": "//cdn-sb.mozu.com/27878-44719/cms/files/12df7fa1-dbbf-4d07-824c-a675911fe2e6",
+      "image_urls": [
+        "//cdn-sb.mozu.com/27878-44719/cms/files/12df7fa1-dbbf-4d07-824c-a675911fe2e6",
+        "//cdn-sb.mozu.com/27878-44719/cms/files/129abc73-9a77-45d6-9e63-3d01bb9acb70",
+        "//cdn-sb.mozu.com/27878-44719/cms/files/3a2b6a52-79c8-475e-9885-a8163dd7f1bb",
+        "//cdn-sb.mozu.com/27878-44719/cms/files/00a15e79-3ccc-49c9-89f8-c7ea1115ea9a",
+        "//cdn-sb.mozu.com/27878-44719/cms/files/08d015f0-a68e-4349-bd8b-1209999c0b26"
+      ],
+      "colors": [
+        {
+          "name": "Grey",
+          "image_url": "//cdn-tp3.mozu.com/27878-44719/cms/44719/files/38d28bc3-5737-4ccb-bf83-ddc541b7fe8e"
+        }
+      ]
+    },
+    {
+      "slug": "f4-f4-portable",
+      "name": "F4 Portable",
+      "year": null,
+      "category": "marine",
+      "subcategory": "portable",
+      "family": "f4",
+      "msrp": 1895.0,
+      "msrp_text": "MSRP \n    \n        $1,895.00\n    \n - \n    \n        $1,925.00",
+      "engine_displacement": "139cc (8.5 ci)",
+      "source_url": "https://www.yamaha-motor.ca/en/water/outboard-motor/portable/f4-portable/F4-Portable",
+      "hero_image_url": "//cdn-tp3.mozu.com/27878-44719/cms/files/82c39bf9-b95d-4924-88bc-2c475232ae39",
+      "image_urls": [
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/82c39bf9-b95d-4924-88bc-2c475232ae39",
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/72e3269a-1ef1-4c2b-98db-1c7739b06c7e",
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/c05fdb17-e9fd-46e8-9428-1f72b67d9009",
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/7ac7da0e-b007-4485-bd38-3664361588aa",
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/36ee6052-48c5-42d8-a24b-d8426216ead1"
+      ],
+      "colors": [
+        {
+          "name": "Traditional Grey",
+          "image_url": "//cdn-tp3.mozu.com/27878-44719/cms/44719/files/72ded592-635b-4c36-a39f-884df6611698"
+        }
+      ]
+    },
+    {
+      "slug": "f40-f40",
+      "name": "F40",
+      "year": null,
+      "category": "marine",
+      "subcategory": "mid-power",
+      "family": "f40",
+      "msrp": 9275.0,
+      "msrp_text": "MSRP \n    \n        $9,275.00\n    \n - \n    \n        $9,575.00",
+      "engine_displacement": "747 cc (45.6 ci)",
+      "source_url": "https://www.yamaha-motor.ca/en/water/outboard-motor/mid-power/f40/F40",
+      "hero_image_url": "//cdn-tp3.mozu.com/27878-44719/cms/files/03dccf34-12dd-461b-8725-41e9031d787e",
+      "image_urls": [
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/03dccf34-12dd-461b-8725-41e9031d787e",
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/c3fc80f2-164e-444a-9a03-ff6f0850c107",
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/b95ff76a-c33f-41b7-948d-c50271fbadfc",
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/8f037c16-9771-4038-a2e9-910c8f80fa4a",
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/6bb85aa7-c34e-4240-9a33-8642bda27635"
+      ],
+      "colors": [
+        {
+          "name": "Traditional Grey",
+          "image_url": "//cdn-tp3.mozu.com/27878-44719/cms/44719/files/d8976bb1-c081-41a2-88e2-a70f57ed0946"
+        }
+      ]
+    },
+    {
+      "slug": "f50b-f50",
+      "name": "F50B",
+      "year": null,
+      "category": "marine",
+      "subcategory": "mid-power",
+      "family": "f50b",
+      "msrp": 10451.0,
+      "msrp_text": "MSRP \n    \n        $10,451.00\n    \n - \n    \n        $11,079.00",
+      "engine_displacement": "996cc (60.8ci)",
+      "source_url": "https://www.yamaha-motor.ca/en/water/outboard-motor/mid-power/f50/F50",
+      "hero_image_url": "//cdn-tp3.mozu.com/27878-44719/cms/44719/files/39ead644-16f1-44d6-803d-b92aa8be2bc8",
+      "image_urls": [
+        "//cdn-tp3.mozu.com/27878-44719/cms/44719/files/39ead644-16f1-44d6-803d-b92aa8be2bc8",
+        "//cdn-tp3.mozu.com/27878-44719/cms/44719/files/bf326dd5-bfa2-4485-8e26-17a597c12e4a",
+        "//cdn-tp3.mozu.com/27878-44719/cms/44719/files/0522a227-06eb-42a8-9388-cded6a675336",
+        "//cdn-tp3.mozu.com/27878-44719/cms/44719/files/a21c6978-f4b3-411d-b9db-18a062682cd9",
+        "//cdn-tp3.mozu.com/27878-44719/cms/44719/files/ff64b7ab-99de-4165-80a4-7132cfa2f4c4"
+      ],
+      "colors": [
+        {
+          "name": "Traditional Grey",
+          "image_url": "//cdn-tp3.mozu.com/27878-44719/cms/44719/files/41dc196e-9be3-4434-babc-b13094d3afcd"
+        }
+      ]
+    },
+    {
+      "slug": "f50c-f50",
+      "name": "F50C",
+      "year": null,
+      "category": "marine",
+      "subcategory": "mid-power",
+      "family": "f50c",
+      "msrp": 10765.0,
+      "msrp_text": "MSRP \n    \n        $10,765.00\n    \n - \n    \n        $11,415.00",
+      "engine_displacement": "996cc (60.8ci)",
+      "source_url": "https://www.yamaha-motor.ca/en/water/outboard-motor/mid-power/f50/F50LCV",
+      "hero_image_url": "//cdn-tp3.mozu.com/27878-44719/cms/files/8a1ff075-c724-45f8-b5de-2ac19c05a6ff",
+      "image_urls": [
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/8a1ff075-c724-45f8-b5de-2ac19c05a6ff",
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/bf326dd5-bfa2-4485-8e26-17a597c12e4a",
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/a3cde8ad-a60d-4c21-8e40-19bc172a0a65"
+      ],
+      "colors": [
+        {
+          "name": "Traditional Grey",
+          "image_url": "//cdn-tp3.mozu.com/27878-44719/cms/44719/files/ee0f952d-52a9-4a1f-a646-ad4b87c2a0b5"
+        }
+      ]
+    },
+    {
+      "slug": "f6-f6-portable",
+      "name": "F6 Portable",
+      "year": null,
+      "category": "marine",
+      "subcategory": "portable",
+      "family": "f6",
+      "msrp": 2170.0,
+      "msrp_text": "MSRP \n    \n        $2,170.00\n    \n - \n    \n        $2,200.00",
+      "engine_displacement": "139cc (8.5 ci)",
+      "source_url": "https://www.yamaha-motor.ca/en/water/outboard-motor/portable/f6-portable/F6-Portable",
+      "hero_image_url": "//cdn-tp3.mozu.com/27878-44719/cms/files/be175ce6-9fc2-4164-a960-b97fecf84479",
+      "image_urls": [
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/be175ce6-9fc2-4164-a960-b97fecf84479",
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/36a2bfeb-5db9-4274-b111-5af52d4305ea",
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/13399d40-28b3-45bf-a3e3-34f3c42c0ef8",
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/afece5d7-2f70-45ab-8476-5aa1b839ec94",
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/422ccc99-40b5-40fc-b99e-a6b46020725f"
+      ],
+      "colors": [
+        {
+          "name": "Traditional Grey",
+          "image_url": "//cdn-tp3.mozu.com/27878-44719/cms/44719/files/ead1568d-0983-4324-af59-515856f12f5d"
+        }
+      ]
+    },
+    {
+      "slug": "f60b-f60",
+      "name": "F60B",
+      "year": null,
+      "category": "marine",
+      "subcategory": "mid-power",
+      "family": "f60b",
+      "msrp": 11766.0,
+      "msrp_text": "MSRP \n    \n        $11,766.00\n    \n - \n    \n        $12,066.00",
+      "engine_displacement": "996cc (60.8ci)",
+      "source_url": "https://www.yamaha-motor.ca/en/water/outboard-motor/mid-power/f60/F60",
+      "hero_image_url": "//cdn-tp3.mozu.com/27878-44719/cms/files/2355431e-75be-4617-84c4-7626fb71fb98",
+      "image_urls": [
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/2355431e-75be-4617-84c4-7626fb71fb98",
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/ce8fc6a5-04ae-44ee-ad8c-e79f2f3a4b35"
+      ],
+      "colors": [
+        {
+          "name": "Traditional Grey",
+          "image_url": "//cdn-tp3.mozu.com/27878-44719/cms/44719/files/2ebc65a5-70a5-4691-8a30-c184eaa2a43d"
+        }
+      ]
+    },
+    {
+      "slug": "f60c-f60",
+      "name": "F60C",
+      "year": null,
+      "category": "marine",
+      "subcategory": "mid-power",
+      "family": "f60c",
+      "msrp": 12120.0,
+      "msrp_text": "MSRP \n    \n        $12,120.00\n    \n - \n    \n        $12,850.00",
+      "engine_displacement": "996cc (60.8ci)",
+      "source_url": "https://www.yamaha-motor.ca/en/water/outboard-motor/mid-power/f60/F60LCV",
+      "hero_image_url": "//cdn-tp3.mozu.com/27878-44719/cms/files/a6a8d70c-2ac0-40be-bafb-24e700fb4546",
+      "image_urls": [
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/a6a8d70c-2ac0-40be-bafb-24e700fb4546",
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/ce8fc6a5-04ae-44ee-ad8c-e79f2f3a4b35"
+      ],
+      "colors": [
+        {
+          "name": "Traditional Grey",
+          "image_url": "//cdn-tp3.mozu.com/27878-44719/cms/44719/files/1bc09e49-c2d7-47b3-a367-a3983a7d7834"
+        }
+      ]
+    },
+    {
+      "slug": "f70a-f70",
+      "name": "F70A",
+      "year": null,
+      "category": "marine",
+      "subcategory": "mid-power",
+      "family": "f70a",
+      "msrp": 12482.0,
+      "msrp_text": "MSRP \n    \n        $12,482.00\n    \n - \n    \n        $13,231.00",
+      "engine_displacement": "996cc (60.8 ci)",
+      "source_url": "https://www.yamaha-motor.ca/en/water/outboard-motor/mid-power/f70/F70",
+      "hero_image_url": "//cdn-tp3.mozu.com/27878-44719/cms/44719/files/7f8305a4-2619-4508-a5d2-70f24193ee64",
+      "image_urls": [
+        "//cdn-tp3.mozu.com/27878-44719/cms/44719/files/7f8305a4-2619-4508-a5d2-70f24193ee64",
+        "//cdn-tp3.mozu.com/27878-44719/cms/44719/files/4a390652-809c-4dc8-ac53-4ecedc33a4cd",
+        "//cdn-tp3.mozu.com/27878-44719/cms/44719/files/1b556a01-5992-4113-8f67-91b119415a85",
+        "//cdn-tp3.mozu.com/27878-44719/cms/44719/files/6c632536-017a-44a7-bb6b-214929fdb946",
+        "//cdn-tp3.mozu.com/27878-44719/cms/44719/files/8aeffb87-fbd2-453e-87ee-e340039039fe"
+      ],
+      "colors": [
+        {
+          "name": "Traditional Grey",
+          "image_url": "//cdn-tp3.mozu.com/27878-44719/cms/44719/files/e6811d5d-7d9b-4f5b-a2c3-333f79c2708c"
+        }
+      ]
+    },
+    {
+      "slug": "f70b-f70",
+      "name": "F70B",
+      "year": null,
+      "category": "marine",
+      "subcategory": "mid-power",
+      "family": "f70b",
+      "msrp": 12860.0,
+      "msrp_text": "MSRP \n    \n        $12,860.00\n    \n - \n    \n        $13,630.00",
+      "engine_displacement": "996cc (60.8 ci)",
+      "source_url": "https://www.yamaha-motor.ca/en/water/outboard-motor/mid-power/f70/F70LBV",
+      "hero_image_url": "//cdn-tp3.mozu.com/27878-44719/cms/files/9d280e12-2f7c-4381-9ff1-209d2d5a9173",
+      "image_urls": [
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/9d280e12-2f7c-4381-9ff1-209d2d5a9173",
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/4a390652-809c-4dc8-ac53-4ecedc33a4cd",
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/c5ed0e13-3375-4e61-b1f5-e2295d57e9a3"
+      ],
+      "colors": [
+        {
+          "name": "Traditional Grey",
+          "image_url": "//cdn-tp3.mozu.com/27878-44719/cms/44719/files/ca63c323-b965-4e7f-872a-9917767ab8a9"
+        }
+      ]
+    },
+    {
+      "slug": "f75-f75",
+      "name": "F75",
+      "year": null,
+      "category": "marine",
+      "subcategory": "mid-power",
+      "family": "f75",
+      "msrp": 14260.0,
+      "msrp_text": "MSRP \n    \n        $14,260.00",
+      "engine_displacement": "1596cc (97ci)",
+      "source_url": "https://www.yamaha-motor.ca/en/water/outboard-motor/mid-power/f75/F75",
+      "hero_image_url": "//cdn-tp3.mozu.com/27878-44719/cms/files/fdcdb648-a050-41e5-93df-5b2c5e6fb4da",
+      "image_urls": [
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/fdcdb648-a050-41e5-93df-5b2c5e6fb4da",
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/8ce7195d-251c-45e6-a589-c69e10fab07a",
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/4d9d3a08-e1e4-4d68-849c-4ffeda127d5e",
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/dade7ddb-1b5d-4275-99b7-813f75741452",
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/9dc83d24-7fc4-4213-953b-7248f6643503"
+      ],
+      "colors": [
+        {
+          "name": "Traditional Grey",
+          "image_url": "//cdn-tp3.mozu.com/27878-44719/cms/44719/files/368ccd24-21d2-4549-a9be-fdb59e7d33eb"
+        }
+      ]
+    },
+    {
+      "slug": "f8-f8-portable",
+      "name": "F8 Portable",
+      "year": null,
+      "category": "marine",
+      "subcategory": "portable",
+      "family": "f8",
+      "msrp": 3050.0,
+      "msrp_text": "MSRP \n    \n        $3,050.00\n    \n - \n    \n        $3,090.00",
+      "engine_displacement": "212cc (12.9ci)",
+      "source_url": "https://www.yamaha-motor.ca/en/water/outboard-motor/portable/f8-portable/F8-Portable",
+      "hero_image_url": "//cdn-tp3.mozu.com/27878-44719/cms/files/6997b772-aa7c-412b-b92f-e49d17908652",
+      "image_urls": [
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/6997b772-aa7c-412b-b92f-e49d17908652",
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/2eeb97b9-0d42-4991-b1c1-d23166330689",
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/df1cfd7a-232c-46fc-8985-f28e32e10cac",
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/977a42f9-bb7a-47c1-b1cb-462657fe848f",
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/67370259-824e-43ec-a94c-136a3110d55c"
+      ],
+      "colors": [
+        {
+          "name": "Traditional Grey",
+          "image_url": "//cdn-tp3.mozu.com/27878-44719/cms/44719/files/442576a0-7b17-4f6b-8efb-6af4b4fa1aec"
+        }
+      ]
+    },
+    {
+      "slug": "f9.9-f9-9-portable",
+      "name": "F9.9 Portable",
+      "year": null,
+      "category": "marine",
+      "subcategory": "portable",
+      "family": "f9.9",
+      "msrp": 3545.0,
+      "msrp_text": "MSRP \n    \n        $3,545.00\n    \n - \n    \n        $3,935.00",
+      "engine_displacement": "212cc (12.9ci)",
+      "source_url": "https://www.yamaha-motor.ca/en/water/outboard-motor/portable/f9-9-portable/F9-9-portable",
+      "hero_image_url": "//cdn-tp3.mozu.com/27878-44719/cms/files/0de43905-5d89-4b3b-9d4c-5fab359fcf1e",
+      "image_urls": [
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/0de43905-5d89-4b3b-9d4c-5fab359fcf1e",
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/878448d1-8dec-4ac5-abcf-ecbb8c232c47",
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/a2f34542-6811-4dd8-8744-e0a11bdd948f",
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/6c79a659-daae-4def-bf9d-c9cf7614e15f",
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/87b87a7a-8599-4c35-a61a-229f53009f98"
+      ],
+      "colors": [
+        {
+          "name": "Traditional Grey",
+          "image_url": "//cdn-tp3.mozu.com/27878-44719/cms/44719/files/82b5058d-9110-4693-b4d7-ee0335d9a2e5"
+        }
+      ]
+    },
+    {
+      "slug": "f90-f90",
+      "name": "F90",
+      "year": null,
+      "category": "marine",
+      "subcategory": "mid-power",
+      "family": "f90",
+      "msrp": 14745.0,
+      "msrp_text": "MSRP \n    \n        $14,745.00\n    \n - \n    \n        $15,910.00",
+      "engine_displacement": "1832 cc (111.8 ci)",
+      "source_url": "https://www.yamaha-motor.ca/en/water/outboard-motor/mid-power/f90/F90",
+      "hero_image_url": "//cdn-tp3.mozu.com/27878-44719/cms/44719/files/4fa5c98d-8ae1-4e31-8531-d2aec230c366",
+      "image_urls": [
+        "//cdn-tp3.mozu.com/27878-44719/cms/44719/files/4fa5c98d-8ae1-4e31-8531-d2aec230c366",
+        "//cdn-tp3.mozu.com/27878-44719/cms/44719/files/76d3f892-224c-4d06-8adb-95a04a4be531",
+        "//cdn-tp3.mozu.com/27878-44719/cms/44719/files/cf0be13f-787c-42f7-947c-ef6fb1b5c2cc",
+        "//cdn-tp3.mozu.com/27878-44719/cms/44719/files/caf64707-8433-4f14-a18a-32d44bf4ac03",
+        "//cdn-tp3.mozu.com/27878-44719/cms/44719/files/c596ee7a-adf8-4cf3-8330-b33f0f94d982"
+      ],
+      "colors": [
+        {
+          "name": "Traditional Grey",
+          "image_url": "//cdn-tp3.mozu.com/27878-44719/cms/44719/files/e33c49ff-7e4a-488f-b0f5-887aadfeb412"
+        }
+      ]
+    },
+    {
+      "slug": "t25-t25-high-thrust",
+      "name": "T25 High Thrust",
+      "year": null,
+      "category": "marine",
+      "subcategory": "high-thrust",
+      "family": "t25",
+      "msrp": 6315.0,
+      "msrp_text": "MSRP \n    \n        $6,315.00\n    \n - \n    \n        $6,675.00",
+      "engine_displacement": "432 cc (26.4 ci)",
+      "source_url": "https://www.yamaha-motor.ca/en/water/outboard-motor/high-thrust/t25-high-thrust/T25-High-Thrust",
+      "hero_image_url": "//cdn-sb.mozu.com/27878-44719/cms/files/ff8d088c-2191-4a7f-811a-2eb999ec9688",
+      "image_urls": [
+        "//cdn-sb.mozu.com/27878-44719/cms/files/ff8d088c-2191-4a7f-811a-2eb999ec9688",
+        "//cdn-sb.mozu.com/27878-44719/cms/files/e0e27ef0-c711-435e-8c88-8aae59f0682a",
+        "//cdn-sb.mozu.com/27878-44719/cms/files/f26eea99-839f-4e6a-81c3-b8c2fc3e0c7d",
+        "//cdn-sb.mozu.com/27878-44719/cms/files/37b9526e-7ca8-429f-9786-ecf6133f8aaa"
+      ],
+      "colors": [
+        {
+          "name": "Traditional Grey",
+          "image_url": "//cdn-tp3.mozu.com/27878-44719/cms/44719/files/c2bd07d5-3921-48bd-9d68-2cf97ca50361"
+        }
+      ]
+    },
+    {
+      "slug": "t50-t50-high-thrust",
+      "name": "T50 High Thrust",
+      "year": null,
+      "category": "marine",
+      "subcategory": "high-thrust",
+      "family": "t50",
+      "msrp": 11040.0,
+      "msrp_text": "MSRP \n    \n        $11,040.00",
+      "engine_displacement": "996cc (57ci)",
+      "source_url": "https://www.yamaha-motor.ca/en/water/outboard-motor/high-thrust/t50-high-thrust/T50-High-Thrust",
+      "hero_image_url": "//cdn-tp3.mozu.com/27878-44719/cms/files/e3968406-8086-4014-90e3-8dee9f6e47dd",
+      "image_urls": [
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/e3968406-8086-4014-90e3-8dee9f6e47dd",
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/cbf43338-0a65-4e53-936f-359cfa638ad5"
+      ],
+      "colors": [
+        {
+          "name": "Traditional Grey",
+          "image_url": "//cdn-tp3.mozu.com/27878-44719/cms/44719/files/4a2624ab-618f-4bb8-961a-e90be9340084"
+        }
+      ]
+    },
+    {
+      "slug": "t60-t60-high-thrust",
+      "name": "T60 High Thrust",
+      "year": null,
+      "category": "marine",
+      "subcategory": "high-thrust",
+      "family": "t60",
+      "msrp": 12053.0,
+      "msrp_text": "MSRP \n    \n        $12,053.00",
+      "engine_displacement": "996cc (60.8ci)",
+      "source_url": "https://www.yamaha-motor.ca/en/water/outboard-motor/high-thrust/t60-high-thrust/T60-High-Thrust",
+      "hero_image_url": "//cdn-tp3.mozu.com/27878-44719/cms/files/80e6c2ce-ca31-4cb5-926f-9f49332320d6",
+      "image_urls": [
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/80e6c2ce-ca31-4cb5-926f-9f49332320d6",
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/cbf43338-0a65-4e53-936f-359cfa638ad5"
+      ],
+      "colors": [
+        {
+          "name": "Traditional Grey",
+          "image_url": "//cdn-tp3.mozu.com/27878-44719/cms/44719/files/a5de0327-2fd2-42da-8f64-7a7f25621c33"
+        }
+      ]
+    },
+    {
+      "slug": "t9.9-t9-9",
+      "name": "T9.9",
+      "year": null,
+      "category": "marine",
+      "subcategory": "high-thrust",
+      "family": "t9.9",
+      "msrp": 3825.0,
+      "msrp_text": "MSRP \n    \n        $3,825.00\n    \n - \n    \n        $5,095.00",
+      "engine_displacement": "212cc (12.9ci)",
+      "source_url": "https://www.yamaha-motor.ca/en/water/outboard-motor/high-thrust/t9-9/T9-9",
+      "hero_image_url": "//cdn-tp3.mozu.com/27878-44719/cms/files/d08307c1-5b11-44f5-aee7-23e4733b7795",
+      "image_urls": [
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/d08307c1-5b11-44f5-aee7-23e4733b7795",
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/02b86501-c645-48e6-b34f-4a7e16351916",
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/a0056133-4472-40c9-96c4-275e885afee0",
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/a4115b42-75bf-48c2-ba22-fc3321cf360e",
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/2af8d6d7-367e-486d-bb8c-aec222b40a78"
+      ],
+      "colors": [
+        {
+          "name": "Traditional Grey",
+          "image_url": "//cdn-tp3.mozu.com/27878-44719/cms/44719/files/b3e78257-82ab-48d6-bd07-896733fcdf27"
+        }
+      ]
+    },
+    {
+      "slug": "vf115-vf115-vmax-sho",
+      "name": "VF115 VMAX SHO",
+      "year": null,
+      "category": "marine",
+      "subcategory": "vmax-sho",
+      "family": "vf115",
+      "msrp": 17765.0,
+      "msrp_text": "MSRP \n    \n        $17,765.00\n    \n - \n    \n        $18,020.00",
+      "engine_displacement": "1832cc (112 ci)",
+      "source_url": "https://www.yamaha-motor.ca/en/water/outboard-motor/vmax-sho/vf115-vmax-sho/VF115_VMAX_SHO",
+      "hero_image_url": "//cdn-sb.mozu.com/27878-44719/cms/files/76616e34-a38e-43c6-adc4-e8389892f76b",
+      "image_urls": [
+        "//cdn-sb.mozu.com/27878-44719/cms/files/76616e34-a38e-43c6-adc4-e8389892f76b",
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/56e93fb8-b0eb-4b3e-9aaf-65545c628c2c",
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/3ffbde93-c17b-4330-afac-78c780afe490",
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/2ee366ed-4bb0-41f5-a3f5-a80c9a1b44b0"
+      ],
+      "colors": [
+        {
+          "name": "Black",
+          "image_url": "//cdn-tp3.mozu.com/27878-44719/cms/44719/files/bf1afb34-7c28-4055-bb1f-e9143bd0f994"
+        }
+      ]
+    },
+    {
+      "slug": "vf150-vf150-vmax-sho",
+      "name": "VF150 VMAX SHO",
+      "year": null,
+      "category": "marine",
+      "subcategory": "vmax-sho",
+      "family": "vf150",
+      "msrp": 24215.0,
+      "msrp_text": "MSRP \n    \n        $24,215.00\n    \n - \n    \n        $24,585.00",
+      "engine_displacement": "2785cc (170 ci)",
+      "source_url": "https://www.yamaha-motor.ca/en/water/outboard-motor/vmax-sho/vf150-vmax-sho/VF150_VMAX_SHO",
+      "hero_image_url": "//cdn-sb.mozu.com/27878-44719/cms/files/bee4aa0c-f014-4307-b6d9-b7d054380bfe",
+      "image_urls": [
+        "//cdn-sb.mozu.com/27878-44719/cms/files/bee4aa0c-f014-4307-b6d9-b7d054380bfe",
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/694d0e21-2235-496c-aace-67703a2d6475",
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/eb1ee6d0-af21-45d3-b020-ab59ccd2bb93",
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/4ba95096-82c2-4c6f-b075-480f71bdb267"
+      ],
+      "colors": [
+        {
+          "name": "Black",
+          "image_url": "//cdn-tp3.mozu.com/27878-44719/cms/44719/files/a73e17b2-e9ae-4f91-ac7d-1e12de7fc253"
+        }
+      ]
+    },
+    {
+      "slug": "vf175-vf175-vmax-sho",
+      "name": "VF175 VMAX SHO",
+      "year": null,
+      "category": "marine",
+      "subcategory": "vmax-sho",
+      "family": "vf175",
+      "msrp": 25025.0,
+      "msrp_text": "MSRP \n    \n        $25,025.00\n    \n - \n    \n        $25,550.00",
+      "engine_displacement": "2785cc (170 ci)",
+      "source_url": "https://www.yamaha-motor.ca/en/water/outboard-motor/vmax-sho/vf175-vmax-sho/VF175_VMAX_SHO",
+      "hero_image_url": "//cdn-sb.mozu.com/27878-44719/cms/files/f522a156-ff0a-403d-a0af-4a547ce6b018",
+      "image_urls": [
+        "//cdn-sb.mozu.com/27878-44719/cms/files/f522a156-ff0a-403d-a0af-4a547ce6b018",
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/2b4de38f-6a1d-42d9-bf2d-923567e5e65b",
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/485ef741-8ff2-4960-9b48-981cd9c82809",
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/cbed7462-1a1c-4230-92d8-0cbb1a7afcbc"
+      ],
+      "colors": [
+        {
+          "name": "Black",
+          "image_url": "//cdn-tp3.mozu.com/27878-44719/cms/44719/files/1dc57ef5-1a1d-4b17-963d-413720ac1a0e"
+        }
+      ]
+    },
+    {
+      "slug": "vf200-vf200-vmax-sho",
+      "name": "VF200 VMAX SHO",
+      "year": null,
+      "category": "marine",
+      "subcategory": "vmax-sho",
+      "family": "vf200",
+      "msrp": 30160.0,
+      "msrp_text": "MSRP \n    \n        $30,160.00\n    \n - \n    \n        $30,790.00",
+      "engine_displacement": "4,169cc (254.4 ci)",
+      "source_url": "https://www.yamaha-motor.ca/en/water/outboard-motor/vmax-sho/vf200-vmax-sho/VF200-VMAX-SHO",
+      "hero_image_url": "//cdn-tp3.mozu.com/27878-44719/cms/files/6f61dd72-a772-4ea3-a724-9904b8ab8129",
+      "image_urls": [
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/6f61dd72-a772-4ea3-a724-9904b8ab8129",
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/5268d90c-17cb-46f3-b54d-ccbffee674e5",
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/518c6af4-495d-442b-bb30-a48176dd29f2",
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/2398d753-edbe-4784-8494-7d0e2d427445",
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/7ad14e01-018f-4f24-88ec-a9859ef47752"
+      ],
+      "colors": [
+        {
+          "name": "Black",
+          "image_url": "//cdn-tp3.mozu.com/27878-44719/cms/44719/files/8c585ec7-edad-4d89-8929-20064fddc3d0"
+        }
+      ]
+    },
+    {
+      "slug": "vf225-vf225-vmax-sho",
+      "name": "VF225 VMAX SHO",
+      "year": null,
+      "category": "marine",
+      "subcategory": "vmax-sho",
+      "family": "vf225",
+      "msrp": 32080.0,
+      "msrp_text": "MSRP \n    \n        $32,080.00",
+      "engine_displacement": "4,169cc (254.4 ci)",
+      "source_url": "https://www.yamaha-motor.ca/en/water/outboard-motor/vmax-sho/vf225-vmax-sho/VF225-VMAX-SHO",
+      "hero_image_url": "//cdn-tp3.mozu.com/27878-44719/cms/files/ca397216-3504-46a4-94b9-cec51a411058",
+      "image_urls": [
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/ca397216-3504-46a4-94b9-cec51a411058",
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/cbf43338-0a65-4e53-936f-359cfa638ad5"
+      ],
+      "colors": [
+        {
+          "name": "Black",
+          "image_url": "//cdn-tp3.mozu.com/27878-44719/cms/44719/files/7f139a73-6ecf-44ab-8d33-ee213fd3d762"
+        }
+      ]
+    },
+    {
+      "slug": "vf250-vf250-vmax-sho",
+      "name": "VF250 VMAX SHO",
+      "year": null,
+      "category": "marine",
+      "subcategory": "vmax-sho",
+      "family": "vf250",
+      "msrp": 33940.0,
+      "msrp_text": "MSRP \n    \n        $33,940.00\n    \n - \n    \n        $34,445.00",
+      "engine_displacement": "4,169cc (254.4 ci)",
+      "source_url": "https://www.yamaha-motor.ca/en/water/outboard-motor/vmax-sho/vf250-vmax-sho/VF250-VMAX-SHO",
+      "hero_image_url": "//cdn-tp3.mozu.com/27878-44719/cms/files/903a8b25-cd13-43b0-9df2-beeb2ed5f8c5",
+      "image_urls": [
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/903a8b25-cd13-43b0-9df2-beeb2ed5f8c5",
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/3434af6e-47d1-495f-a473-88c19888a494",
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/fb79c1df-8d05-43ab-ba2c-5793a4731d94",
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/1140dae0-c429-4d50-be03-ced61da2ca54",
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/41941111-9a9a-4fcd-98c2-d0c138d44855"
+      ],
+      "colors": [
+        {
+          "name": "Black",
+          "image_url": "//cdn-tp3.mozu.com/27878-44719/cms/44719/files/d2229184-0bd5-4088-af8f-29f755a7bab3"
+        }
+      ]
+    },
+    {
+      "slug": "vf90-vf90-vmax-sho",
+      "name": "VF90 VMAX SHO",
+      "year": null,
+      "category": "marine",
+      "subcategory": "vmax-sho",
+      "family": "vf90",
+      "msrp": 15185.0,
+      "msrp_text": "MSRP \n    \n        $15,185.00\n    \n - \n    \n        $15,460.00",
+      "engine_displacement": "1832 cc (111.8 ci)",
+      "source_url": "https://www.yamaha-motor.ca/en/water/outboard-motor/vmax-sho/vf90-vmax-sho/VF90_VMAX_SHO",
+      "hero_image_url": "//cdn-sb.mozu.com/27878-44719/cms/files/0807e412-b36b-4fb4-9025-f657a562a22f",
+      "image_urls": [
+        "//cdn-sb.mozu.com/27878-44719/cms/files/0807e412-b36b-4fb4-9025-f657a562a22f",
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/d7f3e160-b582-47ae-b67b-05186fb14ed0",
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/e24e0a1b-1cfd-409d-8ae3-0272c1ce829d",
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/fcd0816a-d86a-4d6b-ab2f-8bf666e0c4a7"
+      ],
+      "colors": [
+        {
+          "name": "Black",
+          "image_url": "//cdn-tp3.mozu.com/27878-44719/cms/44719/files/f2dda567-3406-499a-98e8-17733a376f1d"
+        }
+      ]
+    }
+  ],
+  "watercraft": [
+    {
+      "slug": "crosswave-crosswave-2026",
+      "name": "Crosswave",
+      "year": 2026,
+      "category": "watercraft",
+      "subcategory": "crosswave",
+      "family": "crosswave",
+      "msrp": null,
+      "msrp_text": null,
+      "engine_displacement": "1,898 cc",
+      "source_url": "https://www.yamaha-motor.ca/en/water/waverunner/crosswave/2026-crosswave/2026-CW1900",
+      "hero_image_url": "//cdn-tp3.mozu.com/27878-44719/cms/files/7fd75fbb-cd24-40b6-a5bd-1b53890bedec",
+      "image_urls": [
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/7fd75fbb-cd24-40b6-a5bd-1b53890bedec",
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/3362497b-78ff-449e-985f-69558e4677de",
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/3c11cdc7-f755-47c0-b9f7-bcaf5ebb490c",
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/fae60c0c-688c-4ded-8662-ef1c7dfd3b34",
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/87f73bc7-fd43-4d6a-b6b9-b4c6e24612db"
+      ],
+      "colors": [
+        {
+          "name": "Mist Grey",
+          "image_url": "//cdn-tp3.mozu.com/27878-44719/cms/44719/files/b87e348d-552d-4377-aa94-559b2533069b"
+        }
+      ]
+    },
+    {
+      "slug": "fx-fx-ho-2026",
+      "name": "FX HO",
+      "year": 2026,
+      "category": "watercraft",
+      "subcategory": "luxury",
+      "family": "fx",
+      "msrp": 24299.0,
+      "msrp_text": "Starting at \n    \n        $24,299.00",
+      "engine_displacement": "1898 cc",
+      "source_url": "https://www.yamaha-motor.ca/en/water/waverunner/luxury/2026-fx-ho/2026-FX1900HO",
+      "hero_image_url": "//cdn-tp3.mozu.com/27878-44719/cms/files/58dbedc9-35fb-472c-98da-525f78eecc43",
+      "image_urls": [
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/58dbedc9-35fb-472c-98da-525f78eecc43",
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/770768f4-8b3e-46ee-8424-0b05efad0277",
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/15fcc46d-cb4a-4ba3-bf16-a7191edb625b",
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/214c92d4-5860-479a-ba9c-a9576b03c567",
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/f36fe554-482a-4605-a4fe-eb6626e64c74"
+      ],
+      "colors": [
+        {
+          "name": "Deepwater Blue",
+          "image_url": "//cdn-tp3.mozu.com/27878-44719/cms/44719/files/c455bff8-1e58-45ec-91fd-25cac2258143"
+        }
+      ]
+    },
+    {
+      "slug": "fx-fx-cruiser-ho-2026",
+      "name": "FX Cruiser HO",
+      "year": 2026,
+      "category": "watercraft",
+      "subcategory": "luxury",
+      "family": "fx",
+      "msrp": 26299.0,
+      "msrp_text": "Starting at \n    \n        $26,299.00",
+      "engine_displacement": "1,898 cc",
+      "source_url": "https://www.yamaha-motor.ca/en/water/waverunner/luxury/2026-fx-cruiser-ho/2026-FX1900CRHO",
+      "hero_image_url": "//cdn-tp3.mozu.com/27878-44719/cms/files/4c39b5f9-d176-4423-98e7-a41a92f77abb",
+      "image_urls": [
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/4c39b5f9-d176-4423-98e7-a41a92f77abb",
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/9022b5b2-328b-4d05-9ee5-5409ca23b5cb",
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/294b06fb-4fe0-4d02-98ac-8ca2c7e961f9",
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/1b39c30b-32d4-4d33-ad18-862b991778d7",
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/18c9916f-6147-4e14-807b-8a0f310bc44f"
+      ],
+      "colors": [
+        {
+          "name": "Torch Red/White",
+          "image_url": "//cdn-tp3.mozu.com/27878-44719/cms/44719/files/7a366795-f7ef-4f1c-901c-26f890c99249"
+        }
+      ]
+    },
+    {
+      "slug": "fx-fx-svho-2026",
+      "name": "FX SVHO",
+      "year": 2026,
+      "category": "watercraft",
+      "subcategory": "luxury",
+      "family": "fx",
+      "msrp": 29799.0,
+      "msrp_text": "Starting at \n    \n        $29,799.00",
+      "engine_displacement": "1,812 cc",
+      "source_url": "https://www.yamaha-motor.ca/en/water/waverunner/luxury/2026-fx-svho/2026-FX1800SV",
+      "hero_image_url": "//cdn-tp3.mozu.com/27878-44719/cms/files/3618413c-d22e-4263-b235-7a9447a3db9d",
+      "image_urls": [
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/3618413c-d22e-4263-b235-7a9447a3db9d",
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/f36b1e0a-8341-43a8-b531-fe9f6b9bfd82",
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/ff94567b-645c-4445-a7ba-2c26cbef2c0a",
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/5253cfd2-6eb5-4f8b-8dae-9affe31c62dd",
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/3fdbeb8a-afc2-4350-a5c7-01ea64ab89b5"
+      ],
+      "colors": [
+        {
+          "name": "Nightshade",
+          "image_url": "//cdn-tp3.mozu.com/27878-44719/cms/44719/files/032ebaef-7757-46ee-81f7-0059c1a42c78"
+        }
+      ]
+    },
+    {
+      "slug": "fx-fx-cruiser-svho-2026",
+      "name": "FX Cruiser SVHO",
+      "year": 2026,
+      "category": "watercraft",
+      "subcategory": "luxury",
+      "family": "fx",
+      "msrp": 30999.0,
+      "msrp_text": "Starting at \n    \n        $30,999.00",
+      "engine_displacement": "1,812 cc",
+      "source_url": "https://www.yamaha-motor.ca/en/water/waverunner/luxury/2026-fx-cruiser-svho/2026-FX1800CRSV",
+      "hero_image_url": "//cdn-tp3.mozu.com/27878-44719/cms/files/32168482-de50-43fd-a8e7-bc45ef767f85",
+      "image_urls": [
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/32168482-de50-43fd-a8e7-bc45ef767f85",
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/64bb65ad-25e5-4927-ab2c-7277bcd21a19",
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/38a1703d-1127-4f22-b617-c80b84dc99a0",
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/24a569ad-b651-4c95-86c4-f8bf74db26f4",
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/22562366-8774-46f3-828a-fdea80f21f98"
+      ],
+      "colors": [
+        {
+          "name": "White",
+          "image_url": "//cdn-tp3.mozu.com/27878-44719/cms/44719/files/6b84614e-009f-49b2-bd02-63b505f4c603"
+        }
+      ]
+    },
+    {
+      "slug": "fx-fx-limited-svho-2026",
+      "name": "FX Limited SVHO",
+      "year": 2026,
+      "category": "watercraft",
+      "subcategory": "luxury",
+      "family": "fx",
+      "msrp": 31199.0,
+      "msrp_text": "Starting at \n    \n        $31,199.00",
+      "engine_displacement": "1,812 cc",
+      "source_url": "https://www.yamaha-motor.ca/en/water/waverunner/luxury/2026-fx-limited-svho/2026-FX1800LTDSV",
+      "hero_image_url": "//cdn-tp3.mozu.com/27878-44719/cms/files/f67715ee-15d1-451c-8eb1-3dd76869ebba",
+      "image_urls": [
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/f67715ee-15d1-451c-8eb1-3dd76869ebba",
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/e76c7e10-a6e5-43fd-8825-fe4bc3427d2a",
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/8a1282f1-c2d5-4aab-9b3d-e3250feb58b1",
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/5162c8bd-28fe-4e0b-b962-861739978988",
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/078f297d-a6aa-4c12-87d1-87dac1f98084"
+      ],
+      "colors": [
+        {
+          "name": "Black",
+          "image_url": "//cdn-tp3.mozu.com/27878-44719/cms/44719/files/34a423c5-0d34-4d5c-8246-a5c9719b31d5"
+        }
+      ]
+    },
+    {
+      "slug": "gp-gp-ho-2026",
+      "name": "GP HO",
+      "year": 2026,
+      "category": "watercraft",
+      "subcategory": "performance",
+      "family": "gp",
+      "msrp": 22699.0,
+      "msrp_text": "Starting at \n    \n        $22,699.00",
+      "engine_displacement": "1,898 cc",
+      "source_url": "https://www.yamaha-motor.ca/en/water/waverunner/performance/2026-gp-ho/2026-GP1900HO",
+      "hero_image_url": "//cdn-tp3.mozu.com/27878-44719/cms/files/c6c69bd9-1258-467e-9e0a-3baca1152c2a",
+      "image_urls": [
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/c6c69bd9-1258-467e-9e0a-3baca1152c2a",
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/3bf7dcc3-ad21-4924-af50-a46f8401e403",
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/24105512-cec8-4672-9932-7df1a8ec2ba0",
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/5eb773d5-4cc8-4795-a71a-92a91e0b86b5",
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/7e00f82a-1014-4e79-8525-c3685c145846"
+      ],
+      "colors": [
+        {
+          "name": "White",
+          "image_url": "//cdn-tp3.mozu.com/27878-44719/cms/44719/files/1eb600e1-2308-455c-88aa-06c44b44d6ba"
+        }
+      ]
+    },
+    {
+      "slug": "gp-gp-svho-2026",
+      "name": "GP SVHO",
+      "year": 2026,
+      "category": "watercraft",
+      "subcategory": "performance",
+      "family": "gp",
+      "msrp": 25699.0,
+      "msrp_text": "Starting at \n    \n        $25,699.00",
+      "engine_displacement": "1,812 cc",
+      "source_url": "https://www.yamaha-motor.ca/en/water/waverunner/performance/2026-gp-svho/2026-GP1800SV",
+      "hero_image_url": "//cdn-tp3.mozu.com/27878-44719/cms/files/130f6195-62fe-4b1d-86ac-91e863f52fbe",
+      "image_urls": [
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/130f6195-62fe-4b1d-86ac-91e863f52fbe",
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/e9ee6adb-f7cd-4666-a6d4-184f2b9d20bb",
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/492729ac-7adf-4fa4-a58c-a53f49fb4c77",
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/697458ff-8f58-4642-af9c-2a0b0780c865",
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/ce539477-f334-4913-8f0a-ddf30d817f98"
+      ],
+      "colors": [
+        {
+          "name": "Black",
+          "image_url": "//cdn-tp3.mozu.com/27878-44719/cms/44719/files/8e55c9cb-b0e7-4b40-9463-919038e682ff"
+        }
+      ]
+    },
+    {
+      "slug": "jetblaster-jetblaster-2-up-2026",
+      "name": "JetBlaster 2-UP",
+      "year": 2026,
+      "category": "watercraft",
+      "subcategory": "rec-lite",
+      "family": "jetblaster",
+      "msrp": 11199.0,
+      "msrp_text": "Starting at \n    \n        $11,199.00",
+      "engine_displacement": "1,049 cc",
+      "source_url": "https://www.yamaha-motor.ca/en/water/waverunner/rec-lite/2026-jetblaster-2-up/2026-JB10502P",
+      "hero_image_url": "//cdn-tp3.mozu.com/27878-44719/cms/files/9d8f2174-1d3a-4ed4-a04b-0f7e2beb218e",
+      "image_urls": [
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/9d8f2174-1d3a-4ed4-a04b-0f7e2beb218e",
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/48f5cf96-896b-4187-8eb5-50c404b8fb2a",
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/78ba7674-da35-408f-a1f1-62b3ceb8e4ce",
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/e1e06ba5-18e6-4d8c-b239-2b4d5d0d7e20",
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/7c00d1a5-3131-432e-9860-e9cdce8e236a"
+      ],
+      "colors": [
+        {
+          "name": "Black",
+          "image_url": "//cdn-tp3.mozu.com/27878-44719/cms/44719/files/c6e7ab31-c6a7-4bc8-8371-d83a2c3b9e2e"
+        }
+      ]
+    },
+    {
+      "slug": "jetblaster-jetblaster-dlx-2-up-2026",
+      "name": "JetBlaster DLX 2-UP",
+      "year": 2026,
+      "category": "watercraft",
+      "subcategory": "rec-lite",
+      "family": "jetblaster",
+      "msrp": 13199.0,
+      "msrp_text": "Starting at \n    \n        $13,199.00",
+      "engine_displacement": "1,049 cc",
+      "source_url": "https://www.yamaha-motor.ca/en/water/waverunner/rec-lite/2026-jetblaster-dlx-2-up/2026-JB1050DLX2P",
+      "hero_image_url": "//cdn-tp3.mozu.com/27878-44719/cms/files/b70c320c-b561-4d4d-9da1-104e33d6c042",
+      "image_urls": [
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/b70c320c-b561-4d4d-9da1-104e33d6c042",
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/e06ccd8c-a8ee-4cc9-a236-918dbe2d04f9",
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/64247fae-748a-4114-a4a4-db6140abd692",
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/4b0de351-5a26-4542-afe6-8a258ee3dcdb",
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/76613101-e0fd-44d0-a539-0b4f5a7b24b1"
+      ],
+      "colors": [
+        {
+          "name": "Azure Blue/White",
+          "image_url": "//cdn-tp3.mozu.com/27878-44719/cms/44719/files/2457dd45-3435-4abf-a373-92c4aa9dee73"
+        }
+      ]
+    },
+    {
+      "slug": "jetblaster-jetblaster-dlx-3-up-2026",
+      "name": "JetBlaster DLX 3-UP",
+      "year": 2026,
+      "category": "watercraft",
+      "subcategory": "rec-lite",
+      "family": "jetblaster",
+      "msrp": 14599.0,
+      "msrp_text": "Starting at \n    \n        $14,599.00",
+      "engine_displacement": "1,049 cc",
+      "source_url": "https://www.yamaha-motor.ca/en/water/waverunner/rec-lite/2026-jetblaster-dlx-3-up/2026-JB1050DLX",
+      "hero_image_url": "//cdn-tp3.mozu.com/27878-44719/cms/files/bb46a04f-f743-47b5-83b7-cc4b478eb175",
+      "image_urls": [
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/bb46a04f-f743-47b5-83b7-cc4b478eb175",
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/6b1f079b-3d3f-4c90-8cc5-2f9d52a41562",
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/b3e21d0f-18b0-4ffe-b16a-f2c473aceaad",
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/ea023c13-e2b2-4c1c-818f-c22cab8b4673",
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/50f749f9-a38f-4a9b-b5de-fedf8975cfbf"
+      ],
+      "colors": [
+        {
+          "name": "Azure Blue/White",
+          "image_url": "//cdn-tp3.mozu.com/27878-44719/cms/44719/files/977062fe-d505-4c9f-8248-1ea4101b062d"
+        }
+      ]
+    },
+    {
+      "slug": "jetblaster-jetblaster-pro-2-up-2026",
+      "name": "JetBlaster PRO 2-UP",
+      "year": 2026,
+      "category": "watercraft",
+      "subcategory": "rec-lite",
+      "family": "jetblaster",
+      "msrp": 15299.0,
+      "msrp_text": "Starting at \n    \n        $15,299.00",
+      "engine_displacement": "1,049 cc",
+      "source_url": "https://www.yamaha-motor.ca/en/water/waverunner/rec-lite/2026-jetblaster-pro-2-up/2026-JB1050PRO2P",
+      "hero_image_url": "//cdn-tp3.mozu.com/27878-44719/cms/files/d672e896-c8fd-43f6-847c-e07632755b75",
+      "image_urls": [
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/d672e896-c8fd-43f6-847c-e07632755b75",
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/a956b94e-a65b-4bc0-9cb2-faee473ebd75",
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/74685c5d-69fe-4fd0-a83a-c6da0b605947",
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/622881a4-4cf2-4156-98f9-2d126542434e",
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/0b2e4176-b971-4892-b13a-4e86ee93f1e2"
+      ],
+      "colors": [
+        {
+          "name": "Azure Blue/Lunar Yellow",
+          "image_url": "//cdn-tp3.mozu.com/27878-44719/cms/44719/files/55fad99a-355e-4cf5-a6ac-7662fa661a39"
+        }
+      ]
+    },
+    {
+      "slug": "jetblaster-jetblaster-ltd-2026",
+      "name": "JetBlaster LTD",
+      "year": 2026,
+      "category": "watercraft",
+      "subcategory": "rec-lite",
+      "family": "jetblaster",
+      "msrp": 15899.0,
+      "msrp_text": "Starting at \n    \n        $15,899.00",
+      "engine_displacement": "1,049 cc",
+      "source_url": "https://www.yamaha-motor.ca/en/water/waverunner/rec-lite/2026-jetblaster-ltd/2026-JB1050LTD",
+      "hero_image_url": "//cdn-tp3.mozu.com/27878-44719/cms/files/58907495-b9e4-4912-9452-b83857ddb766",
+      "image_urls": [
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/58907495-b9e4-4912-9452-b83857ddb766",
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/7d3f812c-de0b-4134-8944-937cda3457e4",
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/8bb7d01c-4d82-4af2-956a-3324ba2c0d13",
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/95aca0ed-963e-40f6-9763-7e9bbc41a7b1",
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/b3381233-653e-41fa-bc39-6db9de98e6bf"
+      ],
+      "colors": [
+        {
+          "name": "White/Mint",
+          "image_url": "//cdn-tp3.mozu.com/27878-44719/cms/44719/files/400d8f41-793e-46da-82e8-f5a4ad2a3641"
+        }
+      ]
+    },
+    {
+      "slug": "jetblaster-jetblaster-pro-3-up-2026",
+      "name": "JetBlaster PRO 3-UP",
+      "year": 2026,
+      "category": "watercraft",
+      "subcategory": "rec-lite",
+      "family": "jetblaster",
+      "msrp": 16299.0,
+      "msrp_text": "Starting at \n    \n        $16,299.00",
+      "engine_displacement": "1,049 cc",
+      "source_url": "https://www.yamaha-motor.ca/en/water/waverunner/rec-lite/2026-jetblaster-pro-3-up/2026-JB1050PRO",
+      "hero_image_url": "//cdn-tp3.mozu.com/27878-44719/cms/files/101e2d2a-d892-4006-a2bf-d96d500518f4",
+      "image_urls": [
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/101e2d2a-d892-4006-a2bf-d96d500518f4",
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/ba924144-6aa7-400a-9cda-4340e141b4b2",
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/d0bef7fa-b9ac-4901-bec2-2d67c1728608",
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/cc0805a9-548f-48e7-b463-e5d0057c38d9",
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/479beaeb-0017-4246-8efb-c5ff419de877"
+      ],
+      "colors": [
+        {
+          "name": "Azure Blue/Lunar Yellow",
+          "image_url": "//cdn-tp3.mozu.com/27878-44719/cms/44719/files/a5b502df-c290-4a0f-8a2b-7d7e118ebe46"
+        }
+      ]
+    },
+    {
+      "slug": "superjet-superjet-2026",
+      "name": "SuperJet",
+      "year": 2026,
+      "category": "watercraft",
+      "subcategory": "freestyle",
+      "family": "superjet",
+      "msrp": 17299.0,
+      "msrp_text": "Starting at \n    \n        $17,299.00",
+      "engine_displacement": "1,049 cc",
+      "source_url": "https://www.yamaha-motor.ca/en/water/waverunner/freestyle/2026-superjet/2026-SJ1050",
+      "hero_image_url": "//cdn-tp3.mozu.com/27878-44719/cms/files/cbd9ddff-6db6-44e0-b9e5-c24631f1a3fc",
+      "image_urls": [
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/cbd9ddff-6db6-44e0-b9e5-c24631f1a3fc",
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/90bf3ca4-8b5a-4718-90cd-2c9e5694ee6e",
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/d12a9d24-31fc-424d-af43-fb911cf98b10",
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/18bff5ea-d727-4995-91c7-7ae79c382859",
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/ab3c8af6-d448-4248-bfa2-e5ff64c686ae"
+      ],
+      "colors": [
+        {
+          "name": "White/Black",
+          "image_url": "//cdn-tp3.mozu.com/27878-44719/cms/44719/files/2846b370-fac1-4d15-bcdc-9d806f94402e"
+        }
+      ]
+    },
+    {
+      "slug": "vx-vx-2026",
+      "name": "VX",
+      "year": 2026,
+      "category": "watercraft",
+      "subcategory": "recreation",
+      "family": "vx",
+      "msrp": 18299.0,
+      "msrp_text": "Starting at \n    \n        $18,299.00",
+      "engine_displacement": "1,049 cc",
+      "source_url": "https://www.yamaha-motor.ca/en/water/waverunner/recreation/2026-vx/2026-VX1050",
+      "hero_image_url": "//cdn-tp3.mozu.com/27878-44719/cms/files/50fc6e8e-0cda-4ee8-802d-b3392c1b4bd3",
+      "image_urls": [
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/50fc6e8e-0cda-4ee8-802d-b3392c1b4bd3",
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/2944b001-670e-4030-9000-738339a56ede",
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/69c3fa65-6951-4e71-8b42-df22cbf899ea",
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/2f0df684-8b46-4ce6-a36a-88a4b046e0bc",
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/3c527a00-8faf-428b-8dcd-1a9f3fb066fa"
+      ],
+      "colors": [
+        {
+          "name": "White/Mint",
+          "image_url": "//cdn-tp3.mozu.com/27878-44719/cms/44719/files/f54a0990-48f0-4b56-a8d7-9c7464726316"
+        }
+      ]
+    },
+    {
+      "slug": "vx-vx-deluxe-2026",
+      "name": "VX Deluxe",
+      "year": 2026,
+      "category": "watercraft",
+      "subcategory": "recreation",
+      "family": "vx",
+      "msrp": 18999.0,
+      "msrp_text": "Starting at \n    \n        $18,999.00",
+      "engine_displacement": "1,049 cc",
+      "source_url": "https://www.yamaha-motor.ca/en/water/waverunner/recreation/2026-vx-deluxe/2026-VX1050DLX",
+      "hero_image_url": "//cdn-tp3.mozu.com/27878-44719/cms/files/95ae7ccf-9762-4932-b7a8-8ad012111159",
+      "image_urls": [
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/95ae7ccf-9762-4932-b7a8-8ad012111159",
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/0af78f47-e36c-4e0d-bd9e-edae97c9b0f5",
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/65470929-bdb4-4ce8-8dd0-b4a82962b507",
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/a0ede5d2-c6d0-419b-9dfa-1135652aff07",
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/3a67eca9-5738-4981-8f70-67a082eeb7d2"
+      ],
+      "colors": [
+        {
+          "name": "Black/Torch Red",
+          "image_url": "//cdn-tp3.mozu.com/27878-44719/cms/44719/files/c72e26b3-8959-44cc-b381-4bc3b965b1e8"
+        }
+      ]
+    },
+    {
+      "slug": "vx-vx-cruiser-2026",
+      "name": "VX Cruiser",
+      "year": 2026,
+      "category": "watercraft",
+      "subcategory": "recreation",
+      "family": "vx",
+      "msrp": 19499.0,
+      "msrp_text": "Starting at \n    \n        $19,499.00",
+      "engine_displacement": "1,049 cc",
+      "source_url": "https://www.yamaha-motor.ca/en/water/waverunner/recreation/2026-vx-cruiser/2026-VX1050CR",
+      "hero_image_url": "//cdn-tp3.mozu.com/27878-44719/cms/files/730c2457-c4b5-4dab-ada1-c613b9b33404",
+      "image_urls": [
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/730c2457-c4b5-4dab-ada1-c613b9b33404",
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/5a5c5e13-8242-40f5-b52b-f6891df1a46a",
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/22f6e953-7c97-45aa-9833-97a41008de4f",
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/66f30bc1-d036-4476-97a9-451dced9a2c8",
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/24560651-fd04-4e72-b883-f85b9d4fb192"
+      ],
+      "colors": [
+        {
+          "name": "Deepwater Blue",
+          "image_url": "//cdn-tp3.mozu.com/27878-44719/cms/44719/files/e70b753c-7b91-4618-b004-038b74d8b660"
+        }
+      ]
+    },
+    {
+      "slug": "vx-vx-limited-2026",
+      "name": "VX Limited",
+      "year": 2026,
+      "category": "watercraft",
+      "subcategory": "recreation",
+      "family": "vx",
+      "msrp": 21099.0,
+      "msrp_text": "Starting at \n    \n        $21,099.00",
+      "engine_displacement": "1,049 cc",
+      "source_url": "https://www.yamaha-motor.ca/en/water/waverunner/recreation/2026-vx-limited/2026-VX1050LTD",
+      "hero_image_url": "//cdn-tp3.mozu.com/27878-44719/cms/files/c3bad045-8baa-4861-ae84-2d60378008a5",
+      "image_urls": [
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/c3bad045-8baa-4861-ae84-2d60378008a5",
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/b212055a-5339-4618-bd7c-67f0bb74c32e",
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/b8b9d2fc-0be4-42c3-aee6-605400693607",
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/49ea7e24-bfa6-4bf1-986c-a9514c61c9de",
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/b8c5ad1d-2dc3-4684-b930-cae3071562f4"
+      ],
+      "colors": [
+        {
+          "name": "Azure Blue",
+          "image_url": "//cdn-tp3.mozu.com/27878-44719/cms/44719/files/291b5152-1b4d-4358-807a-c8d18f98e662"
+        }
+      ]
+    },
+    {
+      "slug": "vx-vx-cruiser-ho-2026",
+      "name": "VX Cruiser HO",
+      "year": 2026,
+      "category": "watercraft",
+      "subcategory": "recreation",
+      "family": "vx",
+      "msrp": 21599.0,
+      "msrp_text": "Starting at \n    \n        $21,599.00",
+      "engine_displacement": "1,898 cc",
+      "source_url": "https://www.yamaha-motor.ca/en/water/waverunner/recreation/2026-vx-cruiser-ho/2026-VX1900CRHO",
+      "hero_image_url": "//cdn-tp3.mozu.com/27878-44719/cms/files/9eec23a4-d30c-442b-b9aa-4ce0ee2cf8ff",
+      "image_urls": [
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/9eec23a4-d30c-442b-b9aa-4ce0ee2cf8ff",
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/99396f71-7705-4680-813b-52d2a2955ebc",
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/7e69d659-5a64-4a4c-86ea-0250c212d22c",
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/41e33610-2cb0-42e6-b3a7-2d60c8bf0db9",
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/523b206b-4fcc-4767-a9de-14ca132e2981"
+      ],
+      "colors": [
+        {
+          "name": "Black",
+          "image_url": "//cdn-tp3.mozu.com/27878-44719/cms/44719/files/cde97949-3b42-47a5-827a-a9140d4eac4e"
+        }
+      ]
+    },
+    {
+      "slug": "vx-vx-limited-ho-2026",
+      "name": "VX Limited HO",
+      "year": 2026,
+      "category": "watercraft",
+      "subcategory": "recreation",
+      "family": "vx",
+      "msrp": 23299.0,
+      "msrp_text": "Starting at \n    \n        $23,299.00",
+      "engine_displacement": "1,898 cc",
+      "source_url": "https://www.yamaha-motor.ca/en/water/waverunner/recreation/2026-vx-limited-ho/2026-VX1900LTDHO",
+      "hero_image_url": "//cdn-tp3.mozu.com/27878-44719/cms/files/c2fbaf59-83a6-47a6-81dc-d8c0c1b3bdb4",
+      "image_urls": [
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/c2fbaf59-83a6-47a6-81dc-d8c0c1b3bdb4",
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/2b553413-6d64-4ba6-b299-0c7240e26953",
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/e976a942-ac90-4267-8fc8-80550234ff46",
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/744c791a-a4e8-41b0-8317-2c02b426f156",
+        "//cdn-tp3.mozu.com/27878-44719/cms/files/bbcfd838-e688-4636-954b-1bb444af45b1"
+      ],
+      "colors": [
+        {
+          "name": "Azure Blue",
+          "image_url": "//cdn-tp3.mozu.com/27878-44719/cms/44719/files/6d83e256-bcd4-4e84-959c-a5ab154374d0"
+        }
+      ]
+    }
+  ]
+}

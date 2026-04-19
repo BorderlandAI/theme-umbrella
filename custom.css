@@ -1,0 +1,708 @@
+/* Custom CSS overrides for Borderland Portage theme */
+
+/* Fix font paths - override the Brandon-relative paths */
+@font-face {
+    font-family: 'Lato';
+    src: url('fonts/lato/lato-regular-webfont.woff') format('woff');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Lato';
+    src: url('fonts/lato/lato-bold-webfont.woff') format('woff');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Lato';
+    src: url('fonts/lato/lato-light-webfont.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Lato';
+    src: url('fonts/lato/lato-italic-webfont.woff') format('woff');
+    font-weight: 400;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Font Awesome 5 Free';
+    src: url('fonts/fa-solid-900.woff2') format('woff2');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Font Awesome 5 Free';
+    src: url('fonts/fa-regular-400.woff2') format('woff2');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* Ensure body uses Lato */
+body {
+    font-family: 'Lato', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+}
+
+/* Contact page responsive grid */
+@media (max-width: 768px) {
+    .contact-info-grid {
+        grid-template-columns: 1fr !important;
+    }
+}
+
+/* ======== Promo Carousel (Swiper — Homepage) ======== */
+/* Override PowerGo main.css conflicting rules */
+#slider,
+body:not(.has-outer-wrap):not(.is-template-v1-6) #slider,
+body.is-template-v1-6 #slider {
+    background: #1a1a1a;
+    overflow: visible !important;
+    height: auto !important;
+    padding-top: 0 !important;
+    border-top: none !important;
+}
+
+/* PowerGo hides #slider img without .desktop/.narrow/.mobile classes — force show */
+#slider .promo-carousel img,
+body:not(.is-template-v1-6) #slider img,
+body:not(.has-outer-wrap):not(.is-template-v1-6) #slider img {
+    display: block !important;
+}
+
+.promo-carousel {
+    height: 300px;
+    overflow: hidden;
+}
+
+.promo-carousel .swiper-slide {
+    border-radius: 6px;
+    overflow: hidden;
+}
+
+.promo-carousel .swiper-slide a {
+    display: block;
+}
+
+.promo-carousel .swiper-slide img {
+    width: 100% !important;
+    height: 300px !important;
+    display: block !important;
+    object-fit: contain !important;
+    object-position: center;
+}
+
+/* Dim non-active slides for depth */
+.promo-carousel .swiper-slide:not(.swiper-slide-active) {
+    opacity: 0.5;
+    transition: opacity 0.3s;
+}
+.promo-carousel .swiper-slide-active {
+    opacity: 1;
+}
+
+/* Arrow styling */
+.promo-carousel .swiper-button-prev,
+.promo-carousel .swiper-button-next {
+    color: #fff;
+    background: rgba(0,0,0,0.35);
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}
+.promo-carousel .swiper-button-prev::after,
+.promo-carousel .swiper-button-next::after {
+    font-size: 18px;
+}
+
+/* Pagination dots */
+.promo-carousel .swiper-pagination-bullet {
+    background: rgba(255,255,255,0.5);
+    opacity: 1;
+}
+.promo-carousel .swiper-pagination-bullet-active {
+    background: #00b4d8;
+}
+
+@media (max-width: 767px) {
+    .promo-carousel .swiper-slide img {
+        height: 200px !important;
+        object-fit: cover !important;
+    }
+    .promo-carousel {
+        max-height: 200px;
+        height: auto;
+    }
+}
+
+.promo-slide-text {
+    background: linear-gradient(135deg, #1a1a1a 0%, #333 100%);
+    color: #fff;
+    padding: 60px 40px;
+    text-align: center;
+    min-height: 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.promo-slide-text h2 {
+    font-size: 28px;
+    margin: 0 0 12px;
+    color: #fff;
+}
+
+.promo-slide-text p {
+    font-size: 16px;
+    margin: 0;
+    opacity: 0.85;
+    max-width: 600px;
+}
+
+/* Arrow controls */
+.promo-arrow {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    z-index: 12;
+    background: rgba(255, 255, 255, 0.15);
+    color: #fff;
+    border: 1px solid rgba(255, 255, 255, 0.3);
+    font-size: 24px;
+    width: 44px;
+    height: 44px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    transition: background 0.3s, border-color 0.3s;
+    line-height: 1;
+    border-radius: 50%;
+}
+
+.promo-arrow:hover {
+    background: rgba(255, 255, 255, 0.35);
+    border-color: rgba(255, 255, 255, 0.6);
+}
+
+.promo-prev {
+    left: 16px;
+}
+
+.promo-next {
+    right: 16px;
+}
+
+/* Bar indicators (like original PowerGo theme) */
+.promo-bars {
+    position: absolute;
+    bottom: 20px;
+    left: 50%;
+    transform: translateX(-50%);
+    display: flex;
+    gap: 8px;
+    z-index: 10;
+}
+
+.promo-bar {
+    width: 80px;
+    height: 6px;
+    background: rgba(255, 255, 255, 0.35);
+    border: 1px solid rgba(255, 255, 255, 0.5);
+    border-radius: 3px;
+    cursor: pointer;
+    padding: 0;
+    overflow: hidden;
+    transition: background 0.3s;
+}
+
+.promo-bar span {
+    display: block;
+    height: 100%;
+    width: 0;
+    background: #00b4d8;
+    border-radius: 3px;
+}
+
+.promo-bar.active span {
+    width: 100%;
+    animation: barFill 6s linear;
+}
+
+@keyframes barFill {
+    from { width: 0; }
+    to { width: 100%; }
+}
+
+.promo-bar:hover {
+    background: rgba(255, 255, 255, 0.55);
+}
+
+/* ======== Promotions Page ======== */
+.promo-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(340px, 1fr));
+    gap: 28px;
+    margin: 20px 0 40px;
+}
+
+.promo-card {
+    border: 1px solid #e0e0e0;
+    border-radius: 8px;
+    overflow: hidden;
+    background: #fff;
+    transition: box-shadow 0.2s, transform 0.2s;
+}
+
+.promo-card:hover {
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.12);
+    transform: translateY(-2px);
+}
+
+.promo-card-image {
+    height: 220px;
+    overflow: hidden;
+    background: #f0f0f0;
+}
+
+.promo-card-image img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transition: transform 0.3s;
+}
+
+.promo-card:hover .promo-card-image img {
+    transform: scale(1.03);
+}
+
+.promo-card-noimage {
+    background: #2d2d2d;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.promo-card-placeholder {
+    text-align: center;
+    color: #888;
+    padding: 20px;
+}
+
+.promo-card-body {
+    padding: 20px;
+}
+
+.promo-card-body h3 {
+    margin: 0 0 10px;
+    font-size: 18px;
+    font-weight: 700;
+    color: #222;
+    line-height: 1.3;
+}
+
+.promo-card-desc {
+    color: #555;
+    font-size: 15px;
+    margin: 0 0 10px;
+    line-height: 1.5;
+}
+
+.promo-card-detail {
+    color: #777;
+    font-size: 13px;
+    margin: 0 0 14px;
+    line-height: 1.5;
+}
+
+.promo-card-footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 12px;
+    border-top: 1px solid #eee;
+}
+
+.promo-card-expires {
+    font-size: 13px;
+    color: #e31937;
+    font-weight: 600;
+}
+
+.promo-card-link {
+    font-size: 14px;
+    color: #e31937;
+    text-decoration: none;
+    font-weight: 600;
+    transition: color 0.2s;
+}
+
+.promo-card-link:hover {
+    color: #b8142d;
+    text-decoration: underline;
+}
+
+@media (max-width: 768px) {
+    .promo-grid {
+        grid-template-columns: 1fr;
+        gap: 20px;
+    }
+
+    .promo-slide-text {
+        padding: 40px 20px;
+        min-height: 200px;
+    }
+
+    .promo-slide-text h2 {
+        font-size: 22px;
+    }
+
+    .promo-arrow {
+        font-size: 18px;
+        width: 36px;
+        height: 36px;
+    }
+
+    .promo-prev {
+        left: 8px;
+    }
+
+    .promo-next {
+        right: 8px;
+    }
+
+    .promo-bar {
+        width: 40px;
+        height: 4px;
+    }
+
+    .promo-bars {
+        bottom: 10px;
+        gap: 5px;
+    }
+}
+
+/* ======== Blog Listing ======== */
+.blog-listing {
+    padding: 30px 0 50px;
+}
+
+.blog-listing .page-header {
+    margin-bottom: 30px;
+}
+
+.blog-listing .page-header h1 {
+    font-size: 32px;
+    font-weight: 700;
+    color: #222;
+    margin: 0;
+}
+
+.blog-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 28px;
+}
+
+.blog-card {
+    background: #fff;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+    transition: box-shadow 0.2s, transform 0.2s;
+}
+
+.blog-card:hover {
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.14);
+    transform: translateY(-2px);
+}
+
+.blog-card-image {
+    display: block;
+    height: 220px;
+    overflow: hidden;
+    background: #fff;
+}
+
+.blog-card-image img {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+    object-position: center;
+    transition: transform 0.3s;
+}
+
+.blog-card:hover .blog-card-image img {
+    transform: scale(1.03);
+}
+
+.blog-card-body {
+    padding: 20px;
+}
+
+.blog-card-meta {
+    font-size: 13px;
+    color: #888;
+    margin-bottom: 8px;
+}
+
+.blog-card-title {
+    margin: 0 0 10px;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 1.3;
+}
+
+.blog-card-title a {
+    color: #222;
+    text-decoration: none;
+}
+
+.blog-card-title a:hover {
+    color: #00b4d8;
+}
+
+.blog-card-excerpt {
+    color: #555;
+    font-size: 15px;
+    line-height: 1.6;
+    margin-bottom: 14px;
+}
+
+.blog-card-excerpt p {
+    margin: 0;
+}
+
+.blog-card-link {
+    font-size: 14px;
+    color: #00b4d8;
+    text-decoration: none;
+    font-weight: 600;
+    transition: color 0.2s;
+}
+
+.blog-card-link:hover {
+    color: #0090ad;
+    text-decoration: underline;
+}
+
+.blog-pagination {
+    margin-top: 40px;
+    text-align: center;
+}
+
+.blog-pagination .nav-links {
+    display: flex;
+    justify-content: center;
+    gap: 8px;
+    flex-wrap: wrap;
+}
+
+.blog-pagination .page-numbers {
+    display: inline-block;
+    padding: 8px 14px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    color: #333;
+    text-decoration: none;
+    font-size: 14px;
+    transition: background 0.2s, border-color 0.2s;
+}
+
+.blog-pagination .page-numbers:hover {
+    background: #f5f5f5;
+    border-color: #bbb;
+}
+
+.blog-pagination .page-numbers.current {
+    background: #00b4d8;
+    border-color: #00b4d8;
+    color: #fff;
+}
+
+.blog-empty {
+    text-align: center;
+    padding: 60px 20px;
+    color: #666;
+}
+
+.blog-empty h2 {
+    font-size: 24px;
+    color: #333;
+    margin-bottom: 10px;
+}
+
+/* ======== Blog Single Post ======== */
+.blog-single {
+    padding-bottom: 50px;
+}
+
+.blog-single-hero {
+    margin: 0 -20px 30px;
+    max-height: 400px;
+    overflow: hidden;
+    border-radius: 8px;
+}
+
+.blog-single-hero img {
+    width: 100%;
+    height: auto;
+    max-height: 480px;
+    object-fit: contain;
+    object-position: center;
+    display: block;
+    background: #fff;
+}
+
+.blog-single-title {
+    text-transform: none !important;
+}
+
+.blog-single-content {
+    max-width: 780px;
+    margin: 0 auto;
+}
+
+.blog-single-meta {
+    font-size: 14px;
+    color: #888;
+    margin-bottom: 12px;
+}
+
+.blog-single-author {
+    margin-left: 12px;
+    color: #999;
+}
+
+.blog-single-title {
+    font-size: 34px;
+    font-weight: 700;
+    color: #222;
+    line-height: 1.25;
+    margin: 0 0 28px;
+}
+
+.blog-single-body {
+    font-size: 16px;
+    line-height: 1.75;
+    color: #333;
+}
+
+.blog-single-body p {
+    margin: 0 0 18px;
+}
+
+.blog-single-body h2 {
+    font-size: 24px;
+    font-weight: 700;
+    color: #222;
+    margin: 32px 0 14px;
+}
+
+.blog-single-body h3 {
+    font-size: 20px;
+    font-weight: 700;
+    color: #222;
+    margin: 28px 0 12px;
+}
+
+.blog-single-body img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 6px;
+    margin: 20px 0;
+}
+
+.blog-single-body ul,
+.blog-single-body ol {
+    margin: 0 0 18px 24px;
+}
+
+.blog-single-body li {
+    margin-bottom: 6px;
+}
+
+.blog-single-body blockquote {
+    border-left: 4px solid #00b4d8;
+    margin: 20px 0;
+    padding: 12px 20px;
+    background: #f8f9fa;
+    color: #555;
+    font-style: italic;
+}
+
+.blog-single-back {
+    margin-top: 40px;
+    padding-top: 20px;
+    border-top: 1px solid #eee;
+}
+
+.blog-single-back a {
+    color: #00b4d8;
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 15px;
+    transition: color 0.2s;
+}
+
+.blog-single-back a:hover {
+    color: #0090ad;
+    text-decoration: underline;
+}
+
+/* Blog header icon */
+#siteHeader .site-branding li.blog a,
+#siteFooter li.blog a {
+    position: relative;
+}
+
+#siteHeader .site-branding li.blog a:before,
+#siteFooter li.blog a:before {
+    content: "\f02d";
+    font-family: FontAwesome-solid;
+}
+
+/* ======== Blog Responsive ======== */
+@media (max-width: 768px) {
+    .blog-grid {
+        grid-template-columns: 1fr;
+        gap: 20px;
+    }
+
+    .blog-listing .page-header h1 {
+        font-size: 26px;
+    }
+
+    .blog-card-image {
+        height: 180px;
+        background: #fff;
+    }
+
+    .blog-single-hero {
+        margin: 0 -10px 20px;
+        max-height: 250px;
+    }
+
+    .blog-single-hero img {
+        height: 250px;
+    }
+
+    .blog-single-title {
+        font-size: 26px;
+    }
+
+    .blog-single-body {
+        font-size: 15px;
+    }
+}

@@ -1,0 +1,2721 @@
+{
+  "side-by-side": [
+    {
+      "slug": "general-general-1000-sport-2026",
+      "name": "GENERAL 1000 Sport",
+      "year": 2026,
+      "category": "side-by-side",
+      "subcategory": null,
+      "family": "general",
+      "msrp": 23969.0,
+      "msrp_text": "Starting at $23,969",
+      "source_url": "https://www.polaris.com/en-ca/off-road/general/models/general-1000",
+      "hero_image_url": "https://cdn1.polaris.com/globalassets/general/2026/model/model-pages/general-1000/01-overview/01-hero/general-1000-my26-9d1a-model-page-hero-sm.jpg?v=d9230e68",
+      "image_urls": [
+        "https://cdn1.polaris.com/globalassets/general/2026/model/vehicle-cards/general-1000-sport-my26-9d1a-ghost-gray-g26gae99a4.png?v=d93a0f28",
+        "https://cdn1.polaris.com/globalassets/general/2026/model/vehicle-cards/general-1000-premium-my26-9d1a-zenith-blue-g26gap99an.png?v=d93a0f62"
+      ],
+      "colors": [
+        {
+          "name": " Ghost Gray",
+          "image_url": "https://cdn1.polaris.com/globalassets/general/2026/model/vehicle-cards/general-1000-sport-my26-9d1a-ghost-gray-g26gae99a4.png?v=d93a0f28"
+        },
+        {
+          "name": "Zenith Blue",
+          "image_url": "https://cdn1.polaris.com/globalassets/general/2026/model/vehicle-cards/general-1000-premium-my26-9d1a-zenith-blue-g26gap99an.png?v=d93a0f62"
+        }
+      ]
+    },
+    {
+      "slug": "general-general-xp-1000-sport-2026",
+      "name": "GENERAL XP 1000 Sport",
+      "year": 2026,
+      "category": "side-by-side",
+      "subcategory": null,
+      "family": "general",
+      "msrp": 31269.0,
+      "msrp_text": "Starting at $31,269",
+      "source_url": "https://www.polaris.com/en-ca/off-road/general/models/general-xp-1000",
+      "hero_image_url": "https://cdn1.polaris.com/globalassets/general/2026/model/model-pages/general-xp-1000/01-overview/01-hero/general-xp-1000-my26-9d1a-model-page-hero-sm.jpg?v=d949e345",
+      "image_urls": [
+        "https://cdn1.polaris.com/globalassets/general/2026/model/vehicle-cards/general-xp2-sport-my26-9d1a-ghost-gray-g26gxe99a4.png?v=d93a0e99",
+        "https://cdn1.polaris.com/globalassets/general/2026/model/vehicle-cards/general-xp4-sport-my26-9d1a-ghost-gray-g26gme99a4.png?v=d93a1004",
+        "https://cdn1.polaris.com/globalassets/general/2026/model/vehicle-cards/general-xp2-premium-my26-9d1a-super-graphite-g26gxp99aj.png?v=d93a0ed3",
+        "https://cdn1.polaris.com/globalassets/general/2026/model/vehicle-cards/general-xp2-premium-my26-9d1a-earth-blue-g26gxp99an.png?v=d93a0f02",
+        "https://cdn1.polaris.com/globalassets/general/2026/model/vehicle-cards/general-xp4-premium-my26-9d1a-super-graphite-g26gmp99aj.png?v=d93a1033"
+      ],
+      "colors": [
+        {
+          "name": "Ghost Gray",
+          "image_url": "https://cdn1.polaris.com/globalassets/general/2026/model/vehicle-cards/general-xp2-sport-my26-9d1a-ghost-gray-g26gxe99a4.png?v=d93a0e99"
+        },
+        {
+          "name": "Ghost Gray",
+          "image_url": "https://cdn1.polaris.com/globalassets/general/2026/model/vehicle-cards/general-xp4-sport-my26-9d1a-ghost-gray-g26gme99a4.png?v=d93a1004"
+        },
+        {
+          "name": "Super Graphite",
+          "image_url": "https://cdn1.polaris.com/globalassets/general/2026/model/vehicle-cards/general-xp2-premium-my26-9d1a-super-graphite-g26gxp99aj.png?v=d93a0ed3"
+        },
+        {
+          "name": "Earth Blue",
+          "image_url": "https://cdn1.polaris.com/globalassets/general/2026/model/vehicle-cards/general-xp2-premium-my26-9d1a-earth-blue-g26gxp99an.png?v=d93a0f02"
+        },
+        {
+          "name": "Super Graphite",
+          "image_url": "https://cdn1.polaris.com/globalassets/general/2026/model/vehicle-cards/general-xp4-premium-my26-9d1a-super-graphite-g26gmp99aj.png?v=d93a1033"
+        },
+        {
+          "name": "Earth Blue",
+          "image_url": "https://cdn1.polaris.com/globalassets/general/2026/model/vehicle-cards/general-xp4-premium-my26-9d1a-earth-blue-g26gmp99an.png?v=d93a0e30"
+        },
+        {
+          "name": "Super Graphite",
+          "image_url": "https://cdn1.polaris.com/globalassets/general/2026/model/vehicle-cards/general-xp2-ultimate-my26-9d1a-super-graphite-g26gxk99aj.png?v=d93a0e3a"
+        },
+        {
+          "name": "Earth Blue",
+          "image_url": "https://cdn1.polaris.com/globalassets/general/2026/model/vehicle-cards/general-xp2-ultimate-my26-9d1a-earth-blue-g26gxk99an.png?v=d93a0e6a"
+        },
+        {
+          "name": "Super Graphite",
+          "image_url": "https://cdn1.polaris.com/globalassets/general/2026/model/vehicle-cards/general-xp4-ultimate-my26-9d1a-super-graphite-g26gmk99aj.png?v=d93a0f9b"
+        },
+        {
+          "name": "Earth Blue",
+          "image_url": "https://cdn1.polaris.com/globalassets/general/2026/model/vehicle-cards/general-xp4-ultimate-my26-9d1a-earth-blue-g26gmk99an.png?v=d93a0fd4"
+        }
+      ]
+    },
+    {
+      "slug": "polaris-xpedition-polaris-xpedition-xp-northstar-2026",
+      "name": "Polaris XPEDITION XP NorthStar",
+      "year": 2026,
+      "category": "side-by-side",
+      "subcategory": null,
+      "family": "polaris-xpedition",
+      "msrp": 51869.0,
+      "msrp_text": "Starting at $51,869",
+      "source_url": "https://www.polaris.com/en-ca/off-road/polaris-xpedition/models/xpedition-xp",
+      "hero_image_url": "https://cdn1.polaris.com/globalassets/xpedition/2026/homepage/01-hero/polaris-xpedition-my26-9d1a-hero-lg.jpg?v=db260576",
+      "image_urls": [
+        "https://cdn1.polaris.com/globalassets/xpedition/2026/model/vehicle-cards-/garage/polaris-xpedition-xp-northstar-my26-9d1a-warm-tone-gray-g26g2w99ah-g.png?v=d99415c7",
+        "https://cdn1.polaris.com/globalassets/xpedition/2026/model/vehicle-cards-/garage/polaris-xpedition-xp-northstar-my26-9d1a-performance-red-g26g2w99as-g.png?v=d99415be",
+        "https://cdn1.polaris.com/globalassets/xpedition/2026/model/vehicle-cards-/garage/polaris-xpedition-xp-northstar-my26-9d1a-super-graphite-g26g2w99aj-g.png?v=d99415be",
+        "https://cdn1.polaris.com/globalassets/xpedition/2026/model/vehicle-cards-/garage/polaris-xpedition-xp-5-northstar-my26-9d1a-warm-tone-gray-g26g5w99ah-g.png?v=d99415be",
+        "https://cdn1.polaris.com/globalassets/xpedition/2026/model/vehicle-cards-/garage/polaris-xpedition-xp-5-northstar-my26-9d1a-performance-red-g26g5w99as-g.png?v=d99415b4"
+      ],
+      "colors": [
+        {
+          "name": "Slate Gray ",
+          "image_url": "https://cdn1.polaris.com/globalassets/xpedition/2026/model/vehicle-cards-/garage/polaris-xpedition-xp-northstar-my26-9d1a-warm-tone-gray-g26g2w99ah-g.png?v=d99415c7"
+        },
+        {
+          "name": "Performance Red",
+          "image_url": "https://cdn1.polaris.com/globalassets/xpedition/2026/model/vehicle-cards-/garage/polaris-xpedition-xp-northstar-my26-9d1a-performance-red-g26g2w99as-g.png?v=d99415be"
+        },
+        {
+          "name": "Matte Super Graphite",
+          "image_url": "https://cdn1.polaris.com/globalassets/xpedition/2026/model/vehicle-cards-/garage/polaris-xpedition-xp-northstar-my26-9d1a-super-graphite-g26g2w99aj-g.png?v=d99415be"
+        },
+        {
+          "name": "Slate Gray ",
+          "image_url": "https://cdn1.polaris.com/globalassets/xpedition/2026/model/vehicle-cards-/garage/polaris-xpedition-xp-5-northstar-my26-9d1a-warm-tone-gray-g26g5w99ah-g.png?v=d99415be"
+        },
+        {
+          "name": "Performance Red",
+          "image_url": "https://cdn1.polaris.com/globalassets/xpedition/2026/model/vehicle-cards-/garage/polaris-xpedition-xp-5-northstar-my26-9d1a-performance-red-g26g5w99as-g.png?v=d99415b4"
+        },
+        {
+          "name": "Matte Super Graphite",
+          "image_url": "https://cdn1.polaris.com/globalassets/xpedition/2026/model/vehicle-cards-/garage/polaris-xpedition-xp-5-northstar-my26-9d1a-super-graphite-g26g5w99aj-g.png?v=d99415b4"
+        }
+      ]
+    },
+    {
+      "slug": "polaris-xpedition-polaris-xpedition-adv-northstar-2026",
+      "name": "Polaris XPEDITION ADV NorthStar",
+      "year": 2026,
+      "category": "side-by-side",
+      "subcategory": null,
+      "family": "polaris-xpedition",
+      "msrp": 53069.0,
+      "msrp_text": "Starting at $53,069",
+      "source_url": "https://www.polaris.com/en-ca/off-road/polaris-xpedition/models/xpedition-adv",
+      "hero_image_url": "https://cdn1.polaris.com/globalassets/xpedition/2026/model/model-pages/xpedition-adv/01-overview/01-hero/polaris-xpedition-adv-my26-9d1a-hero-sm.jpg?v=dc51e7df",
+      "image_urls": [
+        "https://cdn1.polaris.com/globalassets/xpedition/2026/model/vehicle-cards-/garage/polaris-xpedition-adv-northstar-my26-9d1a-warm-tone-gray-g26gvw99ah-g.png?v=d99415ab",
+        "https://cdn1.polaris.com/globalassets/xpedition/2026/model/vehicle-cards-/garage/polaris-xpedition-adv-northstar-my26-9d1a-performance-red-g26gvw99as-g.png?v=d99415ab",
+        "https://cdn1.polaris.com/globalassets/xpedition/2026/model/vehicle-cards-/garage/polaris-xpedition-adv-northstar-my26-9d1a-super-graphite-g26gvw99aj-g.png?v=d99415ab",
+        "https://cdn1.polaris.com/globalassets/xpedition/2026/model/vehicle-cards-/garage/polaris-xpedition-adv-5-northstar-my26-9d1a-warm-tone-gray-g26gzw99ah-g.png?v=d99415a1",
+        "https://cdn1.polaris.com/globalassets/xpedition/2026/model/vehicle-cards-/garage/polaris-xpedition-adv-5-northstar-my26-9d1a-performance-red-g26gzw99as-g.png?v=d9941598"
+      ],
+      "colors": [
+        {
+          "name": "Slate Gray",
+          "image_url": "https://cdn1.polaris.com/globalassets/xpedition/2026/model/vehicle-cards-/garage/polaris-xpedition-adv-northstar-my26-9d1a-warm-tone-gray-g26gvw99ah-g.png?v=d99415ab"
+        },
+        {
+          "name": "Performance Red",
+          "image_url": "https://cdn1.polaris.com/globalassets/xpedition/2026/model/vehicle-cards-/garage/polaris-xpedition-adv-northstar-my26-9d1a-performance-red-g26gvw99as-g.png?v=d99415ab"
+        },
+        {
+          "name": "Matte Super Graphite",
+          "image_url": "https://cdn1.polaris.com/globalassets/xpedition/2026/model/vehicle-cards-/garage/polaris-xpedition-adv-northstar-my26-9d1a-super-graphite-g26gvw99aj-g.png?v=d99415ab"
+        },
+        {
+          "name": "Slate Gray",
+          "image_url": "https://cdn1.polaris.com/globalassets/xpedition/2026/model/vehicle-cards-/garage/polaris-xpedition-adv-5-northstar-my26-9d1a-warm-tone-gray-g26gzw99ah-g.png?v=d99415a1"
+        },
+        {
+          "name": "Performance Red",
+          "image_url": "https://cdn1.polaris.com/globalassets/xpedition/2026/model/vehicle-cards-/garage/polaris-xpedition-adv-5-northstar-my26-9d1a-performance-red-g26gzw99as-g.png?v=d9941598"
+        },
+        {
+          "name": "Matte Super Graphite",
+          "image_url": "https://cdn1.polaris.com/globalassets/xpedition/2026/model/vehicle-cards-/garage/polaris-xpedition-adv-5-northstar-my26-9d1a-super-graphite-g26gzw99aj-g.png?v=d99415a1"
+        }
+      ]
+    },
+    {
+      "slug": "ranger-ranger-150-efi-2025",
+      "name": "RANGER 150 EFI",
+      "year": 2025,
+      "category": "side-by-side",
+      "subcategory": null,
+      "family": "ranger",
+      "msrp": 7799.0,
+      "msrp_text": "Starting at $7,799",
+      "source_url": "https://www.polaris.com/en-ca/off-road/ranger/models/ranger-150-efi",
+      "hero_image_url": "https://cdn1.polaris.com/globalassets/ranger/2025/model/model-pages/ranger-150-efi/01-overview/01-hero/rgr-150-efi-my25-13b3-hero-1-sm.jpg?v=ca03e132",
+      "image_urls": [
+        "https://cdn1.polaris.com/globalassets/ranger/2025/model/vehicle-cards/rgr-150-efi-my25-4b61-zenith-blue-r25hza15a5.png?v=c9ae72e9"
+      ],
+      "colors": [
+        {
+          "name": "Zenith Blue",
+          "image_url": "https://cdn1.polaris.com/globalassets/ranger/2025/model/vehicle-cards/rgr-150-efi-my25-4b61-zenith-blue-r25hza15a5.png?v=c9ae72e9"
+        }
+      ]
+    },
+    {
+      "slug": "ranger-ranger-500-2026",
+      "name": "RANGER 500",
+      "year": 2026,
+      "category": "side-by-side",
+      "subcategory": null,
+      "family": "ranger",
+      "msrp": 12799.0,
+      "msrp_text": "Starting at $12,799",
+      "source_url": "https://www.polaris.com/en-ca/off-road/ranger/models/ranger-500",
+      "hero_image_url": "https://cdn1.polaris.com/globalassets/ranger/2026/model/model-pages/rgr-500/01-overview/06-accessories/ranger-500-my26-9d1a-accessories-lg-opt.jpg?v=db988f1c",
+      "image_urls": [
+        "https://cdn1.polaris.com/globalassets/ranger/2026/model/vehicle-cards--/ranger-500-my26-9d1a-sage-green-r26cca5aa1.png?v=d99dbf00",
+        "https://cdn1.polaris.com/globalassets/ranger/2026/2026/model/vehicle-cards-2/rgr-500-my26-e55f-stealth-gray-r26cca5ab8.png?v=e04cab92"
+      ],
+      "colors": [
+        {
+          "name": "Sage Green",
+          "image_url": "https://cdn1.polaris.com/globalassets/ranger/2026/model/vehicle-cards--/ranger-500-my26-9d1a-sage-green-r26cca5aa1.png?v=d99dbf00"
+        },
+        {
+          "name": "Stealth Gray",
+          "image_url": "https://cdn1.polaris.com/globalassets/ranger/2026/2026/model/vehicle-cards-2/rgr-500-my26-e55f-stealth-gray-r26cca5ab8.png?v=e04cab92"
+        }
+      ]
+    },
+    {
+      "slug": "ranger-ranger-570-full-size-2025",
+      "name": "RANGER 570 Full-Size",
+      "year": 2025,
+      "category": "side-by-side",
+      "subcategory": null,
+      "family": "ranger",
+      "msrp": 14499.0,
+      "msrp_text": "Starting at $14,499",
+      "source_url": "https://www.polaris.com/en-ca/off-road/ranger/models/ranger-570-full-size",
+      "hero_image_url": "https://cdn1.polaris.com/globalassets/ranger/2025/model/model-pages/ranger-570-full-size/01-overview/01-hero/rgr-570-full-size-my25-13b3-hero-1-sm.jpg?v=c9f70207",
+      "image_urls": [
+        "https://cdn1.polaris.com/globalassets/ranger/2025/model/vehicle-cards/rgr-my25-13b3-rgr-570-fullsize-sagegreen-r25cca57a1.png?v=ca710f9a",
+        "https://cdn1.polaris.com/globalassets/ranger/2025/model/vehicle-cards/rgr-my25-13b3-rgr-crew-570-fullsize-sagegreen-r25cda57a1.png?v=ca710fad"
+      ],
+      "colors": [
+        {
+          "name": "Sage Green",
+          "image_url": "https://cdn1.polaris.com/globalassets/ranger/2025/model/vehicle-cards/rgr-my25-13b3-rgr-570-fullsize-sagegreen-r25cca57a1.png?v=ca710f9a"
+        },
+        {
+          "name": "Sage Green",
+          "image_url": "https://cdn1.polaris.com/globalassets/ranger/2025/model/vehicle-cards/rgr-my25-13b3-rgr-crew-570-fullsize-sagegreen-r25cda57a1.png?v=ca710fad"
+        }
+      ]
+    },
+    {
+      "slug": "ranger-ranger-sp-570-2026",
+      "name": "RANGER SP 570",
+      "year": 2026,
+      "category": "side-by-side",
+      "subcategory": null,
+      "family": "ranger",
+      "msrp": 15299.0,
+      "msrp_text": "Starting at $15,299",
+      "source_url": "https://www.polaris.com/en-ca/off-road/ranger/models/ranger-sp-570",
+      "hero_image_url": "https://cdn1.polaris.com/globalassets/ranger/2026/model/model-pages/rgr-sp-570/01-overview/01-hero/rgr-sp-570-my26-9d1a-hero-sm.jpg?v=db58d860",
+      "image_urls": [
+        "https://cdn1.polaris.com/globalassets/ranger/2026/model/vehicle-cards--/ranger-sp-570-my26-9d1a-sage-green-r26maa57b1.png?v=d99dbe67",
+        "https://cdn1.polaris.com/globalassets/ranger/2026/model/vehicle-cards--/ranger-sp-570-crew-my26-9d1a-sage-green-r26m4a57b1.png?v=d99dbeb3",
+        "https://cdn1.polaris.com/globalassets/ranger/2026/model/vehicle-cards--/ranger-sp-570-premium-my26-9d1a-zenith-blue-r26mae57b5.png?v=dc38d9ab",
+        "https://cdn1.polaris.com/globalassets/ranger/2026/model/vehicle-cards--/ranger-sp-570-premium-crew-my26-9d1a-zenith-blue-r26m4e57b5.png?v=dc38d9a1"
+      ],
+      "colors": [
+        {
+          "name": "Sage Green",
+          "image_url": "https://cdn1.polaris.com/globalassets/ranger/2026/model/vehicle-cards--/ranger-sp-570-my26-9d1a-sage-green-r26maa57b1.png?v=d99dbe67"
+        },
+        {
+          "name": "Sage Green",
+          "image_url": "https://cdn1.polaris.com/globalassets/ranger/2026/model/vehicle-cards--/ranger-sp-570-crew-my26-9d1a-sage-green-r26m4a57b1.png?v=d99dbeb3"
+        },
+        {
+          "name": "Zenith Blue",
+          "image_url": "https://cdn1.polaris.com/globalassets/ranger/2026/model/vehicle-cards--/ranger-sp-570-premium-my26-9d1a-zenith-blue-r26mae57b5.png?v=dc38d9ab"
+        },
+        {
+          "name": "Zenith Blue",
+          "image_url": "https://cdn1.polaris.com/globalassets/ranger/2026/model/vehicle-cards--/ranger-sp-570-premium-crew-my26-9d1a-zenith-blue-r26m4e57b5.png?v=dc38d9a1"
+        }
+      ]
+    },
+    {
+      "slug": "ranger-ranger-1000-2026",
+      "name": "RANGER 1000",
+      "year": 2026,
+      "category": "side-by-side",
+      "subcategory": null,
+      "family": "ranger",
+      "msrp": 17299.0,
+      "msrp_text": "Starting at $17,299",
+      "source_url": "https://www.polaris.com/en-ca/off-road/ranger/models/ranger-1000",
+      "hero_image_url": "https://cdn1.polaris.com/globalassets/ranger/2026/model/model-pages/rgr-1000/01-overview/01-hero/rgr-1000-my26-9d1a-hero-sm.jpg?v=db7f6b43",
+      "image_urls": [
+        "https://cdn1.polaris.com/globalassets/ranger/2026/model/vehicle-cards--/ranger-1000-my26-9d1a-sage-green-r26taa99a1.png?v=d99dbee3",
+        "https://cdn1.polaris.com/globalassets/ranger/2026/model/vehicle-cards--/ranger-crew-1000-my26-9d1a-sage-green-r26t6a99a1.png?v=d99dbebd",
+        "https://cdn1.polaris.com/globalassets/ranger/2026/model/vehicle-cards--/ranger-1000-eps-my26-9d1a-sage-green-r26tae99a1.png?v=d99dbed9",
+        "https://cdn1.polaris.com/globalassets/ranger/2026/model/vehicle-cards--/update/rgr-1000-premium-my26-e55f-granitegray-r26tae99ak-v2.png?v=e00d9274",
+        "https://cdn1.polaris.com/globalassets/ranger/2026/model/vehicle-cards--/ranger-1000-premium-my26-9d1a-mirage-beige-r26tae99aj.png?v=d99dbec6"
+      ],
+      "colors": [
+        {
+          "name": "Sage Green",
+          "image_url": "https://cdn1.polaris.com/globalassets/ranger/2026/model/vehicle-cards--/ranger-1000-my26-9d1a-sage-green-r26taa99a1.png?v=d99dbee3"
+        },
+        {
+          "name": "Sage Green",
+          "image_url": "https://cdn1.polaris.com/globalassets/ranger/2026/model/vehicle-cards--/ranger-crew-1000-my26-9d1a-sage-green-r26t6a99a1.png?v=d99dbebd"
+        },
+        {
+          "name": "Sage Green",
+          "image_url": "https://cdn1.polaris.com/globalassets/ranger/2026/model/vehicle-cards--/ranger-1000-eps-my26-9d1a-sage-green-r26tae99a1.png?v=d99dbed9"
+        },
+        {
+          "name": "Granite Gray",
+          "image_url": "https://cdn1.polaris.com/globalassets/ranger/2026/model/vehicle-cards--/update/rgr-1000-premium-my26-e55f-granitegray-r26tae99ak-v2.png?v=e00d9274"
+        },
+        {
+          "name": "Mirage Beige",
+          "image_url": "https://cdn1.polaris.com/globalassets/ranger/2026/model/vehicle-cards--/ranger-1000-premium-my26-9d1a-mirage-beige-r26tae99aj.png?v=d99dbec6"
+        },
+        {
+          "name": "Rover Rust",
+          "image_url": "https://cdn1.polaris.com/globalassets/ranger/2026/model/vehicle-cards--/ranger-1000-premium-my26-9d1a-rover-rust-r26tae99af.png?v=d99dbeed"
+        },
+        {
+          "name": "Polaris Pursuit Camo",
+          "image_url": "https://cdn1.polaris.com/globalassets/ranger/2026/model/vehicle-cards--/ranger-1000-premium-my26-9d1a-polaris-pursuit-camo-r26tae99a9.png?v=d99dbebd"
+        },
+        {
+          "name": "Granite Gray",
+          "image_url": "https://cdn1.polaris.com/globalassets/ranger/2026/model/vehicle-cards--/update/rgr-crew1000-premium-my26-e55f-granitegray-r26tae99ak-v2.png?v=e00d926a"
+        },
+        {
+          "name": "Mirage Beige",
+          "image_url": "https://cdn1.polaris.com/globalassets/ranger/2026/model/vehicle-cards--/ranger-crew-1000-premium-my26-9d1a-mirage-beige-r26t6e99aj.png?v=d99dbe84"
+        },
+        {
+          "name": "Rover Rust",
+          "image_url": "https://cdn1.polaris.com/globalassets/ranger/2026/model/vehicle-cards--/ranger-crew-1000-premium-my26-9d1a-rover-rust-r26t6e99af.png?v=d99dbe97"
+        },
+        {
+          "name": "Polaris Pursuit Camo",
+          "image_url": "https://cdn1.polaris.com/globalassets/ranger/2026/model/vehicle-cards--/ranger-crew-1000-premium-my26-9d1a-polaris-pursuit-camo-r26t6e99a9.png?v=d99dbe84"
+        },
+        {
+          "name": "Granite Gray",
+          "image_url": "https://cdn1.polaris.com/globalassets/ranger/2026-rgr-1000-cab/model/vehicle-cards/rgr-1000-cab-my26-4630-granite-gray-r26tau99ak.png?v=e3c93d55"
+        },
+        {
+          "name": "Mirage Beige",
+          "image_url": "https://cdn1.polaris.com/globalassets/ranger/2026-rgr-1000-cab/model/vehicle-cards/rgr-1000-cab-my26-4630-mirage-beige-r26tau99aj.png?v=e3c93d5e"
+        },
+        {
+          "name": "Rover Rust",
+          "image_url": "https://cdn1.polaris.com/globalassets/ranger/2026-rgr-1000-cab/model/vehicle-cards/rgr-1000-cab-my26-4630-rover-rust-r26tau99af.png?v=e3c93d55"
+        },
+        {
+          "name": "Polaris Pursuit Camo",
+          "image_url": "https://cdn1.polaris.com/globalassets/ranger/2026-rgr-1000-cab/model/vehicle-cards/rgr-1000-cab-my26-4630-polaris-pursuit-camo-r26tau99b9.png?v=e3c93d55"
+        }
+      ]
+    },
+    {
+      "slug": "ranger-ranger-sp-570-northstar-edition-2026",
+      "name": "RANGER SP 570 NorthStar Edition",
+      "year": 2026,
+      "category": "side-by-side",
+      "subcategory": null,
+      "family": "ranger",
+      "msrp": 25399.0,
+      "msrp_text": "Starting at $25,399",
+      "source_url": "https://www.polaris.com/en-ca/off-road/ranger/models/ranger-sp-570-northstar-edition",
+      "hero_image_url": "https://cdn1.polaris.com/globalassets/ranger/2026/model/model-pages/rgr-sp-570-northstar/01-overview/01-hero/rgr-sp-570-northstar-my26-9d1a-hero-sm.jpg?v=db893f79",
+      "image_urls": [
+        "https://cdn1.polaris.com/globalassets/ranger/2026/model/vehicle-cards--/ranger-sp-570-ns-my26-9d1a-zenith-blue-r26mau57b5.png?v=dc380685",
+        "https://cdn1.polaris.com/globalassets/ranger/2026/model/vehicle-cards--/ranger-sp-570-ns-crew-my26-9d1a-zenith-blue-r26m4u57b5.png?v=dc380685"
+      ],
+      "colors": [
+        {
+          "name": "Zenith Blue",
+          "image_url": "https://cdn1.polaris.com/globalassets/ranger/2026/model/vehicle-cards--/ranger-sp-570-ns-my26-9d1a-zenith-blue-r26mau57b5.png?v=dc380685"
+        },
+        {
+          "name": "Zenith Blue",
+          "image_url": "https://cdn1.polaris.com/globalassets/ranger/2026/model/vehicle-cards--/ranger-sp-570-ns-crew-my26-9d1a-zenith-blue-r26m4u57b5.png?v=dc380685"
+        }
+      ]
+    },
+    {
+      "slug": "ranger-ranger-xp-1000-premium-2026",
+      "name": "RANGER XP 1000 Premium",
+      "year": 2026,
+      "category": "side-by-side",
+      "subcategory": null,
+      "family": "ranger",
+      "msrp": 26299.0,
+      "msrp_text": "Starting at $26,299",
+      "source_url": "https://www.polaris.com/en-ca/off-road/ranger/models/ranger-xp-1000",
+      "hero_image_url": "https://cdn1.polaris.com/globalassets/ranger/2026/model/model-pages/rgr-xp-1000/01-overview/01-hero-1/rgr-xp-1000-my26-9d1a-model-page-hero-lg-sm.jpg?v=db7e51db",
+      "image_urls": [
+        "https://cdn1.polaris.com/globalassets/ranger/2026/model/vehicle-cards--/ranger-xp-1000-premium-my26-9d1a-stealth-gray-r26rre99ah.png?v=d99dbed0",
+        "https://cdn1.polaris.com/globalassets/ranger/2026/model/vehicle-cards--/ranger-xp-1000-premium-my26-9d1a-sunset-red-r26rre99as.png?v=d99dbef6",
+        "https://cdn1.polaris.com/globalassets/ranger/2026/model/vehicle-cards--/ranger-xp-1000-premium-my26-9d1a-blue-labyrinth-r26rre99ab.png?v=dc932be9",
+        "https://cdn1.polaris.com/globalassets/ranger/2026/model/vehicle-cards--/ranger-xp-1000-premium-my26-9d1a-orange-rust-r26rre99af.png?v=d99dbef6",
+        "https://cdn1.polaris.com/globalassets/ranger/2026/model/vehicle-cards--/ranger-xp-1000-premium-my26-9d1a-polaris-pursuit-camo-r26rre99a9.png?v=d99dbed0"
+      ],
+      "colors": [
+        {
+          "name": "Stealth Gray",
+          "image_url": "https://cdn1.polaris.com/globalassets/ranger/2026/model/vehicle-cards--/ranger-xp-1000-premium-my26-9d1a-stealth-gray-r26rre99ah.png?v=d99dbed0"
+        },
+        {
+          "name": "Sunset Red",
+          "image_url": "https://cdn1.polaris.com/globalassets/ranger/2026/model/vehicle-cards--/ranger-xp-1000-premium-my26-9d1a-sunset-red-r26rre99as.png?v=d99dbef6"
+        },
+        {
+          "name": "Blue Labyrinth",
+          "image_url": "https://cdn1.polaris.com/globalassets/ranger/2026/model/vehicle-cards--/ranger-xp-1000-premium-my26-9d1a-blue-labyrinth-r26rre99ab.png?v=dc932be9"
+        },
+        {
+          "name": "Orange Rust",
+          "image_url": "https://cdn1.polaris.com/globalassets/ranger/2026/model/vehicle-cards--/ranger-xp-1000-premium-my26-9d1a-orange-rust-r26rre99af.png?v=d99dbef6"
+        },
+        {
+          "name": "Polaris Pursuit Camo",
+          "image_url": "https://cdn1.polaris.com/globalassets/ranger/2026/model/vehicle-cards--/ranger-xp-1000-premium-my26-9d1a-polaris-pursuit-camo-r26rre99a9.png?v=d99dbed0"
+        },
+        {
+          "name": "Stealth Gray",
+          "image_url": "https://cdn1.polaris.com/globalassets/ranger/2026/model/vehicle-cards--/ranger-crew-xp-1000-premium-my26-9d1a-stealth-gray-r26rse99ah.png?v=d99dbe84"
+        },
+        {
+          "name": "Sunset Red",
+          "image_url": "https://cdn1.polaris.com/globalassets/ranger/2026/model/vehicle-cards--/ranger-crew-xp-1000-premium-my26-9d1a-sunset-red-r26rse99as.png?v=d99dbea0"
+        },
+        {
+          "name": "Blue Labyrinth",
+          "image_url": "https://cdn1.polaris.com/globalassets/ranger/2026/model/vehicle-cards--/ranger-crew-xp-1000-premium-my26-9d1a-blue-labyrinth-r26rse99ab.png?v=d99dbe8d"
+        },
+        {
+          "name": "Orange Rust",
+          "image_url": "https://cdn1.polaris.com/globalassets/ranger/2026/model/vehicle-cards--/ranger-crew-xp-1000-premium-my26-9d1a-orange-rust-r26rse99af.png?v=d99dbe97"
+        },
+        {
+          "name": "Polaris Pursuit Camo",
+          "image_url": "https://cdn1.polaris.com/globalassets/ranger/2026/model/vehicle-cards--/ranger-crew-xp-1000-premium-my26-9d1a-polaris-pursuit-camo-r26rse99a9.png?v=d99dbe71"
+        },
+        {
+          "name": "Avalanche Gray",
+          "image_url": "https://cdn1.polaris.com/globalassets/ranger/2026-rgr-xp-1000/model/vehicle-cards/ranger-xp-1000-hvac-my26-9d1a-avalanche-gray-r27rrm99a4.png?v=e58e7e37"
+        },
+        {
+          "name": "Avalanche Gray",
+          "image_url": "https://cdn1.polaris.com/globalassets/ranger/2026-rgr-xp-1000/model/vehicle-cards/ranger-crew-xp-1000-hvac-my26-9d1a-avalanche-gray-r27rsm99a4.png?v=e58e7e37"
+        }
+      ]
+    },
+    {
+      "slug": "ranger-ranger-crew-xp-1000-texas-edition-2026",
+      "name": "RANGER CREW XP 1000 Texas Edition",
+      "year": 2026,
+      "category": "side-by-side",
+      "subcategory": null,
+      "family": "ranger",
+      "msrp": 30099.0,
+      "msrp_text": "Starting at $30,099",
+      "source_url": "https://www.polaris.com/en-ca/off-road/ranger/models/ranger-xp-1000-texas-edition",
+      "hero_image_url": "https://cdn1.polaris.com/globalassets/ranger/2026/model/model-pages/rgr-xp-1000-texas/01-overview/01-hero/rgr-crew-xp-1000-texas-edition-my26-9d1a-hero-sm.jpg?v=db95742c",
+      "image_urls": [
+        "https://cdn1.polaris.com/globalassets/ranger/2026/model/vehicle-cards--/ranger-crew-xp-1000-texas-my26-9d1a-black-crystal-r26rsf99al.png?v=d99dbe71",
+        "https://cdn1.polaris.com/globalassets/ranger/2026/model/vehicle-cards--/garage/ranger-crew-xp-1000-ns-texas-my26-9d1a-black-crystal-r26rst99al-g.png?v=d99dbff8"
+      ],
+      "colors": [
+        {
+          "name": "Black Crystal",
+          "image_url": "https://cdn1.polaris.com/globalassets/ranger/2026/model/vehicle-cards--/ranger-crew-xp-1000-texas-my26-9d1a-black-crystal-r26rsf99al.png?v=d99dbe71"
+        },
+        {
+          "name": "Black Crystal",
+          "image_url": "https://cdn1.polaris.com/globalassets/ranger/2026/model/vehicle-cards--/garage/ranger-crew-xp-1000-ns-texas-my26-9d1a-black-crystal-r26rst99al-g.png?v=d99dbff8"
+        }
+      ]
+    },
+    {
+      "slug": "ranger-ranger-xp-1000-northstar-edition-premium-2026",
+      "name": "RANGER XP 1000 NorthStar Edition Premium",
+      "year": 2026,
+      "category": "side-by-side",
+      "subcategory": null,
+      "family": "ranger",
+      "msrp": 35999.0,
+      "msrp_text": "Starting at $35,999",
+      "source_url": "https://www.polaris.com/en-ca/off-road/ranger/models/ranger-xp-1000-northstar-edition",
+      "hero_image_url": "https://cdn1.polaris.com/globalassets/ranger/2026/model/model-pages/rgr-xp-1000-northstar-edition/01-overview/01-hero/orv-ranger-xp-1000-ns-my26-9d1a-model-page-hero-sm.jpg?v=db8be9af",
+      "image_urls": [
+        "https://cdn1.polaris.com/globalassets/ranger/2026/model/vehicle-cards--/no-ns-icon/ranger-xp-1000-ns-premium-my26-9d1a-stealth-gray-r26rru99ah.png?v=e6a2bace",
+        "https://cdn1.polaris.com/globalassets/ranger/2026/model/vehicle-cards--/no-ns-icon/ranger-xp-1000-ns-premium-my26-9d1a-sunset-red-r26rru99as.png?v=e6a2bace",
+        "https://cdn1.polaris.com/globalassets/ranger/2026/model/vehicle-cards--/no-ns-icon/ranger-xp-1000-ns-premium-my26-9d1a-blue-labyrinth-r26rru99ab.png?v=e6a2bac4",
+        "https://cdn1.polaris.com/globalassets/ranger/2026/model/vehicle-cards--/no-ns-icon/ranger-xp-1000-ns-premium-my26-9d1a-orange-rust-r26rru99af.png?v=e6a2bac4",
+        "https://cdn1.polaris.com/globalassets/ranger/2026/model/vehicle-cards--/no-ns-icon/ranger-xp-1000-ns-premium-my26-9d1a-polaris-pursuit-camo-r26rru99a9.png?v=e6a2bace"
+      ],
+      "colors": [
+        {
+          "name": "Stealth Gray",
+          "image_url": "https://cdn1.polaris.com/globalassets/ranger/2026/model/vehicle-cards--/no-ns-icon/ranger-xp-1000-ns-premium-my26-9d1a-stealth-gray-r26rru99ah.png?v=e6a2bace"
+        },
+        {
+          "name": "Sunset Red",
+          "image_url": "https://cdn1.polaris.com/globalassets/ranger/2026/model/vehicle-cards--/no-ns-icon/ranger-xp-1000-ns-premium-my26-9d1a-sunset-red-r26rru99as.png?v=e6a2bace"
+        },
+        {
+          "name": "Blue Labyrinth",
+          "image_url": "https://cdn1.polaris.com/globalassets/ranger/2026/model/vehicle-cards--/no-ns-icon/ranger-xp-1000-ns-premium-my26-9d1a-blue-labyrinth-r26rru99ab.png?v=e6a2bac4"
+        },
+        {
+          "name": "Orange Rust",
+          "image_url": "https://cdn1.polaris.com/globalassets/ranger/2026/model/vehicle-cards--/no-ns-icon/ranger-xp-1000-ns-premium-my26-9d1a-orange-rust-r26rru99af.png?v=e6a2bac4"
+        },
+        {
+          "name": "Polaris Pursuit Camo",
+          "image_url": "https://cdn1.polaris.com/globalassets/ranger/2026/model/vehicle-cards--/no-ns-icon/ranger-xp-1000-ns-premium-my26-9d1a-polaris-pursuit-camo-r26rru99a9.png?v=e6a2bace"
+        },
+        {
+          "name": "Stealth Gray",
+          "image_url": "https://cdn1.polaris.com/globalassets/ranger/2026/model/vehicle-cards--/no-ns-icon/ranger-crew-xp-1000-ns-premium-my26-9d1a-stealth-gray-r26rsu99ah.png?v=e6a2babb"
+        },
+        {
+          "name": "Sunset Red",
+          "image_url": "https://cdn1.polaris.com/globalassets/ranger/2026/model/vehicle-cards--/no-ns-icon/ranger-crew-xp-1000-ns-premium-my26-9d1a-sunset-red-r26rsu99as.png?v=e6a2babb"
+        },
+        {
+          "name": "Blue Labyrinth",
+          "image_url": "https://cdn1.polaris.com/globalassets/ranger/2026/model/vehicle-cards--/no-ns-icon/ranger-crew-xp-1000-ns-premium-my26-9d1a-blue-labyrinth-r26rsu99ab.png?v=e6a2bab1"
+        },
+        {
+          "name": "Orange Rust",
+          "image_url": "https://cdn1.polaris.com/globalassets/ranger/2026/model/vehicle-cards--/no-ns-icon/ranger-crew-xp-1000-ns-premium-my26-9d1a-orange-rust-r26rsu99af.png?v=e6a2bab1"
+        },
+        {
+          "name": "Polaris Pursuit Camo",
+          "image_url": "https://cdn1.polaris.com/globalassets/ranger/2026/model/vehicle-cards--/no-ns-icon/ranger-crew-xp-1000-ns-premium-my26-9d1a-polaris-pursuit-camo-r26rsu99a9.png?v=e6a2bab1"
+        },
+        {
+          "name": "Stealth Gray",
+          "image_url": "https://cdn1.polaris.com/globalassets/ranger/2026/model/vehicle-cards--/no-ns-icon/ranger-xp-1000-ns-ultimate-my26-9d1a-stealth-gray-r26rry99ah.png?v=e6a2bad7"
+        },
+        {
+          "name": "Sunset Red",
+          "image_url": "https://cdn1.polaris.com/globalassets/ranger/2026/model/vehicle-cards--/no-ns-icon/ranger-xp-1000-ns-ultimate-my26-9d1a-sunset-red-r26rry99as.png?v=e6a2bad7"
+        },
+        {
+          "name": "Blue Labyrinth",
+          "image_url": "https://cdn1.polaris.com/globalassets/ranger/2026/model/vehicle-cards--/no-ns-icon/ranger-xp-1000-ns-ultimate-my26-9d1a-blue-labyrinth-r26rry99ab.png?v=e6a2bace"
+        },
+        {
+          "name": "Orange Rust",
+          "image_url": "https://cdn1.polaris.com/globalassets/ranger/2026/model/vehicle-cards--/no-ns-icon/ranger-xp-1000-ns-ultimate-my26-9d1a-orange-rust-r26rry99af.png?v=e6a2bace"
+        },
+        {
+          "name": "Polaris Pursuit Camo",
+          "image_url": "https://cdn1.polaris.com/globalassets/ranger/2026/model/vehicle-cards--/no-ns-icon/ranger-xp-1000-ns-ultimate-my26-9d1a-polaris-pursuit-camo-r26rry99a9.png?v=e6a2bad7"
+        },
+        {
+          "name": "Stealth Gray",
+          "image_url": "https://cdn1.polaris.com/globalassets/ranger/2026/model/vehicle-cards--/no-ns-icon/ranger-crew-xp-1000-ns-ultimate-my26-9d1a-stealth-gray-r26rsy99ah.png?v=e6a2bac4"
+        },
+        {
+          "name": "Sunset Red",
+          "image_url": "https://cdn1.polaris.com/globalassets/ranger/2026/model/vehicle-cards--/no-ns-icon/ranger-crew-xp-1000-ns-ultimate-my26-9d1a-sunset-red-r26rsy99as.png?v=e6a2bac4"
+        },
+        {
+          "name": "Blue Labyrinth",
+          "image_url": "https://cdn1.polaris.com/globalassets/ranger/2026/model/vehicle-cards--/no-ns-icon/ranger-crew-xp-1000-ns-ultimate-my26-9d1a-blue-labyrinth-r26rsy99ab.png?v=e6a2babb"
+        },
+        {
+          "name": "Orange Rust",
+          "image_url": "https://cdn1.polaris.com/globalassets/ranger/2026/model/vehicle-cards--/no-ns-icon/ranger-crew-xp-1000-ns-ultimate-my26-9d1a-orange-rust-r26rsy99af.png?v=e6a2babb"
+        },
+        {
+          "name": "Polaris Pursuit Camo",
+          "image_url": "https://cdn1.polaris.com/globalassets/ranger/2026/model/vehicle-cards--/no-ns-icon/ranger-crew-xp-1000-ns-ultimate-my26-9d1a-polaris-pursuit-camo-r26rsy99a9.png?v=e6a2babb"
+        }
+      ]
+    },
+    {
+      "slug": "ranger-ranger-xp-kinetic-premium-2024",
+      "name": "RANGER XP Kinetic Premium",
+      "year": 2024,
+      "category": "side-by-side",
+      "subcategory": null,
+      "family": "ranger",
+      "msrp": 36699.0,
+      "msrp_text": "Starting at $36,699",
+      "source_url": "https://www.polaris.com/en-ca/off-road/ranger/models/ranger-xp-kinetic",
+      "hero_image_url": "https://cdn1.polaris.com/globalassets/ranger/2023/model/model-pages/ranger-xp-kinetic/1-overview/1-hero/rgr-xp-kinetic-my23-05f6-hero-sm.jpg?v=a3a4331d",
+      "image_urls": [
+        "https://cdn1.polaris.com/globalassets/ranger/2024/model/vehicle--cards/ranger-xp-kinetic-premium-my24-b6c9-icy-white-pearl-r24e3cc2bd.png?v=bbe91973",
+        "https://cdn1.polaris.com/globalassets/ranger/2024/model/vehicle--cards/kinetic-camo/ranger-xp-kinetic-premium-my24-c7d0-polaris-pursuit-camo-r24e3cc2b9.png?v=c3de3750",
+        "https://cdn1.polaris.com/globalassets/ranger/2024/model/vehicle--cards/ranger-xp-kinetic-ultimate-my24-b6c9-icy-white-pearl-r24e3gc4bd.png?v=dceaac9b",
+        "https://cdn1.polaris.com/globalassets/ranger/2024/model/vehicle--cards/ranger-xp-kinetic-ultimate-my24-b6c9-polaris-pursuit-camo-r24e3gc4b9.png?v=dceaa31b"
+      ],
+      "colors": [
+        {
+          "name": "Icy White Pearl",
+          "image_url": "https://cdn1.polaris.com/globalassets/ranger/2024/model/vehicle--cards/ranger-xp-kinetic-premium-my24-b6c9-icy-white-pearl-r24e3cc2bd.png?v=bbe91973"
+        },
+        {
+          "name": "Polaris Pursuit Camo",
+          "image_url": "https://cdn1.polaris.com/globalassets/ranger/2024/model/vehicle--cards/kinetic-camo/ranger-xp-kinetic-premium-my24-c7d0-polaris-pursuit-camo-r24e3cc2b9.png?v=c3de3750"
+        },
+        {
+          "name": "Icy White Pearl",
+          "image_url": "https://cdn1.polaris.com/globalassets/ranger/2024/model/vehicle--cards/ranger-xp-kinetic-ultimate-my24-b6c9-icy-white-pearl-r24e3gc4bd.png?v=dceaac9b"
+        },
+        {
+          "name": "Polaris Pursuit Camo",
+          "image_url": "https://cdn1.polaris.com/globalassets/ranger/2024/model/vehicle--cards/ranger-xp-kinetic-ultimate-my24-b6c9-polaris-pursuit-camo-r24e3gc4b9.png?v=dceaa31b"
+        }
+      ]
+    },
+    {
+      "slug": "ranger-ranger-xp-1000-northstar-trail-boss-edition-2026",
+      "name": "RANGER XP 1000 NorthStar Trail Boss Edition",
+      "year": 2026,
+      "category": "side-by-side",
+      "subcategory": null,
+      "family": "ranger",
+      "msrp": 42299.0,
+      "msrp_text": "Starting at $42,299",
+      "source_url": "https://www.polaris.com/en-ca/off-road/ranger/models/ranger-xp-1000-northstar-trail-boss-edition",
+      "hero_image_url": "https://cdn1.polaris.com/globalassets/ranger/2026/model/model-pages/rgr-xp-1000-northstar-trail-boss/01-overview/01-hero/rgr-xp-1000-ns-trail-boss-my26-9d1a-model-page-hero-sm.jpg?v=db95413f",
+      "image_urls": [
+        "https://cdn1.polaris.com/globalassets/ranger/2026/model/vehicle-cards--/ranger-xp-1000-ns-trail-boss-my26-9d1a-heavy-metal-r26rrv99ak.png?v=dc2d4fc6",
+        "https://cdn1.polaris.com/globalassets/ranger/2026/model/vehicle-cards--/ranger-crew-xp-1000-ns-trail-boss-my26-9d1a-heavy-metal-r26rsv99ak.png?v=dc2d4fec"
+      ],
+      "colors": [
+        {
+          "name": "Heavy Metal",
+          "image_url": "https://cdn1.polaris.com/globalassets/ranger/2026/model/vehicle-cards--/ranger-xp-1000-ns-trail-boss-my26-9d1a-heavy-metal-r26rrv99ak.png?v=dc2d4fc6"
+        },
+        {
+          "name": "Heavy Metal",
+          "image_url": "https://cdn1.polaris.com/globalassets/ranger/2026/model/vehicle-cards--/ranger-crew-xp-1000-ns-trail-boss-my26-9d1a-heavy-metal-r26rsv99ak.png?v=dc2d4fec"
+        }
+      ]
+    },
+    {
+      "slug": "ranger-ranger-xd-1500-northstar-edition-premium-2026",
+      "name": "RANGER XD 1500 NorthStar Edition Premium",
+      "year": 2026,
+      "category": "side-by-side",
+      "subcategory": null,
+      "family": "ranger",
+      "msrp": 50199.0,
+      "msrp_text": "Starting at $50,199",
+      "source_url": "https://www.polaris.com/en-ca/off-road/ranger/models/ranger-xd-1500-northstar-edition",
+      "hero_image_url": "https://cdn1.polaris.com/globalassets/ranger/2026/2026/rgr-xd-1500-northstar-edition/01-overview/01-hero-/ranger-xd-1500-ns-my26-e55f-hero-sm.jpg?v=df5cda7d",
+      "image_urls": [
+        "https://cdn1.polaris.com/globalassets/ranger/2026/model/vehicle-cards--/no-ns-icon/rgr-xd1500-ns-premium-my26-e55f-treelinegreenmetallic-r26xal1rbb.png?v=e6a2baea",
+        "https://cdn1.polaris.com/globalassets/ranger/2026/model/vehicle-cards--/no-ns-icon/rgr-xd1500-ns-premium-my26-e55f-supergraphitesmoke-r26xal1rbj.png?v=e6a2baea",
+        "https://cdn1.polaris.com/globalassets/ranger/2026/model/vehicle-cards--/no-ns-icon/rgr-crewxd1500-ns-premium-my26-e55f-treelinegreenmetallic-r26x6l1rbb.png?v=e6a2bae1",
+        "https://cdn1.polaris.com/globalassets/ranger/2026/model/vehicle-cards--/no-ns-icon/rgr-crewxd1500-ns-premium-my26-e55f-supergraphitesmoke-r26x6l1rbj.png?v=e6a2bae1",
+        "https://cdn1.polaris.com/globalassets/ranger/2026/model/vehicle-cards--/no-ns-icon/rgr-xd1500-ns-ultimate-my26-e55f-treelinegreenmetallic-r26xaw1rbb.png?v=e6a2bafd"
+      ],
+      "colors": [
+        {
+          "name": "Treeline Green Metallic",
+          "image_url": "https://cdn1.polaris.com/globalassets/ranger/2026/model/vehicle-cards--/no-ns-icon/rgr-xd1500-ns-premium-my26-e55f-treelinegreenmetallic-r26xal1rbb.png?v=e6a2baea"
+        },
+        {
+          "name": "Super Graphite Smoke",
+          "image_url": "https://cdn1.polaris.com/globalassets/ranger/2026/model/vehicle-cards--/no-ns-icon/rgr-xd1500-ns-premium-my26-e55f-supergraphitesmoke-r26xal1rbj.png?v=e6a2baea"
+        },
+        {
+          "name": "Treeline Green Metallic",
+          "image_url": "https://cdn1.polaris.com/globalassets/ranger/2026/model/vehicle-cards--/no-ns-icon/rgr-crewxd1500-ns-premium-my26-e55f-treelinegreenmetallic-r26x6l1rbb.png?v=e6a2bae1"
+        },
+        {
+          "name": "Super Graphite Smoke",
+          "image_url": "https://cdn1.polaris.com/globalassets/ranger/2026/model/vehicle-cards--/no-ns-icon/rgr-crewxd1500-ns-premium-my26-e55f-supergraphitesmoke-r26x6l1rbj.png?v=e6a2bae1"
+        },
+        {
+          "name": "Treeline Green Metallic",
+          "image_url": "https://cdn1.polaris.com/globalassets/ranger/2026/model/vehicle-cards--/no-ns-icon/rgr-xd1500-ns-ultimate-my26-e55f-treelinegreenmetallic-r26xaw1rbb.png?v=e6a2bafd"
+        },
+        {
+          "name": "Super Graphite Smoke",
+          "image_url": "https://cdn1.polaris.com/globalassets/ranger/2026/model/vehicle-cards--/no-ns-icon/rgr-xd1500-ns-ultimate-my26-e55f-supergraphitesmoke-r26xaw1rbj.png?v=e6a2baf4"
+        },
+        {
+          "name": "Polaris Pursuit Camo",
+          "image_url": "https://cdn1.polaris.com/globalassets/ranger/2026/model/vehicle-cards--/no-ns-icon/rgr-xd1500-ns-ultimate-my26-e55f-polarispursuitcamo-r26xaw1rb9.png?v=e6a2baf4"
+        },
+        {
+          "name": "Treeline Green Metallic",
+          "image_url": "https://cdn1.polaris.com/globalassets/ranger/2026/model/vehicle-cards--/no-ns-icon/rgr-crewxd1500-ns-ultimate-my26-e55f-treelinegreenmetallic-r26x6w1rbb.png?v=e6a2baea"
+        },
+        {
+          "name": "Super Graphite Smoke",
+          "image_url": "https://cdn1.polaris.com/globalassets/ranger/2026/model/vehicle-cards--/no-ns-icon/rgr-crewxd1500-ns-ultimate-my26-e55f-supergraphitesmoke-r26x6w1rbj.png?v=e6a2baea"
+        },
+        {
+          "name": "Polaris Pursuit Camo",
+          "image_url": "https://cdn1.polaris.com/globalassets/ranger/2026/model/vehicle-cards--/no-ns-icon/rgr-crewxd1500-ns-ultimate-my26-e55f-polarispursuitcamo-r26x6w1rb9.png?v=e6a2bae1"
+        },
+        {
+          "name": "Treeline Green Metallic",
+          "image_url": "https://cdn1.polaris.com/globalassets/ranger/2026/model/vehicle-cards--/no-ns-icon/rgr-xd1500-ns-mountaineer-my26-e55f-treelinegreenmetallic-r26xan1rbb.png?v=e6a2baea"
+        },
+        {
+          "name": "Treeline Green Metallic",
+          "image_url": "https://cdn1.polaris.com/globalassets/ranger/2026/model/vehicle-cards--/no-ns-icon/rgr-crewxd1500-ns-mountaineer-my26-e55f-treelinegreenmetallic-r26x6n1rb.png?v=e6a2bad7"
+        }
+      ]
+    },
+    {
+      "slug": "ranger-ranger-crew-xd-1500-northstar-texas-edition-2026",
+      "name": "RANGER CREW XD 1500 NorthStar Texas Edition",
+      "year": 2026,
+      "category": "side-by-side",
+      "subcategory": null,
+      "family": "ranger",
+      "msrp": 63699.0,
+      "msrp_text": "Starting at $63,699",
+      "source_url": "https://www.polaris.com/en-ca/off-road/ranger/models/ranger-xd-1500-northstar-texas-edition",
+      "hero_image_url": "https://cdn1.polaris.com/globalassets/ranger/2026/2026/rgr-xd1500-ns-texas-edition/01-overview/01-hero/ranger-xd-1500-ns-texas-edition-my26-e55f-hero-sm.jpg?v=e01ba250",
+      "image_urls": [
+        "https://cdn1.polaris.com/globalassets/ranger/2026/2026/model/vehicle-cards-2/rgr-crewxd1500-ns-texasedition-my26-e55f-blackcrystal-r26x6t1rbl.png?v=df466e60"
+      ],
+      "colors": [
+        {
+          "name": "Black Crystal",
+          "image_url": "https://cdn1.polaris.com/globalassets/ranger/2026/2026/model/vehicle-cards-2/rgr-crewxd1500-ns-texasedition-my26-e55f-blackcrystal-r26x6t1rbl.png?v=df466e60"
+        }
+      ]
+    },
+    {
+      "slug": "rzr-rzr-200-efi-2026",
+      "name": "RZR 200 EFI",
+      "year": 2026,
+      "category": "side-by-side",
+      "subcategory": null,
+      "family": "rzr",
+      "msrp": 8499.0,
+      "msrp_text": "Starting at $8,499",
+      "source_url": "https://www.polaris.com/en-ca/off-road/rzr/models/rzr-200",
+      "hero_image_url": "https://cdn1.polaris.com/globalassets/rzr/2026/model/model-pages/rzr-200-efi/01-overview/01-hero/rzr-200-my26-9d1a-hero-sm.jpg?v=d9df8f68",
+      "image_urls": [
+        "https://cdn1.polaris.com/globalassets/rzr/2026/model/vehicle-cards-/rzr-200-efi-my26-9d1a-indy-red-z26hca18a7.png?v=d9f6a8bf",
+        "https://cdn1.polaris.com/globalassets/rzr/2026/model/vehicle-cards-/rzr-200-efi-my26-9d1a-storm-gray-z26hca18a4.png?v=d9f6a77b"
+      ],
+      "colors": [
+        {
+          "name": "Indy Red",
+          "image_url": "https://cdn1.polaris.com/globalassets/rzr/2026/model/vehicle-cards-/rzr-200-efi-my26-9d1a-indy-red-z26hca18a7.png?v=d9f6a8bf"
+        },
+        {
+          "name": "Storm Gray",
+          "image_url": "https://cdn1.polaris.com/globalassets/rzr/2026/model/vehicle-cards-/rzr-200-efi-my26-9d1a-storm-gray-z26hca18a4.png?v=d9f6a77b"
+        }
+      ]
+    },
+    {
+      "slug": "rzr-rzr-trail-sport-2026",
+      "name": "RZR Trail Sport",
+      "year": 2026,
+      "category": "side-by-side",
+      "subcategory": null,
+      "family": "rzr",
+      "msrp": 20399.0,
+      "msrp_text": "Starting at $20,399",
+      "source_url": "https://www.polaris.com/en-ca/off-road/rzr/models/rzr-trail",
+      "hero_image_url": "https://cdn1.polaris.com/globalassets/rzr/2026/model/model-pages/rzr-trail/01-overview/01-hero/rzr-trail-my26-9d1a-hero-sm.jpg?v=d948dc69",
+      "image_urls": [
+        "https://cdn1.polaris.com/globalassets/rzr/2026/model/vehicle-cards-/rzr-900-trail-sport-my26-9d1a-zenith-blue-z26a5e87a5.png?v=d7c12e20",
+        "https://cdn1.polaris.com/globalassets/rzr/2026/model/vehicle-cards-/rzr-900-trail-ultimate-my26-9d1a-sand-dune-z26a5f87a6.png?v=d7c12e20"
+      ],
+      "colors": [
+        {
+          "name": "Zenith Blue",
+          "image_url": "https://cdn1.polaris.com/globalassets/rzr/2026/model/vehicle-cards-/rzr-900-trail-sport-my26-9d1a-zenith-blue-z26a5e87a5.png?v=d7c12e20"
+        },
+        {
+          "name": "Sand Dune",
+          "image_url": "https://cdn1.polaris.com/globalassets/rzr/2026/model/vehicle-cards-/rzr-900-trail-ultimate-my26-9d1a-sand-dune-z26a5f87a6.png?v=d7c12e20"
+        }
+      ]
+    },
+    {
+      "slug": "rzr-rzr-xp-1000-sport-2026",
+      "name": "RZR XP 1000 Sport",
+      "year": 2026,
+      "category": "side-by-side",
+      "subcategory": null,
+      "family": "rzr",
+      "msrp": 24999.0,
+      "msrp_text": "Starting at $24,999",
+      "source_url": "https://www.polaris.com/en-ca/off-road/rzr/models/rzr-xp",
+      "hero_image_url": "https://cdn1.polaris.com/globalassets/rzr/2026/model/model-pages/rzr-xp/01-overview/01-hero/rzr-pro-xp-my26-7b4d-hero-sm.jpg?v=e12ddf4f",
+      "image_urls": [
+        "https://cdn1.polaris.com/globalassets/rzr/2026/model/vehicle-cards-/rzr-xp-1000-sport-my26-7b4d-sand-dune-z26nes99a6.png?v=de0a1bd7",
+        "https://cdn1.polaris.com/globalassets/rzr/2026/model/vehicle-cards-/rzr-xp-1000-sport-my26-7b4d-stealth-grey-z26nes99a4.png?v=de0a1bd7",
+        "https://cdn1.polaris.com/globalassets/rzr/2026/model/vehicle-cards-/rzr-xp-1000-sport-crew-my26-7b4d-sand-dune-z26nms99a6.png?v=de0a1bce",
+        "https://cdn1.polaris.com/globalassets/rzr/2026/model/vehicle-cards-/rzr-xp-1000-sport-crew-my26-7b4d-stealth-grey-z26nms99a4.png?v=de0a1bce",
+        "https://cdn1.polaris.com/globalassets/rzr/2026/model/vehicle-cards-/rzr-xp-1000-ultimate-my26-7b4d-sand-dune-z26net99a6.png?v=de0a1b82"
+      ],
+      "colors": [
+        {
+          "name": "Sand Dune",
+          "image_url": "https://cdn1.polaris.com/globalassets/rzr/2026/model/vehicle-cards-/rzr-xp-1000-sport-my26-7b4d-sand-dune-z26nes99a6.png?v=de0a1bd7"
+        },
+        {
+          "name": "Stealth Gray",
+          "image_url": "https://cdn1.polaris.com/globalassets/rzr/2026/model/vehicle-cards-/rzr-xp-1000-sport-my26-7b4d-stealth-grey-z26nes99a4.png?v=de0a1bd7"
+        },
+        {
+          "name": "Sand Dune",
+          "image_url": "https://cdn1.polaris.com/globalassets/rzr/2026/model/vehicle-cards-/rzr-xp-1000-sport-crew-my26-7b4d-sand-dune-z26nms99a6.png?v=de0a1bce"
+        },
+        {
+          "name": "Stealth Gray",
+          "image_url": "https://cdn1.polaris.com/globalassets/rzr/2026/model/vehicle-cards-/rzr-xp-1000-sport-crew-my26-7b4d-stealth-grey-z26nms99a4.png?v=de0a1bce"
+        },
+        {
+          "name": "Sand Dune",
+          "image_url": "https://cdn1.polaris.com/globalassets/rzr/2026/model/vehicle-cards-/rzr-xp-1000-ultimate-my26-7b4d-sand-dune-z26net99a6.png?v=de0a1b82"
+        },
+        {
+          "name": "Stealth Gray",
+          "image_url": "https://cdn1.polaris.com/globalassets/rzr/2026/model/vehicle-cards-/rzr-xp-1000-ultimate-my26-7b4d-stealth-grey-z26net99a4.png?v=de0a1b8b"
+        },
+        {
+          "name": "Sand Dune",
+          "image_url": "https://cdn1.polaris.com/globalassets/rzr/2026/model/vehicle-cards-/rzr-xp-1000-ultimate-crew-my26-7b4d-sand-dune-z26nmt99a6.png?v=e000bc3a"
+        },
+        {
+          "name": "Stealth Gray",
+          "image_url": "https://cdn1.polaris.com/globalassets/rzr/2026/model/vehicle-cards-/rzr-xp-1000-ultimate-crew-my26-7b4d-stealth-grey-z26nmt99a4.png?v=e000bc3a"
+        }
+      ]
+    },
+    {
+      "slug": "rzr-rzr-trail-s-1000-ultimate-2026",
+      "name": "RZR Trail S 1000 Ultimate",
+      "year": 2026,
+      "category": "side-by-side",
+      "subcategory": null,
+      "family": "rzr",
+      "msrp": 26499.0,
+      "msrp_text": "Starting at $26,499",
+      "source_url": "https://www.polaris.com/en-ca/off-road/rzr/models/rzr-trail-s",
+      "hero_image_url": "https://cdn1.polaris.com/globalassets/rzr/2025/model/model-pages/rzr-trail-s/01-overview/01-hero/rzr-trail-s-my25-4b61-hero-sm.jpg?v=c8c6b875",
+      "image_urls": [
+        "https://cdn1.polaris.com/globalassets/rzr/2026/model/vehicle-cards-/rzr-1000-s-trail-ultimate-my26-9d1a-sand-dune-z26asf99a6.png?v=d7c12e2a"
+      ],
+      "colors": [
+        {
+          "name": "Sand Dune",
+          "image_url": "https://cdn1.polaris.com/globalassets/rzr/2026/model/vehicle-cards-/rzr-1000-s-trail-ultimate-my26-9d1a-sand-dune-z26asf99a6.png?v=d7c12e2a"
+        }
+      ]
+    },
+    {
+      "slug": "rzr-rzr-xp-s-1000-sport-2026",
+      "name": "RZR XP S 1000 Sport",
+      "year": 2026,
+      "category": "side-by-side",
+      "subcategory": null,
+      "family": "rzr",
+      "msrp": 28999.0,
+      "msrp_text": "Starting at $28,999",
+      "source_url": "https://www.polaris.com/en-ca/off-road/rzr/models/rzr-xp-s",
+      "hero_image_url": "https://cdn1.polaris.com/globalassets/rzr/2026/model/model-pages/rzr-xp-s/01-overview/01-hero/rzr-xp-s-my26-7b4d-hero-lg.jpg?v=df138ee9",
+      "image_urls": [
+        "https://cdn1.polaris.com/globalassets/rzr/2026/model/vehicle-cards-/rzr-xp-s-1000-sport-my26-7b4d-sand-dune-z26nex99a6.png?v=de0a1b95",
+        "https://cdn1.polaris.com/globalassets/rzr/2026/model/vehicle-cards-/rzr-xp-s-1000-sport-my26-7b4d-stealth-grey-z26nex99a4.png?v=de0a1b95",
+        "https://cdn1.polaris.com/globalassets/rzr/2026/model/vehicle-cards-/rzr-xp-s-1000-sport-crew-my26-7b4d-sand-dune-z26nmx99a6.png?v=de0a1b8b",
+        "https://cdn1.polaris.com/globalassets/rzr/2026/model/vehicle-cards-/rzr-xp-s-1000-sport-crew-my26-7b4d-stealth-grey-z26nmx99a4.png?v=de0a1b8b",
+        "https://cdn1.polaris.com/globalassets/rzr/2026/model/vehicle-cards-/rzr-xp-s-1000-ultimate-my26-7b4d-sand-dune-z26ney99a6.png?v=de0a1b9e"
+      ],
+      "colors": [
+        {
+          "name": "Sand Dune",
+          "image_url": "https://cdn1.polaris.com/globalassets/rzr/2026/model/vehicle-cards-/rzr-xp-s-1000-sport-my26-7b4d-sand-dune-z26nex99a6.png?v=de0a1b95"
+        },
+        {
+          "name": "Stealth Gray",
+          "image_url": "https://cdn1.polaris.com/globalassets/rzr/2026/model/vehicle-cards-/rzr-xp-s-1000-sport-my26-7b4d-stealth-grey-z26nex99a4.png?v=de0a1b95"
+        },
+        {
+          "name": "Sand Dune",
+          "image_url": "https://cdn1.polaris.com/globalassets/rzr/2026/model/vehicle-cards-/rzr-xp-s-1000-sport-crew-my26-7b4d-sand-dune-z26nmx99a6.png?v=de0a1b8b"
+        },
+        {
+          "name": "Stealth Gray",
+          "image_url": "https://cdn1.polaris.com/globalassets/rzr/2026/model/vehicle-cards-/rzr-xp-s-1000-sport-crew-my26-7b4d-stealth-grey-z26nmx99a4.png?v=de0a1b8b"
+        },
+        {
+          "name": "Sand Dune",
+          "image_url": "https://cdn1.polaris.com/globalassets/rzr/2026/model/vehicle-cards-/rzr-xp-s-1000-ultimate-my26-7b4d-sand-dune-z26ney99a6.png?v=de0a1b9e"
+        },
+        {
+          "name": "Stealth Gray",
+          "image_url": "https://cdn1.polaris.com/globalassets/rzr/2026/model/vehicle-cards-/rzr-xp-s-1000-ultimate-my26-7b4d-stealth-grey-z26ney99a4.png?v=de0a1ba8"
+        },
+        {
+          "name": "Sand Dune",
+          "image_url": "https://cdn1.polaris.com/globalassets/rzr/2026/model/vehicle-cards-/rzr-xp-s-1000-ultimate-crew-my26-7b4d-sand-dune-z26nmy99a6.png?v=e000bc30"
+        },
+        {
+          "name": "Stealth Gray",
+          "image_url": "https://cdn1.polaris.com/globalassets/rzr/2026/model/vehicle-cards-/rzr-xp-s-1000-ultimate-crew-my26-7b4d-stealth-grey-z26nmy99a4.png?v=e000bc30"
+        }
+      ]
+    },
+    {
+      "slug": "rzr-rzr-pro-xp-sport-2026",
+      "name": "RZR Pro XP Sport",
+      "year": 2026,
+      "category": "side-by-side",
+      "subcategory": null,
+      "family": "rzr",
+      "msrp": 29999.0,
+      "msrp_text": "Starting at $29,999",
+      "source_url": "https://www.polaris.com/en-ca/off-road/rzr/models/rzr-pro-xp",
+      "hero_image_url": "https://cdn1.polaris.com/globalassets/rzr/2026/model/model-pages/rzr-pro-xp/01-overview-/01-hero/rzr-pro-xp-my26-9d1a-hero-sm.jpg?v=dad8c2b4",
+      "image_urls": [
+        "https://cdn1.polaris.com/globalassets/rzr/2026/model/vehicle-cards-/rzr-pro-xp-sport-my26-9d1a-sand-dune-z26xpe92a6.png?v=d7c12e76",
+        "https://cdn1.polaris.com/globalassets/rzr/2026/model/vehicle-cards-/rzr-pro-xp-sport-my26-9d1a-storm-gray-z26xpe92a4.png?v=d7c12e76",
+        "https://cdn1.polaris.com/globalassets/rzr/2026/model/vehicle-cards-/rzr-pro-xp-crew-sport-my26-9d1a-sand-dune-z26x4e92a6.png?v=d7c12e63",
+        "https://cdn1.polaris.com/globalassets/rzr/2026/model/vehicle-cards-/rzr-pro-xp-crew-sport-my26-9d1a-storm-gray-z26x4e92a4.png?v=d7c12e63",
+        "https://cdn1.polaris.com/globalassets/rzr/2026/model/vehicle-cards-/rzr-pro-xp-ultimate-my26-9d1a-hidden-warm-tone-grey-z26xpd92ah.png?v=d7c12e76"
+      ],
+      "colors": [
+        {
+          "name": "Sand Dune",
+          "image_url": "https://cdn1.polaris.com/globalassets/rzr/2026/model/vehicle-cards-/rzr-pro-xp-sport-my26-9d1a-sand-dune-z26xpe92a6.png?v=d7c12e76"
+        },
+        {
+          "name": "Storm Gray",
+          "image_url": "https://cdn1.polaris.com/globalassets/rzr/2026/model/vehicle-cards-/rzr-pro-xp-sport-my26-9d1a-storm-gray-z26xpe92a4.png?v=d7c12e76"
+        },
+        {
+          "name": "Sand Dune",
+          "image_url": "https://cdn1.polaris.com/globalassets/rzr/2026/model/vehicle-cards-/rzr-pro-xp-crew-sport-my26-9d1a-sand-dune-z26x4e92a6.png?v=d7c12e63"
+        },
+        {
+          "name": "Storm Gray",
+          "image_url": "https://cdn1.polaris.com/globalassets/rzr/2026/model/vehicle-cards-/rzr-pro-xp-crew-sport-my26-9d1a-storm-gray-z26x4e92a4.png?v=d7c12e63"
+        },
+        {
+          "name": "Slate Gray",
+          "image_url": "https://cdn1.polaris.com/globalassets/rzr/2026/model/vehicle-cards-/rzr-pro-xp-ultimate-my26-9d1a-hidden-warm-tone-grey-z26xpd92ah.png?v=d7c12e76"
+        },
+        {
+          "name": "Earth Blue",
+          "image_url": "https://cdn1.polaris.com/globalassets/rzr/2026/model/vehicle-cards-/rzr-pro-xp-ultimate-my26-9d1a-earth-blue-z26xpd92an.png?v=d7c12e76"
+        },
+        {
+          "name": "Slate Gray",
+          "image_url": "https://cdn1.polaris.com/globalassets/rzr/2026/model/vehicle-cards-/rzr-pro-xp-crew-ultimate-my26-9d1a-hidden-warm-tone-grey-z26x4d92ah.png?v=d7c12e6c"
+        },
+        {
+          "name": "Earth Blue",
+          "image_url": "https://cdn1.polaris.com/globalassets/rzr/2026/model/vehicle-cards-/rzr-pro-xp-crew-ultimate-my26-9d1a-earth-blue-z26x4d92an.png?v=d7c12e63"
+        }
+      ]
+    },
+    {
+      "slug": "rzr-rzr-pro-s-sport-2026",
+      "name": "RZR Pro S Sport",
+      "year": 2026,
+      "category": "side-by-side",
+      "subcategory": null,
+      "family": "rzr",
+      "msrp": 34599.0,
+      "msrp_text": "Starting at $34,599",
+      "source_url": "https://www.polaris.com/en-ca/off-road/rzr/models/rzr-pro-s",
+      "hero_image_url": "https://cdn1.polaris.com/globalassets/rzr/2026/model/model-pages/rzr-pro-s/01-overview/01-hero/rzr-pro-s-my26-9d1a-hero-sm.jpg?v=daa8b432",
+      "image_urls": [
+        "https://cdn1.polaris.com/globalassets/rzr/2026/model/vehicle-cards-/rzr-pro-s-sport-my26-9d1a-sand-dune-z26spe92a6.png?v=d7c12e50",
+        "https://cdn1.polaris.com/globalassets/rzr/2026/model/vehicle-cards-/rzr-pro-s-sport-my26-9d1a-storm-gray-z26spe92a4.png?v=d7c12e50",
+        "https://cdn1.polaris.com/globalassets/rzr/2026/model/vehicle-cards-/rzr-pro-s-crew-sport-my26-9d1a-sand-dune-z26s4e92a6.png?v=d7c12e46",
+        "https://cdn1.polaris.com/globalassets/rzr/2026/model/vehicle-cards-/rzr-pro-s-crew-sport-my26-9d1a-storm-gray-z26s4e92a4.png?v=d7c12e46",
+        "https://cdn1.polaris.com/globalassets/rzr/2026/model/vehicle-cards-/rzr-pro-s-ultimate-my26-9d1a-earth-blue-z26spd92an.png?v=d7c12e50"
+      ],
+      "colors": [
+        {
+          "name": "Sand Dune",
+          "image_url": "https://cdn1.polaris.com/globalassets/rzr/2026/model/vehicle-cards-/rzr-pro-s-sport-my26-9d1a-sand-dune-z26spe92a6.png?v=d7c12e50"
+        },
+        {
+          "name": "Storm Gray",
+          "image_url": "https://cdn1.polaris.com/globalassets/rzr/2026/model/vehicle-cards-/rzr-pro-s-sport-my26-9d1a-storm-gray-z26spe92a4.png?v=d7c12e50"
+        },
+        {
+          "name": "Sand Dune",
+          "image_url": "https://cdn1.polaris.com/globalassets/rzr/2026/model/vehicle-cards-/rzr-pro-s-crew-sport-my26-9d1a-sand-dune-z26s4e92a6.png?v=d7c12e46"
+        },
+        {
+          "name": "Storm Gray",
+          "image_url": "https://cdn1.polaris.com/globalassets/rzr/2026/model/vehicle-cards-/rzr-pro-s-crew-sport-my26-9d1a-storm-gray-z26s4e92a4.png?v=d7c12e46"
+        },
+        {
+          "name": "Earth Blue",
+          "image_url": "https://cdn1.polaris.com/globalassets/rzr/2026/model/vehicle-cards-/rzr-pro-s-ultimate-my26-9d1a-earth-blue-z26spd92an.png?v=d7c12e50"
+        },
+        {
+          "name": "Slate Gray",
+          "image_url": "https://cdn1.polaris.com/globalassets/rzr/2026/model/vehicle-cards-/rzr-pro-s-ultimate-my26-9d1a-hidden-warm-tone-grey-z26spd92ah.png?v=d7c12e59"
+        },
+        {
+          "name": "Earth Blue",
+          "image_url": "https://cdn1.polaris.com/globalassets/rzr/2026/model/vehicle-cards-/rzr-pro-s-crew-ultimate-my26-9d1a-earth-blue-z26s4d92an.png?v=d8ef6478"
+        },
+        {
+          "name": "Slate Gray",
+          "image_url": "https://cdn1.polaris.com/globalassets/rzr/2026/model/vehicle-cards-/rzr-pro-s-crew-ultimate-my26-9d1a-hidden-warm-tone-grey-z26s4d92ah.png?v=d8ef6478"
+        }
+      ]
+    },
+    {
+      "slug": "rzr-rzr-pro-r-ultimate-2026",
+      "name": "RZR Pro R Ultimate",
+      "year": 2026,
+      "category": "side-by-side",
+      "subcategory": null,
+      "family": "rzr",
+      "msrp": 54399.0,
+      "msrp_text": "Starting at $54,399",
+      "source_url": "https://www.polaris.com/en-ca/off-road/rzr/models/rzr-pro-r",
+      "hero_image_url": "https://cdn1.polaris.com/globalassets/rzr/2026/model/model-pages/rzr-pro-r/update/01-overview-/01-hero-video/rzr-pro-r-my26-7b4d-hero-sm.jpg?v=e00d3d4b",
+      "image_urls": [
+        "https://cdn1.polaris.com/globalassets/rzr/2026/model/vehicle-cards-/rzr-pro-r-ultimate-my26-7b4d-super-graphite-z26rpk2kaj.png?v=de0a1bc4",
+        "https://cdn1.polaris.com/globalassets/rzr/2026/model/vehicle-cards-/rzr-pro-r-ultimate-my26-7b4d-indy-red-z26rpk2kar.png?v=dff7df3a",
+        "https://cdn1.polaris.com/globalassets/rzr/2026/model/vehicle-cards-/rzr-pro-r-ultimate-my26-7b4d-crystal-white-z26rpk2kac.png?v=de0a1bbb",
+        "https://cdn1.polaris.com/globalassets/rzr/2026/model/vehicle-cards-/rzr-pro-r-ultimate-my26-7b4d-purple-thunder-z26rpk2kav.png?v=de0a1bc4",
+        "https://cdn1.polaris.com/globalassets/rzr/2026/model/vehicle-cards-/rzr-pro-r-crew-ultimate-my26-7b4d-super-graphite-z26r4k2kaj.png?v=de0a1bbb"
+      ],
+      "colors": [
+        {
+          "name": "Super Graphite",
+          "image_url": "https://cdn1.polaris.com/globalassets/rzr/2026/model/vehicle-cards-/rzr-pro-r-ultimate-my26-7b4d-super-graphite-z26rpk2kaj.png?v=de0a1bc4"
+        },
+        {
+          "name": "Indy Red",
+          "image_url": "https://cdn1.polaris.com/globalassets/rzr/2026/model/vehicle-cards-/rzr-pro-r-ultimate-my26-7b4d-indy-red-z26rpk2kar.png?v=dff7df3a"
+        },
+        {
+          "name": "Ghost White Metallic",
+          "image_url": "https://cdn1.polaris.com/globalassets/rzr/2026/model/vehicle-cards-/rzr-pro-r-ultimate-my26-7b4d-crystal-white-z26rpk2kac.png?v=de0a1bbb"
+        },
+        {
+          "name": "Purple Thunder",
+          "image_url": "https://cdn1.polaris.com/globalassets/rzr/2026/model/vehicle-cards-/rzr-pro-r-ultimate-my26-7b4d-purple-thunder-z26rpk2kav.png?v=de0a1bc4"
+        },
+        {
+          "name": "Super Graphite",
+          "image_url": "https://cdn1.polaris.com/globalassets/rzr/2026/model/vehicle-cards-/rzr-pro-r-crew-ultimate-my26-7b4d-super-graphite-z26r4k2kaj.png?v=de0a1bbb"
+        },
+        {
+          "name": "Indy Red",
+          "image_url": "https://cdn1.polaris.com/globalassets/rzr/2026/model/vehicle-cards-/rzr-pro-r-crew-ultimate-my26-7b4d-indy-red-z26r4k2kar.png?v=dff7df43"
+        },
+        {
+          "name": "Ghost White Metallic",
+          "image_url": "https://cdn1.polaris.com/globalassets/rzr/2026/model/vehicle-cards-/rzr-pro-r-crew-ultimate-my26-7b4d-crystal-white-z26r4k2kac.png?v=de0a1ba8"
+        },
+        {
+          "name": "Purple Thunder",
+          "image_url": "https://cdn1.polaris.com/globalassets/rzr/2026/model/vehicle-cards-/rzr-pro-r-crew-ultimate-my26-7b4d-purple-thunder-z26r4k2kav.png?v=de0a1bb1"
+        },
+        {
+          "name": "Velocity Blue",
+          "image_url": "https://cdn1.polaris.com/globalassets/rzr/2026/2026-rzr-pro-r-le/models/vehicle-cards/rzr-pro-r-le-my26-b01b-ultra-ed-velocity-blue-z26rpp2kal.png?v=e3d61bf1"
+        },
+        {
+          "name": "Velocity Blue",
+          "image_url": "https://cdn1.polaris.com/globalassets/rzr/2026/2026-rzr-pro-r-le/models/vehicle-cards/rzr-pro-r-le-4-my26-b01b-ultra-ed-velocity-blue-z26r4p2kal.png?v=e3d61bf1"
+        }
+      ]
+    }
+  ],
+  "snowmobile": [
+    {
+      "slug": "indy-indy-200-2027",
+      "name": "INDY 200",
+      "year": 2027,
+      "category": "snowmobile",
+      "subcategory": null,
+      "family": "indy",
+      "msrp": 7499.0,
+      "msrp_text": "Starting at $7,499",
+      "source_url": "https://www.polaris.com/en-ca/snowmobiles/indy/indy-200",
+      "hero_image_url": "https://cdn1.polaris.com/globalassets/snow/2027/model/model-pages/indy-200/01-hero-block/sno-my27-c7f1-indy-200-hero-sm.jpg?v=e5f1acf9",
+      "image_urls": [
+        "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/indy-200-my27-c7f1-indyred-s27yaa2vsl.png?v=e632a648"
+      ],
+      "colors": [
+        {
+          "name": "Indy Red",
+          "image_url": "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/indy-200-my27-c7f1-indyred-s27yaa2vsl.png?v=e632a648"
+        }
+      ]
+    },
+    {
+      "slug": "indy-prostar-s4-indy-sp-137-2027",
+      "name": "ProStar S4 INDY SP 137",
+      "year": 2027,
+      "category": "snowmobile",
+      "subcategory": null,
+      "family": "indy",
+      "msrp": 16499.0,
+      "msrp_text": "Starting at $16,499",
+      "source_url": "https://www.polaris.com/en-ca/snowmobiles/indy/indy-sp",
+      "hero_image_url": "https://cdn1.polaris.com/globalassets/snow/2027/model/model-pages/indy-sp/01-hero/sno-my27-c7f1-indy-sp-hero-sm.jpg?v=e58daabb",
+      "image_urls": [
+        "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/sno-prostar-s4-indy-sp-137-my27-c7f1-whitelightning-s27tdb9fsl.png?v=e2b6892a",
+        "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/sno-650-indy-sp-137-my27-c7f1-whitelightning-s27tdb6rsl.png?v=e2b6892a"
+      ],
+      "colors": [
+        {
+          "name": "ProStar S4",
+          "image_url": "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/sno-prostar-s4-indy-sp-137-my27-c7f1-whitelightning-s27tdb9fsl.png?v=e2b6892a"
+        },
+        {
+          "name": "650 Patriot",
+          "image_url": "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/sno-650-indy-sp-137-my27-c7f1-whitelightning-s27tdb6rsl.png?v=e2b6892a"
+        }
+      ]
+    },
+    {
+      "slug": "indy-prostar-s4-indy-xc-137-gloss-black-2027",
+      "name": "ProStar S4 INDY XC 137 Gloss Black",
+      "year": 2027,
+      "category": "snowmobile",
+      "subcategory": null,
+      "family": "indy",
+      "msrp": 16799.0,
+      "msrp_text": "Starting at $16,799",
+      "source_url": "https://www.polaris.com/en-ca/snowmobiles/indy/indy-xc",
+      "hero_image_url": "https://cdn1.polaris.com/globalassets/snow/2027/model/model-pages/indy-xc/01-hero-block/sno-my27-c7f1-indy-xc-hero-sm.jpg?v=e5e4c9ee",
+      "image_urls": [
+        "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/sno-prostar-s4-indy-xc-137-my27-c7f1-glossblack-s27tdp9fsl.png?v=e2b68946",
+        "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/sno-650-indy-xc-137-my27-c7f1-glossblack-s27tdp6rsl.png?v=e2b6893d",
+        "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/sno-850-indy-xc-137-my27-c7f1-glossblack-s27tdp8rsl.png?v=e2b6893d",
+        "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/sno-prostar-s4-indy-xc-137-my27-c7f1-indyred-s27tdp9fsm.png?v=e2b68946",
+        "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/sno-650-indy-xc-137-my27-c7f1-indyred-s27tdp6rsm.png?v=e2b6893d"
+      ],
+      "colors": [
+        {
+          "name": "ProStar S4",
+          "image_url": "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/sno-prostar-s4-indy-xc-137-my27-c7f1-glossblack-s27tdp9fsl.png?v=e2b68946"
+        },
+        {
+          "name": "650 Patriot",
+          "image_url": "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/sno-650-indy-xc-137-my27-c7f1-glossblack-s27tdp6rsl.png?v=e2b6893d"
+        },
+        {
+          "name": "850 Patriot",
+          "image_url": "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/sno-850-indy-xc-137-my27-c7f1-glossblack-s27tdp8rsl.png?v=e2b6893d"
+        },
+        {
+          "name": "ProStar S4",
+          "image_url": "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/sno-prostar-s4-indy-xc-137-my27-c7f1-indyred-s27tdp9fsm.png?v=e2b68946"
+        },
+        {
+          "name": "650 Patriot",
+          "image_url": "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/sno-650-indy-xc-137-my27-c7f1-indyred-s27tdp6rsm.png?v=e2b6893d"
+        },
+        {
+          "name": "850 Patriot",
+          "image_url": "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/sno-850-indy-xc-137-my27-c7f1-indyred-s27tdp8rsm.png?v=e2b6893d"
+        },
+        {
+          "name": "ProStar S4",
+          "image_url": "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/prostar-s4-indy-xc-137-my27-c7f1-glossblack-7s-s27tdp9fsr.png?v=e51c20dc"
+        },
+        {
+          "name": "650 Patriot",
+          "image_url": "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/650-indy-xc-137-my27-c7f1-glossblack-7s-s27tdp6rsr.png?v=e51c20d3"
+        },
+        {
+          "name": "850 Patriot",
+          "image_url": "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/850-indy-xc-137-my27-c7f1-glossblack-7s-s27tdp8rsr.png?v=e51c20d3"
+        },
+        {
+          "name": "ProStar S4",
+          "image_url": "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/prostar-s4-indy-xc-137-my27-c7f1-indyred-7s-s27tdp9fss.png?v=e51c20dc"
+        },
+        {
+          "name": "650 Patriot",
+          "image_url": "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/650-indy-xc-137-my27-c7f1-indyred-7s-s27tdp6rss.png?v=e51c20d3"
+        },
+        {
+          "name": "850 Patriot",
+          "image_url": "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/850-indy-xc-137-my27-c7f1-indyred-7s-s27tdp8rss.png?v=e51c20dc"
+        }
+      ]
+    },
+    {
+      "slug": "indy-prostar-s4-indy-adventure-137-135-2027",
+      "name": "ProStar S4 INDY Adventure 137 1.35",
+      "year": 2027,
+      "category": "snowmobile",
+      "subcategory": null,
+      "family": "indy",
+      "msrp": 20099.0,
+      "msrp_text": "Starting at $20,099",
+      "source_url": "https://www.polaris.com/en-ca/snowmobiles/indy/indy-adventure",
+      "hero_image_url": "https://cdn1.polaris.com/globalassets/snow/2027/model/model-pages/indy-adventure/01-hero--/sno-my27-c7f1-indy-adventure-hero-sm.jpg?v=e5418c25",
+      "image_urls": [
+        "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/sno-prostar-s4-indy-adventure-137-my27-c7f1-glossblack-s27tde9fsl.png?v=e2b68933",
+        "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/sno-650-indy-adventure-137-my27-c7f1-glossblack-s27tde6rsn.png?v=e2b68933",
+        "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/sno-prostar-s4-indy-adventure-137-my27-c7f1-indyred-s27tde9fsm.png?v=e2b68933",
+        "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/sno-650-indy-adventure-137-my27-c7f1-indyred-s27tde6rsp.png?v=e2b68933",
+        "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/sno-650-indy-adventure-137-my27-c7f1-glossblack-s27tde6rsl.png?v=e2b6892a"
+      ],
+      "colors": [
+        {
+          "name": "ProStar S4",
+          "image_url": "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/sno-prostar-s4-indy-adventure-137-my27-c7f1-glossblack-s27tde9fsl.png?v=e2b68933"
+        },
+        {
+          "name": "650 Patriot",
+          "image_url": "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/sno-650-indy-adventure-137-my27-c7f1-glossblack-s27tde6rsn.png?v=e2b68933"
+        },
+        {
+          "name": "ProStar S4",
+          "image_url": "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/sno-prostar-s4-indy-adventure-137-my27-c7f1-indyred-s27tde9fsm.png?v=e2b68933"
+        },
+        {
+          "name": "650 Patriot",
+          "image_url": "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/sno-650-indy-adventure-137-my27-c7f1-indyred-s27tde6rsp.png?v=e2b68933"
+        },
+        {
+          "name": "650 Patriot",
+          "image_url": "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/sno-650-indy-adventure-137-my27-c7f1-glossblack-s27tde6rsl.png?v=e2b6892a"
+        },
+        {
+          "name": "650 Patriot",
+          "image_url": "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/sno-650-indy-adventure-137-my27-c7f1-indyred-s27tde6rsm.png?v=e2b68933"
+        }
+      ]
+    },
+    {
+      "slug": "indy-650-indy-xcr-129-2027",
+      "name": "650 INDY XCR 129",
+      "year": 2027,
+      "category": "snowmobile",
+      "subcategory": null,
+      "family": "indy",
+      "msrp": 21999.0,
+      "msrp_text": "Starting at $21,999",
+      "source_url": "https://www.polaris.com/en-ca/snowmobiles/indy/indy-xcr",
+      "hero_image_url": "https://cdn1.polaris.com/globalassets/snow/2027/model/model-pages/indy-xcr/01-hero1/sno-my27-c7f1-indy-xcr-hero-sm.jpg?v=e5e4d2fc",
+      "image_urls": [
+        "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/sno-650-indy-xcr-129-my27-c7f1-650cc-s27tkl6rs.png?v=e2b68959",
+        "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/sno-patriot-indy-xcr-129-my27-c7f1-9r-s27tkl9bs.png?v=e2b68959",
+        "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/sno-650-indy-xcr-137-my27-c7f1-650cc-s27tdl6rs.png?v=e2b6893d",
+        "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/sno-patriot-indy-xcr-137-my27-c7f1-9r-s27tdl9bs.png?v=e2b6893d"
+      ],
+      "colors": [
+        {
+          "name": "650 Patriot",
+          "image_url": "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/sno-650-indy-xcr-129-my27-c7f1-650cc-s27tkl6rs.png?v=e2b68959"
+        },
+        {
+          "name": "Patriot 9R",
+          "image_url": "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/sno-patriot-indy-xcr-129-my27-c7f1-9r-s27tkl9bs.png?v=e2b68959"
+        },
+        {
+          "name": "650 Patriot",
+          "image_url": "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/sno-650-indy-xcr-137-my27-c7f1-650cc-s27tdl6rs.png?v=e2b6893d"
+        },
+        {
+          "name": "Patriot 9R",
+          "image_url": "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/sno-patriot-indy-xcr-137-my27-c7f1-9r-s27tdl9bs.png?v=e2b6893d"
+        }
+      ]
+    },
+    {
+      "slug": "indy-650-indy-vr1-137-dynamix-2027",
+      "name": "650 INDY VR1 137 DYNAMIX",
+      "year": 2027,
+      "category": "snowmobile",
+      "subcategory": null,
+      "family": "indy",
+      "msrp": 22899.0,
+      "msrp_text": "Starting at $22,899",
+      "source_url": "https://www.polaris.com/en-ca/snowmobiles/indy/indy-vr1",
+      "hero_image_url": "https://cdn1.polaris.com/globalassets/snow/2027/model/model-pages/indy-vr1/01-hero-/sno-my27-c7f1-indy-vr1-hero-sm.jpg?v=e5d9b66d",
+      "image_urls": [
+        "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/sno-650-indy-vr1-137-my27-c7f1-dynamix-s27tdz6rs.png?v=e2b68950",
+        "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/sno-850-indy-vr1-137-my27-c7f1-dynamix-s27tdz8rs.png?v=e2b68950",
+        "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/sno-patriot-9r-indy-vr1-137-my27-c7f1-dynamix-s27tdz9bs.png?v=e2b68950",
+        "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/sno-patriot-boost-indy-vr1-137-my27-c7f1-dynamix-s27tdz8ms.png?v=e2b68950",
+        "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/sno-650-indy-vr1-137-my27-c7f1-650cc-s27tdv6rs.png?v=e2b68946"
+      ],
+      "colors": [
+        {
+          "name": "650 Patriot",
+          "image_url": "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/sno-650-indy-vr1-137-my27-c7f1-dynamix-s27tdz6rs.png?v=e2b68950"
+        },
+        {
+          "name": "850 Patriot",
+          "image_url": "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/sno-850-indy-vr1-137-my27-c7f1-dynamix-s27tdz8rs.png?v=e2b68950"
+        },
+        {
+          "name": "Patriot 9R",
+          "image_url": "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/sno-patriot-9r-indy-vr1-137-my27-c7f1-dynamix-s27tdz9bs.png?v=e2b68950"
+        },
+        {
+          "name": "Patriot Boost",
+          "image_url": "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/sno-patriot-boost-indy-vr1-137-my27-c7f1-dynamix-s27tdz8ms.png?v=e2b68950"
+        },
+        {
+          "name": "650 Patriot",
+          "image_url": "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/sno-650-indy-vr1-137-my27-c7f1-650cc-s27tdv6rs.png?v=e2b68946"
+        },
+        {
+          "name": "850 Patriot",
+          "image_url": "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/sno-850-indy-vr1-137-my27-c7f1-850cc-s27tdv8rs.png?v=e2b68946"
+        },
+        {
+          "name": "Patriot 9R",
+          "image_url": "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/sno-patriot-indy-vr1-137-my27-c7f1-9r-s27tdv9bs.png?v=e2b68950"
+        },
+        {
+          "name": "Patriot Boost",
+          "image_url": "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/sno-patriot-indy-vr1-137-my27-c7f1-boost-s27tdv8ms.png?v=e2b68946"
+        }
+      ]
+    },
+    {
+      "slug": "rmk-650-rmk-sp-155-2027",
+      "name": "650 RMK SP 155",
+      "year": 2027,
+      "category": "snowmobile",
+      "subcategory": null,
+      "family": "rmk",
+      "msrp": 16199.0,
+      "msrp_text": "Starting at $16,199",
+      "source_url": "https://www.polaris.com/en-ca/snowmobiles/rmk/rmk-sp",
+      "hero_image_url": "https://cdn1.polaris.com/globalassets/snow/2027/model/model-pages/rmk-sp/01-hero/sno-my27-c7f1-rmk-sp-hero-sm.jpg?v=e5f39e0a",
+      "image_urls": [
+        "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/sno-650-rmk-sp-155-my27-c7f1-whitelightning-s27tfb6rsa.png?v=e2b68963",
+        "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/sno-850-rmk-sp-155-my27-c7f1-whitelightning-s27tfb8rsa.png?v=e2b6896d",
+        "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/sno-650-rmk-sp-155-my27-c7f1-whitelightning-s27tfb6rsl.png?v=e2b6896d",
+        "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/sno-850-rmk-sp-155-my27-c7f1-whitelightning-s27tfb8rsl.png?v=e2b6896d"
+      ],
+      "colors": [
+        {
+          "name": "650 Patriot",
+          "image_url": "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/sno-650-rmk-sp-155-my27-c7f1-whitelightning-s27tfb6rsa.png?v=e2b68963"
+        },
+        {
+          "name": "850 Patriot",
+          "image_url": "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/sno-850-rmk-sp-155-my27-c7f1-whitelightning-s27tfb8rsa.png?v=e2b6896d"
+        },
+        {
+          "name": "650 Patriot",
+          "image_url": "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/sno-650-rmk-sp-155-my27-c7f1-whitelightning-s27tfb6rsl.png?v=e2b6896d"
+        },
+        {
+          "name": "850 Patriot",
+          "image_url": "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/sno-850-rmk-sp-155-my27-c7f1-whitelightning-s27tfb8rsl.png?v=e2b6896d"
+        }
+      ]
+    },
+    {
+      "slug": "rmk-850-rmk-sps-146-gloss-black-2027",
+      "name": "850 RMK SPS 146 Gloss Black",
+      "year": 2027,
+      "category": "snowmobile",
+      "subcategory": null,
+      "family": "rmk",
+      "msrp": 18599.0,
+      "msrp_text": "Starting at $18,599",
+      "source_url": "https://www.polaris.com/en-ca/snowmobiles/rmk/rmk-sps",
+      "hero_image_url": "https://cdn1.polaris.com/globalassets/snow/2027/model/model-pages/rmk-sps/1-hero/sno-my27-c7f1-rmk-sps-hero-sm.jpg?v=e5cde105",
+      "image_urls": [
+        "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/sno-850-rmk-sps-146-my27-c7f1-glossblack-s27tla8rsa.png?v=e2b689af",
+        "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/sno-850-rmk-sps-146-my27-c7f1-indyred-s27tla8rsb.png?v=e2b689af",
+        "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/sno-850-rmk-sps-146-my27-c7f1-glossblack-s27tla8rsl.png?v=e2b689c2",
+        "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/sno-850-rmk-sps-146-my27-c7f1-indyred-s27tla8rsm.png?v=e2b689c2",
+        "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/sno-850-rmk-sps-155-my27-c7f1-glossblack-s27tfa8rsa.png?v=e2b68959"
+      ],
+      "colors": [
+        {
+          "name": "850 Patriot",
+          "image_url": "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/sno-850-rmk-sps-146-my27-c7f1-glossblack-s27tla8rsa.png?v=e2b689af"
+        },
+        {
+          "name": "850 Patriot",
+          "image_url": "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/sno-850-rmk-sps-146-my27-c7f1-indyred-s27tla8rsb.png?v=e2b689af"
+        },
+        {
+          "name": "850 Patriot",
+          "image_url": "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/sno-850-rmk-sps-146-my27-c7f1-glossblack-s27tla8rsl.png?v=e2b689c2"
+        },
+        {
+          "name": "850 Patriot",
+          "image_url": "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/sno-850-rmk-sps-146-my27-c7f1-indyred-s27tla8rsm.png?v=e2b689c2"
+        },
+        {
+          "name": "850 Patriot",
+          "image_url": "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/sno-850-rmk-sps-155-my27-c7f1-glossblack-s27tfa8rsa.png?v=e2b68959"
+        },
+        {
+          "name": "850 Patriot",
+          "image_url": "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/sno-850-rmk-sps-155-my27-c7f1-indyred-s27tfa8rsb.png?v=e2b68959"
+        },
+        {
+          "name": "Patriot 9R",
+          "image_url": "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/sno-patriot-9r-rmk-sps-155-my27-c7f1-glossblack-s27tfa9bsa.png?v=e2b68963"
+        },
+        {
+          "name": "Patriot 9R",
+          "image_url": "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/sno-patriot-9r-rmk-sps-155-my27-c7f1-indyred-s27tfa9bsb.png?v=e2b68963"
+        },
+        {
+          "name": "850 Patriot",
+          "image_url": "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/sno-850-rmk-sps-155-my27-c7f1-glossblack-s27tfa8rsl.png?v=e2b68959"
+        },
+        {
+          "name": "850 Patriot",
+          "image_url": "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/sno-850-rmk-sps-155-my27-c7f1-indyred-s27tfa8rsm.png?v=e2b68963"
+        },
+        {
+          "name": "Patriot 9R",
+          "image_url": "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/sno-patriot-9r-rmk-sps-155-my27-c7f1-glossblack-s27tfa9bsl.png?v=e2b68963"
+        },
+        {
+          "name": "Patriot 9R",
+          "image_url": "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/sno-patriot-9r-rmk-sps-155-my27-c7f1-indyred-s27tfa9bsm.png?v=e2b68963"
+        },
+        {
+          "name": "850 Patriot",
+          "image_url": "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/sno-850-rmk-sps-165-my27-c7f1-glossblack-s27tga8rsa.png?v=e2b68993"
+        },
+        {
+          "name": "850 Patriot",
+          "image_url": "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/sno-850-rmk-sps-165-my27-c7f1-indyred-s27tga8rsb.png?v=e2b68993"
+        },
+        {
+          "name": "Patriot 9R",
+          "image_url": "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/sno-patriot-9r-rmk-sps-165-my27-c7f1-glossblack-s27tga9bsa.png?v=e2b6899c"
+        },
+        {
+          "name": "Patriot 9R",
+          "image_url": "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/sno-patriot-9r-rmk-sps-165-my27-c7f1-indyred-s27tga9bsb.png?v=e2b6899c"
+        },
+        {
+          "name": "850 Patriot",
+          "image_url": "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/sno-850-rmk-sps-165-my27-c7f1-glossblack-s27tga8rsl.png?v=e2b68993"
+        },
+        {
+          "name": "850 Patriot",
+          "image_url": "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/sno-850-rmk-sps-165-my27-c7f1-indyred-s27tga8rsm.png?v=e2b68993"
+        },
+        {
+          "name": "Patriot 9R",
+          "image_url": "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/sno-patriot-9r-rmk-sps-165-my27-c7f1-glossblack-s27tga9bsl.png?v=e2b6899c"
+        },
+        {
+          "name": "Patriot 9R",
+          "image_url": "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/sno-patriot-9r-rmk-sps-165-my27-c7f1-indyred-s27tga9bsm.png?v=e2b689a6"
+        },
+        {
+          "name": "850 Patriot",
+          "image_url": "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/850-rmk-sps-146-my27-c7f1-glossblack-7s-s27tla8rse.png?v=e51c20c9"
+        },
+        {
+          "name": "850 Patriot",
+          "image_url": "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/850-rmk-sps-146-my27-c7f1-indyred-7s-s27tla8rsf.png?v=e51c20c9"
+        },
+        {
+          "name": "850 Patriot",
+          "image_url": "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/850-rmk-sps-146-my27-c7f1-glossblack-7s-s27tla8rsr.png?v=e51c20c9"
+        },
+        {
+          "name": "850 Patriot",
+          "image_url": "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/850-rmk-sps-146-my27-c7f1-indyred-7s-s27tla8rss.png?v=e51c20d3"
+        },
+        {
+          "name": "850 Patriot",
+          "image_url": "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/850-rmk-sps-155-my27-c7f1-glossblack-7s-s27tfa8rse.png?v=e51c2099"
+        },
+        {
+          "name": "850 Patriot",
+          "image_url": "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/850-rmk-sps-155-my27-c7f1-indyred-7s-s27tfa8rsf.png?v=e51c20a3"
+        },
+        {
+          "name": "Patriot 9R",
+          "image_url": "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/patriot-9r-rmk-sps-155-my27-c7f1-glossblack-7s-s27tfa9bse.png?v=e51c20ac"
+        },
+        {
+          "name": "Patriot 9R",
+          "image_url": "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/patriot-9r-rmk-sps-155-my27-c7f1-indyred-7s-s27tfa9bsf.png?v=e51c20ac"
+        },
+        {
+          "name": "850 Patriot",
+          "image_url": "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/850-rmk-sps-155-my27-c7f1-indyred-7s-s27tfa8rss.png?v=e51c20a3"
+        },
+        {
+          "name": "Patriot 9R",
+          "image_url": "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/patriot-9r-rmk-sps-155-my27-c7f1-glossblack-7s-s27tfa9bsr.png?v=e51c20ac"
+        },
+        {
+          "name": "Patriot 9R",
+          "image_url": "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/patriot-9r-rmk-sps-155-my27-c7f1-indyred-7s-s27tfa9bss.png?v=e51c20ac"
+        },
+        {
+          "name": "850 Patriot",
+          "image_url": "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/850-rmk-sps-165-my27-c7f1-glossblack-7s-s27tga8rse.png?v=e51c20b6"
+        },
+        {
+          "name": "850 Patriot",
+          "image_url": "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/850-rmk-sps-165-my27-c7f1-indyred-7s-s27tga8rsf.png?v=e51c20b6"
+        },
+        {
+          "name": "Patriot 9R",
+          "image_url": "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/patriot-9r-rmk-sps-165-my27-c7f1-glossblack-7s-s27tga9bse.png?v=e51c20bf"
+        },
+        {
+          "name": "Patriot 9R",
+          "image_url": "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/patriot-9r-rmk-sps-165-my27-c7f1-indyred-7s-s27tga9bsf.png?v=e51c20bf"
+        },
+        {
+          "name": "850 Patriot",
+          "image_url": "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/850-rmk-sps-165-my27-c7f1-glossblack-7s-s27tga8rsr.png?v=e51c20b6"
+        },
+        {
+          "name": "850 Patriot",
+          "image_url": "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/850-rmk-sps-165-my27-c7f1-indyred-7s-s27tga8rss.png?v=e51c20b6"
+        },
+        {
+          "name": "Patriot 9R",
+          "image_url": "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/patriot-9r-rmk-sps-165-my27-c7f1-glossblack-7s-s27tga9bsr.png?v=e51c20bf"
+        },
+        {
+          "name": "Patriot 9R",
+          "image_url": "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/patriot-9r-rmk-sps-165-my27-c7f1-indyred-7s-s27tga9bss.png?v=e51c20c9"
+        }
+      ]
+    },
+    {
+      "slug": "rmk-patriot-9r-pro-rmk-155-2027",
+      "name": "Patriot 9R PRO RMK 155",
+      "year": 2027,
+      "category": "snowmobile",
+      "subcategory": null,
+      "family": "rmk",
+      "msrp": 22399.0,
+      "msrp_text": "Starting at $22,399",
+      "source_url": "https://www.polaris.com/en-ca/snowmobiles/rmk/pro-rmk",
+      "hero_image_url": "https://cdn1.polaris.com/globalassets/snow/2027/model/model-pages/pro-rmk/01-hero/sno-my27-c7f1-pro-rmk-hero-sm.jpg?v=e63058f1",
+      "image_urls": [
+        "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/sno-patriot-rmk-pro-155-my27-c7f1-9r-s27tfm9bs.png?v=e2b68989",
+        "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/sno-patriot-rmk-pro-155-my27-c7f1-boost-s27tfm8ms.png?v=e2b68980",
+        "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/sno-patriot-rmk-pro-165-my27-c7f1-9r-s27tgm9bs.png?v=e2b689af",
+        "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/sno-patriot-rmk-pro-165-my27-c7f1-boost-s27tgm8ms.png?v=e2b689af"
+      ],
+      "colors": [
+        {
+          "name": "Patriot 9R",
+          "image_url": "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/sno-patriot-rmk-pro-155-my27-c7f1-9r-s27tfm9bs.png?v=e2b68989"
+        },
+        {
+          "name": "Patriot Boost",
+          "image_url": "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/sno-patriot-rmk-pro-155-my27-c7f1-boost-s27tfm8ms.png?v=e2b68980"
+        },
+        {
+          "name": "Patriot 9R",
+          "image_url": "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/sno-patriot-rmk-pro-165-my27-c7f1-9r-s27tgm9bs.png?v=e2b689af"
+        },
+        {
+          "name": "Patriot Boost",
+          "image_url": "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/sno-patriot-rmk-pro-165-my27-c7f1-boost-s27tgm8ms.png?v=e2b689af"
+        }
+      ]
+    },
+    {
+      "slug": "rmk-patriot-9r-rmk-khaos-146-2027",
+      "name": "Patriot 9R RMK Khaos 146",
+      "year": 2027,
+      "category": "snowmobile",
+      "subcategory": null,
+      "family": "rmk",
+      "msrp": 24299.0,
+      "msrp_text": "Starting at $24,299",
+      "source_url": "https://www.polaris.com/en-ca/snowmobiles/rmk/rmk-khaos",
+      "hero_image_url": "https://cdn1.polaris.com/globalassets/snow/2027/model/model-pages/rmk-khaos/01-hero-1/sno-my27-c7f1-rmk-khaos-hero-sm.jpg?v=e5cd0105",
+      "image_urls": [
+        "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/sno-patriot-rmk-khaos-146-my27-c7f1-9r-s27tlg9bs.png?v=e2b689c2",
+        "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/sno-patriot-rmk-khaos-155-my27-c7f1-9r-s27tfg9bs.png?v=e2b68976",
+        "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/sno-patriot-rmk-khaos-155-my27-c7f1-boost-s27tfg8ms.png?v=e2b6896d",
+        "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/sno-patriot-rmk-khaos-165-my27-c7f1-9r-s27tgg9bs.png?v=e2b689af",
+        "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/sno-patriot-rmk-khaos-165-my27-c7f1-boost-s27tgg8ms.png?v=e2b689a6"
+      ],
+      "colors": [
+        {
+          "name": "Patriot 9R",
+          "image_url": "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/sno-patriot-rmk-khaos-146-my27-c7f1-9r-s27tlg9bs.png?v=e2b689c2"
+        },
+        {
+          "name": "Patriot 9R",
+          "image_url": "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/sno-patriot-rmk-khaos-155-my27-c7f1-9r-s27tfg9bs.png?v=e2b68976"
+        },
+        {
+          "name": "Patriot Boost",
+          "image_url": "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/sno-patriot-rmk-khaos-155-my27-c7f1-boost-s27tfg8ms.png?v=e2b6896d"
+        },
+        {
+          "name": "Patriot 9R",
+          "image_url": "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/sno-patriot-rmk-khaos-165-my27-c7f1-9r-s27tgg9bs.png?v=e2b689af"
+        },
+        {
+          "name": "Patriot Boost",
+          "image_url": "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/sno-patriot-rmk-khaos-165-my27-c7f1-boost-s27tgg8ms.png?v=e2b689a6"
+        }
+      ]
+    },
+    {
+      "slug": "rmk-patriot-9r-pro-rmk-155-limited-edition-275-2026",
+      "name": "Patriot 9R PRO RMK 155 Limited Edition 275",
+      "year": 2026,
+      "category": "snowmobile",
+      "subcategory": null,
+      "family": "rmk",
+      "msrp": 26699.0,
+      "msrp_text": "Starting at $26,699",
+      "source_url": "https://www.polaris.com/en-ca/snowmobiles/2026/rmk/pro-rmk-limited-edition",
+      "hero_image_url": "https://cdn1.polaris.com/globalassets/snow/2026/model/model-pages/pro-rmk-le/01-overview/01-hero-/sno-my26-9f02-pro-rmk-le-hero-sm.jpg?v=d49de9b1",
+      "image_urls": [
+        "https://cdn1.polaris.com/globalassets/snow/2026/model/catalog-/wholegoods/badges-update/sno-my26-8t2q-patriot-9r-pro-rmk-155-limited-edition-275-s26tfm9bsb.png?v=e46df676",
+        "https://cdn1.polaris.com/globalassets/snow/2026/model/catalog-/wholegoods/badges-update/sno-my26-8t2q-patriot-boost-pro-rmk-155-limited-edition-275-s26tfm8msb.png?v=e46e2a78",
+        "https://cdn1.polaris.com/globalassets/snow/2026/model/catalog-/wholegoods/badges-update/sno-my26-8t2q-patriot-9r-pro-rmk-155-limited-edition-325-s26tfm9bsc.png?v=e46e0ea4",
+        "https://cdn1.polaris.com/globalassets/snow/2026/model/catalog-/wholegoods/badges-update/sno-my26-8t2q-patriot-boost-pro-rmk-155-limited-edition-325-s26tfm8msc.png?v=e46e36a6"
+      ],
+      "colors": [
+        {
+          "name": "Patriot 9R",
+          "image_url": "https://cdn1.polaris.com/globalassets/snow/2026/model/catalog-/wholegoods/badges-update/sno-my26-8t2q-patriot-9r-pro-rmk-155-limited-edition-275-s26tfm9bsb.png?v=e46df676"
+        },
+        {
+          "name": "Patriot Boost",
+          "image_url": "https://cdn1.polaris.com/globalassets/snow/2026/model/catalog-/wholegoods/badges-update/sno-my26-8t2q-patriot-boost-pro-rmk-155-limited-edition-275-s26tfm8msb.png?v=e46e2a78"
+        },
+        {
+          "name": "Patriot 9R",
+          "image_url": "https://cdn1.polaris.com/globalassets/snow/2026/model/catalog-/wholegoods/badges-update/sno-my26-8t2q-patriot-9r-pro-rmk-155-limited-edition-325-s26tfm9bsc.png?v=e46e0ea4"
+        },
+        {
+          "name": "Patriot Boost",
+          "image_url": "https://cdn1.polaris.com/globalassets/snow/2026/model/catalog-/wholegoods/badges-update/sno-my26-8t2q-patriot-boost-pro-rmk-155-limited-edition-325-s26tfm8msc.png?v=e46e36a6"
+        }
+      ]
+    },
+    {
+      "slug": "rmk-patriot-9r-rmk-khaos-155-limited-edition-275-2026",
+      "name": "Patriot 9R RMK Khaos 155 Limited Edition 275",
+      "year": 2026,
+      "category": "snowmobile",
+      "subcategory": null,
+      "family": "rmk",
+      "msrp": 26699.0,
+      "msrp_text": "Starting at $26,699",
+      "source_url": "https://www.polaris.com/en-ca/snowmobiles/2026/rmk/rmk-khaos-limited-edition",
+      "hero_image_url": "https://cdn1.polaris.com/globalassets/snow/2026/model/model-pages/rmk-khaos-le/01-overview/01--hero/sno-my26-9f02-rmk-khaos-le-hero-sm.jpg?v=d4c0ac97",
+      "image_urls": [
+        "https://cdn1.polaris.com/globalassets/snow/2026/model/catalog-/wholegoods/sno-my26-8t2q-patriot-9r-rmk-khaos-155-limited-edition-275-s26tfg9bsb.png?v=e46e5e19",
+        "https://cdn1.polaris.com/globalassets/snow/2026/model/catalog-/wholegoods/badges-update/sno-my26-8t2q-patriot-boost-rmk-khaos-155-limited-edition-275-s26tfg8msb.png?v=e46eb15c",
+        "https://cdn1.polaris.com/globalassets/snow/2026/model/catalog-/wholegoods/sno-my26-8t2q-patriot-9r-rmk-khaos-155-limited-edition-325-s26tfg9bsc.png?v=e46e881f",
+        "https://cdn1.polaris.com/globalassets/snow/2026/model/catalog-/wholegoods/badges-update/sno-my26-8t2q-patriot-boost-rmk-khaos-155-limited-edition-325-s26tfg8msc.png?v=e46f0d1d"
+      ],
+      "colors": [
+        {
+          "name": "Patriot 9R",
+          "image_url": "https://cdn1.polaris.com/globalassets/snow/2026/model/catalog-/wholegoods/sno-my26-8t2q-patriot-9r-rmk-khaos-155-limited-edition-275-s26tfg9bsb.png?v=e46e5e19"
+        },
+        {
+          "name": "Patriot Boost",
+          "image_url": "https://cdn1.polaris.com/globalassets/snow/2026/model/catalog-/wholegoods/badges-update/sno-my26-8t2q-patriot-boost-rmk-khaos-155-limited-edition-275-s26tfg8msb.png?v=e46eb15c"
+        },
+        {
+          "name": "Patriot 9R",
+          "image_url": "https://cdn1.polaris.com/globalassets/snow/2026/model/catalog-/wholegoods/sno-my26-8t2q-patriot-9r-rmk-khaos-155-limited-edition-325-s26tfg9bsc.png?v=e46e881f"
+        },
+        {
+          "name": "Patriot Boost",
+          "image_url": "https://cdn1.polaris.com/globalassets/snow/2026/model/catalog-/wholegoods/badges-update/sno-my26-8t2q-patriot-boost-rmk-khaos-155-limited-edition-325-s26tfg8msc.png?v=e46f0d1d"
+        }
+      ]
+    },
+    {
+      "slug": "rmk-patriot-boost-rmk-factory-edition-155-gloss-black-275-2027",
+      "name": "Patriot Boost RMK Factory Edition 155 Gloss Black 275",
+      "year": 2027,
+      "category": "snowmobile",
+      "subcategory": null,
+      "family": "rmk",
+      "msrp": 27999.0,
+      "msrp_text": "Starting at $27,999",
+      "source_url": "https://www.polaris.com/en-ca/snowmobiles/rmk/rmk-factory-edition",
+      "hero_image_url": "https://cdn1.polaris.com/globalassets/snow/2027/model/model-pages/rmk-factory-edition/001-hero/sno-my27-c7f1-rmk-factory-edition-hero-sm.jpg?v=e5a73d8e",
+      "image_urls": [
+        "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/sno-patriot-boost-rmk-factory-edition-155-my27-c7f1-glossblack-s27tfh8msa.png?v=e2b68976",
+        "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/sno-patriot-9r-rmk-factory-edition-155-my27-c7f1-glossblack-s27tfh9bsa.png?v=e2b68980",
+        "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/sno-patriot-boost-rmk-factory-edition-155-my27-c7f1-indyred-s27tfh8msb.png?v=e2b68976",
+        "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/sno-patriot-9r-rmk-factory-edition-155-my27-c7f1-indyred-s27tfh9bsb.png?v=e2b68980",
+        "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/sno-patriot-boost-rmk-factory-edition-155-my27-c7f1-glossblack-s27tfh8msc.png?v=e2b68976"
+      ],
+      "colors": [
+        {
+          "name": "Patriot Boost",
+          "image_url": "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/sno-patriot-boost-rmk-factory-edition-155-my27-c7f1-glossblack-s27tfh8msa.png?v=e2b68976"
+        },
+        {
+          "name": "Patriot 9R",
+          "image_url": "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/sno-patriot-9r-rmk-factory-edition-155-my27-c7f1-glossblack-s27tfh9bsa.png?v=e2b68980"
+        },
+        {
+          "name": "Patriot Boost",
+          "image_url": "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/sno-patriot-boost-rmk-factory-edition-155-my27-c7f1-indyred-s27tfh8msb.png?v=e2b68976"
+        },
+        {
+          "name": "Patriot 9R",
+          "image_url": "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/sno-patriot-9r-rmk-factory-edition-155-my27-c7f1-indyred-s27tfh9bsb.png?v=e2b68980"
+        },
+        {
+          "name": "Patriot Boost",
+          "image_url": "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/sno-patriot-boost-rmk-factory-edition-155-my27-c7f1-glossblack-s27tfh8msc.png?v=e2b68976"
+        },
+        {
+          "name": "Patriot 9R",
+          "image_url": "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/sno-patriot-9r-rmk-factory-edition-155-my27-c7f1-glossblack-s27tfh9bsc.png?v=e2b68980"
+        },
+        {
+          "name": "Patriot Boost",
+          "image_url": "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/sno-patriot-boost-rmk-factory-edition-155-my27-c7f1-indyred-s27tfh8msd.png?v=e2b68976"
+        },
+        {
+          "name": "Patriot 9R",
+          "image_url": "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/sno-patriot-9r-rmk-factory-edition-155-my27-c7f1-indyred-s27tfh9bsd.png?v=e2b68980"
+        }
+      ]
+    },
+    {
+      "slug": "switchback-650-switchback-sp-146-2027",
+      "name": "650 Switchback SP 146",
+      "year": 2027,
+      "category": "snowmobile",
+      "subcategory": null,
+      "family": "switchback",
+      "msrp": 17499.0,
+      "msrp_text": "Starting at $17,499",
+      "source_url": "https://www.polaris.com/en-ca/snowmobiles/switchback/switchback-sp",
+      "hero_image_url": "https://cdn1.polaris.com/globalassets/snow/2027/model/model-pages/switchback-sp/01-hero-1/sno-my27-c7f1-switchback-sp-hero-sm.jpg?v=e534e76d",
+      "image_urls": [
+        "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/sno-650-switchback-sp-146-my27-c7f1-whitelightning-s27tlb6rsl.png?v=e2b688f1"
+      ],
+      "colors": [
+        {
+          "name": "650 Patriot",
+          "image_url": "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/sno-650-switchback-sp-146-my27-c7f1-whitelightning-s27tlb6rsl.png?v=e2b688f1"
+        }
+      ]
+    },
+    {
+      "slug": "switchback-650-switchback-xc-146-gloss-black-135-2027",
+      "name": "650 Switchback XC 146 Gloss Black 1.35",
+      "year": 2027,
+      "category": "snowmobile",
+      "subcategory": null,
+      "family": "switchback",
+      "msrp": 18299.0,
+      "msrp_text": "Starting at $18,299",
+      "source_url": "https://www.polaris.com/en-ca/snowmobiles/switchback/switchback-xc",
+      "hero_image_url": "https://cdn1.polaris.com/globalassets/snow/2027/model/model-pages/switchback-xc/01-hero/sno-my27-c7f1-switchback-xc-hero-sm.jpg?v=e5d91490",
+      "image_urls": [
+        "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/sno-650-switchback-xc-146-my27-c7f1-glossblack-s27tlp6rsl.png?v=e2b688fa",
+        "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/sno-850-switchback-xc-146-my27-c7f1-glossblack-s27tlp8rsl.png?v=e2b68904",
+        "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/sno-650-switchback-xc-146-my27-c7f1-indyred-s27tlp6rsm.png?v=e2b688fa",
+        "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/sno-850-switchback-xc-146-my27-c7f1-indyred-s27tlp8rsm.png?v=e2b68904",
+        "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/sno-650-switchback-xc-146-my27-c7f1-glossblack-s27tlp6rsn.png?v=e2b688fa"
+      ],
+      "colors": [
+        {
+          "name": "650 Patriot",
+          "image_url": "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/sno-650-switchback-xc-146-my27-c7f1-glossblack-s27tlp6rsl.png?v=e2b688fa"
+        },
+        {
+          "name": "850 Patriot",
+          "image_url": "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/sno-850-switchback-xc-146-my27-c7f1-glossblack-s27tlp8rsl.png?v=e2b68904"
+        },
+        {
+          "name": "650 Patriot",
+          "image_url": "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/sno-650-switchback-xc-146-my27-c7f1-indyred-s27tlp6rsm.png?v=e2b688fa"
+        },
+        {
+          "name": "850 Patriot",
+          "image_url": "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/sno-850-switchback-xc-146-my27-c7f1-indyred-s27tlp8rsm.png?v=e2b68904"
+        },
+        {
+          "name": "650 Patriot",
+          "image_url": "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/sno-650-switchback-xc-146-my27-c7f1-glossblack-s27tlp6rsn.png?v=e2b688fa"
+        },
+        {
+          "name": "850 Patriot",
+          "image_url": "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/sno-850-switchback-xc-146-my27-c7f1-glossblack-s27tlp8rsn.png?v=e2b68904"
+        },
+        {
+          "name": "650 Patriot",
+          "image_url": "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/sno-650-switchback-xc-146-my27-c7f1-indyred-s27tlp6rsp.png?v=e2b688fa"
+        },
+        {
+          "name": "850 Patriot",
+          "image_url": "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/sno-850-switchback-xc-146-my27-c7f1-indyred-s27tlp8rsp.png?v=e2b68904"
+        },
+        {
+          "name": "650 Patriot",
+          "image_url": "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/650-switchback-xc-146-my27-c7f1-glossblack-7s-s27tlp6rsr.png?v=e51c20dc"
+        },
+        {
+          "name": "850 Patriot",
+          "image_url": "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/850-switchback-xc-146-my27-c7f1-glossblack-7s-s27tlp8rsr.png?v=e51c20ef"
+        },
+        {
+          "name": "650 Patriot",
+          "image_url": "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/650-switchback-xc-146-my27-c7f1-indyred-7s-s27tlp6rss.png?v=e51c20e6"
+        },
+        {
+          "name": "850 Patriot",
+          "image_url": "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/850-switchback-xc-146-my27-c7f1-indyred-7s-s27tlp8rss.png?v=e51c20ef"
+        },
+        {
+          "name": "650 Patriot",
+          "image_url": "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/650-switchback-xc-146-my27-c7f1-glossblack-7s-s27tlp6rst.png?v=e51c20e6"
+        },
+        {
+          "name": "850 Patriot",
+          "image_url": "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/850-switchback-xc-146-my27-c7f1-glossblack-7s-s27tlp8rst.png?v=e51c20f9"
+        },
+        {
+          "name": "650 Patriot",
+          "image_url": "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/650-switchback-xc-146-my27-c7f1-indyred-7s-s27tlp6rsv.png?v=e51c20ef"
+        },
+        {
+          "name": "850 Patriot",
+          "image_url": "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/850-switchback-xc-146-my27-c7f1-indyred-7s-s27tlp8rsv.png?v=e51c2099"
+        }
+      ]
+    },
+    {
+      "slug": "switchback-850-switchback-assault-146-race-ifs-2027",
+      "name": "850 Switchback Assault 146 Race IFS",
+      "year": 2027,
+      "category": "snowmobile",
+      "subcategory": null,
+      "family": "switchback",
+      "msrp": 21999.0,
+      "msrp_text": "Starting at $21,999",
+      "source_url": "https://www.polaris.com/en-ca/snowmobiles/switchback/switchback-assault",
+      "hero_image_url": "https://cdn1.polaris.com/globalassets/snow/2027/model/model-pages/switchback-assault/01-overview/01-hero/sno-my27-c7f1-switchback-assault-hero-sm.jpg?v=e6320e08",
+      "image_urls": [
+        "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/sno-850-switchback-assault-146-my27-c7f1-race-ifs-s27tlc8rs.png?v=e2b688f1",
+        "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/sno-patriot-9r-switchback-assault-146-my27-c7f1-race-ifs-s27tlc9bs.png?v=e2b688f1",
+        "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/sno-patriot-boost-switchback-assault-146-my27-c7f1-race-ifs-s27tlc8ms.png?v=e2b688f1",
+        "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/sno-850-switchback-assault-146-my27-c7f1-escape-ifs-s27tlr8rs.png?v=e2b6890d",
+        "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/sno-patriot-9r-switchback-assault-146-my27-c7f1-escape-ifs-s27tlr9bs.png?v=e2b6890d"
+      ],
+      "colors": [
+        {
+          "name": "850 Patriot",
+          "image_url": "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/sno-850-switchback-assault-146-my27-c7f1-race-ifs-s27tlc8rs.png?v=e2b688f1"
+        },
+        {
+          "name": "Patriot 9R",
+          "image_url": "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/sno-patriot-9r-switchback-assault-146-my27-c7f1-race-ifs-s27tlc9bs.png?v=e2b688f1"
+        },
+        {
+          "name": "Patriot Boost",
+          "image_url": "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/sno-patriot-boost-switchback-assault-146-my27-c7f1-race-ifs-s27tlc8ms.png?v=e2b688f1"
+        },
+        {
+          "name": "850 Patriot",
+          "image_url": "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/sno-850-switchback-assault-146-my27-c7f1-escape-ifs-s27tlr8rs.png?v=e2b6890d"
+        },
+        {
+          "name": "Patriot 9R",
+          "image_url": "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/sno-patriot-9r-switchback-assault-146-my27-c7f1-escape-ifs-s27tlr9bs.png?v=e2b6890d"
+        },
+        {
+          "name": "Patriot Boost",
+          "image_url": "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/sno-patriot-boost-switchback-assault-146-my27-c7f1-escape-ifs-s27tlr8ms.png?v=e2b68904"
+        }
+      ]
+    },
+    {
+      "slug": "titan-650-titan-sp-155-2027",
+      "name": "650 TITAN SP 155",
+      "year": 2027,
+      "category": "snowmobile",
+      "subcategory": null,
+      "family": "titan",
+      "msrp": 18499.0,
+      "msrp_text": "Starting at $18,499",
+      "source_url": "https://www.polaris.com/en-ca/snowmobiles/titan/titan-sp",
+      "hero_image_url": "https://cdn1.polaris.com/globalassets/snow/2027/model/model-pages/titan-sp-155/01-hero/sno-my27-c7f1-titan-sp-hero-sm.jpg?v=e535565e",
+      "image_urls": [
+        "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/sno-650-titan-sp-155-my27-c7f1-whitelightning-s27ajb6rsl.png?v=e2b689c2"
+      ],
+      "colors": [
+        {
+          "name": "650 Patriot",
+          "image_url": "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/sno-650-titan-sp-155-my27-c7f1-whitelightning-s27ajb6rsl.png?v=e2b689c2"
+        }
+      ]
+    },
+    {
+      "slug": "titan-prostar-s4-titan-adventure-155-2027",
+      "name": "ProStar S4 TITAN Adventure 155",
+      "year": 2027,
+      "category": "snowmobile",
+      "subcategory": null,
+      "family": "titan",
+      "msrp": 18999.0,
+      "msrp_text": "Starting at $18,999",
+      "source_url": "https://www.polaris.com/en-ca/snowmobiles/titan/titan-adventure",
+      "hero_image_url": "https://cdn1.polaris.com/globalassets/snow/2027/model/model-pages/titan-adventure/01-hero-a/sno-my27-c7f1-titan-adventure-155-hero-sm.jpg?v=e5d98a8b",
+      "image_urls": [
+        "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/sno-prostar-s4-titan-adventure-155-my27-c7f3-glossblack-s27aje9fsl.png?v=e2b689d5",
+        "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/sno-650-titan-adventure-155-my27-c7f2-glossblack-s27aje6rsl.png?v=e2b689c2"
+      ],
+      "colors": [
+        {
+          "name": "ProStar S4",
+          "image_url": "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/sno-prostar-s4-titan-adventure-155-my27-c7f3-glossblack-s27aje9fsl.png?v=e2b689d5"
+        },
+        {
+          "name": "650 Patriot",
+          "image_url": "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/sno-650-titan-adventure-155-my27-c7f2-glossblack-s27aje6rsl.png?v=e2b689c2"
+        }
+      ]
+    },
+    {
+      "slug": "titan-prostar-s4-titan-nordic-pro-155-gloss-black-2027",
+      "name": "ProStar S4 TITAN Nordic Pro 155 Gloss Black",
+      "year": 2027,
+      "category": "snowmobile",
+      "subcategory": null,
+      "family": "titan",
+      "msrp": 22399.0,
+      "msrp_text": "Starting at $22,399",
+      "source_url": "https://www.polaris.com/en-ca/snowmobiles/titan/titan-nordic-pro",
+      "hero_image_url": "https://cdn1.polaris.com/globalassets/snow/2027/model/model-pages/titan-nordic-pro/01-hero-1/sno-my27-c7f1-titan-nordic-pro-hero-sm.jpg?v=e5e70125",
+      "image_urls": [
+        "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/sno-prostar-s4-titan-nordic-pro-155-my27-c7f1-glossblack-s27ajt9fsl.png?v=e2b688e7",
+        "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/sno-850-titan-nordic-pro-155-my27-c7f1-glossblack-s27ajt8rsl.png?v=e2b689f2",
+        "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/sno-prostar-s4-titan-nordic-pro-155-my27-c7f1-velocityblue-s27ajt9fsm.png?v=e2b688f1",
+        "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/sno-850-titan-nordic-pro-155-my27-c7f1-velocityblue-s27ajt8rsm.png?v=e2b689f2"
+      ],
+      "colors": [
+        {
+          "name": "ProStar S4",
+          "image_url": "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/sno-prostar-s4-titan-nordic-pro-155-my27-c7f1-glossblack-s27ajt9fsl.png?v=e2b688e7"
+        },
+        {
+          "name": "850 Patriot",
+          "image_url": "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/sno-850-titan-nordic-pro-155-my27-c7f1-glossblack-s27ajt8rsl.png?v=e2b689f2"
+        },
+        {
+          "name": "ProStar S4",
+          "image_url": "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/sno-prostar-s4-titan-nordic-pro-155-my27-c7f1-velocityblue-s27ajt9fsm.png?v=e2b688f1"
+        },
+        {
+          "name": "850 Patriot",
+          "image_url": "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/sno-850-titan-nordic-pro-155-my27-c7f1-velocityblue-s27ajt8rsm.png?v=e2b689f2"
+        }
+      ]
+    },
+    {
+      "slug": "titan-850-titan-adventure-ultimate-155-15-2027",
+      "name": "850 TITAN Adventure Ultimate 155 1.5\"",
+      "year": 2027,
+      "category": "snowmobile",
+      "subcategory": null,
+      "family": "titan",
+      "msrp": 23499.0,
+      "msrp_text": "Starting at $23,499",
+      "source_url": "https://www.polaris.com/en-ca/snowmobiles/titan/titan-adventure-ultimate",
+      "hero_image_url": "https://cdn1.polaris.com/globalassets/snow/2027/model/model-pages/titan-adventure-ultimate-155/01-overview/01-hero/sno-my27-c7f1-titan-adventure-hero-sm.jpg?v=e5fdf266",
+      "image_urls": [
+        "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/sno-850-titan-adventure-ultimate-155-my27-c7f1-glossblack-s27ajn8rsl.png?v=e2b689d5",
+        "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/sno-prostar-s4-titan-adventure-ultimate-155-my27-c7f1-glossblack-s27ajn9fsl.png?v=e2b689df",
+        "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/sno-850-titan-adventure-ultimate-155-my27-c7f1-velocityblue-s27ajn8rsm.png?v=e2b689d5",
+        "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/sno-prostar-s4-titan-adventure-ultimate-155-my27-c7f1-velocityblue-s27ajn9fsm.png?v=e2b689e8",
+        "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/sno-850-titan-adventure-ultimate-155-my27-c7f1-glossblack-s27ajn8rsn.png?v=e3664cb6"
+      ],
+      "colors": [
+        {
+          "name": "850 Patriot",
+          "image_url": "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/sno-850-titan-adventure-ultimate-155-my27-c7f1-glossblack-s27ajn8rsl.png?v=e2b689d5"
+        },
+        {
+          "name": "ProStar S4",
+          "image_url": "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/sno-prostar-s4-titan-adventure-ultimate-155-my27-c7f1-glossblack-s27ajn9fsl.png?v=e2b689df"
+        },
+        {
+          "name": "850 Patriot",
+          "image_url": "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/sno-850-titan-adventure-ultimate-155-my27-c7f1-velocityblue-s27ajn8rsm.png?v=e2b689d5"
+        },
+        {
+          "name": "ProStar S4",
+          "image_url": "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/sno-prostar-s4-titan-adventure-ultimate-155-my27-c7f1-velocityblue-s27ajn9fsm.png?v=e2b689e8"
+        },
+        {
+          "name": "850 Patriot",
+          "image_url": "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/sno-850-titan-adventure-ultimate-155-my27-c7f1-glossblack-s27ajn8rsn.png?v=e3664cb6"
+        },
+        {
+          "name": "ProStar S4",
+          "image_url": "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/sno-prostar-s4-titan-adventure-ultimate-155-my27-c7f1-glossblack-s27ajn9fsn.png?v=e2b689e8"
+        },
+        {
+          "name": "850 Patriot",
+          "image_url": "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/sno-850-titan-adventure-ultimate-155-my27-c7f1-velocityblue-s27ajn8rsp.png?v=e2b689d5"
+        },
+        {
+          "name": "ProStar S4",
+          "image_url": "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/sno-prostar-s4-titan-adventure-ultimate-155-my27-c7f1-velocityblue-s27ajn9fsp.png?v=e2b689e8"
+        }
+      ]
+    },
+    {
+      "slug": "voyageur-650-voyageur-sp-146-2027",
+      "name": "650 Voyageur SP 146",
+      "year": 2027,
+      "category": "snowmobile",
+      "subcategory": null,
+      "family": "voyageur",
+      "msrp": 16999.0,
+      "msrp_text": "Starting at $16,999",
+      "source_url": "https://www.polaris.com/en-ca/snowmobiles/voyageur/voyageur-sp-146",
+      "hero_image_url": "https://cdn1.polaris.com/globalassets/snow/2027/model/model-pages/voyageur-sp-146/01-hero/sno-my27-c7f1-voyageur-sp-146-hero-sm.jpg?v=e62fd01d",
+      "image_urls": [
+        "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/sno-650-voyageur-sp-146-my27-c7f1-whitelightning-s27tlf6rsl.png?v=e2b6892a"
+      ],
+      "colors": [
+        {
+          "name": "650 Patriot",
+          "image_url": "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/sno-650-voyageur-sp-146-my27-c7f1-whitelightning-s27tlf6rsl.png?v=e2b6892a"
+        }
+      ]
+    },
+    {
+      "slug": "voyageur-650-voyageur-sp-155-2027",
+      "name": "650 Voyageur SP 155",
+      "year": 2027,
+      "category": "snowmobile",
+      "subcategory": null,
+      "family": "voyageur",
+      "msrp": 17999.0,
+      "msrp_text": "Starting at $17,999",
+      "source_url": "https://www.polaris.com/en-ca/snowmobiles/voyageur/voyageur-sp-155",
+      "hero_image_url": "https://cdn1.polaris.com/globalassets/snow/2027/model/model-pages/voyageur-sp-155/01-hero/sno-my27-c7f1-voyageur-sp-155-hero-sm.jpg?v=e541fb88",
+      "image_urls": [
+        "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/sno-650-voyageur-sp-155-my27-c7f1-whitelightning-s27tff6rsl.png?v=e2b6890d",
+        "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/sno-prostar-s4-voyageur-sp-155-my27-c7f1-whitelightning-s27tff9fsl.png?v=e2b6890d"
+      ],
+      "colors": [
+        {
+          "name": "650 Patriot",
+          "image_url": "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/sno-650-voyageur-sp-155-my27-c7f1-whitelightning-s27tff6rsl.png?v=e2b6890d"
+        },
+        {
+          "name": "ProStar S4",
+          "image_url": "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/sno-prostar-s4-voyageur-sp-155-my27-c7f1-whitelightning-s27tff9fsl.png?v=e2b6890d"
+        }
+      ]
+    },
+    {
+      "slug": "voyageur-prostar-s4-voyageur-adventure-155-2027",
+      "name": "ProStar S4 Voyageur Adventure 155",
+      "year": 2027,
+      "category": "snowmobile",
+      "subcategory": null,
+      "family": "voyageur",
+      "msrp": 18999.0,
+      "msrp_text": "Starting at $18,999",
+      "source_url": "https://www.polaris.com/en-ca/snowmobiles/voyageur/voyageur-adventure",
+      "hero_image_url": "https://cdn1.polaris.com/globalassets/snow/2027/model/model-pages/voyageur-adventure/01-overview/01-hero/sno-my27-c7f1-voyageur-adventure-hero-sm.jpg?v=e5e70acb",
+      "image_urls": [
+        "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/sno-prostar-s4-voyageur-adventure-155-my27-c7f1-glossblack-s27tfe9fsl.png?v=e2b6890d",
+        "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/sno-650-voyageur-adventure-155-my27-c7f1-glossblack-s27tfe6rsl.png?v=e2b6890d"
+      ],
+      "colors": [
+        {
+          "name": "ProStar S4",
+          "image_url": "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/sno-prostar-s4-voyageur-adventure-155-my27-c7f1-glossblack-s27tfe9fsl.png?v=e2b6890d"
+        },
+        {
+          "name": "650 Patriot",
+          "image_url": "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/sno-650-voyageur-adventure-155-my27-c7f1-glossblack-s27tfe6rsl.png?v=e2b6890d"
+        }
+      ]
+    },
+    {
+      "slug": "voyageur-650-voyageur-xc-155-2026",
+      "name": "650 Voyageur XC 155",
+      "year": 2026,
+      "category": "snowmobile",
+      "subcategory": null,
+      "family": "voyageur",
+      "msrp": 19707.0,
+      "msrp_text": "Starting at $19,707",
+      "source_url": "https://www.polaris.com/en-ca/snowmobiles/2026/voyageur/voyageur-xc-155",
+      "hero_image_url": "https://cdn1.polaris.com/globalassets/snow/2026/model/model-pages/voyageur-xc-155/01-hero/sno-my26-9f02-voyageur-xc-155-hero-sm.jpg?v=d4b420e8",
+      "image_urls": [
+        "https://cdn1.polaris.com/globalassets/snow/2026/model/catalog-/wholegoods/sno-my26-8t2q-650-voyageur-xc-155-s26tfp6rsl.png?v=d396fde4"
+      ],
+      "colors": [
+        {
+          "name": "650 Patriot",
+          "image_url": "https://cdn1.polaris.com/globalassets/snow/2026/model/catalog-/wholegoods/sno-my26-8t2q-650-voyageur-xc-155-s26tfp6rsl.png?v=d396fde4"
+        }
+      ]
+    },
+    {
+      "slug": "voyageur-prostar-s4-voyageur-adventure-ultimate-155-gloss-black-16-2027",
+      "name": "ProStar S4 Voyageur Adventure Ultimate 155 Gloss Black 1.6",
+      "year": 2027,
+      "category": "snowmobile",
+      "subcategory": null,
+      "family": "voyageur",
+      "msrp": 20999.0,
+      "msrp_text": "Starting at $20,999",
+      "source_url": "https://www.polaris.com/en-ca/snowmobiles/voyageur/voyageur-adventure-ultimate",
+      "hero_image_url": "https://cdn1.polaris.com/globalassets/snow/2027/model/model-pages/voyageur-adventure-ultimate-155/01-hero_/sno-my27-c7f1-voyageur-adventure-ultimate-hero-sm.jpg?v=e601125e",
+      "image_urls": [
+        "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/sno-prostar-s4-voyageur-adventure-ultimate-155-my27-c7f1-glossblack-s27tfn9fsl.png?v=e2b68917",
+        "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/sno-650-voyageur-adventure-ultimate-155-my27-c7f1-glossblack-s27tfn6rsl.png?v=e2b68920",
+        "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/sno-prostar-s4-voyageur-adventure-ultimate-155-my27-c7f1-velocityblue-s27tfn9fsm.png?v=e2b68917",
+        "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/sno-650-voyageur-adventure-ultimate-155-my27-c7f1-velocityblue-s27tfn6rsm.png?v=e2b68920",
+        "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/sno-prostar-s4-voyageur-adventure-ultimate-155-my27-c7f1-glossblack-s27tfn9fsn.png?v=e2b68917"
+      ],
+      "colors": [
+        {
+          "name": "ProStar S4",
+          "image_url": "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/sno-prostar-s4-voyageur-adventure-ultimate-155-my27-c7f1-glossblack-s27tfn9fsl.png?v=e2b68917"
+        },
+        {
+          "name": "650 Patriot",
+          "image_url": "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/sno-650-voyageur-adventure-ultimate-155-my27-c7f1-glossblack-s27tfn6rsl.png?v=e2b68920"
+        },
+        {
+          "name": "ProStar S4",
+          "image_url": "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/sno-prostar-s4-voyageur-adventure-ultimate-155-my27-c7f1-velocityblue-s27tfn9fsm.png?v=e2b68917"
+        },
+        {
+          "name": "650 Patriot",
+          "image_url": "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/sno-650-voyageur-adventure-ultimate-155-my27-c7f1-velocityblue-s27tfn6rsm.png?v=e2b68920"
+        },
+        {
+          "name": "ProStar S4",
+          "image_url": "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/sno-prostar-s4-voyageur-adventure-ultimate-155-my27-c7f1-glossblack-s27tfn9fsn.png?v=e2b68917"
+        },
+        {
+          "name": "650 Patriot",
+          "image_url": "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/sno-650-voyageur-adventure-ultimate-155-my27-c7f1-glossblack-s27tfn6rsn.png?v=e2b68920"
+        },
+        {
+          "name": "ProStar S4",
+          "image_url": "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/sno-prostar-s4-voyageur-adventure-ultimate-155-my27-c7f1-velocityblue-s27tfn9fsp.png?v=e2b68917"
+        },
+        {
+          "name": "650 Patriot",
+          "image_url": "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/sno-650-voyageur-adventure-ultimate-155-my27-c7f1-velocityblue-s27tfn6rsp.png?v=e2b68917"
+        }
+      ]
+    },
+    {
+      "slug": "voyageur-650-voyageur-nordic-pro-155-gloss-black-2027",
+      "name": "650 Voyageur Nordic Pro 155 Gloss Black",
+      "year": 2027,
+      "category": "snowmobile",
+      "subcategory": null,
+      "family": "voyageur",
+      "msrp": 21899.0,
+      "msrp_text": "Starting at $21,899",
+      "source_url": "https://www.polaris.com/en-ca/snowmobiles/voyageur/voyageur-nordic-pro",
+      "hero_image_url": "https://cdn1.polaris.com/globalassets/snow/2027/model/model-pages/voyageur-nordic-pro/01-hero-a/sno-my27-c7f1-voyageur-nordic-pro-hero-sm.jpg?v=e5e70138",
+      "image_urls": [
+        "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/sno-650-voyageur-nordic-pro-155-my27-c7f1-glossblack-s27tft6rsl.png?v=e2b68920",
+        "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/sno-prostar-s4-voyageur-nordic-pro-155-my27-c7f1-glossblack-s27tft9fsl.png?v=e2b6892a",
+        "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/sno-650-voyageur-nordic-pro-155-my27-c7f1-velocityblue-s27tft6rsm.png?v=e2b68920",
+        "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/sno-prostar-s4-voyageur-nordic-pro-155-my27-c7f1-velocityblue-s27tft9fsm.png?v=e2b6892a"
+      ],
+      "colors": [
+        {
+          "name": "650 Patriot",
+          "image_url": "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/sno-650-voyageur-nordic-pro-155-my27-c7f1-glossblack-s27tft6rsl.png?v=e2b68920"
+        },
+        {
+          "name": "ProStar S4",
+          "image_url": "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/sno-prostar-s4-voyageur-nordic-pro-155-my27-c7f1-glossblack-s27tft9fsl.png?v=e2b6892a"
+        },
+        {
+          "name": "650 Patriot",
+          "image_url": "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/sno-650-voyageur-nordic-pro-155-my27-c7f1-velocityblue-s27tft6rsm.png?v=e2b68920"
+        },
+        {
+          "name": "ProStar S4",
+          "image_url": "https://cdn1.polaris.com/globalassets/snow/2027/model/catalog/vehicle-cards-/sno-prostar-s4-voyageur-nordic-pro-155-my27-c7f1-velocityblue-s27tft9fsm.png?v=e2b6892a"
+        }
+      ]
+    }
+  ],
+  "atv": [
+    {
+      "slug": "sportsman-outlaw-70-efi-2025",
+      "name": "Outlaw 70 EFI",
+      "year": 2025,
+      "category": "atv",
+      "subcategory": null,
+      "family": "sportsman",
+      "msrp": 3599.0,
+      "msrp_text": "Starting at $3,599",
+      "source_url": "https://www.polaris.com/en-ca/off-road/sportsman/models/outlaw-70",
+      "hero_image_url": "https://cdn1.polaris.com/globalassets/atv/2024/model/model-pages/outlaw-70/01-overview/01-hero/outlaw-70-my24-b6c9-hero-sm.jpg?v=b83c024f",
+      "image_urls": [
+        "https://cdn1.polaris.com/globalassets/atv/2025/model/vehicle-cards/outlaw-70-efi-my25-4b61-velocity-blue-lifted-lime-a25hba07b5.png?v=c9ae75db",
+        "https://cdn1.polaris.com/globalassets/atv/2025/model/vehicle-cards/outlaw-70-efi-my25-4b61-velocity-blue-fierce-fuchsia-a25hba07b5.png?v=c9ae75db"
+      ],
+      "colors": [
+        {
+          "name": "Velocity Blue / Lifted Lime",
+          "image_url": "https://cdn1.polaris.com/globalassets/atv/2025/model/vehicle-cards/outlaw-70-efi-my25-4b61-velocity-blue-lifted-lime-a25hba07b5.png?v=c9ae75db"
+        },
+        {
+          "name": "Velocity Blue / Fierce Fuchsia",
+          "image_url": "https://cdn1.polaris.com/globalassets/atv/2025/model/vehicle-cards/outlaw-70-efi-my25-4b61-velocity-blue-fierce-fuchsia-a25hba07b5.png?v=c9ae75db"
+        }
+      ]
+    },
+    {
+      "slug": "sportsman-outlaw-110-efi-2026",
+      "name": "Outlaw 110 EFI",
+      "year": 2026,
+      "category": "atv",
+      "subcategory": null,
+      "family": "sportsman",
+      "msrp": 4899.0,
+      "msrp_text": "Starting at $4,899",
+      "source_url": "https://www.polaris.com/en-ca/off-road/sportsman/models/outlaw-110",
+      "hero_image_url": "https://cdn1.polaris.com/globalassets/atv/2026/model/model-pages/outlaw-110/01-overview/01-hero/outlaw-110-my26-9d1a-hero-sm.jpg?v=da803241",
+      "image_urls": [
+        "https://cdn1.polaris.com/globalassets/atv/2026/model/vehicle---cards-/outlaw-110-my26-9d1a-indy-red-a26yka11b7.png?v=d9f6ae42",
+        "https://cdn1.polaris.com/globalassets/atv/2026/model/vehicle---cards-/outlaw-110-my26-9d1a-lime-squeeze-a26yka11b1.png?v=d9f6ae39"
+      ],
+      "colors": [
+        {
+          "name": "Indy Red",
+          "image_url": "https://cdn1.polaris.com/globalassets/atv/2026/model/vehicle---cards-/outlaw-110-my26-9d1a-indy-red-a26yka11b7.png?v=d9f6ae42"
+        },
+        {
+          "name": "Lime Squeeze",
+          "image_url": "https://cdn1.polaris.com/globalassets/atv/2026/model/vehicle---cards-/outlaw-110-my26-9d1a-lime-squeeze-a26yka11b1.png?v=d9f6ae39"
+        }
+      ]
+    },
+    {
+      "slug": "sportsman-sportsman-110-2026",
+      "name": "Sportsman 110",
+      "year": 2026,
+      "category": "atv",
+      "subcategory": null,
+      "family": "sportsman",
+      "msrp": 4899.0,
+      "msrp_text": "Starting at $4,899",
+      "source_url": "https://www.polaris.com/en-ca/off-road/sportsman/models/sportsman-110",
+      "hero_image_url": "https://cdn1.polaris.com/globalassets/atv/2026/model/model-pages/sportsman-110-efi/01-overview/01-hero/sportsman-110-my26-9d1a-hero-sm.jpg?v=da838467",
+      "image_urls": [
+        "https://cdn1.polaris.com/globalassets/atv/2026/model/vehicle---cards-/sportsman-110-my26-9d1a-velocity-blue-a26yfa11b5.png?v=d9f7761f"
+      ],
+      "colors": [
+        {
+          "name": "Velocity Blue",
+          "image_url": "https://cdn1.polaris.com/globalassets/atv/2026/model/vehicle---cards-/sportsman-110-my26-9d1a-velocity-blue-a26yfa11b5.png?v=d9f7761f"
+        }
+      ]
+    },
+    {
+      "slug": "sportsman-phoenix-200-2026",
+      "name": "Phoenix 200",
+      "year": 2026,
+      "category": "atv",
+      "subcategory": null,
+      "family": "sportsman",
+      "msrp": 5999.0,
+      "msrp_text": "Starting at $5,999",
+      "source_url": "https://www.polaris.com/en-ca/off-road/sportsman/models/phoenix-200",
+      "hero_image_url": "https://cdn1.polaris.com/globalassets/ranger/2025/model/model-pages/ranger-150-efi/01-overview/01-hero/rgr-150-efi-my25-13b3-hero-1-sm.jpg?v=ca03e132",
+      "image_urls": [
+        "https://cdn1.polaris.com/globalassets/atv/2026/model/vehicle---cards-/phoenix-200-my26-9d1a-storm-gray-a26ypa20a4.png?v=d9f6ae42"
+      ],
+      "colors": [
+        {
+          "name": "Storm Gray",
+          "image_url": "https://cdn1.polaris.com/globalassets/atv/2026/model/vehicle---cards-/phoenix-200-my26-9d1a-storm-gray-a26ypa20a4.png?v=d9f6ae42"
+        }
+      ]
+    },
+    {
+      "slug": "sportsman-sportsman-450-ho-2026",
+      "name": "Sportsman 450 H.O.",
+      "year": 2026,
+      "category": "atv",
+      "subcategory": null,
+      "family": "sportsman",
+      "msrp": 8799.0,
+      "msrp_text": "Starting at $8,799",
+      "source_url": "https://www.polaris.com/en-ca/off-road/sportsman/models/sportsman-450",
+      "hero_image_url": "https://cdn1.polaris.com/globalassets/atv/2026/model/model-pages/sportsman-450-ho/01-overview/01-hero/sportsman-450-ho-my26-9d1a-hero-sm.jpg?v=da4f0e48",
+      "image_urls": [
+        "https://cdn1.polaris.com/globalassets/atv/2026/model/vehicle---cards-/sportsman-450-my26-9d1a-ho-sage-green-a26sea50b1.png?v=d97b536c",
+        "https://cdn1.polaris.com/globalassets/atv/2026/model/vehicle---cards-/sportsman-450-my26-9d1a-ho-ghost-gray-a26sea50b4.png?v=d97b5362",
+        "https://cdn1.polaris.com/globalassets/atv/2026/model/vehicle---cards-/sportsman-450-my26-9d1a-ho-eps-sage-green-a26see50b1-.png?v=dc2ed4ce",
+        "https://cdn1.polaris.com/globalassets/atv/2026/model/vehicle---cards-/sportsman-450-my26-9d1a-ho-eps-ghost-gray-a26see50b4.png?v=dc2ed4c5"
+      ],
+      "colors": [
+        {
+          "name": "Sage Green",
+          "image_url": "https://cdn1.polaris.com/globalassets/atv/2026/model/vehicle---cards-/sportsman-450-my26-9d1a-ho-sage-green-a26sea50b1.png?v=d97b536c"
+        },
+        {
+          "name": "Ghost Gray",
+          "image_url": "https://cdn1.polaris.com/globalassets/atv/2026/model/vehicle---cards-/sportsman-450-my26-9d1a-ho-ghost-gray-a26sea50b4.png?v=d97b5362"
+        },
+        {
+          "name": "Sage Green",
+          "image_url": "https://cdn1.polaris.com/globalassets/atv/2026/model/vehicle---cards-/sportsman-450-my26-9d1a-ho-eps-sage-green-a26see50b1-.png?v=dc2ed4ce"
+        },
+        {
+          "name": "Ghost Gray",
+          "image_url": "https://cdn1.polaris.com/globalassets/atv/2026/model/vehicle---cards-/sportsman-450-my26-9d1a-ho-eps-ghost-gray-a26see50b4.png?v=dc2ed4c5"
+        }
+      ]
+    },
+    {
+      "slug": "sportsman-sportsman-570-2026",
+      "name": "Sportsman 570",
+      "year": 2026,
+      "category": "atv",
+      "subcategory": null,
+      "family": "sportsman",
+      "msrp": 9699.0,
+      "msrp_text": "Starting at $9,699",
+      "source_url": "https://www.polaris.com/en-ca/off-road/sportsman/models/sportsman-570",
+      "hero_image_url": "https://cdn1.polaris.com/globalassets/atv/2026/model/model-pages/sportsman-570/01-overview/01-hero-/sportsman-570-my26-9d1a-hero-sm.jpg?v=da426be9",
+      "image_urls": [
+        "https://cdn1.polaris.com/globalassets/atv/2026/model/vehicle---cards-/sportsman-570-my26-9d1a-sage-green-a26sea57a1.png?v=dc2ed4d8",
+        "https://cdn1.polaris.com/globalassets/atv/2026/model/vehicle---cards-/sportsman-570-my26-9d1a-desert-sand-a26sea57a6.png?v=dc2ed4ce",
+        "https://cdn1.polaris.com/globalassets/atv/2026/model/vehicle---cards-/sportsman-570-my26-9d1a-ghost-gray-a26sea57a4.png?v=dc2ed4d8",
+        "https://cdn1.polaris.com/globalassets/atv/2026/model/vehicle---cards-/sportsman-570-my26-9d1a-eps-ghost-gray-a26see57a4.png?v=dc2ed4ce",
+        "https://cdn1.polaris.com/globalassets/atv/2026/model/vehicle---cards-/sportsman-570-my26-9d1a-eps-sage-green-a26see57a1.png?v=dc2ed4d8"
+      ],
+      "colors": [
+        {
+          "name": "Sage Green",
+          "image_url": "https://cdn1.polaris.com/globalassets/atv/2026/model/vehicle---cards-/sportsman-570-my26-9d1a-sage-green-a26sea57a1.png?v=dc2ed4d8"
+        },
+        {
+          "name": "Desert Sand",
+          "image_url": "https://cdn1.polaris.com/globalassets/atv/2026/model/vehicle---cards-/sportsman-570-my26-9d1a-desert-sand-a26sea57a6.png?v=dc2ed4ce"
+        },
+        {
+          "name": "Ghost Gray",
+          "image_url": "https://cdn1.polaris.com/globalassets/atv/2026/model/vehicle---cards-/sportsman-570-my26-9d1a-ghost-gray-a26sea57a4.png?v=dc2ed4d8"
+        },
+        {
+          "name": "Ghost Gray",
+          "image_url": "https://cdn1.polaris.com/globalassets/atv/2026/model/vehicle---cards-/sportsman-570-my26-9d1a-eps-ghost-gray-a26see57a4.png?v=dc2ed4ce"
+        },
+        {
+          "name": "Sage Green",
+          "image_url": "https://cdn1.polaris.com/globalassets/atv/2026/model/vehicle---cards-/sportsman-570-my26-9d1a-eps-sage-green-a26see57a1.png?v=dc2ed4d8"
+        },
+        {
+          "name": "Polaris Pursuit Camo",
+          "image_url": "https://cdn1.polaris.com/globalassets/atv/2026/model/vehicle---cards-/sportsman-570-my26-9d1a-eps-polaris-pursuit-camo-a26see57a9.png?v=dc2ed4d8"
+        },
+        {
+          "name": "Desert Sand",
+          "image_url": "https://cdn1.polaris.com/globalassets/atv/2026/model/vehicle---cards-/sportsman-570-my26-9d1a-eps-desert-sand-a26see57a6.png?v=dc2ed4ce"
+        },
+        {
+          "name": "Treeline Green Metallic",
+          "image_url": "https://cdn1.polaris.com/globalassets/atv/2026/model/vehicle---cards-/sportsman-570-premium-my26-9d1a-treeline-green-metallic-a26sez57ab.png?v=dc2ed4e1"
+        },
+        {
+          "name": "Sunset Red",
+          "image_url": "https://cdn1.polaris.com/globalassets/atv/2026/model/vehicle---cards-/sportsman-570-trail-my26-9d1a-sunset-red-a26shy57as.png?v=dc2ed4e1"
+        },
+        {
+          "name": "Onyx Black",
+          "image_url": "https://cdn1.polaris.com/globalassets/atv/2026/model/vehicle---cards-/sportsman-570-trail-my26-9d1a-onyx-black-a26shy57al.png?v=dc2ed4e1"
+        },
+        {
+          "name": "Turbo Silver",
+          "image_url": "https://cdn1.polaris.com/globalassets/atv/2026/model/vehicle---cards-/sportsman-570-ultimate-my26-9d1a-turbo-silver-a26shr57ag.png?v=dc2ed4c5"
+        }
+      ]
+    },
+    {
+      "slug": "sportsman-sportsman-touring-570-2026",
+      "name": "Sportsman Touring 570",
+      "year": 2026,
+      "category": "atv",
+      "subcategory": null,
+      "family": "sportsman",
+      "msrp": 12199.0,
+      "msrp_text": "Starting at $12,199",
+      "source_url": "https://www.polaris.com/en-ca/off-road/sportsman/models/sportsman-touring-570",
+      "hero_image_url": "https://cdn1.polaris.com/globalassets/atv/2026/model/model-pages/sportsman-touring-570/01-overview/03-pillar-1/sportsman-touring-570-my26-9d1a-features-5-sm.jpg?v=da44b09c",
+      "image_urls": [
+        "https://cdn1.polaris.com/globalassets/atv/2026/model/vehicle---cards-/sportsman-touring-570-my26-9d1a-indy-red-a26sda57a7.png?v=d97b5332",
+        "https://cdn1.polaris.com/globalassets/atv/2026/model/vehicle---cards-/sportsman-touring-570-premium-my26-9d1a-treeline-green-metallic-a26sdz57ab.png?v=dc4663fa",
+        "https://cdn1.polaris.com/globalassets/atv/2026/model/vehicle---cards-/sportsman-touring-570-ultimate-my26-9d1a-turbo-silver-a26sjr57ag.png?v=d97b533c"
+      ],
+      "colors": [
+        {
+          "name": "Indy Red",
+          "image_url": "https://cdn1.polaris.com/globalassets/atv/2026/model/vehicle---cards-/sportsman-touring-570-my26-9d1a-indy-red-a26sda57a7.png?v=d97b5332"
+        },
+        {
+          "name": "Treeline Green Metallic",
+          "image_url": "https://cdn1.polaris.com/globalassets/atv/2026/model/vehicle---cards-/sportsman-touring-570-premium-my26-9d1a-treeline-green-metallic-a26sdz57ab.png?v=dc4663fa"
+        },
+        {
+          "name": "Turbo Silver",
+          "image_url": "https://cdn1.polaris.com/globalassets/atv/2026/model/vehicle---cards-/sportsman-touring-570-ultimate-my26-9d1a-turbo-silver-a26sjr57ag.png?v=d97b533c"
+        }
+      ]
+    },
+    {
+      "slug": "sportsman-sportsman-850-2026",
+      "name": "Sportsman 850",
+      "year": 2026,
+      "category": "atv",
+      "subcategory": null,
+      "family": "sportsman",
+      "msrp": 12999.0,
+      "msrp_text": "Starting at $12,999",
+      "source_url": "https://www.polaris.com/en-ca/off-road/sportsman/models/sportsman-850",
+      "hero_image_url": "https://cdn1.polaris.com/globalassets/atv/2026/model/model-pages/sportsman-850/01-overview/01-hero-/sportsman-850-my26-9d1a-hero-sm.jpg?v=dc4644c2",
+      "image_urls": [
+        "https://cdn1.polaris.com/globalassets/atv/2026/model/vehicle---cards-/sportsman-850-my26-9d1a-sage-green-a26sxa85a1.png?v=d97b5316",
+        "https://cdn1.polaris.com/globalassets/atv/2026/model/vehicle---cards-/sportsman-850-premium-my26-9d1a-nara-bronze-a26sxe85az.png?v=d97b5316",
+        "https://cdn1.polaris.com/globalassets/atv/2026/model/vehicle---cards-/sportsman-850-premium-my26-9d1a-springfield-blue-a26sxe85an.png?v=d97b531f",
+        "https://cdn1.polaris.com/globalassets/atv/2026/model/vehicle---cards-/sportsman-850-trail-my26-9d1a-polaris-pursuit-camo-a26sxz85a9.png?v=d97b5329",
+        "https://cdn1.polaris.com/globalassets/atv/2026/model/vehicle---cards-/sportsman-850-trail-my26-9d1a-nara-bronze-a26sxz85az.png?v=d97b531f"
+      ],
+      "colors": [
+        {
+          "name": "Sage Green",
+          "image_url": "https://cdn1.polaris.com/globalassets/atv/2026/model/vehicle---cards-/sportsman-850-my26-9d1a-sage-green-a26sxa85a1.png?v=d97b5316"
+        },
+        {
+          "name": "Nara Bronze",
+          "image_url": "https://cdn1.polaris.com/globalassets/atv/2026/model/vehicle---cards-/sportsman-850-premium-my26-9d1a-nara-bronze-a26sxe85az.png?v=d97b5316"
+        },
+        {
+          "name": "Springfield Blue",
+          "image_url": "https://cdn1.polaris.com/globalassets/atv/2026/model/vehicle---cards-/sportsman-850-premium-my26-9d1a-springfield-blue-a26sxe85an.png?v=d97b531f"
+        },
+        {
+          "name": "Polaris Pursuit Camo",
+          "image_url": "https://cdn1.polaris.com/globalassets/atv/2026/model/vehicle---cards-/sportsman-850-trail-my26-9d1a-polaris-pursuit-camo-a26sxz85a9.png?v=d97b5329"
+        },
+        {
+          "name": "Nara Bronze",
+          "image_url": "https://cdn1.polaris.com/globalassets/atv/2026/model/vehicle---cards-/sportsman-850-trail-my26-9d1a-nara-bronze-a26sxz85az.png?v=d97b531f"
+        },
+        {
+          "name": "Springfield Blue",
+          "image_url": "https://cdn1.polaris.com/globalassets/atv/2026/model/vehicle---cards-/sportsman-850-trail-my26-9d1a-springfiled-blue-a26sxz85an.png?v=d97b5329"
+        }
+      ]
+    },
+    {
+      "slug": "sportsman-sportsman-570-hunt-edition-2025",
+      "name": "Sportsman 570 Hunt Edition",
+      "year": 2025,
+      "category": "atv",
+      "subcategory": null,
+      "family": "sportsman",
+      "msrp": 14399.0,
+      "msrp_text": "Starting at $14,399",
+      "source_url": "https://www.polaris.com/en-ca/off-road/sportsman/models/sportsman-hunt-edition",
+      "hero_image_url": "https://cdn1.polaris.com/globalassets/atv/2025/model/model-pages/sportsman-hunt-edition/01-overview/00-update/01-hero/sportsman-hunt-edition-my25-4b61-hero-sm.jpg?v=d15d02ed",
+      "image_urls": [
+        "https://cdn1.polaris.com/globalassets/atv/2025/model/vehicle-cards/sportsman-570-hunt-edition-my25-4b61-polaris-pursuit-camo-a25shd57a9.png?v=c8bc5503",
+        "https://cdn1.polaris.com/globalassets/atv/2025/model/vehicle-cards/sportsman-xp-1000-hunt-edition-my25-4b61-polaris-pursuit-camo-a25sxd95a9.png?v=c8bc5558"
+      ],
+      "colors": [
+        {
+          "name": "Polaris Pursuit Camo",
+          "image_url": "https://cdn1.polaris.com/globalassets/atv/2025/model/vehicle-cards/sportsman-570-hunt-edition-my25-4b61-polaris-pursuit-camo-a25shd57a9.png?v=c8bc5503"
+        },
+        {
+          "name": "Polaris Pursuit Camo",
+          "image_url": "https://cdn1.polaris.com/globalassets/atv/2025/model/vehicle-cards/sportsman-xp-1000-hunt-edition-my25-4b61-polaris-pursuit-camo-a25sxd95a9.png?v=c8bc5558"
+        }
+      ]
+    },
+    {
+      "slug": "sportsman-scrambler-850-2026",
+      "name": "Scrambler 850",
+      "year": 2026,
+      "category": "atv",
+      "subcategory": null,
+      "family": "sportsman",
+      "msrp": 14499.0,
+      "msrp_text": "Starting at $14,499",
+      "source_url": "https://www.polaris.com/en-ca/off-road/sportsman/models/scrambler-850",
+      "hero_image_url": "https://cdn1.polaris.com/globalassets/atv/2026/model/model-pages/scrambler-850/01--overview/01-hero/scrambler-850-my26-9d1a-hero-sm.jpg?v=da35e859",
+      "image_urls": [
+        "https://cdn1.polaris.com/globalassets/atv/2026/model/vehicle---cards-/scrambler-850-my26-9d1a-storm-gray-radar-blue-a26sva85a4.png?v=d97b534f"
+      ],
+      "colors": [
+        {
+          "name": "Storm Gray / Radar Blue",
+          "image_url": "https://cdn1.polaris.com/globalassets/atv/2026/model/vehicle---cards-/scrambler-850-my26-9d1a-storm-gray-radar-blue-a26sva85a4.png?v=d97b534f"
+        }
+      ]
+    },
+    {
+      "slug": "sportsman-sportsman-850-mud-edition-2026",
+      "name": "Sportsman 850 Mud Edition",
+      "year": 2026,
+      "category": "atv",
+      "subcategory": null,
+      "family": "sportsman",
+      "msrp": 15299.0,
+      "msrp_text": "Starting at $15,299",
+      "source_url": "https://www.polaris.com/en-ca/off-road/sportsman/models/sportsman-mud-edition",
+      "hero_image_url": "https://cdn1.polaris.com/globalassets/atv/2026/model/model-pages/sportsman-mud-edition/01-overview/01--hero/sportsman-mud-edition-my26-9d1a-model-page-hero-sm.jpg?v=d9e047a9",
+      "image_urls": [
+        "https://cdn1.polaris.com/globalassets/atv/2026/model/vehicle---cards-/sportsman-850-mud-edition-my26-9d1a-fury-red-a26sxn85a7.png?v=d97b530c",
+        "https://cdn1.polaris.com/globalassets/atv/2026/model/vehicle---cards-/sportsman-xp-1000-mud-edition-my26-9d1a-indy-red-pearl-a26sxm95ar.png?v=d97b5345"
+      ],
+      "colors": [
+        {
+          "name": "Fury Red",
+          "image_url": "https://cdn1.polaris.com/globalassets/atv/2026/model/vehicle---cards-/sportsman-850-mud-edition-my26-9d1a-fury-red-a26sxn85a7.png?v=d97b530c"
+        },
+        {
+          "name": "Indy Red Pearl",
+          "image_url": "https://cdn1.polaris.com/globalassets/atv/2026/model/vehicle---cards-/sportsman-xp-1000-mud-edition-my26-9d1a-indy-red-pearl-a26sxm95ar.png?v=d97b5345"
+        }
+      ]
+    },
+    {
+      "slug": "sportsman-sportsman-touring-850-premium-2026",
+      "name": "Sportsman Touring 850 Premium",
+      "year": 2026,
+      "category": "atv",
+      "subcategory": null,
+      "family": "sportsman",
+      "msrp": 16499.0,
+      "msrp_text": "Starting at $16,499",
+      "source_url": "https://www.polaris.com/en-ca/off-road/sportsman/models/sportsman-touring-850",
+      "hero_image_url": "https://cdn1.polaris.com/globalassets/atv/2026/model/model-pages/sportsman-touring-850/01-overview/01-hero/sportsman-850-touring-my26-9d1a-hero-sm.jpg?v=da76b67b",
+      "image_urls": [
+        "https://cdn1.polaris.com/globalassets/atv/2026/model/vehicle---cards-/sportsman-touring-850-my26-9d1a-onyx-black-a26sye85al.png?v=d9a03007"
+      ],
+      "colors": [
+        {
+          "name": "Onyx Black",
+          "image_url": "https://cdn1.polaris.com/globalassets/atv/2026/model/vehicle---cards-/sportsman-touring-850-my26-9d1a-onyx-black-a26sye85al.png?v=d9a03007"
+        }
+      ]
+    },
+    {
+      "slug": "sportsman-sportsman-x2-570-2026",
+      "name": "Sportsman X2 570",
+      "year": 2026,
+      "category": "atv",
+      "subcategory": null,
+      "family": "sportsman",
+      "msrp": 16499.0,
+      "msrp_text": "Starting at $16,499",
+      "source_url": "https://www.polaris.com/en-ca/off-road/sportsman/models/sportsman-x2-570",
+      "hero_image_url": "https://cdn1.polaris.com/globalassets/atv/2026/model/model-pages/sportsman-x2-570/01--overview/01-hero/sportsman-x2-570-my26-9d1a-hero-sm.jpg?v=da4431fd",
+      "image_urls": [
+        "https://cdn1.polaris.com/globalassets/atv/2026/model/vehicle---cards-/sportsman-x2-570-my26-9d1a-onyx-black-a26swe57al.png?v=d97b533c"
+      ],
+      "colors": [
+        {
+          "name": "Onyx Black",
+          "image_url": "https://cdn1.polaris.com/globalassets/atv/2026/model/vehicle---cards-/sportsman-x2-570-my26-9d1a-onyx-black-a26swe57al.png?v=d97b533c"
+        }
+      ]
+    },
+    {
+      "slug": "sportsman-sportsman-6x6-570-2026",
+      "name": "Sportsman 6x6 570",
+      "year": 2026,
+      "category": "atv",
+      "subcategory": null,
+      "family": "sportsman",
+      "msrp": 17799.0,
+      "msrp_text": "Starting at $17,799",
+      "source_url": "https://www.polaris.com/en-ca/off-road/sportsman/models/sportsman-6x6-570",
+      "hero_image_url": "https://cdn1.polaris.com/globalassets/atv/2025/model/model-pages/sportman-6x6-570/00-update/07-gallery/sportsman-6x6-570-my25-4b61-gallery-02-lg.jpg?v=d1917548",
+      "image_urls": [
+        "https://cdn1.polaris.com/globalassets/atv/2026/model/vehicle---cards-/sportsman-6x6-570-my26-9d1a-sage-green-a26ske57a1.png?v=d97b5359"
+      ],
+      "colors": [
+        {
+          "name": "Sage Green",
+          "image_url": "https://cdn1.polaris.com/globalassets/atv/2026/model/vehicle---cards-/sportsman-6x6-570-my26-9d1a-sage-green-a26ske57a1.png?v=d97b5359"
+        }
+      ]
+    },
+    {
+      "slug": "sportsman-sportsman-xp-1000-ultimate-2026",
+      "name": "Sportsman XP 1000 Ultimate",
+      "year": 2026,
+      "category": "atv",
+      "subcategory": null,
+      "family": "sportsman",
+      "msrp": 18999.0,
+      "msrp_text": "Starting at $18,999",
+      "source_url": "https://www.polaris.com/en-ca/off-road/sportsman/models/sportsman-xp-1000",
+      "hero_image_url": "https://cdn1.polaris.com/globalassets/atv/2026/model/vehicle---cards-/sportsman-xp-1000-ultimate-my26-9d1a-turbo-silver-a26sxr95ag.png?v=d97b534f",
+      "image_urls": [
+        "https://cdn1.polaris.com/globalassets/atv/2026/model/vehicle---cards-/sportsman-xp-1000-ultimate-my26-9d1a-turbo-silver-a26sxr95ag.png?v=d97b534f"
+      ],
+      "colors": [
+        {
+          "name": "Turbo Silver",
+          "image_url": "https://cdn1.polaris.com/globalassets/atv/2026/model/vehicle---cards-/sportsman-xp-1000-ultimate-my26-9d1a-turbo-silver-a26sxr95ag.png?v=d97b534f"
+        }
+      ]
+    },
+    {
+      "slug": "sportsman-sportsman-touring-xp-1000-trail-2026",
+      "name": "Sportsman Touring XP 1000 Trail",
+      "year": 2026,
+      "category": "atv",
+      "subcategory": null,
+      "family": "sportsman",
+      "msrp": 19499.0,
+      "msrp_text": "Starting at $19,499",
+      "source_url": "https://www.polaris.com/en-ca/off-road/sportsman/models/sportsman-touring-xp-1000-trail",
+      "hero_image_url": "https://cdn1.polaris.com/globalassets/atv/2026/model/model-pages/sportsman-touring-xp-1000-trail/01-overview/01-hero/sportsman-touring-xp-1000-trail-my26-9d1a-hero-sm.jpg?v=d9d35178",
+      "image_urls": [
+        "https://cdn1.polaris.com/globalassets/atv/2026/model/vehicle---cards-/sportsman-touring-xp-1000-trail-my26-9d1a-a26syy95ak.png?v=d986274c"
+      ],
+      "colors": [
+        {
+          "name": "Heavy Metal",
+          "image_url": "https://cdn1.polaris.com/globalassets/atv/2026/model/vehicle---cards-/sportsman-touring-xp-1000-trail-my26-9d1a-a26syy95ak.png?v=d986274c"
+        }
+      ]
+    },
+    {
+      "slug": "sportsman-scrambler-xp-1000-s-2026",
+      "name": "Scrambler XP 1000 S",
+      "year": 2026,
+      "category": "atv",
+      "subcategory": null,
+      "family": "sportsman",
+      "msrp": 19999.0,
+      "msrp_text": "Starting at $19,999",
+      "source_url": "https://www.polaris.com/en-ca/off-road/sportsman/models/scrambler-xp-1000-s",
+      "hero_image_url": "https://cdn1.polaris.com/globalassets/atv/2026/model/model-pages/scrambler-xp-1000-s/01--overview/01-hero/scrambler-xp-1000-s-my26-9d1a-hero-sm.jpg?v=da375a9b",
+      "image_urls": [
+        "https://cdn1.polaris.com/globalassets/atv/2026/model/vehicle---cards-/scrambler-xp-1000-s-my26-9d1a-matte-cascades-green-a26sge95ab.png?v=d97b5359"
+      ],
+      "colors": [
+        {
+          "name": "Matte Cascades Green",
+          "image_url": "https://cdn1.polaris.com/globalassets/atv/2026/model/vehicle---cards-/scrambler-xp-1000-s-my26-9d1a-matte-cascades-green-a26sge95ab.png?v=d97b5359"
+        }
+      ]
+    },
+    {
+      "slug": "sportsman-sportsman-xp-1000-s-2026",
+      "name": "Sportsman XP 1000 S",
+      "year": 2026,
+      "category": "atv",
+      "subcategory": null,
+      "family": "sportsman",
+      "msrp": 20499.0,
+      "msrp_text": "Starting at $20,499",
+      "source_url": "https://www.polaris.com/en-ca/off-road/sportsman/models/sportsman-xp-1000-s",
+      "hero_image_url": "https://cdn1.polaris.com/globalassets/atv/2026/model/model-pages/sportsman-xp-1000-s/01-overview/01-hero/sportsman-xp-1000-s-my26-9d1a-hero-sm.jpg?v=da379d96",
+      "image_urls": [
+        "https://cdn1.polaris.com/globalassets/atv/2026/model/vehicle---cards-/sportsman-xp-1000-s-my26-9d1a-lava-orange-metallic-a26slz95af.png?v=d97b5345"
+      ],
+      "colors": [
+        {
+          "name": "Lava Orange Metallic",
+          "image_url": "https://cdn1.polaris.com/globalassets/atv/2026/model/vehicle---cards-/sportsman-xp-1000-s-my26-9d1a-lava-orange-metallic-a26slz95af.png?v=d97b5345"
+        }
+      ]
+    }
+  ]
+}
