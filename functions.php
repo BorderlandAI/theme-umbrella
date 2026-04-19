@@ -26,7 +26,7 @@ function bl_enqueue_scripts() {
     $theme_uri = get_template_directory_uri();
     wp_enqueue_style('borderland-main',   $theme_uri . '/assets/css/main.css', [], '1.0');
     wp_enqueue_style('borderland-custom', $theme_uri . '/assets/css/custom.css', ['borderland-main'], '1.0');
-    wp_enqueue_style('borderland-umbrella', $theme_uri . '/assets/css/umbrella.css', ['borderland-custom'], '5.0');
+    wp_enqueue_style('borderland-umbrella', $theme_uri . '/assets/css/umbrella.css', ['borderland-custom'], '5.2');
     wp_enqueue_style('swiper-css',   'https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css', [], '11');
     wp_enqueue_script('swiper-js',   'https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js', [], '11', true);
     wp_enqueue_script('jquery');

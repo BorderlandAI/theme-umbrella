@@ -86,12 +86,23 @@ body.bl-umbrella .bl-page h1,
 body.bl-umbrella .bl-page h2 { text-transform:none !important; letter-spacing:normal !important; }
 
 /* =============== HERO (sub-page + homepage) =============== */
-.bl-hero { padding:56px 0 42px; background:#f5f5f5; border-bottom:1px solid var(--rule); text-align:center !important; }
+/* Two-tone subheader: dark grey band with a subtle lighter strip at the bottom */
+.bl-hero {
+  padding:56px 0 42px;
+  background:
+    linear-gradient(to bottom, #2a2a2a 0%, #2a2a2a calc(100% - 6px), #3a3a3a calc(100% - 6px), #3a3a3a 100%);
+  border-bottom:1px solid #111;
+  text-align:center !important;
+  color:#fff;
+}
 .bl-hero .inner { text-align:center !important; }
-.bl-hero h1 { color:var(--ink) !important; font-size:clamp(28px,3.4vw,44px); margin:0 auto 10px !important; font-weight:700; text-align:center !important; }
-.bl-hero .lede { color:var(--ink-2) !important; max-width:760px; margin:0 auto 20px !important; font-size:16px; text-align:center !important; }
+.bl-hero h1 { color:#fff !important; font-size:clamp(28px,3.4vw,44px); margin:0 auto 10px !important; font-weight:700; text-align:center !important; }
+.bl-hero .lede { color:#c9d0d6 !important; max-width:760px; margin:0 auto 20px !important; font-size:16px; text-align:center !important; }
 .bl-hero.small { padding:36px 0 24px; }
 .bl-hero .cta-row { display:flex; justify-content:center; gap:12px; flex-wrap:wrap; }
+/* Secondary button on dark hero */
+.bl-hero .btn.secondary { background:#e6e5e5; color:#222 !important; border-color:#d1d0d0; }
+.bl-hero .btn.secondary:hover { background:#d4d3d3; border-color:#b8b7b7; }
 
 /* =============== BUTTONS =============== */
 .btn {
@@ -101,8 +112,8 @@ body.bl-umbrella .bl-page h2 { text-transform:none !important; letter-spacing:no
 }
 .btn.primary   { background:var(--cta); color:#fff !important; border:1px solid var(--cta); }
 .btn.primary:hover   { background:#000; border-color:#000; }
-.btn.secondary { background:#fff; color:var(--ink) !important; border:1px solid var(--rule); }
-.btn.secondary:hover { background:#f2f2f2; }
+.btn.secondary { background:#e6e5e5; color:var(--ink) !important; border:1px solid #d1d0d0; }
+.btn.secondary:hover { background:#d4d3d3; border-color:#b8b7b7; }
 .btn.tertiary  { background:transparent; color:var(--accent) !important; border:1px solid var(--accent); }
 .btn.tertiary:hover  { background:rgba(6,107,145,0.08); }
 
