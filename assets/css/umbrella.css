@@ -161,7 +161,7 @@ body.bl-umbrella .inv-card .stock { color:#7a7a7a !important; }
 /* Store card text color forced */
 body.bl-umbrella .store-card h3 { color:#fff !important; }
 body.bl-umbrella .store-card p { color:#c9d7e0 !important; }
-body.bl-umbrella .store-card .phone { color:#00b4d8 !important; font-weight:700 !important; }
+body.bl-umbrella .store-card .phone { color:#088fc2 !important; font-weight:700 !important; }
 
 /* News card */
 body.bl-umbrella .news-card h3 { color:#fff !important; }
@@ -209,7 +209,7 @@ body.bl-umbrella #footerBefore .legal p { color:#555 !important; font-size:11px;
 .store-card:hover { border-color:#00b4d8; transform:translateY(-2px); }
 .store-card h3 { color:#fff; margin:0 0 8px; font-size:20px; }
 .store-card .address, .store-card .brands { color:#9aa; font-size:13px; margin:4px 0; }
-.store-card .phone { color:#00b4d8; margin:6px 0; font-weight:600; }
+.store-card .phone { color:#088fc2; margin:6px 0; font-weight:600; }
 .store-card .arrow { display:inline-block; margin-top:10px; color:#088fc2; font-weight:600; font-size:14px; }
 
 /* Inventory grid */
