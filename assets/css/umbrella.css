@@ -100,9 +100,18 @@ body.bl-umbrella .bl-page h2 { text-transform:none !important; letter-spacing:no
 .bl-hero .lede { color:#c9d0d6 !important; max-width:760px; margin:0 auto 20px !important; font-size:16px; text-align:center !important; }
 .bl-hero.small { padding:36px 0 24px; }
 .bl-hero .cta-row { display:flex; justify-content:center; gap:12px; flex-wrap:wrap; }
-/* Secondary button on dark hero */
-.bl-hero .btn.secondary { background:#e6e5e5; color:#222 !important; border-color:#d1d0d0; }
-.bl-hero .btn.secondary:hover { background:#d4d3d3; border-color:#b8b7b7; }
+/* Buttons on dark hero — all three pills share the #e6e5e5 light-grey look */
+.bl-hero .btn.primary,
+.bl-hero .btn.secondary {
+  background:#e6e5e5;
+  color:#222 !important;
+  border:1px solid #d1d0d0;
+}
+.bl-hero .btn.primary:hover,
+.bl-hero .btn.secondary:hover {
+  background:#d4d3d3;
+  border-color:#b8b7b7;
+}
 
 /* =============== BUTTONS =============== */
 .btn {
