@@ -27,12 +27,12 @@ $news = function_exists('bl_news_items') ? bl_news_items(3) : [];
       <h2>Our Locations</h2>
       <div class="store-grid">
         <?php foreach ($stores as $s): ?>
-          <a class="store-card" href="<?php echo esc_url(home_url('/stores/' . $s['slug'])); ?>">
+          <a class="store-card" href="<?php echo esc_url(home_url('/stores/' . $s['slug'] . '/inventory/')); ?>">
             <h3><?php echo esc_html($s['name']); ?></h3>
             <p class="address"><?php echo esc_html(trim(($s['address'] ? $s['address'] . ' · ' : '') . $s['city'] . ', ' . $s['region'])); ?></p>
             <p class="phone"><?php echo esc_html($s['phone']); ?></p>
             <p class="brands"><?php echo esc_html(implode(' · ', $s['brands'])); ?></p>
-            <span class="arrow">Visit <?php echo esc_html($s['name']); ?></span>
+            <span class="arrow">Browse <?php echo esc_html($s['name']); ?> Inventory</span>
           </a>
         <?php endforeach; ?>
       </div>
