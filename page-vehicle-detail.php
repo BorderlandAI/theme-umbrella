@@ -61,7 +61,7 @@ $vstore = bl_store($vstore_slug) ?: $store;
       }
       $gallery_json = wp_json_encode($gallery_urls);
       ?>
-      <div class="gallery" data-total="<?php echo count($gallery_urls); ?>">
+      <div class="gallery" data-total="<?php echo count($gallery_urls); ?>" data-gallery="<?php echo esc_attr($gallery_json); ?>">
         <?php if (!empty($gallery_urls[0])): ?>
           <div class="main-wrap">
             <img class="main" src="<?php echo esc_url($gallery_urls[0]); ?>" alt="<?php echo esc_attr($title); ?>" data-index="0" />
@@ -84,79 +84,6 @@ $vstore = bl_store($vstore_slug) ?: $store;
           </div>
         <?php endif; ?>
       </div>
-      <script>
-      (function(){
-        var URLS = <?php echo $gallery_json; ?>;
-        if (!URLS || URLS.length < 2) return;
-        var root   = document.querySelector('.bl-vehicle-detail .gallery');
-        if (!root) return;
-        var main   = root.querySelector('img.main');
-        var thumbs = root.querySelectorAll('.thumbs img');
-        var counter= root.querySelector('.counter .cur');
-        var cur = 0;
-
-        function buildButton(cls, label, text) {
-          var b = document.createElement('button');
-          b.className = cls;
-          b.type = 'button';
-          b.setAttribute('aria-label', label);
-          b.textContent = text;
-          return b;
-        }
-        function ensureLightbox() {
-          var lb = document.getElementById('bl-lightbox');
-          if (lb) return lb;
-          lb = document.createElement('div');
-          lb.id = 'bl-lightbox';
-          lb.className = 'bl-lightbox';
-          var img = document.createElement('img');
-          img.alt = '';
-          var close = buildButton('close', 'Close', '\u00D7');
-          var prev  = buildButton('nav prev', 'Previous', '\u2039');
-          var next  = buildButton('nav next', 'Next', '\u203A');
-          lb.appendChild(img);
-          lb.appendChild(close);
-          lb.appendChild(prev);
-          lb.appendChild(next);
-          document.body.appendChild(lb);
-          close.addEventListener('click', closeLightbox);
-          prev.addEventListener('click', function(e){ e.stopPropagation(); show(cur - 1); openLightbox(); });
-          next.addEventListener('click', function(e){ e.stopPropagation(); show(cur + 1); openLightbox(); });
-          lb.addEventListener('click', function(e){ if (e.target === lb) closeLightbox(); });
-          return lb;
-        }
-        function show(i) {
-          cur = ((i % URLS.length) + URLS.length) % URLS.length;
-          main.src = URLS[cur];
-          main.setAttribute('data-index', cur);
-          if (counter) counter.textContent = (cur + 1);
-          thumbs.forEach(function(t){ t.classList.toggle('active', parseInt(t.dataset.index, 10) === cur); });
-        }
-        function openLightbox() {
-          var lb = ensureLightbox();
-          lb.querySelector('img').src = URLS[cur];
-          lb.classList.add('open');
-          document.body.style.overflow = 'hidden';
-        }
-        function closeLightbox() {
-          var lb = document.getElementById('bl-lightbox');
-          if (lb) { lb.classList.remove('open'); document.body.style.overflow = ''; }
-        }
-
-        thumbs.forEach(function(t){
-          t.addEventListener('click', function(){ show(parseInt(t.dataset.index, 10)); });
-        });
-        root.querySelector('.nav.prev').addEventListener('click', function(){ show(cur - 1); });
-        root.querySelector('.nav.next').addEventListener('click', function(){ show(cur + 1); });
-        document.addEventListener('keydown', function(e){
-          if (e.key === 'ArrowLeft')  show(cur - 1);
-          if (e.key === 'ArrowRight') show(cur + 1);
-          if (e.key === 'Escape')     closeLightbox();
-        });
-        main.addEventListener('click', openLightbox);
-        main.style.cursor = 'zoom-in';
-      })();
-      </script>
 
       <div class="info">
         <span class="state-badge <?php echo esc_attr($vstate); ?>"><?php echo esc_html($state_label); ?></span>
@@ -176,7 +103,7 @@ $vstore = bl_store($vstore_slug) ?: $store;
             <a class="btn primary" href="tel:<?php echo esc_attr($vstore['phone_tel']); ?>">Call <?php echo esc_html($vstore['phone']); ?></a>
           <?php endif; ?>
           <a class="btn secondary" href="<?php echo esc_url(home_url('/financing/?vehicle=' . rawurlencode($vehicle['id']))); ?>">Apply for Financing</a>
-          <button class="btn tertiary" onclick="if(window.openChat){openChat('sales');}return false;">Chat with Us</button>
+          <button type="button" class="btn tertiary" data-chat-open="sales">Chat with Us</button>
         </div>
 
         <?php if (!empty($vehicle['description'])): ?>
@@ -191,28 +118,131 @@ $vstore = bl_store($vstore_slug) ?: $store;
 </main>
 
 <?php
-// Product JSON-LD
+// BreadcrumbList + Product/Vehicle JSON-LD
 if (!empty($vehicle)) {
-    $schema = [
-        '@context' => 'https://schema.org',
+    $canonical = home_url('/stores/' . ($vstore['slug'] ?? 'morden') . '/inventory/' . ($vehicle['stockNumber'] ?? $vehicle['id']) . '/');
+    $cover_img = !empty($images[0]['url']) ? bl_inventory_image_url($images[0]['url']) : '';
+    $seller_ref = !empty($vstore['slug']) ? BORDERLAND_SITE_URL . '/stores/' . $vstore['slug'] . '#business' : null;
+
+    $gallery = [];
+    foreach ($images as $img) {
+        $u = bl_inventory_image_url($img['url'] ?? '');
+        if ($u) $gallery[] = $u;
+    }
+
+    // Breadcrumb
+    if ($vstore) {
+        bl_emit_breadcrumb_jsonld([
+            ['Home', home_url('/')],
+            [$vstore['name'], home_url('/stores/' . $vstore['slug'])],
+            ['Inventory', home_url('/stores/' . $vstore['slug'] . '/inventory/')],
+            [$title],
+        ]);
+    }
+
+    // Skip Product/Vehicle schema entirely if no image — Google flags image-less products as critical
+    if (!$cover_img) {
+        get_footer();
+        return;
+    }
+
+    // Combined @graph: Product (for shopping/rich results) + Vehicle (for vehicle-specific)
+    $product = [
         '@type'    => 'Product',
+        '@id'      => $canonical . '#product',
         'name'     => $title,
+        'url'      => $canonical,
         'brand'    => ['@type' => 'Brand', 'name' => $vehicle['make'] ?? ''],
         'category' => ucfirst($vehicle['category'] ?? 'Vehicle'),
     ];
-    if (!empty($images[0]['url'])) $schema['image'] = bl_inventory_image_url($images[0]['url']);
+    if (!empty($vehicle['stockNumber'])) $product['sku']        = $vehicle['stockNumber'];
+    if (!empty($vehicle['stockNumber'])) $product['productID']  = $vehicle['stockNumber'];
+    if (!empty($vehicle['model']))       $product['model']      = $vehicle['model'];
+    if ($cover_img)                      $product['image']      = $gallery ?: $cover_img;
+
+    // description — prefer feed copy, else compose from year/make/model/category/store
+    $desc_raw = trim((string) ($vehicle['description'] ?? ''));
+    if ($desc_raw === '') {
+        $parts = array_filter([
+            $vehicle['year']     ?? null,
+            $vehicle['make']     ?? null,
+            $vehicle['model']    ?? null,
+        ]);
+        $cat   = !empty($vehicle['category']) ? ucfirst($vehicle['category']) : 'powersports vehicle';
+        $where = !empty($vstore['full_name']) ? $vstore['full_name'] . ' in ' . $vstore['city'] . ', MB' : 'Borderland Powersports Manitoba';
+        $desc_raw = trim(implode(' ', $parts)) . ' ' . $cat . ' available at ' . $where . '.';
+    }
+    $product['description'] = wp_strip_all_tags($desc_raw);
+
     if ($price) {
-        $schema['offers'] = [
-            '@type'         => 'Offer',
-            'price'         => $price,
-            'priceCurrency' => 'CAD',
-            'availability'  => 'https://schema.org/InStock',
-            'itemCondition' => ($vstate === 'new') ? 'https://schema.org/NewCondition' : 'https://schema.org/UsedCondition',
-            'seller'        => ['@type' => 'AutomotiveBusiness', 'name' => $vstore['full_name'] ?? BORDERLAND_SITE_NAME],
+        // Canada-wide in-store pickup. No paid shipping offered — dealer delivery quoted on request.
+        $shipping = [
+            '@type' => 'OfferShippingDetails',
+            'shippingRate' => [
+                '@type'         => 'MonetaryAmount',
+                'value'         => '0',
+                'currency'      => 'CAD',
+            ],
+            'shippingDestination' => [
+                '@type'              => 'DefinedRegion',
+                'addressCountry'     => 'CA',
+            ],
+            'deliveryTime' => [
+                '@type'              => 'ShippingDeliveryTime',
+                'handlingTime'       => ['@type' => 'QuantitativeValue', 'minValue' => 0, 'maxValue' => 1, 'unitCode' => 'DAY'],
+                'transitTime'        => ['@type' => 'QuantitativeValue', 'minValue' => 0, 'maxValue' => 0, 'unitCode' => 'DAY'],
+            ],
+        ];
+
+        // Powersports vehicles are non-returnable once sold / registered.
+        $return_policy = [
+            '@type'                 => 'MerchantReturnPolicy',
+            'applicableCountry'     => 'CA',
+            'returnPolicyCategory'  => 'https://schema.org/MerchantReturnNotPermitted',
+        ];
+
+        $product['offers'] = [
+            '@type'                  => 'Offer',
+            'price'                  => $price,
+            'priceCurrency'          => 'CAD',
+            'url'                    => $canonical,
+            'availability'           => 'https://schema.org/InStock',
+            'itemCondition'          => ($vstate === 'new') ? 'https://schema.org/NewCondition' : 'https://schema.org/UsedCondition',
+            'seller'                 => $seller_ref
+                ? ['@id' => $seller_ref]
+                : ['@type' => 'AutomotiveBusiness', 'name' => $vstore['full_name'] ?? BORDERLAND_SITE_NAME],
+            'shippingDetails'        => $shipping,
+            'hasMerchantReturnPolicy'=> $return_policy,
         ];
     }
-    if (!empty($vehicle['vin'])) $schema['vehicleIdentificationNumber'] = $vehicle['vin'];
-    if (!empty($vehicle['year'])) $schema['productionDate'] = (string) $vehicle['year'];
-    echo '<script type="application/ld+json">' . wp_json_encode($schema, JSON_UNESCAPED_SLASHES) . '</script>';
+    if (!empty($vehicle['vin']))  $product['gtin']         = $vehicle['vin'];
+
+    // Vehicle node (more specific, for Google Vehicle listings)
+    $vehicle_node = [
+        '@type'    => 'Vehicle',
+        '@id'      => $canonical . '#vehicle',
+        'name'     => $title,
+        'url'      => $canonical,
+        'brand'    => ['@type' => 'Brand', 'name' => $vehicle['make'] ?? ''],
+    ];
+    if (!empty($vehicle['stockNumber']))       $vehicle_node['sku']                         = $vehicle['stockNumber'];
+    if (!empty($vehicle['vin']))               $vehicle_node['vehicleIdentificationNumber'] = $vehicle['vin'];
+    if (!empty($vehicle['year']))              $vehicle_node['vehicleModelDate']            = (string) $vehicle['year'];
+    if (!empty($vehicle['model']))             $vehicle_node['model']                       = $vehicle['model'];
+    if (!empty($vehicle['color']))             $vehicle_node['color']                       = $vehicle['color'];
+    if (!empty($vehicle['category']))          $vehicle_node['bodyType']                    = ucfirst($vehicle['category']);
+    if (!empty($vehicle['engineDisplacement'])) $vehicle_node['vehicleEngine']              = ['@type' => 'EngineSpecification', 'engineDisplacement' => $vehicle['engineDisplacement']];
+    if (isset($vehicle['mileage']) && $vstate !== 'new') {
+        $vehicle_node['mileageFromOdometer'] = ['@type' => 'QuantitativeValue', 'value' => (int) $vehicle['mileage'], 'unitCode' => 'KMT'];
+    }
+    if ($cover_img) $vehicle_node['image'] = $gallery ?: $cover_img;
+    if ($price) $vehicle_node['offers'] = $product['offers'] ?? null;
+    $vehicle_node = array_filter($vehicle_node, fn($v) => $v !== null);
+
+    $payload = [
+        '@context' => 'https://schema.org',
+        '@graph'   => [$product, $vehicle_node],
+    ];
+    echo '<script type="application/ld+json">' . wp_json_encode($payload, JSON_UNESCAPED_SLASHES) . '</script>';
 }
 get_footer();
