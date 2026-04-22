@@ -58,27 +58,4 @@ $stores = bl_stores();
   </div>
 </main>
 
-<script>
-(function(){
-  var form = document.getElementById('blContactForm');
-  if (!form) return;
-  form.addEventListener('submit', function(e){
-    e.preventDefault();
-    var status = form.querySelector('.form-status');
-    status.textContent = 'Sending…';
-    var data = new FormData(form);
-    data.append('action', 'bl_submit_lead');
-    data.append('nonce', (window.BL && window.BL.nonce) || '');
-    data.append('source_url', window.location.href);
-    fetch((window.BL && window.BL.ajax_url) || '/wp-admin/admin-ajax.php', { method:'POST', body:data, credentials:'same-origin' })
-      .then(function(r){ return r.json(); })
-      .then(function(j){
-        if (j && j.success) { form.reset(); status.textContent = 'Thanks! We\'ll be in touch shortly.'; }
-        else { status.textContent = 'Something went wrong. Please try again or call us directly.'; }
-      })
-      .catch(function(){ status.textContent = 'Connection issue. Please try again.'; });
-  });
-})();
-</script>
-
 <?php get_footer();

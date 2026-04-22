@@ -1,0 +1,29 @@
+[
+  {
+    "slug": "96717d75-39ff-4aa0-a7cf-3288f77c9292",
+    "image_url": "https://cdn-tp3.mozu.com/27878-44719/cms/files/96717d75-39ff-4aa0-a7cf-3288f77c9292?quality=60&_mzcb=_1750240705528",
+    "link": "https://www.yamaha-motor.ca/en/right-here-right-now-2026",
+    "headline": "RIGHT HERE RIGHT NOW",
+    "subhead": null,
+    "cta_text": "SHOP NOW",
+    "position": 0
+  },
+  {
+    "slug": "642a1335-4c7a-4ed6-bf5d-16efdabb8ec5",
+    "image_url": "https://cdn-tp3.mozu.com/27878-44719/cms/files/642a1335-4c7a-4ed6-bf5d-16efdabb8ec5?quality=60&_mzcb=_1750240705528",
+    "link": "https://www.yamaha-motor.ca/en/outboard-tech-helm-master-ex",
+    "headline": "GO WIRELESS",
+    "subhead": null,
+    "cta_text": "EXPLORE HELM MASTER EX",
+    "position": 1
+  },
+  {
+    "slug": "44bdd966-f22d-4a02-b159-dcc3107a2e55",
+    "image_url": "https://cdn-tp3.mozu.com/27878-44719/cms/files/44bdd966-f22d-4a02-b159-dcc3107a2e55?quality=70&max=458",
+    "link": "https://www.yamaha-motor.ca/en/shop-now",
+    "headline": null,
+    "subhead": null,
+    "cta_text": null,
+    "position": 2
+  }
+]

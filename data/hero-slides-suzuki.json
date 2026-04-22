@@ -1,0 +1,38 @@
+[
+  {
+    "slug": "2026_gsx-8t_and_2026_gsx-8tt_web_banner_en-3",
+    "image_url": "https://www.suzuki.ca/wp-content/uploads/2026_GSX-8T_and_2026_GSX-8TT_Web_Banner_EN-3.jpg",
+    "link": "https://www.suzuki.ca/product/2026-gsx-8t/",
+    "headline": "RETRO SPIRIT. NEXT-GENERATION PERFORMANCE.",
+    "subhead": null,
+    "cta_text": "GSX-8T",
+    "position": 0
+  },
+  {
+    "slug": "suzuki_spring_savings_event_website_banner-1",
+    "image_url": "https://www.suzuki.ca/wp-content/uploads/Suzuki_Spring_Savings_Event_Website_Banner-1.jpg",
+    "link": "https://www.suzuki.ca/promotions/#Motorcycles",
+    "headline": "SUZUKI SPRING SAVINGS EVENT!",
+    "subhead": "Offer ends April 30, 2026. Terms and conditions apply.",
+    "cta_text": "LEARN MORE",
+    "position": 1
+  },
+  {
+    "slug": "suzuki-6yr-warranty-chrome-en-1",
+    "image_url": "https://www.suzuki.ca/wp-content/uploads/suzuki-6yr-warranty-chrome-EN-1.png",
+    "link": "https://www.suzuki.ca/promotions/#marine",
+    "headline": "POWER UP WITH SUZUKI!",
+    "subhead": "Offer ends April 30, 2026. Terms and Conditions Apply.",
+    "cta_text": "DISCOVER MORE",
+    "position": 2
+  },
+  {
+    "slug": "suzuki_kingquad_web_banner_en-1",
+    "image_url": "https://www.suzuki.ca/wp-content/uploads/Suzuki_KingQuad_Web_Banner_EN-1.jpg",
+    "link": "https://www.suzuki.ca/catalogue/atvs/",
+    "headline": "SUZUKI SPRING SAVINGS EVENT!",
+    "subhead": "Offer ends April 30, 2026. Terms and conditions apply.",
+    "cta_text": "SHOP NOW",
+    "position": 3
+  }
+]

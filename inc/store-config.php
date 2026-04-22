@@ -23,7 +23,7 @@ function bl_stores() {
             'address'        => '167 Loren Drive',
             'city'           => 'Morden',
             'region'         => 'MB',
-            'postal'         => '',
+            'postal'         => 'R6M 0C9',
             'coords'         => ['lat' => 49.1923, 'lng' => -98.1006],
             // Verified 2026-04-19 from borderlandpowersports.com
             'hours'          => [
@@ -36,6 +36,13 @@ function bl_stores() {
             'fb_page_id'     => '',
             'embed_map_url'  => 'https://www.google.com/maps/embed/v1/place?key=&q=167+Loren+Drive,+Morden,+MB',
             'photo'          => 'storefront-morden.webp',
+            'area_served'    => ['Morden', 'Winkler', 'Altona', 'Carman', 'Pembina Valley'],
+            'price_range'    => '$$',
+            'same_as'        => [
+                'https://www.facebook.com/borderlandpowersports',
+                'https://www.instagram.com/borderlandpowersports/',
+                'https://maps.app.goo.gl/is4zi5ytLdMJzPt59',
+            ],
         ],
         'thompson' => [
             'slug'           => 'thompson',
@@ -48,7 +55,7 @@ function bl_stores() {
             'address'        => '3 Nelson Road',
             'city'           => 'Thompson',
             'region'         => 'MB',
-            'postal'         => '',
+            'postal'         => 'R8N 0B3',
             'coords'         => ['lat' => 55.7435, 'lng' => -97.8558],
             // Verified 2026-04-19 from borderlandthompson.com
             'hours'          => [
@@ -61,6 +68,13 @@ function bl_stores() {
             'fb_page_id'     => '',
             'embed_map_url'  => 'https://www.google.com/maps/embed/v1/place?key=&q=3+Nelson+Road,+Thompson,+MB',
             'photo'          => 'storefront-thompson.webp',
+            'area_served'    => ['Thompson', 'The Pas', 'Flin Flon', 'Norway House', 'Northern Manitoba'],
+            'price_range'    => '$$',
+            'same_as'        => [
+                'https://www.facebook.com/YourRicksMarine',
+                'https://www.instagram.com/borderlandthompson/',
+                'https://maps.app.goo.gl/z2duQZexoP8XzsfG9',
+            ],
         ],
         'brandon' => [
             'slug'           => 'brandon',
@@ -86,6 +100,13 @@ function bl_stores() {
             'fb_page_id'     => '',
             'embed_map_url'  => 'https://www.google.com/maps/embed/v1/place?key=&q=206+16th+Street+North,+Brandon,+MB',
             'photo'          => 'storefront-brandon.webp',
+            'area_served'    => ['Brandon', 'Virden', 'Neepawa', 'Souris', 'Minnedosa', 'Westman'],
+            'price_range'    => '$$',
+            'same_as'        => [
+                'https://www.facebook.com/BorderlandBrandon',
+                'https://www.instagram.com/borderlandbrandon/',
+                'https://maps.app.goo.gl/L2C9Xn5FHWmkB1Ye6',
+            ],
         ],
         'portage' => [
             'slug'           => 'portage',
@@ -98,7 +119,7 @@ function bl_stores() {
             'address'        => '2533 Saskatchewan Ave W',
             'city'           => 'Portage la Prairie',
             'region'         => 'MB',
-            'postal'         => '',
+            'postal'         => 'R1N 4A5',
             'coords'         => ['lat' => 49.9731, 'lng' => -98.2927],
             // Verified 2026-04-19 with John (Portage 9 to 5)
             'hours'          => [
@@ -111,6 +132,13 @@ function bl_stores() {
             'fb_page_id'     => '',
             'embed_map_url'  => 'https://www.google.com/maps/embed/v1/place?key=&q=2533+Saskatchewan+Ave+W,+Portage+la+Prairie,+MB',
             'photo'          => 'storefront-portage.webp',
+            'area_served'    => ['Portage la Prairie', 'Gladstone', 'MacGregor', 'Carberry', 'Central Plains'],
+            'price_range'    => '$$',
+            'same_as'        => [
+                'https://www.facebook.com/profile.php?id=61583148800073',
+                'https://www.instagram.com/borderlandportage/',
+                'https://maps.app.goo.gl/9t9gq3FwFUjyaHF98',
+            ],
         ],
     ];
     return $stores;
@@ -183,6 +211,7 @@ function bl_brand_logo_url($brand) {
         'fxr'        => 'fxr-logo.svg',
         'equinox'    => 'equinox-logo.png',
         'abitibico'  => 'abitibico-logo.png',
+        'marlon'     => 'marlon-logo.png',
         'abitibi'    => 'abitibico-logo.png',
     ];
     if (!isset($map[$slug])) return '';

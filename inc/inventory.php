@@ -14,6 +14,7 @@ function bl_get_inventory($store = null, $args = []) {
     $args = array_filter($args, fn($v) => $v !== null && $v !== '');
 
     $cache_key = 'inv_' . md5(serialize($args));
+    $stale_key = 'inv_stale_' . md5(serialize($args));
     $cached = get_transient($cache_key);
     if ($cached !== false) return $cached;
 
@@ -23,18 +24,41 @@ function bl_get_inventory($store = null, $args = []) {
         $data = json_decode(wp_remote_retrieve_body($response), true);
         if (is_array($data)) {
             set_transient($cache_key, $data, 300);
-            update_option('_inv_stale_' . $cache_key, $data, false);
+            // Stale fallback lives 48h in a transient (not the options table) so it self-expires.
+            set_transient($stale_key, $data, 48 * HOUR_IN_SECONDS);
             delete_transient('_inv_api_degraded');
             return $data;
         }
     }
-    $stale = get_option('_inv_stale_' . $cache_key);
+    $stale = get_transient($stale_key);
     if ($stale !== false) {
         set_transient('_inv_api_degraded', true, 300);
         return $stale;
     }
     return [];
 }
+
+/**
+ * One-shot cleanup of the legacy _inv_stale_* option rows that earlier versions
+ * of this file wrote via update_option(). Runs once after theme load and on a
+ * daily cron as a safety net. Remove this function once verified clean.
+ */
+function bl_purge_legacy_inv_stale_options() {
+    global $wpdb;
+    if (!isset($wpdb)) return;
+    $wpdb->query("DELETE FROM {$wpdb->options} WHERE option_name LIKE '\\_inv\\_stale\\_%'");
+}
+add_action('bl_inv_stale_purge_cron', 'bl_purge_legacy_inv_stale_options');
+add_action('init', function() {
+    if (!wp_next_scheduled('bl_inv_stale_purge_cron')) {
+        wp_schedule_event(time() + 120, 'daily', 'bl_inv_stale_purge_cron');
+    }
+    // Also run once on the next request by any visitor so legacy rows are cleared without waiting for cron.
+    if (!get_option('bl_inv_stale_purged_v1')) {
+        bl_purge_legacy_inv_stale_options();
+        update_option('bl_inv_stale_purged_v1', time(), false);
+    }
+});
 
 /**
  * Fetch single vehicle by UUID.

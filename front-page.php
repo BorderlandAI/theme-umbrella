@@ -11,6 +11,8 @@ $news = function_exists('bl_news_items') ? bl_news_items(3) : [];
 
 <main id="content" class="bl-home">
 
+  <?php if (function_exists('bl_render_oem_hero_slider')) bl_render_oem_hero_slider(); ?>
+
   <section class="bl-hero">
     <div class="inner">
       <h1>Manitoba's Powersports Group</h1>

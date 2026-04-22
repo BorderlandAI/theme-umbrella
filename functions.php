@@ -16,7 +16,7 @@ if (!defined('BORDERLAND_LEAD_CRM_KEY'))  define('BORDERLAND_LEAD_CRM_KEY', gete
 
 // ----- Module loader ----------------------------------------------------
 $inc = get_template_directory() . '/inc/';
-foreach (['store-config', 'rewrites', 'inventory', 'chat', 'leads', 'schema', 'news'] as $m) {
+foreach (['store-config', 'rewrites', 'inventory', 'chat', 'leads', 'schema', 'news', 'hero-slider', 'sitemap-inventory'] as $m) {
     $f = $inc . $m . '.php';
     if (file_exists($f)) require_once $f;
 }
@@ -26,15 +26,24 @@ function bl_enqueue_scripts() {
     $theme_uri = get_template_directory_uri();
     wp_enqueue_style('borderland-main',   $theme_uri . '/assets/css/main.css', [], '1.0');
     wp_enqueue_style('borderland-custom', $theme_uri . '/assets/css/custom.css', ['borderland-main'], '1.0');
-    wp_enqueue_style('borderland-umbrella', $theme_uri . '/assets/css/umbrella.css', ['borderland-custom'], '5.3');
-    wp_enqueue_style('swiper-css',   'https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css', [], '11');
-    wp_enqueue_script('swiper-js',   'https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js', [], '11', true);
+    wp_enqueue_style('borderland-umbrella', $theme_uri . '/assets/css/umbrella.css', ['borderland-custom'], '202604220411');
+    wp_enqueue_style('swiper-css',   $theme_uri . '/assets/vendor/swiper/swiper-bundle.min.css', [], '11');
+    wp_enqueue_script('swiper-js',   $theme_uri . '/assets/vendor/swiper/swiper-bundle.min.js', [], '11', true);
     wp_enqueue_script('jquery');
     wp_enqueue_script('borderland-main-js', $theme_uri . '/assets/js/main.js', ['jquery'], '1.0', true);
     wp_localize_script('borderland-main-js', 'BL', [
         'ajax_url' => admin_url('admin-ajax.php'),
         'nonce'    => wp_create_nonce('bl_lead_nonce'),
     ]);
+    wp_enqueue_script('borderland-forms-js', $theme_uri . '/assets/js/bl-forms.js', [], '1.0', true);
+
+    // Inventory list pages only (exclude /stores/{slug}/inventory/{stock}/ which is the vehicle-detail template)
+    $path = parse_url($_SERVER['REQUEST_URI'] ?? '/', PHP_URL_PATH) ?: '/';
+    $is_inv_list = (bool) preg_match('#^/(inventory|stores/[^/]+/inventory)/?$#', $path);
+    if ($is_inv_list) {
+        wp_enqueue_style('borderland-inventory',  $theme_uri . '/assets/css/inventory-page.css', ['borderland-umbrella'], '1.0');
+        wp_enqueue_script('borderland-inv-js',    $theme_uri . '/assets/js/inventory-page.js', [], '1.0', true);
+    }
 }
 add_action('wp_enqueue_scripts', 'bl_enqueue_scripts');
 
@@ -83,6 +92,62 @@ if (!function_exists('portage_inventory_image_url')) {
 
 // ----- Security ---------------------------------------------------------
 add_filter('xmlrpc_enabled', '__return_false');
+
+// Hide WP fingerprint
+remove_action('wp_head', 'wp_generator');
+remove_action('wp_head', 'rsd_link');
+remove_action('wp_head', 'wlwmanifest_link');
+
+// Block username enumeration via REST API
+add_filter('rest_endpoints', function($endpoints) {
+    foreach (['/wp/v2/users', '/wp/v2/users/(?P<id>[\d]+)'] as $route) {
+        if (isset($endpoints[$route])) unset($endpoints[$route]);
+    }
+    return $endpoints;
+});
+
+// Block username enumeration via ?author=N and /author/{slug}/
+// Intercept BEFORE WP's canonical redirect converts ?author=1 → /author/{slug}/.
+add_action('init', function() {
+    if (is_admin()) return;
+    if (!empty($_GET['author']) || preg_match('#^/author/#', parse_url($_SERVER['REQUEST_URI'] ?? '/', PHP_URL_PATH) ?: '')) {
+        if (function_exists('current_user_can') && current_user_can('list_users')) return;
+        wp_safe_redirect(home_url('/'), 301);
+        exit;
+    }
+}, 1);
+// Also short-circuit the author-archive canonical redirect so WP never emits the Location: /author/{slug}/ header.
+add_filter('redirect_canonical', function($redirect_url, $requested_url) {
+    if (!empty($_GET['author']) || strpos((string) $requested_url, '/author/') !== false) {
+        return home_url('/');
+    }
+    return $redirect_url;
+}, 10, 2);
+
+// Strip X-Powered-By + add security response headers
+add_action('send_headers', function() {
+    header_remove('X-Powered-By');
+    header('Strict-Transport-Security: max-age=31536000; includeSubDomains; preload');
+    header('X-Content-Type-Options: nosniff');
+    header('X-Frame-Options: SAMEORIGIN');
+    header('Referrer-Policy: strict-origin-when-cross-origin');
+    header('Permissions-Policy: geolocation=(), camera=(), microphone=(), interest-cohort=()');
+    // Report-only first — tune then promote to Content-Security-Policy once clean.
+    header(
+        "Content-Security-Policy-Report-Only: "
+        . "default-src 'self' https:; "
+        . "script-src 'self' 'unsafe-inline' https://www.googletagmanager.com https://www.google-analytics.com https://sms.borderlandgroup.ca; "
+        . "style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; "
+        . "img-src 'self' data: https: blob:; "
+        . "font-src 'self' data: https://fonts.gstatic.com; "
+        . "connect-src 'self' https://inventory.borderlandgroup.ca https://www.google-analytics.com https://sms.borderlandgroup.ca; "
+        . "frame-src 'self' https://www.google.com https://sms.borderlandgroup.ca; "
+        . "frame-ancestors 'self'; "
+        . "object-src 'none'; "
+        . "base-uri 'self'; "
+        . "form-action 'self'"
+    );
+});
 
 // ----- SMTP -------------------------------------------------------------
 add_action('phpmailer_init', function($phpmailer) {

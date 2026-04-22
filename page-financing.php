@@ -16,7 +16,7 @@ $stores = bl_stores();
   <div class="inner two-col">
     <div class="form-col">
       <h2>Apply Now</h2>
-      <form id="blFinancingForm" class="bl-lead-form" data-context="financing">
+      <form id="blFinancingForm" class="bl-lead-form" data-context="financing" data-success="Thanks! We'll be in touch within one business day." data-error="Something went wrong. Please try again or call us.">
         <label>Preferred Location
           <select name="store" required>
             <option value="">— Choose a store —</option>
@@ -47,28 +47,5 @@ $stores = bl_stores();
     </aside>
   </div>
 </main>
-
-<script>
-(function(){
-  var form = document.getElementById('blFinancingForm');
-  if (!form) return;
-  form.addEventListener('submit', function(e){
-    e.preventDefault();
-    var status = form.querySelector('.form-status');
-    status.textContent = 'Submitting…';
-    var data = new FormData(form);
-    data.append('action', 'bl_submit_lead');
-    data.append('nonce', (window.BL && window.BL.nonce) || '');
-    data.append('source_url', window.location.href);
-    fetch((window.BL && window.BL.ajax_url) || '/wp-admin/admin-ajax.php', { method:'POST', body:data, credentials:'same-origin' })
-      .then(function(r){ return r.json(); })
-      .then(function(j){
-        if (j && j.success) { form.reset(); status.textContent = 'Thanks! We\'ll be in touch within one business day.'; }
-        else { status.textContent = 'Something went wrong. Please try again or call us.'; }
-      })
-      .catch(function(){ status.textContent = 'Connection issue. Please try again.'; });
-  });
-})();
-</script>
 
 <?php get_footer();

@@ -25,6 +25,7 @@ $bl_title  = $bl_store ? $bl_store['full_name'] : BORDERLAND_SITE_NAME;
 $bl_logo   = $bl_store
     ? get_template_directory_uri() . '/assets/images/logo-' . $bl_store['slug'] . '.png'
     : get_template_directory_uri() . '/assets/images/logo-umbrella-v2.png';
+$bl_tel    = $bl_store ? $bl_store['phone_tel'] : '+12048225550'; // fallback: Morden head office
 ?>
 
 <header id="siteHeader" role="banner" class="bl-header <?php echo $bl_store ? 'has-store' : 'umbrella'; ?>">
@@ -138,8 +139,8 @@ $bl_logo   = $bl_store
   <div class="mobilebtns">
     <ul class="menu singleCTA">
       <li class="nav emph"><button class="hamburger hamburger--vortex" type="button" aria-label="Menu"><span class="hamburger-box"><span class="hamburger-inner"></span></span></button></li>
-      <li class="cta sms-parts emph"><a href="#" onclick="if(window.openChat){openChat('parts');}return false;"><span><span>Parts</span></span></a></li>
-      <li class="cta sms-sales emph"><a href="#" onclick="if(window.openChat){openChat('sales');}return false;"><span><span>Sales</span></span></a></li>
+      <li class="cta sms-parts emph"><a href="#" data-chat-open="parts"><span><span>Parts</span></span></a></li>
+      <li class="cta sms-sales emph"><a href="#" data-chat-open="sales"><span><span>Sales</span></span></a></li>
       <li class="phone emph"><a href="tel:<?php echo esc_attr($bl_tel); ?>"><span><span>Call</span></span></a></li>
     </ul>
   </div>

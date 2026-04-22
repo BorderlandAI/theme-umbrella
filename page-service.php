@@ -21,7 +21,7 @@ $store = bl_current_store();
           <h3>Call Us</h3>
           <p><?php echo esc_html($store['phone'] ?? 'Call any location'); ?></p>
         </a>
-        <a class="contact-tile" href="#" onclick="if(window.openChat){openChat('parts');}return false;">
+        <a class="contact-tile" href="#" data-chat-open="service">
           <span class="icon">🔧</span>
           <h3>Book Service</h3>
           <p>Chat with our service team</p>
@@ -52,4 +52,36 @@ $store = bl_current_store();
   </section>
   <?php endif; ?>
 </main>
-<?php get_footer();
+
+<?php
+// Service JSON-LD — emits per-store or umbrella, referencing the AutomotiveBusiness @id from the site @graph.
+$service_types = [
+    'Scheduled Maintenance', 'Warranty Service', 'Winterization',
+    'Tire Installation', 'Oil & Filter Change', 'Brake Service',
+    'Engine Diagnostics', 'Pre-Delivery Inspection',
+];
+$services = [];
+foreach ($service_types as $type) {
+    $node = [
+        '@type'       => 'Service',
+        'name'        => $type,
+        'serviceType' => $type,
+        'category'    => 'Powersports Service',
+    ];
+    if ($store) {
+        $node['provider']   = ['@id' => BORDERLAND_SITE_URL . '/stores/' . $store['slug'] . '#business'];
+        $node['areaServed'] = !empty($store['area_served'])
+            ? array_map(fn($p) => ['@type' => 'Place', 'name' => $p], $store['area_served'])
+            : [['@type' => 'State', 'name' => 'Manitoba']];
+    } else {
+        $node['provider']   = ['@id' => BORDERLAND_SITE_URL . '/#organization'];
+        $node['areaServed'] = ['@type' => 'State', 'name' => 'Manitoba'];
+    }
+    $services[] = $node;
+}
+echo '<script type="application/ld+json">' . wp_json_encode([
+    '@context' => 'https://schema.org',
+    '@graph'   => $services,
+], JSON_UNESCAPED_SLASHES) . '</script>';
+
+get_footer();

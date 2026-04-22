@@ -1,0 +1,194 @@
+{
+  "cfmoto": [
+    {
+      "slug": "mario_rom-c3-a1n_serrano_pc",
+      "image_url": "https://www.cfmoto.com/content/dam/cfmoto/site/global/home/Mario_Rom%C3%A1n_Serrano_pc.jpg",
+      "link": "https://www.cfmoto.com/global/media-center/news/news/cfmoto-adv-new-limits-mario-roman.html",
+      "headline": null,
+      "subhead": null,
+      "cta_text": null,
+      "position": 0
+    }
+  ],
+  "lund": [
+    {
+      "slug": "ln-2026-1800-explorer-outfitter-netting-fish-0019_w",
+      "image_url": "https://brunswick.scene7.com/is/image/brunswick/ln-2026-1800-explorer-outfitter-netting-fish-0019_w?$H-1366-565-D$&fit=crop&fmt=jpg",
+      "link": "https://www.lundboats.com/promotions/deals.html",
+      "headline": "LUND BONUS DAYS",
+      "subhead": "Get Ready for Ultimate Moments",
+      "cta_text": "BUILD & Price",
+      "position": 0
+    }
+  ],
+  "kawasaki": [
+    {
+      "slug": "ce1141d8-54bd-41fb-8548-a7304d190ce6",
+      "image_url": "https://kawasaki-global-admin.com/ContentStorage/CKM/HomePagePromo/2236/ce1141d8-54bd-41fb-8548-a7304d190ce6.jpg?w=1920",
+      "link": "https://www.kawasaki.ca/en-ca/motorcycle/kx/youth-mx/kx112",
+      "headline": "NEW 2026 KX112 & KX85EF",
+      "subhead": null,
+      "cta_text": null,
+      "position": 0
+    },
+    {
+      "slug": "3416f39c-c1ea-4a20-814e-0728688b475f",
+      "image_url": "https://kawasaki-global-admin.com/ContentStorage/CKM/HomePagePromo/2237/3416f39c-c1ea-4a20-814e-0728688b475f.jpg?w=1920",
+      "link": "https://www.kawasaki.ca/en-ca/atv/atv-utility-recreation/utility-recreation/brute-force-450",
+      "headline": "NEW 2026 BRUTE FORCE 450 (EPS)",
+      "subhead": null,
+      "cta_text": null,
+      "position": 1
+    },
+    {
+      "slug": "4d21bd39-c896-4bf8-b628-38680d039094",
+      "image_url": "https://kawasaki-global-admin.com/ContentStorage/CKM/HomePagePromo/2234/4d21bd39-c896-4bf8-b628-38680d039094.jpg?w=1920",
+      "link": "https://www.kawasaki.ca/en-ca/side-x-side/ridge/ridge-2-door/ridge",
+      "headline": "NEW 2026 RIDGE HVAC & RIDGE PLATINUM RANCH ED. HVAC",
+      "subhead": null,
+      "cta_text": null,
+      "position": 2
+    },
+    {
+      "slug": "89cd09ec-ebff-4c8e-a298-73a6c0831527",
+      "image_url": "https://kawasaki-global-admin.com/ContentStorage/CKM/HomePagePromo/2233/89cd09ec-ebff-4c8e-a298-73a6c0831527.jpg?w=1920",
+      "link": "https://www.kawasaki.ca/en-ca/side-x-side/ridge/ridge-4-door/ridge-crew",
+      "headline": "NEW 2026 RIDGE CREW HVAC & RIDGE CREW PLATINUM RANCH ED. HVAC",
+      "subhead": null,
+      "cta_text": null,
+      "position": 3
+    },
+    {
+      "slug": "dac3dd61-d785-4aa6-8f3d-30488e7dcda5",
+      "image_url": "https://kawasaki-global-admin.com/ContentStorage/CKM/HomePagePromo/2232/dac3dd61-d785-4aa6-8f3d-30488e7dcda5.jpg?w=1920",
+      "link": "https://www.kawasaki.ca/en-ca/watercraft/jet-ski/jet-ski-3-passenger-supercharged/jet-ski-ultra-310",
+      "headline": "NEW 2026 JET SKI ULTRA 310LX-S",
+      "subhead": null,
+      "cta_text": null,
+      "position": 4
+    },
+    {
+      "slug": "c1d2df40-31bf-45e4-87ba-a80a0906b197",
+      "image_url": "https://kawasaki-global-admin.com/ContentStorage/CKM/HomePagePromo/2231/c1d2df40-31bf-45e4-87ba-a80a0906b197.jpg?w=1920",
+      "link": "https://www.kawasaki.ca/en-ca/watercraft/jet-ski/jet-ski-3-passenger/jet-ski-stx-160",
+      "headline": "NEW 2026 JET SKI STX 160 SERIES",
+      "subhead": null,
+      "cta_text": null,
+      "position": 5
+    },
+    {
+      "slug": "0a0f9cb1-6313-4fbc-9426-31601b86df61",
+      "image_url": "https://kawasaki-global-admin.com/ContentStorage/CKM/HomePagePromo/2230/0a0f9cb1-6313-4fbc-9426-31601b86df61.jpg?w=1920",
+      "link": "https://www.kawasaki.ca/en-ca/motorcycle/ninja/supersport/ninja-zx-10r",
+      "headline": "NEW 2026 NINJA ZX-10R & NINJA ZX-10RR",
+      "subhead": null,
+      "cta_text": null,
+      "position": 6
+    },
+    {
+      "slug": "55b4ff8d-2f7a-461d-ac8d-95d1071cbff8",
+      "image_url": "https://kawasaki-global-admin.com/ContentStorage/CKM/HomePagePromo/2228/55b4ff8d-2f7a-461d-ac8d-95d1071cbff8.jpg?w=1920",
+      "link": "https://www.kawasaki.ca/en-ca/motorcycle/z/retro-sport/z900rs",
+      "headline": "NEW 2026 Z900RS & Z900RS SE",
+      "subhead": null,
+      "cta_text": null,
+      "position": 7
+    },
+    {
+      "slug": "e0e924c9-663e-404c-a09c-cc21e132470d",
+      "image_url": "https://kawasaki-global-admin.com/ContentStorage/CKM/HomePagePromo/2229/e0e924c9-663e-404c-a09c-cc21e132470d.jpg?w=1920",
+      "link": "https://www.kawasaki.ca/en-ca/motorcycle/z/supernaked/z650",
+      "headline": "NEW 2026 Z650 S",
+      "subhead": null,
+      "cta_text": null,
+      "position": 8
+    },
+    {
+      "slug": "cf89d4f4-1592-4b0c-aca9-1f5414079994",
+      "image_url": "https://kawasaki-global-admin.com/ContentStorage/CKM/HomePagePromo/2227/cf89d4f4-1592-4b0c-aca9-1f5414079994.jpg?w=1920",
+      "link": "https://www.kawasaki.ca/en-ca/motorcycle/kle/rally-adventure/kle500",
+      "headline": "NEW 2026 KLE500",
+      "subhead": null,
+      "cta_text": null,
+      "position": 9
+    }
+  ],
+  "suzuki": [
+    {
+      "slug": "2026_gsx-8t_and_2026_gsx-8tt_web_banner_en-3",
+      "image_url": "https://www.suzuki.ca/wp-content/uploads/2026_GSX-8T_and_2026_GSX-8TT_Web_Banner_EN-3.jpg",
+      "link": "https://www.suzuki.ca/product/2026-gsx-8t/",
+      "headline": "RETRO SPIRIT. NEXT-GENERATION PERFORMANCE.",
+      "subhead": null,
+      "cta_text": "GSX-8T",
+      "position": 0
+    },
+    {
+      "slug": "suzuki_spring_savings_event_website_banner-1",
+      "image_url": "https://www.suzuki.ca/wp-content/uploads/Suzuki_Spring_Savings_Event_Website_Banner-1.jpg",
+      "link": "https://www.suzuki.ca/promotions/#Motorcycles",
+      "headline": "SUZUKI SPRING SAVINGS EVENT!",
+      "subhead": "Offer ends April 30, 2026. Terms and conditions apply.",
+      "cta_text": "LEARN MORE",
+      "position": 1
+    },
+    {
+      "slug": "suzuki-6yr-warranty-chrome-en-1",
+      "image_url": "https://www.suzuki.ca/wp-content/uploads/suzuki-6yr-warranty-chrome-EN-1.png",
+      "link": "https://www.suzuki.ca/promotions/#marine",
+      "headline": "POWER UP WITH SUZUKI!",
+      "subhead": "Offer ends April 30, 2026. Terms and Conditions Apply.",
+      "cta_text": "DISCOVER MORE",
+      "position": 2
+    },
+    {
+      "slug": "suzuki_kingquad_web_banner_en-1",
+      "image_url": "https://www.suzuki.ca/wp-content/uploads/Suzuki_KingQuad_Web_Banner_EN-1.jpg",
+      "link": "https://www.suzuki.ca/catalogue/atvs/",
+      "headline": "SUZUKI SPRING SAVINGS EVENT!",
+      "subhead": "Offer ends April 30, 2026. Terms and conditions apply.",
+      "cta_text": "SHOP NOW",
+      "position": 3
+    }
+  ],
+  "polaris": [
+    {
+      "slug": "polaris-xpedition-my24-8jl1-hero-lg",
+      "image_url": "https://cdn1.polaris.com/globalassets/crp/2023/off-road/xpedition/homepage/01-hero/polaris-xpedition-my24-8jl1-hero-lg.jpg?v=c02e9caa",
+      "link": "https://www.polaris.com/en-ca/off-road/",
+      "headline": null,
+      "subhead": "Be it for work or play, Polaris off-road vehicles take you where others can't\u2014opening up new possibilities and adventures outdoors.",
+      "cta_text": "EXPLORE OFF ROAD",
+      "position": 0
+    }
+  ],
+  "yamaha": [
+    {
+      "slug": "96717d75-39ff-4aa0-a7cf-3288f77c9292",
+      "image_url": "https://cdn-tp3.mozu.com/27878-44719/cms/files/96717d75-39ff-4aa0-a7cf-3288f77c9292?quality=60&_mzcb=_1750240705528",
+      "link": "https://www.yamaha-motor.ca/en/right-here-right-now-2026",
+      "headline": "RIGHT HERE RIGHT NOW",
+      "subhead": null,
+      "cta_text": "SHOP NOW",
+      "position": 0
+    },
+    {
+      "slug": "642a1335-4c7a-4ed6-bf5d-16efdabb8ec5",
+      "image_url": "https://cdn-tp3.mozu.com/27878-44719/cms/files/642a1335-4c7a-4ed6-bf5d-16efdabb8ec5?quality=60&_mzcb=_1750240705528",
+      "link": "https://www.yamaha-motor.ca/en/outboard-tech-helm-master-ex",
+      "headline": "GO WIRELESS",
+      "subhead": null,
+      "cta_text": "EXPLORE HELM MASTER EX",
+      "position": 1
+    },
+    {
+      "slug": "44bdd966-f22d-4a02-b159-dcc3107a2e55",
+      "image_url": "https://cdn-tp3.mozu.com/27878-44719/cms/files/44bdd966-f22d-4a02-b159-dcc3107a2e55?quality=70&max=458",
+      "link": "https://www.yamaha-motor.ca/en/shop-now",
+      "headline": null,
+      "subhead": null,
+      "cta_text": null,
+      "position": 2
+    }
+  ]
+}

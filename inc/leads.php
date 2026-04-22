@@ -94,15 +94,130 @@ function bl_submit_lead() {
         wp_send_json_error(['error' => 'crm_http_' . $code], 502);
     }
 
+    if ($interest_type === 'finance') {
+        bl_email_finance_lead($payload);
+    }
+
     wp_send_json_success(['ok' => true]);
 }
 
+function bl_email_finance_lead($p) {
+    $to       = 'Kaitlyn Labossiere <finance@borderlandgroup.ca>';
+    $store    = $p['store'] ?: 'Unassigned';
+    $subject  = 'New Financing Application — ' . ucfirst($store);
+    $m        = $p['metadata'] ?? [];
+    $name     = trim(($p['first_name'] ?? '') . ' ' . ($p['last_name'] ?? ''));
+
+    $row = function($label, $value) {
+        $v = $value !== '' && $value !== null ? esc_html($value) : '<em style="color:#999;">Not provided</em>';
+        return '<tr><td style="padding:10px 24px;width:40%;color:#666;font-size:14px;border-bottom:1px solid #eee;">' . esc_html($label) . '</td><td style="padding:10px 24px;font-size:14px;border-bottom:1px solid #eee;color:#222;">' . $v . '</td></tr>';
+    };
+
+    $html  = '<div style="font-family:Arial,sans-serif;max-width:650px;margin:0 auto;background:#fff;border:1px solid #ddd;border-radius:8px;overflow:hidden;">';
+    $html .= '<div style="background:#e31937;color:#fff;padding:20px 24px;"><h1 style="margin:0;font-size:22px;">Financing Application</h1><p style="margin:6px 0 0;font-size:13px;opacity:.85;">Borderland Powersports &mdash; ' . esc_html(ucfirst($store)) . ' &bull; ' . date('F j, Y \a\t g:i A') . '</p></div>';
+    $html .= '<table style="width:100%;border-collapse:collapse;">';
+    $html .= $row('Name', $name);
+    $html .= $row('Email', $p['email'] ?? '');
+    $html .= $row('Phone', $p['phone'] ?? '');
+    $html .= $row('Preferred Store', ucfirst($store));
+    $html .= $row('Interest', $p['interest'] ?? '');
+    $html .= $row('Message', $p['message'] ?? '');
+    $html .= $row('Source URL', $m['source_url'] ?? '');
+    $html .= '</table></div>';
+
+    wp_mail($to, $subject, $html);
+}
+
+/**
+ * Resolve the real client IP for rate-limiting purposes.
+ *
+ * Only trusts CF-Connecting-IP / X-Forwarded-For when the immediate upstream
+ * (REMOTE_ADDR) is a known Cloudflare edge IP. Otherwise falls back to
+ * REMOTE_ADDR so a malicious direct-to-origin caller can't spoof headers
+ * to evade the 5/15-min rate limit.
+ */
 function bl_client_ip() {
-    foreach (['HTTP_CF_CONNECTING_IP', 'HTTP_X_FORWARDED_FOR', 'REMOTE_ADDR'] as $key) {
-        if (!empty($_SERVER[$key])) {
-            $ip = trim(explode(',', $_SERVER[$key])[0]);
-            if (filter_var($ip, FILTER_VALIDATE_IP)) return $ip;
+    $remote = $_SERVER['REMOTE_ADDR'] ?? '';
+    if (!filter_var($remote, FILTER_VALIDATE_IP)) return '0.0.0.0';
+
+    if (bl_is_cloudflare_ip($remote)) {
+        foreach (['HTTP_CF_CONNECTING_IP', 'HTTP_X_FORWARDED_FOR'] as $key) {
+            if (!empty($_SERVER[$key])) {
+                $ip = trim(explode(',', $_SERVER[$key])[0]);
+                if (filter_var($ip, FILTER_VALIDATE_IP)) return $ip;
+            }
         }
     }
-    return '0.0.0.0';
+    return $remote;
+}
+
+/**
+ * True if $ip falls inside one of Cloudflare's published IPv4/IPv6 ranges.
+ * List is pulled from https://www.cloudflare.com/ips-v{4,6} and cached 24h.
+ */
+function bl_is_cloudflare_ip($ip) {
+    $cidrs = get_transient('bl_cf_ip_ranges');
+    if (!is_array($cidrs)) {
+        $cidrs = bl_refresh_cloudflare_ip_ranges();
+    }
+    foreach ($cidrs as $cidr) {
+        if (bl_ip_in_cidr($ip, $cidr)) return true;
+    }
+    return false;
+}
+
+function bl_refresh_cloudflare_ip_ranges() {
+    $all = [];
+    foreach (['https://www.cloudflare.com/ips-v4', 'https://www.cloudflare.com/ips-v6'] as $url) {
+        $resp = wp_remote_get($url, ['timeout' => 5]);
+        if (!is_wp_error($resp) && wp_remote_retrieve_response_code($resp) === 200) {
+            $body = wp_remote_retrieve_body($resp);
+            foreach (preg_split('/\s+/', trim($body)) as $line) {
+                if ($line) $all[] = $line;
+            }
+        }
+    }
+    if (!$all) {
+        // Fallback to a frozen snapshot so we don't fail open on a transient Cloudflare outage.
+        $all = [
+            // IPv4 (snapshot)
+            '173.245.48.0/20', '103.21.244.0/22', '103.22.200.0/22', '103.31.4.0/22',
+            '141.101.64.0/18', '108.162.192.0/18', '190.93.240.0/20', '188.114.96.0/20',
+            '197.234.240.0/22', '198.41.128.0/17', '162.158.0.0/15', '104.16.0.0/13',
+            '104.24.0.0/14', '172.64.0.0/13', '131.0.72.0/22',
+            // IPv6 (snapshot)
+            '2400:cb00::/32', '2606:4700::/32', '2803:f800::/32', '2405:b500::/32',
+            '2405:8100::/32', '2a06:98c0::/29', '2c0f:f248::/32',
+        ];
+    }
+    set_transient('bl_cf_ip_ranges', $all, DAY_IN_SECONDS);
+    return $all;
+}
+
+/**
+ * Returns true if $ip (v4 or v6) is contained in $cidr.
+ */
+function bl_ip_in_cidr($ip, $cidr) {
+    if (strpos($cidr, '/') === false) return false;
+    [$subnet, $mask] = explode('/', $cidr, 2);
+    $mask = (int) $mask;
+
+    $ip_bin     = @inet_pton($ip);
+    $subnet_bin = @inet_pton($subnet);
+    if ($ip_bin === false || $subnet_bin === false) return false;
+    if (strlen($ip_bin) !== strlen($subnet_bin)) return false; // v4 vs v6 mismatch
+
+    $bytes_full = intdiv($mask, 8);
+    $bits_rem   = $mask % 8;
+
+    if ($bytes_full > 0 && substr($ip_bin, 0, $bytes_full) !== substr($subnet_bin, 0, $bytes_full)) {
+        return false;
+    }
+    if ($bits_rem) {
+        $mask_byte = ~(0xff >> $bits_rem) & 0xff;
+        if ((ord($ip_bin[$bytes_full]) & $mask_byte) !== (ord($subnet_bin[$bytes_full]) & $mask_byte)) {
+            return false;
+        }
+    }
+    return true;
 }
