@@ -14,6 +14,13 @@ $dir_query = trim(($store['address'] ? $store['address'] . ', ' : '') . $store['
 $dir_url   = 'https://www.google.com/maps/dir/?api=1&destination=' . urlencode($dir_query);
 ?>
 
+<?php
+bl_emit_breadcrumb_jsonld([
+    ['Home', home_url('/')],
+    ['Stores', home_url('/stores/')],
+    [$store['full_name']],
+]);
+?>
 <main id="content" class="bl-page bl-store">
   <section class="bl-hero small">
     <div class="inner">
