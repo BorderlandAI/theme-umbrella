@@ -95,34 +95,117 @@ function bl_submit_lead() {
     }
 
     if ($interest_type === 'finance') {
-        bl_email_finance_lead($payload);
+        $fin = [];
+        $fin_keys = [
+            'vehicle_interest','vehicle_condition','payment_range',
+            'dob','address','city','province','postal_code','time_at_address','housing_status',
+            'employment_status','employer','job_title','time_at_job','monthly_income','other_income',
+            'has_tradein','tradein_vehicle','tradein_mileage','tradein_condition','tradein_owing','comments',
+        ];
+        foreach ($fin_keys as $k) {
+            $fin[$k] = sanitize_text_field($_POST[$k] ?? '');
+        }
+        bl_email_finance_lead($payload, $fin);
+
+        // Push to finance_applications DB for CRM visibility
+        $own_or_rent = strtolower($fin['housing_status'] ?? '') === 'own' ? 'own' : 'rent';
+        $store_slug  = sanitize_text_field($_POST['store'] ?? '');
+        wp_remote_post('https://sms.borderlandgroup.ca/finance/submit', [
+            'timeout'  => 5,
+            'blocking' => false,
+            'body'     => [
+                'first_name'           => $payload['first_name'],
+                'last_name'            => $payload['last_name'],
+                'email'                => $payload['email'],
+                'phone'                => $payload['phone'],
+                'city'                 => $fin['city'],
+                'province'             => $fin['province'],
+                'postal_code'          => $fin['postal_code'],
+                'own_or_rent'          => $own_or_rent,
+                'purchase_type'        => $fin['vehicle_interest'] ?: 'General',
+                'employment_status'    => $fin['employment_status'],
+                'best_time_to_contact' => 'As soon as possible',
+                'comments'             => implode("\n", array_filter([
+                    !empty($fin['vehicle_condition']) ? 'Condition: ' . $fin['vehicle_condition'] : '',
+                    !empty($fin['payment_range'])     ? 'Payment range: ' . $fin['payment_range'] : '',
+                    !empty($fin['monthly_income'])    ? 'Monthly income: ' . $fin['monthly_income'] : '',
+                    !empty($fin['has_tradein']) && strtolower($fin['has_tradein']) === 'yes'
+                        ? 'Trade-in: ' . ($fin['tradein_vehicle'] ?? '') : '',
+                    !empty($fin['comments'])          ? $fin['comments'] : '',
+                ])),
+                'consent_electronic'   => 'yes',
+                'consent_credit_check' => 'yes',
+                'store'                => $store_slug ?: 'umbrella',
+                'source'               => 'wp-umbrella',
+            ],
+        ]);
     }
 
     wp_send_json_success(['ok' => true]);
 }
 
-function bl_email_finance_lead($p) {
-    $to       = 'Kaitlyn Labossiere <finance@borderlandgroup.ca>';
-    $store    = $p['store'] ?: 'Unassigned';
-    $subject  = 'New Financing Application — ' . ucfirst($store);
-    $m        = $p['metadata'] ?? [];
-    $name     = trim(($p['first_name'] ?? '') . ' ' . ($p['last_name'] ?? ''));
+function bl_email_finance_lead($p, $fin = []) {
+    $to      = 'Kaitlyn Labossiere <finance@borderlandgroup.ca>';
+    $store   = $p['store'] ?: 'Unassigned';
+    $subject = 'New Financing Application — ' . ucwords($store);
+    $name    = trim(($p['first_name'] ?? '') . ' ' . ($p['last_name'] ?? ''));
 
+    $val = function($key) use ($p, $fin) {
+        $v = $fin[$key] ?? ($p[$key] ?? '');
+        return $v !== '' ? esc_html($v) : '<em style="color:#999;">Not provided</em>';
+    };
+
+    $section = function($title) {
+        return '<tr><td colspan="2" style="background:#f5f5f5;padding:12px 24px;font-size:14px;font-weight:700;text-transform:uppercase;letter-spacing:1px;color:#333;border-bottom:1px solid #ddd;">' . esc_html($title) . '</td></tr>';
+    };
     $row = function($label, $value) {
         $v = $value !== '' && $value !== null ? esc_html($value) : '<em style="color:#999;">Not provided</em>';
         return '<tr><td style="padding:10px 24px;width:40%;color:#666;font-size:14px;border-bottom:1px solid #eee;">' . esc_html($label) . '</td><td style="padding:10px 24px;font-size:14px;border-bottom:1px solid #eee;color:#222;">' . $v . '</td></tr>';
     };
 
     $html  = '<div style="font-family:Arial,sans-serif;max-width:650px;margin:0 auto;background:#fff;border:1px solid #ddd;border-radius:8px;overflow:hidden;">';
-    $html .= '<div style="background:#e31937;color:#fff;padding:20px 24px;"><h1 style="margin:0;font-size:22px;">Financing Application</h1><p style="margin:6px 0 0;font-size:13px;opacity:.85;">Borderland Powersports &mdash; ' . esc_html(ucfirst($store)) . ' &bull; ' . date('F j, Y \a\t g:i A') . '</p></div>';
+    $html .= '<div style="background:#e31937;color:#fff;padding:20px 24px;"><h1 style="margin:0;font-size:22px;">Financing Application</h1>';
+    $html .= '<p style="margin:6px 0 0;font-size:13px;opacity:.85;">Borderland Powersports &mdash; ' . esc_html(ucwords($store)) . ' &bull; ' . date('F j, Y \a\t g:i A') . '</p></div>';
     $html .= '<table style="width:100%;border-collapse:collapse;">';
+
+    $html .= $section('Vehicle Interest');
+    $html .= $row('Vehicle of Interest', $fin['vehicle_interest'] ?? '');
+    $html .= $row('Condition', $fin['vehicle_condition'] ?? '');
+    $html .= $row('Monthly Payment Range', $fin['payment_range'] ?? '');
+
+    $html .= $section('Personal Information');
     $html .= $row('Name', $name);
-    $html .= $row('Email', $p['email'] ?? '');
+    $html .= $row('Date of Birth', $fin['dob'] ?? '');
     $html .= $row('Phone', $p['phone'] ?? '');
-    $html .= $row('Preferred Store', ucfirst($store));
-    $html .= $row('Interest', $p['interest'] ?? '');
-    $html .= $row('Message', $p['message'] ?? '');
-    $html .= $row('Source URL', $m['source_url'] ?? '');
+    $html .= $row('Email', $p['email'] ?? '');
+    $html .= $row('Address', $fin['address'] ?? '');
+    $html .= $row('City', $fin['city'] ?? '');
+    $html .= $row('Province', $fin['province'] ?? '');
+    $html .= $row('Postal Code', $fin['postal_code'] ?? '');
+    $html .= $row('Time at Address', $fin['time_at_address'] ?? '');
+    $html .= $row('Housing Status', $fin['housing_status'] ?? '');
+
+    $html .= $section('Employment & Income');
+    $html .= $row('Employment Status', $fin['employment_status'] ?? '');
+    $html .= $row('Employer', $fin['employer'] ?? '');
+    $html .= $row('Job Title', $fin['job_title'] ?? '');
+    $html .= $row('Time at Job', $fin['time_at_job'] ?? '');
+    $html .= $row('Monthly Gross Income', $fin['monthly_income'] ?? '');
+    $html .= $row('Other Income', $fin['other_income'] ?? '');
+
+    $html .= $section('Trade-In');
+    $html .= $row('Has Trade-In?', $fin['has_tradein'] ?? '');
+    if (!empty($fin['has_tradein']) && strtolower($fin['has_tradein']) === 'yes') {
+        $html .= $row('Trade-In Vehicle', $fin['tradein_vehicle'] ?? '');
+        $html .= $row('Mileage / Hours', $fin['tradein_mileage'] ?? '');
+        $html .= $row('Condition', $fin['tradein_condition'] ?? '');
+        $html .= $row('Amount Owing', $fin['tradein_owing'] ?? '');
+    }
+
+    $html .= $section('Additional');
+    $html .= $row('Comments', $fin['comments'] ?? '');
+    $html .= $row('Source URL', ($p['metadata']['source_url'] ?? ''));
+
     $html .= '</table></div>';
 
     wp_mail($to, $subject, $html);
