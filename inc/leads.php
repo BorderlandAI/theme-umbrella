@@ -71,15 +71,15 @@ function bl_submit_lead() {
         ],
     ];
 
-    if (empty($first) || (empty($payload['phone']) && empty($payload['email']))) {
+    if (empty($first) && empty($payload['phone']) && empty($payload['email'])) {
         wp_send_json_error(['error' => 'missing_fields'], 400);
     }
 
     $resp = wp_remote_post(rtrim(BORDERLAND_LEAD_CRM_URL, '/') . '/inbound/lead', [
         'timeout' => 10,
         'headers' => [
-            'Content-Type' => 'application/json',
-            'X-API-Key'    => BORDERLAND_LEAD_CRM_KEY,
+            'Content-Type'    => 'application/json',
+            'X-Inbound-Secret' => BORDERLAND_LEAD_CRM_KEY,
         ],
         'body' => wp_json_encode($payload),
     ]);
