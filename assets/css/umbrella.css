@@ -134,8 +134,8 @@ body.bl-umbrella .bl-page h2 { text-transform:none !important; letter-spacing:no
   text-decoration:none !important; border:0; cursor:pointer; font-size:13px;
   letter-spacing:0.8px; text-transform:uppercase; transition:background .15s;
 }
-.btn.primary   { background:var(--cta); color:#fff !important; border:1px solid var(--cta); }
-.btn.primary:hover   { background:#000; border-color:#000; }
+.btn.primary   { background:linear-gradient(135deg,#001B5E 0%,#066b91 100%); color:#fff !important; border:0; }
+.btn.primary:hover   { filter:brightness(1.12); box-shadow:0 3px 8px rgba(0,0,0,0.25); }
 .btn.secondary { background:#e6e5e5; color:var(--ink) !important; border:1px solid #d1d0d0; }
 .btn.secondary:hover { background:#d4d3d3; border-color:#b8b7b7; }
 .btn.tertiary  { background:transparent; color:var(--accent) !important; border:1px solid var(--accent); }
