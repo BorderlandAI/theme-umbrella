@@ -44,6 +44,10 @@ function bl_enqueue_scripts() {
         wp_enqueue_style('borderland-inventory',  $theme_uri . '/assets/css/inventory-page.css', ['borderland-umbrella'], '1.0');
         wp_enqueue_script('borderland-inv-js',    $theme_uri . '/assets/js/inventory-page.js', [], '1.0', true);
     }
+
+    // GA4 conversion tracking (shared Borderland script)
+    wp_enqueue_script('bl-tracking', $theme_uri . '/assets/js/tracking.js', [], '1.0', true);
+    wp_add_inline_script('bl-tracking', 'window.BL_STORE = "umbrella";', 'before');
 }
 add_action('wp_enqueue_scripts', 'bl_enqueue_scripts');
 

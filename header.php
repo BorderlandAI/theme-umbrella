@@ -13,6 +13,15 @@
   <link rel="preload" href="<?php echo get_template_directory_uri(); ?>/assets/fonts/fontawesome/fa-solid-900.woff2" as="font" type="font/woff2" crossorigin="anonymous">
 
   <?php wp_head(); ?>
+
+  <?php $ga_id = defined('GA_MEASUREMENT_ID') ? GA_MEASUREMENT_ID : 'G-L9REDBB4J7'; ?>
+  <script async src="https://www.googletagmanager.com/gtag/js?id=<?php echo esc_attr($ga_id); ?>"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', '<?php echo esc_attr($ga_id); ?>');
+  </script>
   </head>
   <body <?php body_class('lang-en is-pgs-site is-powersport is-template-v1-5 has-mainnav has-footer-nav bl-umbrella'); ?>>
 
