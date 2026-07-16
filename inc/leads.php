@@ -75,23 +75,25 @@ function bl_submit_lead() {
         wp_send_json_error(['error' => 'missing_fields'], 400);
     }
 
-    $resp = wp_remote_post(rtrim(BORDERLAND_LEAD_CRM_URL, '/') . '/inbound/lead', [
-        'timeout' => 10,
-        'headers' => [
-            'Content-Type'    => 'application/json',
-            'X-Inbound-Secret' => BORDERLAND_LEAD_CRM_KEY,
-        ],
-        'body' => wp_json_encode($payload),
-    ]);
+    if ($interest_type !== 'finance') {
+        $resp = wp_remote_post(rtrim(BORDERLAND_LEAD_CRM_URL, '/') . '/inbound/lead', [
+            'timeout' => 10,
+            'headers' => [
+                'Content-Type'    => 'application/json',
+                'X-Inbound-Secret' => BORDERLAND_LEAD_CRM_KEY,
+            ],
+            'body' => wp_json_encode($payload),
+        ]);
 
-    if (is_wp_error($resp)) {
-        error_log('[bl_submit_lead] CRM error: ' . $resp->get_error_message());
-        wp_send_json_error(['error' => 'crm_unreachable'], 502);
-    }
-    $code = wp_remote_retrieve_response_code($resp);
-    if ($code < 200 || $code >= 300) {
-        error_log('[bl_submit_lead] CRM HTTP ' . $code . ' body=' . wp_remote_retrieve_body($resp));
-        wp_send_json_error(['error' => 'crm_http_' . $code], 502);
+        if (is_wp_error($resp)) {
+            error_log('[bl_submit_lead] CRM error: ' . $resp->get_error_message());
+            wp_send_json_error(['error' => 'crm_unreachable'], 502);
+        }
+        $code = wp_remote_retrieve_response_code($resp);
+        if ($code < 200 || $code >= 300) {
+            error_log('[bl_submit_lead] CRM HTTP ' . $code . ' body=' . wp_remote_retrieve_body($resp));
+            wp_send_json_error(['error' => 'crm_http_' . $code], 502);
+        }
     }
 
     if ($interest_type === 'finance') {
@@ -107,45 +109,34 @@ function bl_submit_lead() {
         }
         bl_email_finance_lead($payload, $fin);
 
-        // Push to finance_applications DB for CRM visibility
-        $own_or_rent = strtolower($fin['housing_status'] ?? '') === 'own' ? 'own' : 'rent';
-        $store_slug  = sanitize_text_field($_POST['store'] ?? '');
-        wp_remote_post('https://sms.borderlandgroup.ca/finance/submit', [
-            'timeout'  => 5,
-            'blocking' => false,
-            'body'     => [
-                'first_name'           => $payload['first_name'],
-                'last_name'            => $payload['last_name'],
-                'email'                => $payload['email'],
-                'phone'                => $payload['phone'],
-                'city'                 => $fin['city'],
-                'province'             => $fin['province'],
-                'postal_code'          => $fin['postal_code'],
-                'own_or_rent'          => $own_or_rent,
-                'purchase_type'        => $fin['vehicle_interest'] ?: 'General',
-                'employment_status'    => $fin['employment_status'],
-                'best_time_to_contact' => 'As soon as possible',
-                'comments'             => implode("\n", array_filter([
-                    !empty($fin['vehicle_condition']) ? 'Condition: ' . $fin['vehicle_condition'] : '',
-                    !empty($fin['payment_range'])     ? 'Payment range: ' . $fin['payment_range'] : '',
-                    !empty($fin['monthly_income'])    ? 'Monthly income: ' . $fin['monthly_income'] : '',
-                    !empty($fin['has_tradein']) && strtolower($fin['has_tradein']) === 'yes'
-                        ? 'Trade-in: ' . ($fin['tradein_vehicle'] ?? '') : '',
-                    !empty($fin['comments'])          ? $fin['comments'] : '',
-                ])),
-                'consent_electronic'   => 'yes',
-                'consent_credit_check' => 'yes',
-                'store'                => $store_slug ?: 'umbrella',
-                'source'               => 'wp-umbrella',
-            ],
+        $fin_crm_payload = array_merge($payload, [
+            'interest_type' => 'finance',
+            'interest'      => 'Finance application — ' . ($fin['vehicle_interest'] ?: 'General'),
+            'metadata'      => array_merge($payload['metadata'] ?? [], [
+                'vehicle_interest'  => $fin['vehicle_interest'] ?? '',
+                'employment_status' => $fin['employment_status'] ?? '',
+                'housing_status'    => $fin['housing_status'] ?? '',
+            ]),
         ]);
+        $crm_resp = wp_remote_post(rtrim(BORDERLAND_LEAD_CRM_URL, '/') . '/inbound/lead', [
+            'timeout' => 5,
+            'headers' => [
+                'Content-Type'     => 'application/json',
+                'X-Inbound-Secret' => BORDERLAND_LEAD_CRM_KEY,
+            ],
+            'body' => wp_json_encode($fin_crm_payload),
+        ]);
+        if (is_wp_error($crm_resp)) {
+            error_log('[bl_submit_lead finance] CRM error: ' . $crm_resp->get_error_message());
+        }
     }
 
     wp_send_json_success(['ok' => true]);
 }
 
 function bl_email_finance_lead($p, $fin = []) {
-    $to      = 'Kaitlyn Labossiere <finance@borderlandgroup.ca>';
+    // Both finance addresses — see FINANCE_EMAILS in sms-agent email_service.py.
+    $to      = array('Kaitlyn Labossiere <finance@borderlandgroup.ca>', 'finance@borderlandpowersports.com');
     $store   = $p['store'] ?: 'Unassigned';
     $subject = 'New Financing Application — ' . ucwords($store);
     $name    = trim(($p['first_name'] ?? '') . ' ' . ($p['last_name'] ?? ''));
@@ -208,7 +199,7 @@ function bl_email_finance_lead($p, $fin = []) {
 
     $html .= '</table></div>';
 
-    wp_mail($to, $subject, $html);
+    wp_mail($to, $subject, $html, ['Cc: john@borderlandpowersports.com']);
 }
 
 /**
